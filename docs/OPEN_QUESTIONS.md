@@ -13,3 +13,9 @@ Format: `ID — question — context — conservative reading adopted for now �
 - **OQ-005 — "≥1 relationship" for every entity.** Brief §4.4 applies this to every Entity. Some Phase 1 stubs (e.g. dynasty founders with only a lineage link) satisfy it via `descendant_of`. Applied as written; revisit if it forces weak edges into the data. Status: applied as written.
 - **OQ-006 — Tradition family for Vedic material.** Calling Vedic religion "Hindu" is anachronistic in much scholarship. Modelled as its own `vedic` family; Puranic/sectarian traditions are `hindu`. Status: conservative reading adopted.
 - **OQ-007 — `verified` places.** Brief principle 9 defines four classes. Adopted the stricter reading that `verified` needs archaeological or historical evidence, not textual or traditional alone. Status: conservative reading adopted.
+
+## Sources
+
+- **OQ-008 — No PD translation of several Puranas.** No public-domain English translation of the Shiva, Linga, Vayu, Brahmanda or Padma Puranas was found. Shaiva and some genealogical material will rest on other PD texts until a licensed translation is arranged. Status: open.
+- **OQ-009 — Ganguli/Roy attribution.** Early volumes of the 1883–96 Mahabharata were issued under P. C. Roy's name. Credit both. Status: adopted.
+- **OQ-010 — Unconfirmed bibliographic details.** SOURCES.md marks which editions are verified online and which are "to check". Each must be confirmed before first use in content. Status: open.

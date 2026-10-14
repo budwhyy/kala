@@ -119,7 +119,12 @@ export function validateDataset(ds: Dataset): Issue[] {
   for (const c of COLLECTION_NAMES) {
     for (const r of ds[c]) {
       const id = keyOf(c, r);
-      for (const ref of collectReferences(r)) need(c, id, "sources", ref.source, "reference");
+      for (const ref of collectReferences(r)) {
+        need(c, id, "sources", ref.source, "reference");
+        if (/<[^>]*>/.test(ref.locator)) {
+          issues.push({ collection: c, id, message: `placeholder locator '${ref.locator}'` });
+        }
+      }
       for (const t of collectCosmicTimes(r))
         need(c, id, "variants", t.variant, "cosmic_time.variant");
     }
