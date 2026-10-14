@@ -1,3 +1,4 @@
+import Link from "next/link";
 import type { TextSection } from "@kala/schema";
 import type { Kala } from "@/lib/graph/kala";
 import { hrefFor } from "@/lib/graph/kala";
@@ -183,6 +184,26 @@ export function VariantCard({ kala, slug }: { kala: Kala; slug: string }) {
         <Section title="Text">
           <RecordLink href={hrefFor("texts", v.text)}>{kala.nameOf("texts", v.text)}</RecordLink>
         </Section>
+      )}
+      {v.kind === "creation_pathway" && (
+        <aside className="mt-6 rounded-lg border border-gold/30 bg-gold/5 p-4 text-sm">
+          <h2 className="text-gold">One account among several</h2>
+          <p className="mt-1 text-muted">
+            This is how one text or tradition describes the beginning. Others describe it
+            differently; none is presented here as the single true account.
+          </p>
+          <div className="mt-3 flex flex-wrap gap-x-5 gap-y-2">
+            <Link href="/" className="text-celestial hover:underline">
+              ← Other accounts of the beginning
+            </Link>
+            <Link href="/cosmic" className="text-celestial hover:underline">
+              Continue: the cycles of time →
+            </Link>
+            <Link href="/genealogy" className="text-celestial hover:underline">
+              Continue: the families of gods and sages →
+            </Link>
+          </div>
+        </aside>
       )}
       {claims.length > 0 && (
         <Section title="Connections in this account">
