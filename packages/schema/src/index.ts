@@ -6,5 +6,6 @@ export * from "./sources";
 export * from "./beings";
 export * from "./geo";
 export * from "./cosmic";
+export * from "./journeys";
 export * from "./dataset";
 export * from "./links";

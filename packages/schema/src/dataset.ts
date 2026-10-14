@@ -2,6 +2,7 @@ import type { z } from "zod";
 import { Concept, Dynasty, Entity, Event, Relationship, SYMMETRIC_TYPES } from "./beings";
 import type { Reference } from "./common";
 import { CosmicCycleModel } from "./cosmic";
+import { Journey, PilgrimageNetwork } from "./journeys";
 import { Battlefield, Kingdom, Place, Route } from "./geo";
 import { Source, Text, Tradition, Variant } from "./sources";
 import type { CosmicTime } from "./time";
@@ -25,6 +26,8 @@ export const COLLECTIONS = {
   routes: { schema: Route, key: "slug" },
   battlefields: { schema: Battlefield, key: "slug" },
   cosmic: { schema: CosmicCycleModel, key: "slug" },
+  networks: { schema: PilgrimageNetwork, key: "slug" },
+  journeys: { schema: Journey, key: "slug" },
 } as const;
 
 export type CollectionName = keyof typeof COLLECTIONS;
@@ -337,12 +340,70 @@ export function validateDataset(ds: Dataset): Issue[] {
     );
   }
 
+  for (const n of ds.networks) {
+    needAll("networks", n.slug, "traditions", n.traditions, "traditions");
+    needAll("networks", n.slug, "variants", n.variants, "variants");
+    for (const v of n.variants) {
+      const variant = index.variants.get(v);
+      if (variant && variant.kind !== "list") {
+        issues.push({
+          collection: "networks",
+          id: n.slug,
+          message: `variant '${v}' must be a list (kind: list)`,
+        });
+      }
+    }
+  }
+  for (const p of ds.places) {
+    for (const m of p.pilgrimage_networks) {
+      need("places", p.slug, "networks", m.network, "pilgrimage_networks.network");
+      const network = index.networks.get(m.network);
+      if (network && m.variant && !network.variants.includes(m.variant)) {
+        issues.push({
+          collection: "places",
+          id: p.slug,
+          message: `pilgrimage_networks variant '${m.variant}' is not one of network '${m.network}' lists`,
+        });
+      }
+    }
+  }
+  for (const j of ds.journeys) {
+    const seen = new Set<string>();
+    for (const step of j.steps) {
+      if (seen.has(step.id))
+        issues.push({
+          collection: "journeys",
+          id: j.slug,
+          message: `duplicate step id '${step.id}'`,
+        });
+      seen.add(step.id);
+      need("journeys", j.slug, "cosmic", step.cosmic_model, `steps.${step.id}.cosmic_model`);
+      for (const l of step.links)
+        need("journeys", j.slug, l.collection, l.slug, `steps.${step.id}.links`);
+    }
+  }
+
   // Every entity takes part in at least one relationship.
   const connected = new Set(ds.relationships.flatMap((r) => [r.from, r.to]));
   for (const e of ds.entities) {
     if (!connected.has(e.slug)) {
       issues.push({ collection: "entities", id: e.slug, message: "entity has no relationships" });
     }
+  }
+
+  // Positions within one list must be unique (e.g. a Dashavatara has one 1st avatar).
+  const positions = new Map<string, string>();
+  for (const r of ds.relationships) {
+    if (r.position === undefined) continue;
+    const key = `${r.to}|${r.type}|${r.variant}|${r.position}`;
+    const prior = positions.get(key);
+    if (prior)
+      issues.push({
+        collection: "relationships",
+        id: r.id,
+        message: `position ${r.position} in variant '${r.variant}' is already used by '${prior}'`,
+      });
+    else positions.set(key, r.id);
   }
 
   issues.push(...relationshipConflicts(ds.relationships));

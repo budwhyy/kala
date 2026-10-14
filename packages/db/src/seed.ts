@@ -32,6 +32,8 @@ export async function seed(db: KalaDb, ds: Dataset): Promise<void> {
       t.routes,
       t.battlefields,
       t.cosmicModels,
+      t.networks,
+      t.journeys,
     ]) {
       await tx.delete(table);
     }
@@ -52,6 +54,8 @@ export async function seed(db: KalaDb, ds: Dataset): Promise<void> {
       ["routes", t.routes],
       ["battlefields", t.battlefields],
       ["cosmicModels", t.cosmicModels],
+      ["networks", t.networks],
+      ["journeys", t.journeys],
       ["names", t.names],
       ["links", t.links],
     ];

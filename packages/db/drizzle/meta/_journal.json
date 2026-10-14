@@ -15,6 +15,13 @@
       "when": 1791954843467,
       "tag": "0001_tables",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1791965425899,
+      "tag": "0002_networks_journeys",
+      "breakpoints": true
     }
   ]
 }

@@ -102,6 +102,11 @@ export const Relationship = z
     /** Generations between from and to, for descendant_of, when the source states it. */
     generations: z.int().min(1).optional(),
     /**
+     * Place of the `from` figure in an ordered list within one account (e.g. the 1st..10th avatar
+     * of a Dashavatara list). Needs a variant, because order only means something inside one list.
+     */
+    position: z.int().min(1).optional(),
+    /**
      * The account this claim belongs to. Omit only when the claim is not disputed in the sources we hold.
      * Conflicting claims must each carry a different variant.
      */
@@ -136,6 +141,20 @@ export const Relationship = z
         path: ["role"],
         message: "role/mode only apply to parent relationships",
       });
+    }
+    if (r.position !== undefined) {
+      if (!r.variant)
+        ctx.addIssue({
+          code: "custom",
+          path: ["position"],
+          message: "position needs a variant: order only means something within one list",
+        });
+      if (!["avatar_of", "manifestation_of", "aspect_of", "member_of"].includes(r.type))
+        ctx.addIssue({
+          code: "custom",
+          path: ["position"],
+          message: "position only applies to avatar_of, manifestation_of, aspect_of and member_of",
+        });
     }
     if (r.generations !== undefined && r.type !== "descendant_of") {
       ctx.addIssue({

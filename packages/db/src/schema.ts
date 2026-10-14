@@ -166,6 +166,12 @@ export const concepts = pgTable("concepts", { slug: slug(), data: data() });
 export const routes = pgTable("routes", { slug: slug(), data: data() });
 export const battlefields = pgTable("battlefields", { slug: slug(), data: data() });
 export const cosmicModels = pgTable("cosmic_models", { slug: slug(), data: data() });
+export const networks = pgTable("networks", {
+  slug: slug(),
+  kind: text("kind").notNull(),
+  data: data(),
+});
+export const journeys = pgTable("journeys", { slug: slug(), data: data() });
 
 /**
  * Every name of every record, for multilingual search (English, Hindi, Devanagari, IAST).

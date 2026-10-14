@@ -157,5 +157,24 @@ export function extractLinks(ds: Dataset): Link[] {
     add("battlefields", b.slug, "places", [b.place], "place");
     add("battlefields", b.slug, "texts", [b.text], "text");
   }
+  for (const p of ds.places) {
+    add(
+      "places",
+      p.slug,
+      "networks",
+      p.pilgrimage_networks.map((n) => n.network),
+      "pilgrimage_networks",
+    );
+  }
+  for (const n of ds.networks) {
+    add("networks", n.slug, "traditions", n.traditions, "traditions");
+    add("networks", n.slug, "variants", n.variants, "variants");
+  }
+  for (const j of ds.journeys) {
+    for (const step of j.steps) {
+      for (const l of step.links) add("journeys", j.slug, l.collection, [l.slug], "steps");
+      add("journeys", j.slug, "cosmic", [step.cosmic_model], "steps");
+    }
+  }
   return [...rows.values()];
 }

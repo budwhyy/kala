@@ -65,6 +65,8 @@ export function toRows(ds: Dataset) {
     routes: ds.routes.map((x) => ({ slug: x.slug, data: x })),
     battlefields: ds.battlefields.map((x) => ({ slug: x.slug, data: x })),
     cosmicModels: ds.cosmic.map((x) => ({ slug: x.slug, data: x })),
+    networks: ds.networks.map((x) => ({ slug: x.slug, kind: x.kind, data: x })),
+    journeys: ds.journeys.map((x) => ({ slug: x.slug, data: x })),
     names: nameRows(ds),
     links: extractLinks(ds),
   };
@@ -93,5 +95,7 @@ function nameRows(ds: Dataset): NameRow[] {
   for (const x of ds.places) add("places", x.slug, x.names);
   for (const x of ds.kingdoms) add("kingdoms", x.slug, x.names);
   for (const x of ds.concepts) add("concepts", x.slug, x.names);
+  for (const x of ds.networks) add("networks", x.slug, x.names);
+  for (const x of ds.journeys) add("journeys", x.slug, x.names);
   return rows;
 }
