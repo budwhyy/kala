@@ -88,7 +88,7 @@ export function Cite({ refs, kala }: { refs: Reference[]; kala: Kala }) {
   );
 }
 
-function shortSource(kala: Kala, slug: string): string {
+export function shortSource(kala: Kala, slug: string): string {
   const s = kala.get("sources", slug);
   if (!s) return slug;
   const text = s.text ? kala.nameOf("texts", s.text) : s.title;

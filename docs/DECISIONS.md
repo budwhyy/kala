@@ -102,3 +102,17 @@ Architectural decisions, newest last. Each entry: timestamp (UTC), decision, why
 
 - **Decision:** Names already show in Devanagari and search accepts Hindi. Translating the interface
   itself (next-intl, en/hi) is Phase 2 ("Hindi UI complete", brief §9).
+
+## 2026-10-14 — Relationship trace written in-house, not with graphology
+
+- **Decision:** `lib/graph/trace.ts` enumerates all shortest paths with a breadth-first search over
+  relationships in both directions, keeping parallel edges so that routes which differ by account
+  appear separately. Hidden accounts are excluded before the search.
+- **Why:** graphology's shortest-path helpers return a single path; the brief needs every shortest
+  route and per-variant filtering. ~60 lines, fully tested.
+
+## 2026-10-14 — Constellation layout in a Web Worker, scaled to a fixed radius
+
+- **Decision:** d3-force-3d runs in `workers/layout.worker.ts` (main-thread fallback). Output is
+  centred and scaled so 85% of figures fall within a fixed radius; the camera frames the selected
+  figure with drei CameraControls (instant under reduced motion).

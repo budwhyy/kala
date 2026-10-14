@@ -30,3 +30,7 @@ Format: `ID — question — context — conservative reading adopted for now �
 - **OQ-016 — Father of the Ashvins.** Vishnu Purana 3.2 says the Sun; Mahabharata 1.66 says Savitri. Only the Vishnu Purana claim is entered (under its variant) because Savitri has no record yet. Status: open.
 - **OQ-017 — Manu's cycle.** Manu does not state manvantaras per kalpa ("numberless"); the field is now optional and left empty for that model. The Vishnu Purana's "71 mahayugas with some additional years" is recorded as 71 with the remainder in `sandhi_note`. Status: resolved for now.
 - **OQ-018 — Where texts were read.** sacred-texts.com blocks automated access. Agents read the same editions on Project Gutenberg (Ganguli #15474, Griffith Ramayana #24869), archive.org scans, the Wayback Machine and wisdomlib.org (Wilson reprint). Locators follow each edition's own numbering. Status: noted.
+
+## Stage 6
+
+- **OQ-019 — Brief §8 graph-test pairs need Phase 3 content.** Krishna ↔ Arjuna and Shakuni ↔ Duryodhana are not in Phase 1 content. The trace gate runs on 12 Phase 1 pairs (incl. Kashyapa ↔ Garuda, Rama ↔ Manu); add the epic pairs when Phase 3 content lands. Status: open.
