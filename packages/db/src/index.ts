@@ -1,2 +1,4 @@
-// Database schema (Postgres + PostGIS), migrations and the content seed runner live here (Phase 1, step 2).
-export const DB_PACKAGE = "@kala/db";
+// Postgres + PostGIS schema, migrations and seed runner for KĀLA content.
+export * as tables from "./schema";
+export { toRows } from "./rows";
+export { seed, type KalaDb } from "./seed";

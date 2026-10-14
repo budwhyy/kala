@@ -32,3 +32,43 @@ Architectural decisions, newest last. Each entry: timestamp (UTC), decision, why
 
 - **Decision:** GitHub Actions runs lint → typecheck → Vitest, then build + Playwright (desktop + Pixel 7 profiles). Netlify builds from `netlify.toml` and handles deploy previews on PRs.
 - **Why:** Keeps quality gates independent of the hosting provider.
+
+## 2026-10-14 — Drizzle (not Prisma) for the database layer
+
+- **Decision:** Drizzle ORM + drizzle-kit migrations (plain SQL files in `packages/db/drizzle/`).
+- **Why:** PostGIS geometry columns, GiST/trigram indexes and CHECK constraints are first-class and
+  visible as SQL in review. Prisma treats PostGIS types as `Unsupported`. Owner approved defaults.
+
+## 2026-10-14 — YAML is the source of truth; Postgres is a derived copy
+
+- **Decision:** Content is authored in `content/**/*.yaml`, validated by Zod + `validateDataset`,
+  then seeded into Postgres by wiping and reloading in one transaction.
+- **Why:** Scholarship is reviewed in pull requests (brief §3.2). Rebuilding is simpler and safer than
+  incremental sync at this scale.
+
+## 2026-10-14 — Tables store the full record as jsonb plus lifted columns
+
+- **Decision:** Each table has `data jsonb` with the validated record, plus typed columns for keys,
+  joins, filters, geometry and CHECK constraints. Names and navigation links get their own tables.
+- **Why:** The Zod schema will grow during Phase 1; adding an optional field should not need a
+  migration. Rules that matter (§4.4) are still enforced in SQL.
+
+## 2026-10-14 — Text (work) vs Source (edition)
+
+- **Decision:** `Text` = a work with structure and composition date; `Source` = a specific edition,
+  translation or piece of scholarship. References point at Sources, with a required locator.
+- **Why:** The brief lists both. Citing editions, not works, makes every claim checkable and lets the
+  licence live on the edition actually used.
+
+## 2026-10-14 — Links stored once, reversed on read
+
+- **Decision:** `parent` (not child), `teacher` (not disciple); place→kingdom, event→place, etc.
+  Reverse directions are derived.
+- **Why:** Storing both directions guarantees they eventually disagree.
+
+## 2026-10-14 — Database tests run on PGlite with PostGIS
+
+- **Decision:** `packages/db` tests apply the real migrations to `@electric-sql/pglite` with the
+  PostGIS and pg_trgm extensions, in-process.
+- **Why:** No Docker or Postgres on the dev machine, and CI stays simple. The same SQL runs on
+  Supabase/Neon.

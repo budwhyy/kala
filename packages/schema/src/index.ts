@@ -1,3 +1,9 @@
-// Zod schemas + TS types for all KĀLA content live here (Phase 1, step 2).
-// This package is the single source of truth for the data model; see docs/DATA_MODEL.md.
-export const SCHEMA_VERSION = "0.0.0";
+// KĀLA data model: Zod schemas + TypeScript types for all content. See docs/DATA_MODEL.md.
+// Browser-safe. The YAML loader lives in "@kala/schema/load" (Node only).
+export * from "./common";
+export * from "./time";
+export * from "./sources";
+export * from "./beings";
+export * from "./geo";
+export * from "./cosmic";
+export * from "./dataset";
