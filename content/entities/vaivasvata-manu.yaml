@@ -1,0 +1,21 @@
+slug: vaivasvata-manu
+names:
+  - text: "Vaivasvata Manu"
+    lang: en
+    script: Latn
+  - text: वैवस्वत मनु
+    lang: sa
+    script: Deva
+    iast: Vaivasvata Manu
+kinds: [manu, king]
+traditions: [puranic, itihasa]
+summary_beginner: "The Manu of the present age, son of the Sun (Vivasvat). Both the solar and the lunar royal lines trace back to his children Ikshvaku and Ila."
+references:
+  - source: wilson-vishnu-purana
+    locator: "3.1"
+  - source: wilson-vishnu-purana
+    locator: "3.2"
+  - source: wilson-vishnu-purana
+    locator: "4.1"
+  - source: ganguli-mahabharata
+    locator: "1.75"

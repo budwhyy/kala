@@ -1,0 +1,68 @@
+slug: kurukshetra
+names:
+  - text: Kurukshetra
+    lang: en
+    script: Latn
+  - text: कुरुक्षेत्र
+    lang: sa
+    script: Deva
+    iast: Kurukṣetra
+realm: terrestrial
+kind: region
+confidence: traditional
+geometry:
+  type: Point
+  coordinates:
+    - 76.85
+    - 29.97
+modern_admin:
+  country: India
+  region: Haryana
+  district: Kurukshetra
+evidence:
+  - type: textual
+    summary:
+      The Mahabharata's pilgrimage chapters praise Kurukshetra, lying between the Sarasvati and
+      the Drishadvati, as a holy land.
+    references:
+      - source: ganguli-mahabharata
+        locator: "3.83"
+  - type: textual
+    summary: The Vishnu Purana says King Kuru gave his name to the holy district of Kurukshetra.
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.19"
+  - type: traditional
+    summary:
+      Cunningham records that the country around Thanesar, between the Sarasvati and Drishadvati,
+      is known locally as Kurukshetra, with its great holy tank.
+    references:
+      - source: cunningham-ancient-geography
+        locator: "331"
+kingdoms:
+  - to: kuru-kingdom-epic
+    note: The holy field named after Kuru.
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.19"
+entities:
+  - to: kuru
+    note: Kuru gives his name to the district.
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.19"
+  - to: pururavas
+    note: In the Vishnu Purana Pururavas meets Urvasi again at Kurukshetra.
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.6"
+traditions:
+  - itihasa
+  - hindu
+summary_beginner: A holy district around Thanesar in Haryana, traditionally the field of the great
+  battle of the Mahabharata. The battle itself is a literary account, not verified history.
+references:
+  - source: ganguli-mahabharata
+    locator: "3.83"
+  - source: cunningham-ancient-geography
+    locator: "331"

@@ -1,0 +1,19 @@
+slug: bhrigu
+names:
+  - text: "Bhrigu"
+    lang: en
+    script: Latn
+  - text: भृगु
+    lang: sa
+    script: Deva
+    iast: Bhṛgu
+kinds: [rishi, prajapati]
+traditions: [puranic, itihasa]
+summary_beginner: "A great sage born from Brahma. The Vishnu Purana calls him mind-born, while the Mahabharata says he burst out of Brahma's breast. The Vishnu Purana also makes him the father of the goddess Shri (Lakshmi)."
+references:
+  - source: wilson-vishnu-purana
+    locator: "1.7"
+  - source: wilson-vishnu-purana
+    locator: "1.8"
+  - source: ganguli-mahabharata
+    locator: "1.66"

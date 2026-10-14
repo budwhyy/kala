@@ -1,0 +1,19 @@
+slug: adityas
+names:
+  - text: Adityas
+    lang: en
+    script: Latn
+  - text: आदित्य
+    lang: sa
+    script: Deva
+    iast: Āditya
+kinds: [deva]
+traditions: [vedic, itihasa, puranic]
+summary_beginner: "The twelve sons of Aditi and Kashyapa, a group of gods. The Mahabharata and the Vishnu Purana agree on the number but give slightly different lists of names."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.65"
+  - source: ganguli-mahabharata
+    locator: "1.66"
+  - source: wilson-vishnu-purana
+    locator: "1.15"

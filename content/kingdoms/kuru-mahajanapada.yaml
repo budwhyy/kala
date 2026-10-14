@@ -1,0 +1,40 @@
+slug: kuru-mahajanapada
+names:
+  - text: Kuru (mahajanapada)
+    lang: en
+    script: Latn
+  - text: कुरु
+    lang: sa
+    script: Deva
+    iast: Kuru
+kind: historical_mahajanapada
+same_name_as:
+  - kuru-kingdom-epic
+capitals:
+  - to: indraprastha
+    note: Indapatta (Indraprastha) near Delhi, according to the Jatakas.
+    references:
+      - source: raychaudhuri-phai-1923
+        locator: "68"
+traditions:
+  - buddhist
+historical_time:
+  start: -600
+  end: -500
+  precision: century
+  confidence: low
+  note: Coarse bracket. Raychaudhuri places the sixteen mahajanapadas together before the time of
+    Mahakosala and Bimbisara, i.e. in or before the sixth century BCE.
+  references:
+    - source: raychaudhuri-phai-1923
+      locator: "45"
+    - source: raychaudhuri-phai-1923
+      locator: "46"
+    - source: raychaudhuri-phai-1923
+      locator: "68"
+summary_beginner: One of the sixteen great states (mahajanapadas) named in Buddhist texts, around the Delhi region.
+references:
+  - source: raychaudhuri-phai-1923
+    locator: "45"
+  - source: raychaudhuri-phai-1923
+    locator: "68"

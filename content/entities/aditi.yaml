@@ -1,0 +1,17 @@
+slug: aditi
+names:
+  - text: Aditi
+    lang: en
+    script: Latn
+  - text: अदिति
+    lang: sa
+    script: Deva
+    iast: Aditi
+kinds: [deity]
+traditions: [itihasa, puranic]
+summary_beginner: "A daughter of Daksha and wife of Kashyapa. In both the Mahabharata and the Vishnu Purana she is the mother of the twelve Adityas, a group of gods."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.65"
+  - source: wilson-vishnu-purana
+    locator: "1.15"

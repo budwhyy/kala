@@ -1,0 +1,19 @@
+slug: yadu
+names:
+  - text: "Yadu"
+    lang: en
+    script: Latn
+  - text: यदु
+    lang: sa
+    script: Deva
+    iast: Yadu
+kinds: [king, human]
+traditions: [puranic, itihasa]
+summary_beginner: "The eldest son of Yayati and Devayani and ancestor of the Yadavas. He refused to take on his father's old age."
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.10"
+  - source: ganguli-mahabharata
+    locator: "1.75"
+  - source: ganguli-mahabharata
+    locator: "1.95"

@@ -1,0 +1,11 @@
+slug: shaiva
+names:
+  - text: Shaiva
+    lang: en
+    script: Latn
+family: hindu
+parent: hindu
+summary_beginner: Traditions centred on Shiva.
+references:
+  - source: muller-upanishads
+    locator: Svetasvatara Upanishad 3

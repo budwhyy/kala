@@ -1,0 +1,28 @@
+slug: vaikuntha
+names:
+  - text: Vaikuntha
+    lang: en
+    script: Latn
+  - text: वैकुण्ठ
+    lang: sa
+    script: Deva
+    iast: Vaikuṇṭha
+realm: cosmological
+kind: realm
+confidence: mythical
+entities:
+  - to: vishnu
+    note: Wilson notes that the Kasi Khanda names Vaikuntha as the high world of Vishnu.
+    references:
+      - source: wilson-vishnu-purana
+        locator: "2.7"
+        note: Wilson's note
+traditions:
+  - vaishnava
+summary_beginner: The abode of Vishnu in Vaishnava cosmology. It is not a place on Earth.
+summary_scholar: "Wilson observes that sectarian Puranas add higher worlds above the seven lokas:
+  Vaikuntha and Kailasa in the Kasi Khanda, Goloka in the Brahma Vaivarta."
+references:
+  - source: wilson-vishnu-purana
+    locator: "2.7"
+    note: Wilson's note

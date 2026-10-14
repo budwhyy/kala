@@ -1,0 +1,17 @@
+slug: parvati
+names:
+  - text: "Parvati"
+    lang: en
+    script: Latn
+  - text: पार्वती
+    lang: sa
+    script: Deva
+    iast: Pārvatī
+kinds: [deity]
+traditions: [shaiva, puranic, itihasa]
+summary_beginner: "The goddess who is the daughter of the mountain Himavan and the wife of Shiva, also called Uma. In the Vishnu Purana she is Sati born again."
+references:
+  - source: wilson-vishnu-purana
+    locator: "1.8"
+  - source: ganguli-mahabharata
+    locator: "3.230"

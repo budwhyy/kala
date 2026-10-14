@@ -1,0 +1,14 @@
+slug: manusmriti
+names:
+  - text: Manusmriti
+    lang: en
+    script: Latn
+  - text: मनुस्मृति
+    lang: sa
+    script: Deva
+    iast: Manusmṛti
+genre: sutra
+original_language: sa
+traditions:
+  - hindu
+summary_beginner: A law text whose first chapter gives an account of creation.

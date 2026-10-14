@@ -1,0 +1,60 @@
+slug: indraprastha
+names:
+  - text: Indraprastha
+    lang: en
+    script: Latn
+  - text: इन्द्रप्रस्थ
+    lang: sa
+    script: Deva
+    iast: Indraprastha
+realm: terrestrial
+kind: city
+confidence: traditional
+geometry:
+  type: Point
+  coordinates:
+    - 77.24
+    - 28.61
+modern_admin:
+  country: India
+  region: Delhi
+  district: New Delhi
+evidence:
+  - type: textual
+    summary:
+      In the Mahabharata the Pandavas are sent to Khandavaprastha, where they build a city that
+      comes to be called Indraprastha.
+    references:
+      - source: ganguli-mahabharata
+        locator: "1.209"
+  - type: historical
+    summary:
+      Raychaudhuri, citing the Jatakas, gives the Kuru capital as Indapatta, i.e. Indraprastha or
+      Indrapat near modern Delhi; Cunningham records Indraprastha as an ancient name of Delhi.
+    references:
+      - source: raychaudhuri-phai-1923
+        locator: "68"
+      - source: cunningham-ancient-geography
+        locator: "51"
+kingdoms:
+  - to: kuru-kingdom-epic
+    note: The Pandavas' capital in the Mahabharata.
+    references:
+      - source: ganguli-mahabharata
+        locator: "1.209"
+  - to: kuru-mahajanapada
+    note: Capital of the Kuru state according to the Jatakas, as summarised by Raychaudhuri.
+    references:
+      - source: raychaudhuri-phai-1923
+        locator: "68"
+traditions:
+  - itihasa
+summary_beginner: The Pandavas' city in the Mahabharata, traditionally placed in Delhi. The marker
+  is at the Purana Qila area, where tradition locates Indrapat.
+summary_scholar: Our sources only place Indraprastha 'near modern Delhi'; the point marks the Purana
+  Qila (Indrapat) area by convention, not a confirmed site. See geography notes.
+references:
+  - source: ganguli-mahabharata
+    locator: "1.209"
+  - source: raychaudhuri-phai-1923
+    locator: "68"

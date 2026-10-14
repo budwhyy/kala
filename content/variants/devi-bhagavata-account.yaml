@@ -1,0 +1,12 @@
+slug: devi-bhagavata-account
+names:
+  - text: Devi Bhagavata account
+    lang: en
+    script: Latn
+kind: account
+tradition: shakta
+text: devi-bhagavata-purana
+description: The Goddess-centred account of the Devi Bhagavata Purana.
+references:
+  - source: vijnanananda-devi-bhagavata
+    locator: "1.1"

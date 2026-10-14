@@ -1,0 +1,55 @@
+slug: ganga
+names:
+  - text: Ganga
+    lang: en
+    script: Latn
+  - text: गङ्गा
+    lang: sa
+    script: Deva
+    iast: Gaṅgā
+  - text: Ganges
+    lang: en
+    script: Latn
+realm: terrestrial
+kind: river
+confidence: traditional
+geometry:
+  type: Point
+  coordinates:
+    - 81.89
+    - 25.42
+modern_admin:
+  country: India
+  region: Uttar Pradesh
+  district: Prayagraj
+evidence:
+  - type: textual
+    summary: The Vishnu Purana lists the Ganga among the rivers of Bharatavarsha; Valmiki's Ramayana
+      tells of its descent to earth.
+    references:
+      - source: wilson-vishnu-purana
+        locator: "2.3"
+      - source: griffith-ramayana
+        locator: "1.44"
+  - type: historical
+    summary: Cunningham describes Prayaga at the junction of the Ganges and Jumna.
+    references:
+      - source: cunningham-ancient-geography
+        locator: "388"
+related_places:
+  - to: prayagraj
+    relation: near
+    note: The point marks the confluence at Prayaga.
+    references:
+      - source: cunningham-ancient-geography
+        locator: "388"
+traditions:
+  - hindu
+summary_beginner: India's most sacred river, worshipped as a goddess. The marker is placed at its
+  confluence with the Yamuna at Prayagraj, a famous bathing place, rather than drawing the whole
+  river.
+references:
+  - source: wilson-vishnu-purana
+    locator: "2.3"
+  - source: cunningham-ancient-geography
+    locator: "388"

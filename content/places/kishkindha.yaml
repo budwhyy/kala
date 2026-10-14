@@ -1,0 +1,49 @@
+slug: kishkindha
+names:
+  - text: Kishkindha
+    lang: en
+    script: Latn
+  - text: किष्किन्धा
+    lang: sa
+    script: Deva
+    iast: Kiṣkindhā
+realm: terrestrial
+kind: city
+confidence: debated
+modern_admin:
+  country: India
+  region: Karnataka
+  district: Koppal
+alternative_identifications:
+  - label: Hampi-Anegundi area on the Tungabhadra
+    confidence: traditional
+    geometry:
+      type: Point
+      coordinates:
+        - 76.46
+        - 15.33
+    modern_admin:
+      country: India
+      region: Karnataka
+    argument: Local tradition around Hampi and Anegundi identifies the hills there with the vanara
+      kingdom. None of our cited sources makes this identification; the text itself gives only a
+      hilly city with caves.
+    references:
+      - source: griffith-ramayana
+        locator: "4.13"
+        note: textual description only; the modern identification is local tradition
+evidence:
+  - type: textual
+    summary: In Valmiki's Ramayana Kishkindha is the cave-city of the vanara kings Bali and Sugriva.
+    references:
+      - source: griffith-ramayana
+        locator: "4.13"
+traditions:
+  - itihasa
+summary_beginner: The city of the monkey-kings Bali and Sugriva in the Ramayana. Tradition places it
+  near Hampi in Karnataka, but this is not established.
+summary_scholar: Kept 'debated' because the only located candidate rests on local tradition, which
+  no source in our collection documents.
+references:
+  - source: griffith-ramayana
+    locator: "4.13"

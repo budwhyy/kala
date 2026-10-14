@@ -1,0 +1,58 @@
+slug: ahichchhatra
+names:
+  - text: Ahichchhatra
+    lang: en
+    script: Latn
+  - text: अहिच्छत्र
+    lang: sa
+    script: Deva
+    iast: Ahicchatra
+realm: terrestrial
+kind: city
+confidence: verified
+geometry:
+  type: Point
+  coordinates:
+    - 79.13
+    - 28.37
+modern_admin:
+  country: India
+  region: Uttar Pradesh
+  district: Bareilly
+evidence:
+  - type: historical
+    summary:
+      Hwen Thsang visited Ahichhatra; Cunningham found the deserted site still bearing the name
+      and calls it the capital of northern Panchala.
+    references:
+      - source: cunningham-ancient-geography
+        locator: "359"
+  - type: historical
+    summary:
+      Raychaudhuri, following the Mahabharata, gives Ahichchhatra (Ramnagar near Aonla, Bareilly)
+      as the capital of northern Panchala.
+    references:
+      - source: raychaudhuri-phai-1923
+        locator: "69"
+kingdoms:
+  - to: panchala-mahajanapada
+    note: Capital of northern Panchala.
+    references:
+      - source: raychaudhuri-phai-1923
+        locator: "69"
+  - to: panchala-kingdom-epic
+    note: The epic names it as the capital of northern Panchala.
+    references:
+      - source: raychaudhuri-phai-1923
+        locator: "69"
+traditions:
+  - itihasa
+summary_beginner: A ruined ancient city in Bareilly district, Uttar Pradesh, remembered as the
+  capital of northern Panchala.
+summary_scholar: Cunningham's early dates for the site are not used. The site is historical; it does
+  not verify epic episodes.
+references:
+  - source: cunningham-ancient-geography
+    locator: "359"
+  - source: raychaudhuri-phai-1923
+    locator: "69"

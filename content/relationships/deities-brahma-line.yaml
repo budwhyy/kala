@@ -1,0 +1,229 @@
+- id: brahma-father-of-marichi
+  from: brahma
+  to: marichi
+  type: parent
+  role: father
+  mode: mind_born
+  explanation: "Marichi is one of the sons Brahma produces from his mind, in both the Vishnu Purana's list of nine and the Mahabharata's list of six."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.7"
+    - source: ganguli-mahabharata
+      locator: "1.65"
+    - source: griffith-ramayana
+      locator: "1.70"
+      note: "Names Marichi as a son of Brahma, without saying how he was born."
+- id: brahma-father-of-atri
+  from: brahma
+  to: atri
+  type: parent
+  role: father
+  mode: mind_born
+  explanation: "Atri is one of the sons Brahma produces from his mind, in both the Vishnu Purana's list of nine and the Mahabharata's list of six."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.7"
+    - source: ganguli-mahabharata
+      locator: "1.65"
+- id: brahma-father-of-angiras
+  from: brahma
+  to: angiras
+  type: parent
+  role: father
+  mode: mind_born
+  explanation: "Angiras is one of the sons Brahma produces from his mind, in both the Vishnu Purana's list of nine and the Mahabharata's list of six."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.7"
+    - source: ganguli-mahabharata
+      locator: "1.65"
+- id: brahma-father-of-pulastya
+  from: brahma
+  to: pulastya
+  type: parent
+  role: father
+  mode: mind_born
+  explanation: "Pulastya is one of the sons Brahma produces from his mind, in both the Vishnu Purana's list of nine and the Mahabharata's list of six."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.7"
+    - source: ganguli-mahabharata
+      locator: "1.65"
+- id: brahma-father-of-pulaha
+  from: brahma
+  to: pulaha
+  type: parent
+  role: father
+  mode: mind_born
+  explanation: "Pulaha is one of the sons Brahma produces from his mind, in both the Vishnu Purana's list of nine and the Mahabharata's list of six."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.7"
+    - source: ganguli-mahabharata
+      locator: "1.65"
+- id: brahma-father-of-kratu
+  from: brahma
+  to: kratu
+  type: parent
+  role: father
+  mode: mind_born
+  explanation: "Kratu is one of the sons Brahma produces from his mind, in both the Vishnu Purana's list of nine and the Mahabharata's list of six."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.7"
+    - source: ganguli-mahabharata
+      locator: "1.65"
+- id: brahma-father-of-vasishtha
+  from: brahma
+  to: vasishtha
+  type: parent
+  role: father
+  mode: mind_born
+  explanation: "The Vishnu Purana counts Vasishtha among Brahma's nine mind-born sons."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.7"
+- id: brahma-father-of-bhrigu-vp
+  from: brahma
+  to: bhrigu
+  type: parent
+  role: father
+  mode: mind_born
+  variant: vishnu-purana-account
+  explanation: "The Vishnu Purana counts Bhrigu among Brahma's nine mind-born sons."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.7"
+- id: brahma-father-of-bhrigu-mbh
+  from: brahma
+  to: bhrigu
+  type: parent
+  role: father
+  mode: other
+  variant: mahabharata-adi-parva
+  explanation: "In the Mahabharata, Bhrigu comes out by splitting open Brahma's breast, rather than being born from his mind."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.66"
+- id: brahma-father-of-daksha-vp
+  from: brahma
+  to: daksha
+  type: parent
+  role: father
+  mode: mind_born
+  variant: vishnu-purana-account
+  explanation: "The Vishnu Purana's account of the first creation counts Daksha among Brahma's mind-born sons. A later chapter has him born again as the son of the Prachetasas, which is not entered here because the Prachetasas have no record yet."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.7"
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+      note: "Says Daksha had formerly been a son of Brahma before his birth to the Prachetasas and Marisha."
+- id: brahma-father-of-svayambhuva-manu
+  from: brahma
+  to: svayambhuva-manu
+  type: parent
+  role: father
+  mode: other
+  variant: vishnu-purana-account
+  explanation: "In the Vishnu Purana Brahma forms the first Manu out of his own original self, and makes the female part of himself into Shatarupa."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.7"
+- id: brahma-father-of-shiva-vp
+  from: brahma
+  to: shiva
+  type: parent
+  role: father
+  mode: other
+  variant: vishnu-purana-account
+  explanation: "In the Vishnu Purana, Rudra springs from Brahma's forehead when Brahma becomes angry; the next chapter says this is the Rudra who married Sati. Shaiva texts see Shiva as unborn and supreme, so this belongs to the Vishnu Purana's account only."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.7"
+    - source: wilson-vishnu-purana
+      locator: "1.8"
+- id: marichi-father-of-kashyapa
+  from: marichi
+  to: kashyapa
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Kashyapa is the son of Marichi, in the Mahabharata and in the pedigree of Rama's line in Valmiki's Ramayana."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.65"
+    - source: ganguli-mahabharata
+      locator: "1.75"
+    - source: griffith-ramayana
+      locator: "1.70"
+- id: daksha-father-of-aditi
+  from: daksha
+  to: aditi
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Aditi is one of the daughters of Daksha who are given in marriage to Kashyapa."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.65"
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+- id: daksha-father-of-diti
+  from: daksha
+  to: diti
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Diti is one of the daughters of Daksha who are given in marriage to Kashyapa."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.65"
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+- id: daksha-father-of-danu
+  from: daksha
+  to: danu
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Danu is one of the daughters of Daksha who are given in marriage to Kashyapa."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.65"
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+- id: daksha-father-of-vinata
+  from: daksha
+  to: vinata
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Vinata is one of the daughters of Daksha who are given in marriage to Kashyapa."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.65"
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+- id: daksha-father-of-kadru
+  from: daksha
+  to: kadru
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Kadru is one of the daughters of Daksha who are given in marriage to Kashyapa."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.65"
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+- id: daksha-father-of-sati
+  from: daksha
+  to: sati
+  type: parent
+  role: father
+  mode: biological
+  explanation: "In the Vishnu Purana Sati is one of the daughters Daksha has by Prasuti, and she is given to Bhava (Shiva)."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.7"

@@ -1,0 +1,15 @@
+slug: svayambhuva-manu
+names:
+  - text: "Svayambhuva Manu"
+    lang: en
+    script: Latn
+  - text: स्वायम्भुव मनु
+    lang: sa
+    script: Deva
+    iast: Svāyambhuva Manu
+kinds: [manu]
+traditions: [puranic]
+summary_beginner: "The first Manu, whose name means 'descended from the Self-born' (Brahma). In the Vishnu Purana Brahma forms him out of himself, and with his wife Shatarupa he begins the line of human ancestors."
+references:
+  - source: wilson-vishnu-purana
+    locator: "1.7"

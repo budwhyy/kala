@@ -1,0 +1,38 @@
+slug: suryavansha
+names:
+  - text: Solar dynasty (Suryavansha)
+    lang: en
+    script: Latn
+  - text: सूर्यवंश
+    lang: sa
+    script: Deva
+    iast: Sūryavaṃśa
+kind: legendary
+lineage_type: suryavansha
+founders:
+  - ikshvaku
+kingdoms:
+  - to: kosala-kingdom-epic
+    note: Rama's line rules Kosala from Ayodhya.
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.4"
+  - to: videha-kingdom-epic
+    note: The kings of Mithila descend from Nimi, son of Ikshvaku.
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.5"
+variant: vishnu-purana-account
+traditions:
+  - puranic
+  - itihasa
+summary_beginner: The legendary royal line descended from Ikshvaku, son of Vaivasvata Manu, to which Rama belongs.
+summary_scholar: The Vishnu Purana opens its account of the solar dynasty with the sons of
+  Vaivasvata Manu, among them Ikshvaku, born from the Manu's nostril.
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.1"
+  - source: wilson-vishnu-purana
+    locator: "4.2"
+  - source: wilson-vishnu-purana
+    locator: "4.4"

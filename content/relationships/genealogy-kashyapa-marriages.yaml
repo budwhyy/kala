@@ -1,0 +1,56 @@
+- id: kashyapa-partner-of-aditi
+  from: kashyapa
+  to: aditi
+  type: partner
+  explanation: "Aditi is one of the daughters of Daksha given in marriage to Kashyapa."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.65"
+    - source: ganguli-mahabharata
+      locator: "1.66"
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+- id: kashyapa-partner-of-diti
+  from: kashyapa
+  to: diti
+  type: partner
+  explanation: "Diti is one of the daughters of Daksha given in marriage to Kashyapa."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.65"
+    - source: ganguli-mahabharata
+      locator: "1.66"
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+- id: kashyapa-partner-of-danu
+  from: kashyapa
+  to: danu
+  type: partner
+  explanation: "Danu is one of the daughters of Daksha given in marriage to Kashyapa."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.65"
+    - source: ganguli-mahabharata
+      locator: "1.66"
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+- id: kashyapa-partner-of-vinata
+  from: kashyapa
+  to: vinata
+  type: partner
+  explanation: "Vinata is a wife of Kashyapa, who grants her a boon of two mighty sons."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.16"
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+- id: kashyapa-partner-of-kadru
+  from: kashyapa
+  to: kadru
+  type: partner
+  explanation: "Kadru is a wife of Kashyapa, who grants her a boon of a thousand serpent sons."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.16"
+    - source: wilson-vishnu-purana
+      locator: "1.15"

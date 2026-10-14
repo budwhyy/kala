@@ -1,0 +1,68 @@
+slug: prayagraj
+names:
+  - text: Prayagraj
+    lang: en
+    script: Latn
+  - text: प्रयाग
+    lang: sa
+    script: Deva
+    iast: Prayāga
+  - text: Allahabad
+    lang: en
+    script: Latn
+  - text: प्रयागराज
+    lang: hi
+    script: Deva
+realm: terrestrial
+kind: tirtha
+confidence: verified
+geometry:
+  type: Point
+  coordinates:
+    - 81.85
+    - 25.44
+modern_admin:
+  country: India
+  region: Uttar Pradesh
+  district: Prayagraj
+evidence:
+  - type: historical
+    summary: Hwen Thsang described Prayaga at the junction of the Ganges and Jumna; Cunningham
+      identified it with Allahabad.
+    references:
+      - source: cunningham-ancient-geography
+        locator: "388"
+  - type: historical
+    summary:
+      Cunningham notes the Asokan stone pillar at the site and that the name Prayaga is recorded
+      in the seventh century.
+    references:
+      - source: cunningham-ancient-geography
+        locator: "391"
+  - type: textual
+    summary: The Mahabharata's pilgrimage chapters praise Prayaga, where the Yamuna joins the Ganga.
+    references:
+      - source: ganguli-mahabharata
+        locator: "3.85"
+related_places:
+  - to: ganga
+    relation: near
+    note: Prayaga lies at the confluence of the Ganga and Yamuna.
+    references:
+      - source: cunningham-ancient-geography
+        locator: "388"
+  - to: yamuna
+    relation: near
+    note: Prayaga lies at the confluence of the Ganga and Yamuna.
+    references:
+      - source: cunningham-ancient-geography
+        locator: "388"
+traditions:
+  - hindu
+summary_beginner: The city at the meeting of the Ganga and Yamuna rivers, long one of the holiest
+  bathing places in Hinduism.
+references:
+  - source: cunningham-ancient-geography
+    locator: "388"
+  - source: ganguli-mahabharata
+    locator: "3.85"

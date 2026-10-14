@@ -1,0 +1,73 @@
+slug: kashi
+names:
+  - text: Kashi (Varanasi)
+    lang: en
+    script: Latn
+  - text: काशी
+    lang: sa
+    script: Deva
+    iast: Kāśī
+  - text: Varanasi
+    lang: en
+    script: Latn
+  - text: Benares
+    lang: en
+    script: Latn
+  - text: वाराणसी
+    lang: hi
+    script: Deva
+realm: terrestrial
+kind: city
+confidence: verified
+geometry:
+  type: Point
+  coordinates:
+    - 83.01
+    - 25.32
+modern_admin:
+  country: India
+  region: Uttar Pradesh
+  district: Varanasi
+evidence:
+  - type: historical
+    summary: Hwen Thsang described the kingdom and capital of Varanasi on the western bank of the
+      Ganges; Cunningham matched it to Banaras.
+    references:
+      - source: cunningham-ancient-geography
+        locator: "435"
+  - type: historical
+    summary: Raychaudhuri treats Kasi, with its capital Benares, as one of the sixteen great states
+      (mahajanapadas) of Buddhist tradition.
+    references:
+      - source: raychaudhuri-phai-1923
+        locator: "45"
+      - source: raychaudhuri-phai-1923
+        locator: "46"
+  - type: textual
+    summary: The Vishnu Purana gives a line of kings of Kasi descended from Ayus, son of Pururavas.
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.8"
+kingdoms:
+  - to: kashi-kingdom-epic
+    note: Seat of the kings of Kasi in the Puranas.
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.8"
+  - to: kashi-mahajanapada
+    note: Capital of the Kasi state.
+    references:
+      - source: raychaudhuri-phai-1923
+        locator: "46"
+traditions:
+  - shaiva
+  - hindu
+summary_beginner: The city of Varanasi on the Ganges, one of the oldest continuously important
+  cities in India and a great centre of Hindu pilgrimage.
+summary_scholar: The historical city is well attested; this does not make the Puranic royal lines of
+  Kasi historical.
+references:
+  - source: cunningham-ancient-geography
+    locator: "435"
+  - source: raychaudhuri-phai-1923
+    locator: "46"

@@ -1,0 +1,15 @@
+slug: upanishads
+names:
+  - text: Upanishads
+    lang: en
+    script: Latn
+  - text: उपनिषद्
+    lang: sa
+    script: Deva
+    iast: Upaniṣad
+genre: upanishad
+original_language: sa
+traditions:
+  - vedic
+  - vedanta
+summary_beginner: Philosophical texts exploring the self (atman) and ultimate reality (Brahman).

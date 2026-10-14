@@ -1,0 +1,17 @@
+slug: kuru
+names:
+  - text: "Kuru"
+    lang: en
+    script: Latn
+  - text: कुरु
+    lang: sa
+    script: Deva
+    iast: Kuru
+kinds: [king, human]
+traditions: [puranic, itihasa]
+summary_beginner: "A king of Puru's line who gave his name to the Kurus and to the holy field of Kurukshetra."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.94"
+  - source: wilson-vishnu-purana
+    locator: "4.19"

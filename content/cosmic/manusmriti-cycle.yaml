@@ -1,0 +1,99 @@
+slug: manusmriti-cycle
+names:
+  - text: Manusmriti cycle of ages
+    lang: en
+    script: Latn
+variant: cosmic-manusmriti
+summary_beginner: >-
+  In the first chapter of the Laws of Manu, a human year is a day and a night of the gods. The four
+  ages with their twilights total twelve thousand divine years, which Manu calls one age of the
+  gods. A thousand such ages make a day of Brahma, and his night is as long. Seventy-one ages of the
+  gods make the period of one Manu. Manu names seven Manus, from Svayambhuva to the son of Vivasvat,
+  but does not say how many Manu-periods fill a day of Brahma; he says instead that the Manu-periods,
+  creations and destructions are numberless, so no count per kalpa is recorded for this model.
+yugas:
+  - yuga: satya
+    divine_years: 4800
+    dawn_divine_years: 400
+    dusk_divine_years: 400
+    references:
+      - source: buhler-manu
+        locator: "Manu 1.69"
+        note: The Krita age is 4,000 years of the gods, with a twilight of as many hundreds before and after; the total sums those stated parts, consistent with the 12,000 of Manu 1.71.
+  - yuga: treta
+    divine_years: 3600
+    dawn_divine_years: 300
+    dusk_divine_years: 300
+    references:
+      - source: buhler-manu
+        locator: "Manu 1.70"
+        note: In each later age the thousands and the hundreds are each reduced by one (3,000 with twilights of 300).
+  - yuga: dvapara
+    divine_years: 2400
+    dawn_divine_years: 200
+    dusk_divine_years: 200
+    references:
+      - source: buhler-manu
+        locator: "Manu 1.70"
+        note: 2,000 with twilights of 200, by the rule of Manu 1.70.
+  - yuga: kali
+    divine_years: 1200
+    dawn_divine_years: 100
+    dusk_divine_years: 100
+    references:
+      - source: buhler-manu
+        locator: "Manu 1.70"
+        note: 1,000 with twilights of 100, by the rule of Manu 1.70.
+mahayugas_per_manvantara: 71
+mahayugas_per_kalpa: 1000
+manvantaras:
+  - ordinal: 1
+    names:
+      - { text: Svayambhuva, lang: en, script: Latn }
+      - { text: Svāyambhuva, lang: sa, script: Latn, iast: Svāyambhuva }
+    manu: svayambhuva-manu
+    references:
+      - { source: buhler-manu, locator: "Manu 1.63" }
+  - ordinal: 2
+    names:
+      - { text: Svarochisha, lang: en, script: Latn }
+      - { text: Svārociṣa, lang: sa, script: Latn, iast: Svārociṣa }
+    references:
+      - { source: buhler-manu, locator: "Manu 1.62" }
+  - ordinal: 3
+    names:
+      - { text: Auttami, lang: en, script: Latn }
+      - { text: Auttami, lang: sa, script: Latn, iast: Auttami }
+    references:
+      - { source: buhler-manu, locator: "Manu 1.62" }
+  - ordinal: 4
+    names:
+      - { text: Tamasa, lang: en, script: Latn }
+      - { text: Tāmasa, lang: sa, script: Latn, iast: Tāmasa }
+    references:
+      - { source: buhler-manu, locator: "Manu 1.62" }
+  - ordinal: 5
+    names:
+      - { text: Raivata, lang: en, script: Latn }
+      - { text: Raivata, lang: sa, script: Latn, iast: Raivata }
+    references:
+      - { source: buhler-manu, locator: "Manu 1.62" }
+  - ordinal: 6
+    names:
+      - { text: Chakshusha, lang: en, script: Latn }
+      - { text: Cākṣuṣa, lang: sa, script: Latn, iast: Cākṣuṣa }
+    references:
+      - { source: buhler-manu, locator: "Manu 1.62" }
+  - ordinal: 7
+    names:
+      - { text: Vaivasvata (son of Vivasvat), lang: en, script: Latn }
+      - { text: Vaivasvata, lang: sa, script: Latn, iast: Vaivasvata }
+    manu: vaivasvata-manu
+    references:
+      - { source: buhler-manu, locator: "Manu 1.62" }
+references:
+  - { source: buhler-manu, locator: "Manu 1.67" }
+  - { source: buhler-manu, locator: "Manu 1.71" }
+  - { source: buhler-manu, locator: "Manu 1.72" }
+  - { source: buhler-manu, locator: "Manu 1.79" }
+  - { source: buhler-manu, locator: "Manu 1.80" }

@@ -1,0 +1,35 @@
+slug: kailasa-cosmological
+names:
+  - text: Kailasa (divine abode)
+    lang: en
+    script: Latn
+  - text: कैलास
+    lang: sa
+    script: Deva
+    iast: Kailāsa
+realm: cosmological
+kind: realm
+confidence: mythical
+entities:
+  - to: shiva
+    note: Wilson notes that the Kasi Khanda names Kailasa as the high world of Shiva.
+    references:
+      - source: wilson-vishnu-purana
+        locator: "2.7"
+        note: Wilson's note
+related_places:
+  - to: kailash-mountain
+    relation: cosmological_counterpart
+    note: The terrestrial peak is a separate record.
+    references:
+      - source: wilson-vishnu-purana
+        locator: "2.7"
+        note: Wilson's note
+traditions:
+  - shaiva
+summary_beginner: Kailasa as the divine dwelling of Shiva in Shaiva belief. It is not a place on the
+  map; the earthly Mount Kailash is a separate record.
+references:
+  - source: wilson-vishnu-purana
+    locator: "2.7"
+    note: Wilson's note

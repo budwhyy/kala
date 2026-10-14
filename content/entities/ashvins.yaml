@@ -1,0 +1,17 @@
+slug: ashvins
+names:
+  - text: Ashvins
+    lang: en
+    script: Latn
+  - text: अश्विन्
+    lang: sa
+    script: Deva
+    iast: Aśvin
+kinds: [deva]
+traditions: [vedic, itihasa, puranic]
+summary_beginner: "Divine twins. The Vishnu Purana makes them sons of the Sun by his wife Sanjna in the form of a mare; the Mahabharata tells a similar story with Savitri as the father."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.66"
+  - source: wilson-vishnu-purana
+    locator: "3.2"

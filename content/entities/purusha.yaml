@@ -1,0 +1,19 @@
+slug: purusha
+names:
+  - text: "Purusha (Person, spirit)"
+    lang: en
+    script: Latn
+  - text: पुरुष
+    lang: sa
+    script: Deva
+    iast: Puruṣa
+kinds: [principle]
+traditions: [vedic, samkhya, puranic]
+summary_beginner: "'Person' or spirit. In the Rigveda's Purusha Sukta it is the cosmic Person whose sacrifice forms the world; in Samkhya philosophy it is pure consciousness, distinct from nature (prakriti). The two uses are different ideas that share a name."
+references:
+  - source: griffith-rigveda
+    locator: "10.90"
+  - source: colebrooke-sankhya-karika
+    locator: "3"
+  - source: wilson-vishnu-purana
+    locator: "1.2"

@@ -1,0 +1,12 @@
+slug: cosmic-vishnu-purana
+names:
+  - text: Vishnu Purana cycle of ages
+    lang: en
+    script: Latn
+kind: cosmic_model
+tradition: puranic
+text: vishnu-purana
+description: The measure of the ages, the reigns of the fourteen Manus and the kinds of dissolution as Parasara explains them in the Vishnu Purana.
+references:
+  - source: wilson-vishnu-purana
+    locator: "1.3"

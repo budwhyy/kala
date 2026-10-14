@@ -1,0 +1,11 @@
+slug: hindu
+names:
+  - text: Hindu traditions
+    lang: en
+    script: Latn
+family: hindu
+summary_beginner: The family of living traditions that look to the Vedas, epics and Puranas,
+  including Vaishnava, Shaiva, Shakta and Smarta streams.
+references:
+  - source: ganguli-mahabharata
+    locator: "1.1"

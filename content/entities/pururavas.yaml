@@ -1,0 +1,17 @@
+slug: pururavas
+names:
+  - text: "Pururavas"
+    lang: en
+    script: Latn
+  - text: पुरूरवस्
+    lang: sa
+    script: Deva
+    iast: Purūravas
+kinds: [king, human]
+traditions: [puranic, itihasa]
+summary_beginner: "An early king of the lunar line, son of Ila, famous for his love for the apsara Urvashi."
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.6"
+  - source: ganguli-mahabharata
+    locator: "1.75"

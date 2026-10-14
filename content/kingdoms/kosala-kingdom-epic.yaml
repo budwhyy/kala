@@ -1,0 +1,32 @@
+slug: kosala-kingdom-epic
+names:
+  - text: Kosala (Ramayana)
+    lang: en
+    script: Latn
+  - text: कोसल
+    lang: sa
+    script: Deva
+    iast: Kosala
+kind: epic_legendary
+same_name_as:
+  - kosala-mahajanapada
+capitals:
+  - to: ayodhya
+    note: Ayodhya on the Sarayu.
+    references:
+      - source: griffith-ramayana
+        locator: "1.5"
+dynasties:
+  - to: suryavansha
+    note: Ruled by the line of Ikshvaku.
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.4"
+traditions:
+  - itihasa
+summary_beginner: Rama's kingdom in the Ramayana, ruled from Ayodhya by the descendants of Ikshvaku.
+references:
+  - source: griffith-ramayana
+    locator: "1.5"
+  - source: wilson-vishnu-purana
+    locator: "4.4"

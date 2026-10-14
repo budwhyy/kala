@@ -1,0 +1,17 @@
+slug: hiranyaksha
+names:
+  - text: Hiranyaksha
+    lang: en
+    script: Latn
+  - text: हिरण्याक्ष
+    lang: sa
+    script: Deva
+    iast: Hiraṇyākṣa
+kinds: [daitya, asura]
+traditions: [puranic]
+summary_beginner: "A Daitya whom the Vishnu Purana names as the second son of Diti and Kashyapa and the brother of Hiranyakashipu."
+references:
+  - source: wilson-vishnu-purana
+    locator: "1.15"
+  - source: wilson-vishnu-purana
+    locator: "1.21"

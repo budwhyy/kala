@@ -1,0 +1,19 @@
+slug: devi
+names:
+  - text: "Devi (the Goddess)"
+    lang: en
+    script: Latn
+  - text: देवी
+    lang: sa
+    script: Deva
+    iast: Devī
+kinds: [deity]
+traditions: [shakta, puranic]
+summary_beginner: "The Great Goddess, whom Shaktas worship as the supreme reality. In the Devi Bhagavata she says she is one with the Supreme Self and is the power from which creation comes; the Devi Mahatmya praises her as the one who creates, protects and finally dissolves the world."
+references:
+  - source: vijnanananda-devi-bhagavata
+    locator: "3.6"
+  - source: pargiter-markandeya-purana
+    locator: "81.43"
+  - source: pargiter-markandeya-purana
+    locator: "81.66"

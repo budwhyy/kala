@@ -1,0 +1,28 @@
+slug: avanti-kingdom-epic
+names:
+  - text: Avanti (Mahabharata)
+    lang: en
+    script: Latn
+  - text: अवन्ति
+    lang: sa
+    script: Deva
+    iast: Avanti
+kind: epic_legendary
+same_name_as:
+  - avanti-mahajanapada
+rulers:
+  - name:
+      text: Vinda and Anuvinda
+      lang: en
+      script: Latn
+    attested: false
+    note: The two kings of Avanti defeated by Sahadeva.
+    references:
+      - source: ganguli-mahabharata
+        locator: "2.30"
+traditions:
+  - itihasa
+summary_beginner: The kingdom of Avanti as it appears in the Mahabharata.
+references:
+  - source: ganguli-mahabharata
+    locator: "2.30"

@@ -1,0 +1,17 @@
+slug: danavas
+names:
+  - text: Danavas
+    lang: en
+    script: Latn
+  - text: दानव
+    lang: sa
+    script: Deva
+    iast: Dānava
+kinds: [danava, asura]
+traditions: [itihasa, puranic]
+summary_beginner: "The descendants of Danu, another race of asuras who often fight the gods."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.65"
+  - source: wilson-vishnu-purana
+    locator: "1.21"

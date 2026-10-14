@@ -1,0 +1,12 @@
+slug: deities-creation-purusha-sukta
+names:
+  - text: "Purusha Sukta (Rigveda 10.90)"
+    lang: en
+    script: Latn
+kind: creation_pathway
+tradition: vedic
+text: rigveda
+description: "The Rigveda hymn in which the gods sacrifice the cosmic Person (Purusha), and the parts of his body become the world: the moon from his mind, the sun from his eye, the sky from his head and the earth from his feet."
+references:
+  - source: griffith-rigveda
+    locator: "10.90"

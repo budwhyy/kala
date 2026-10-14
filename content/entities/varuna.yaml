@@ -1,0 +1,17 @@
+slug: varuna
+names:
+  - text: Varuna
+    lang: en
+    script: Latn
+  - text: वरुण
+    lang: sa
+    script: Deva
+    iast: Varuṇa
+kinds: [deity, deva]
+traditions: [vedic, itihasa, puranic]
+summary_beginner: "A god associated with the waters, listed among the twelve Adityas born to Kashyapa and Aditi."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.65"
+  - source: wilson-vishnu-purana
+    locator: "1.15"

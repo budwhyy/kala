@@ -1,0 +1,67 @@
+slug: gandhara
+names:
+  - text: Gandhara
+    lang: en
+    script: Latn
+  - text: गान्धार
+    lang: sa
+    script: Deva
+    iast: Gāndhāra
+realm: terrestrial
+kind: region
+confidence: verified
+geometry:
+  type: Point
+  coordinates:
+    - 71.73
+    - 34.15
+modern_admin:
+  country: Pakistan
+  region: Khyber Pakhtunkhwa
+evidence:
+  - type: historical
+    summary: Cunningham reconstructs the boundaries of Gandhara from Chinese pilgrims and names
+      Pushkalavati (near Charsadda) as its ancient capital.
+    references:
+      - source: cunningham-ancient-geography
+        locator: "47"
+      - source: cunningham-ancient-geography
+        locator: "49"
+  - type: historical
+    summary:
+      Raychaudhuri lists Gandhara among the sixteen mahajanapadas, with its capital at Takshasila
+      (Taxila).
+    references:
+      - source: raychaudhuri-phai-1923
+        locator: "45"
+      - source: raychaudhuri-phai-1923
+        locator: "76"
+  - type: textual
+    summary: In the Mahabharata Gandhari is the daughter of Subala (Suvala), king of Gandhara.
+    references:
+      - source: ganguli-mahabharata
+        locator: "1.110"
+kingdoms:
+  - to: gandhara-kingdom-epic
+    note: Region of Subala's kingdom.
+    references:
+      - source: ganguli-mahabharata
+        locator: "1.110"
+  - to: gandhara-mahajanapada
+    note: Region of the historical state.
+    references:
+      - source: raychaudhuri-phai-1923
+        locator: "76"
+traditions:
+  - itihasa
+  - buddhist
+summary_beginner: An ancient region around the Peshawar valley in today's Pakistan. The marker sits
+  at Pushkalavati (Charsadda), its old capital; the region's extent is not drawn.
+summary_scholar: "Sources disagree on the capital: Cunningham gives Pushkalavati, Raychaudhuri (from
+  the Jatakas) Takshasila. The region is historically attested, which does not verify the epic
+  Gandhara."
+references:
+  - source: cunningham-ancient-geography
+    locator: "47"
+  - source: raychaudhuri-phai-1923
+    locator: "76"

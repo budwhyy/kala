@@ -1,0 +1,43 @@
+slug: vrindavan
+names:
+  - text: Vrindavan
+    lang: en
+    script: Latn
+  - text: वृन्दावन
+    lang: sa
+    script: Deva
+    iast: Vṛndāvana
+realm: terrestrial
+kind: forest
+confidence: traditional
+geometry:
+  type: Point
+  coordinates:
+    - 77.7
+    - 27.58
+modern_admin:
+  country: India
+  region: Uttar Pradesh
+  district: Mathura
+evidence:
+  - type: textual
+    summary:
+      In the Vishnu Purana the cowherds move with the young Krishna from Gokula to the forest of
+      Vrindavana.
+    references:
+      - source: wilson-vishnu-purana
+        locator: "5.6"
+  - type: traditional
+    summary: Vaishnava tradition locates Vrindavana at the town of Vrindavan near Mathura, a major
+      pilgrimage centre.
+    references:
+      - source: wilson-vishnu-purana
+        locator: "5.6"
+        note: textual setting only; the modern identification is living tradition
+traditions:
+  - vaishnava
+summary_beginner: A pilgrimage town near Mathura that Vaishnavas identify with the forest where
+  Krishna spent his childhood among the cowherds.
+references:
+  - source: wilson-vishnu-purana
+    locator: "5.6"

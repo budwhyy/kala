@@ -1,0 +1,12 @@
+slug: bhagavata-purana-account
+names:
+  - text: Bhagavata Purana account
+    lang: en
+    script: Latn
+kind: genealogy
+tradition: vaishnava
+text: bhagavata-purana
+description: Creation and genealogies as given in the Bhagavata Purana.
+references:
+  - source: dutt-bhagavata-purana
+    locator: "1.1"

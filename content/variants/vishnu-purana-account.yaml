@@ -1,0 +1,12 @@
+slug: vishnu-purana-account
+names:
+  - text: Vishnu Purana account
+    lang: en
+    script: Latn
+kind: genealogy
+tradition: puranic
+text: vishnu-purana
+description: Creation, cycles and genealogies as given in the Vishnu Purana.
+references:
+  - source: wilson-vishnu-purana
+    locator: "1.1"

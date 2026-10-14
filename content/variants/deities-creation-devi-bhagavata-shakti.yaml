@@ -1,0 +1,12 @@
+slug: deities-creation-devi-bhagavata-shakti
+names:
+  - text: "The Goddess as source (Devi Bhagavata)"
+    lang: en
+    script: Latn
+kind: creation_pathway
+tradition: shakta
+text: devi-bhagavata-purana
+description: "In the Devi Bhagavata, the Goddess tells Brahma that she and the Supreme Self are one, that Brahman becomes two at creation through her power of illusion (maya), and that Brahma, Vishnu and Shiva arise from her qualities."
+references:
+  - source: vijnanananda-devi-bhagavata
+    locator: "3.6"

@@ -1,0 +1,19 @@
+slug: pulastya
+names:
+  - text: "Pulastya"
+    lang: en
+    script: Latn
+  - text: पुलस्त्य
+    lang: sa
+    script: Deva
+    iast: Pulastya
+kinds: [rishi, prajapati]
+traditions: [puranic, itihasa]
+summary_beginner: "A sage born from Brahma's mind. In the Vishnu Purana he also appears to Parasara and grants him the knowledge that becomes the Purana."
+references:
+  - source: wilson-vishnu-purana
+    locator: "1.1"
+  - source: wilson-vishnu-purana
+    locator: "1.7"
+  - source: ganguli-mahabharata
+    locator: "1.65"

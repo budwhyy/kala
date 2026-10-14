@@ -1,0 +1,19 @@
+slug: vishnu
+names:
+  - text: "Vishnu"
+    lang: en
+    script: Latn
+  - text: विष्णु
+    lang: sa
+    script: Deva
+    iast: Viṣṇu
+kinds: [deity]
+traditions: [vaishnava, puranic, itihasa]
+summary_beginner: "One of the great gods of Hinduism, worshipped by Vaishnavas as the supreme being. The Vishnu Purana presents him as the source, support and end of the universe."
+references:
+  - source: wilson-vishnu-purana
+    locator: "1.1"
+  - source: wilson-vishnu-purana
+    locator: "1.2"
+  - source: griffith-ramayana
+    locator: "1.15"

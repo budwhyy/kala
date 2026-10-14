@@ -1,0 +1,14 @@
+slug: rigveda
+names:
+  - text: Rigveda
+    lang: en
+    script: Latn
+  - text: ऋग्वेद
+    lang: sa
+    script: Deva
+    iast: Ṛgveda
+genre: veda
+original_language: sa
+traditions:
+  - vedic
+summary_beginner: "The oldest of the four Vedas: a collection of hymns to the gods."

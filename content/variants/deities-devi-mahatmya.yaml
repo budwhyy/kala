@@ -1,0 +1,14 @@
+slug: deities-devi-mahatmya
+names:
+  - text: "Devi Mahatmya (Markandeya Purana)"
+    lang: en
+    script: Latn
+kind: account
+tradition: shakta
+text: markandeya-purana
+description: "The Devi Mahatmya section of the Markandeya Purana, which praises the Goddess as the power that creates, sustains and dissolves the world and that even makes Vishnu, Brahma and Shiva take bodies."
+references:
+  - source: pargiter-markandeya-purana
+    locator: "81.43"
+  - source: pargiter-markandeya-purana
+    locator: "81.66"

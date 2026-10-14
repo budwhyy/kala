@@ -1,0 +1,14 @@
+slug: deities-creation-svetasvatara-rudra
+names:
+  - text: "Rudra as the one lord (Svetasvatara Upanishad)"
+    lang: en
+    script: Latn
+kind: creation_pathway
+tradition: shaiva
+text: upanishads
+description: "In the Svetasvatara Upanishad, Rudra is the one god who rules all the worlds, creates and supports the gods, and in the beginning brought forth Hiranyagarbha. Shaiva traditions draw on this text."
+references:
+  - source: muller-upanishads
+    locator: "Svetasvatara Upanishad 3.2"
+  - source: muller-upanishads
+    locator: "Svetasvatara Upanishad 3.4"

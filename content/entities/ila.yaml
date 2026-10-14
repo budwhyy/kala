@@ -1,0 +1,19 @@
+slug: ila
+names:
+  - text: "Ila"
+    lang: en
+    script: Latn
+  - text: इला
+    lang: sa
+    script: Deva
+    iast: Ilā
+kinds: [human]
+traditions: [puranic, itihasa]
+summary_beginner: "A child of Vaivasvata Manu who changes between female and male (as Sudyumna). Ila is the mother of Pururavas; the Mahabharata says Ila was both his mother and his father."
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.1"
+  - source: wilson-vishnu-purana
+    locator: "4.6"
+  - source: ganguli-mahabharata
+    locator: "1.75"

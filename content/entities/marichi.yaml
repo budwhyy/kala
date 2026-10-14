@@ -1,0 +1,19 @@
+slug: marichi
+names:
+  - text: "Marichi"
+    lang: en
+    script: Latn
+  - text: मरीचि
+    lang: sa
+    script: Deva
+    iast: Marīci
+kinds: [rishi, prajapati]
+traditions: [puranic, itihasa]
+summary_beginner: "One of the sages born from Brahma's mind and the father of Kashyapa, according to both the Mahabharata and Valmiki's Ramayana."
+references:
+  - source: wilson-vishnu-purana
+    locator: "1.7"
+  - source: ganguli-mahabharata
+    locator: "1.65"
+  - source: griffith-ramayana
+    locator: "1.70"

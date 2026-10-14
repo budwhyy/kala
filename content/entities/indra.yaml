@@ -1,0 +1,19 @@
+slug: indra
+names:
+  - text: Indra
+    lang: en
+    script: Latn
+  - text: इन्द्र
+    lang: sa
+    script: Deva
+    iast: Indra
+kinds: [deity, deva]
+traditions: [vedic, itihasa, puranic]
+summary_beginner: "King of the gods and wielder of the thunderbolt. The Mahabharata and the Vishnu Purana count him, as Shakra, among the twelve Adityas, sons of Kashyapa and Aditi."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.65"
+  - source: ganguli-mahabharata
+    locator: "1.66"
+  - source: wilson-vishnu-purana
+    locator: "1.15"

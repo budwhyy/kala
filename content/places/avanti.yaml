@@ -1,0 +1,57 @@
+slug: avanti
+names:
+  - text: Avanti
+    lang: en
+    script: Latn
+  - text: अवन्ति
+    lang: sa
+    script: Deva
+    iast: Avanti
+realm: terrestrial
+kind: region
+confidence: verified
+geometry:
+  type: Point
+  coordinates:
+    - 75.78
+    - 23.18
+modern_admin:
+  country: India
+  region: Madhya Pradesh
+evidence:
+  - type: historical
+    summary: Raychaudhuri says Avanti corresponds roughly to modern Malwa and Nimar, divided into a
+      northern part with its capital at Ujjain and a southern part with its capital at Mahishmati.
+    references:
+      - source: raychaudhuri-phai-1923
+        locator: "75"
+  - type: textual
+    summary: In the Mahabharata (Sabha Parva) Sahadeva defeats the two kings of Avanti, Vinda and Anuvinda.
+    references:
+      - source: ganguli-mahabharata
+        locator: "2.30"
+related_places:
+  - to: ujjain
+    relation: part_of
+    note: Ujjain was the capital of northern Avanti.
+    references:
+      - source: raychaudhuri-phai-1923
+        locator: "75"
+kingdoms:
+  - to: avanti-kingdom-epic
+    note: Region of the epic kingdom.
+    references:
+      - source: ganguli-mahabharata
+        locator: "2.30"
+  - to: avanti-mahajanapada
+    note: Region of the historical state.
+    references:
+      - source: raychaudhuri-phai-1923
+        locator: "75"
+traditions:
+  - hindu
+summary_beginner: An ancient region of west-central India (around Malwa). The marker sits at its
+  capital Ujjain; the region's extent is not drawn.
+references:
+  - source: raychaudhuri-phai-1923
+    locator: "75"

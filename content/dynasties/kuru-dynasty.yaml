@@ -1,0 +1,30 @@
+slug: kuru-dynasty
+names:
+  - text: Kuru dynasty
+    lang: en
+    script: Latn
+  - text: कुरुवंश
+    lang: sa
+    script: Deva
+    iast: Kuruvaṃśa
+kind: legendary
+lineage_type: kuru
+founders:
+  - kuru
+kingdoms:
+  - to: kuru-kingdom-epic
+    note: Kuru's descendants rule the Kuru kingdom.
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.20"
+variant: vishnu-purana-account
+traditions:
+  - puranic
+  - itihasa
+summary_beginner: The legendary line of King Kuru, a branch of the lunar dynasty, which includes the
+  Kauravas and the Pandavas.
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.19"
+  - source: wilson-vishnu-purana
+    locator: "4.20"

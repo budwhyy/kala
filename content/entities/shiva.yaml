@@ -1,0 +1,19 @@
+slug: shiva
+names:
+  - text: "Shiva"
+    lang: en
+    script: Latn
+  - text: शिव
+    lang: sa
+    script: Deva
+    iast: Śiva
+kinds: [deity]
+traditions: [shaiva, puranic, itihasa, vedic]
+summary_beginner: "One of the great gods of Hinduism, also called Rudra, Bhava and Mahadeva, and worshipped by Shaivas as the supreme being. The Svetasvatara Upanishad calls Rudra the one lord who rules all the worlds."
+references:
+  - source: muller-upanishads
+    locator: "Svetasvatara Upanishad 3.2"
+  - source: wilson-vishnu-purana
+    locator: "1.7"
+  - source: wilson-vishnu-purana
+    locator: "1.8"

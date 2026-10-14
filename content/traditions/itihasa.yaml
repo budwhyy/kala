@@ -1,0 +1,11 @@
+slug: itihasa
+names:
+  - text: Epic (Itihasa)
+    lang: en
+    script: Latn
+family: hindu
+parent: hindu
+summary_beginner: The tradition of the two great epics, the Ramayana and the Mahabharata.
+references:
+  - source: ganguli-mahabharata
+    locator: "1.1"

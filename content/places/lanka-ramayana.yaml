@@ -1,0 +1,56 @@
+slug: lanka-ramayana
+names:
+  - text: Lanka (Ramayana)
+    lang: en
+    script: Latn
+  - text: लङ्का
+    lang: sa
+    script: Deva
+    iast: Laṅkā
+realm: terrestrial
+kind: city
+confidence: debated
+modern_admin:
+  country: Sri Lanka
+alternative_identifications:
+  - label: The island of Sri Lanka
+    confidence: traditional
+    argument: The common traditional reading equates Ravana's Lanka, reached by a bridge across the
+      southern sea, with the island of Sri Lanka. The text gives no measurements that fix a site, so
+      no point is drawn.
+    references:
+      - source: griffith-ramayana
+        locator: "6.22"
+        note: the bridge across the sea
+      - source: griffith-ramayana
+        locator: "5.2"
+  - label: Unlocated literary city
+    confidence: debated
+    argument:
+      The epic describes Lanka as a fortified golden city beyond the sea; many readers treat its
+      geography as literary. Scholarly proposals placing it elsewhere exist but are not in our
+      sources (see notes).
+    references:
+      - source: griffith-ramayana
+        locator: "3.54"
+evidence:
+  - type: textual
+    summary:
+      In Valmiki's Ramayana Lanka is Ravana's city across the sea, entered by Hanuman and later
+      reached by Rama's army over a bridge built by Nala.
+    references:
+      - source: griffith-ramayana
+        locator: "5.2"
+      - source: griffith-ramayana
+        locator: "6.22"
+traditions:
+  - itihasa
+summary_beginner: Ravana's island city in the Ramayana. It is often equated with Sri Lanka, but the
+  identification is debated; this record is about the epic city, not the modern country.
+summary_scholar: Kept separate from any record of the modern island. modern_admin is for orientation
+  only and does not mean the epic city belonged to the modern state.
+references:
+  - source: griffith-ramayana
+    locator: "5.2"
+  - source: griffith-ramayana
+    locator: "6.22"

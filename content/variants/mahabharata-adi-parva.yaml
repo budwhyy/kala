@@ -1,0 +1,12 @@
+slug: mahabharata-adi-parva
+names:
+  - text: Mahabharata, Adi Parva account
+    lang: en
+    script: Latn
+kind: account
+tradition: itihasa
+text: mahabharata
+description: The genealogies and origin stories told in the first book of the Mahabharata.
+references:
+  - source: ganguli-mahabharata
+    locator: "1.1"

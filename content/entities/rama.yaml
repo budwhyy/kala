@@ -1,0 +1,19 @@
+slug: rama
+names:
+  - text: "Rama"
+    lang: en
+    script: Latn
+  - text: राम
+    lang: sa
+    script: Deva
+    iast: Rāma
+kinds: [king, human]
+traditions: [vaishnava, itihasa, puranic]
+summary_beginner: "The prince of Ayodhya whose story is told in the Ramayana, a king of Ikshvaku's line. Valmiki's Ramayana and the Vishnu Purana both describe Vishnu being born as Rama and his brothers."
+references:
+  - source: griffith-ramayana
+    locator: "1.15"
+  - source: griffith-ramayana
+    locator: "1.70"
+  - source: wilson-vishnu-purana
+    locator: "4.4"

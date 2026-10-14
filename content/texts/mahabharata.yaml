@@ -1,0 +1,14 @@
+slug: mahabharata
+names:
+  - text: Mahabharata
+    lang: en
+    script: Latn
+  - text: महाभारत
+    lang: sa
+    script: Deva
+    iast: Mahābhārata
+genre: itihasa
+original_language: sa
+traditions:
+  - itihasa
+summary_beginner: The great epic of the Kuru dynasty and the war at Kurukshetra, attributed to Vyasa.

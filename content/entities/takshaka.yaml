@@ -1,0 +1,19 @@
+slug: takshaka
+names:
+  - text: Takshaka
+    lang: en
+    script: Latn
+  - text: तक्षक
+    lang: sa
+    script: Deva
+    iast: Takṣaka
+kinds: [naga]
+traditions: [itihasa, puranic]
+summary_beginner: "A powerful serpent, named among the chief sons of Kadru."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.35"
+  - source: ganguli-mahabharata
+    locator: "1.65"
+  - source: wilson-vishnu-purana
+    locator: "1.21"

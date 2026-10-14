@@ -1,0 +1,17 @@
+slug: ganesha
+names:
+  - text: "Ganesha"
+    lang: en
+    script: Latn
+  - text: गणेश
+    lang: sa
+    script: Deva
+    iast: Gaṇeśa
+kinds: [deity]
+traditions: [shaiva, shakta, puranic]
+summary_beginner: "The elephant-headed god of beginnings and remover of obstacles, who is worshipped first in many rites; the Devi Bhagavata, for example, has him worshipped first in its rituals for the Goddess. His birth is told differently in different Puranas."
+references:
+  - source: vijnanananda-devi-bhagavata
+    locator: "9.4"
+  - source: vijnanananda-devi-bhagavata
+    locator: "5.19"

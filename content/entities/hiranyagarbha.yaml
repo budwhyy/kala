@@ -1,0 +1,19 @@
+slug: hiranyagarbha
+names:
+  - text: "Hiranyagarbha (golden germ)"
+    lang: en
+    script: Latn
+  - text: हिरण्यगर्भ
+    lang: sa
+    script: Deva
+    iast: Hiraṇyagarbha
+kinds: [principle, deity]
+traditions: [vedic, puranic, shaiva]
+summary_beginner: "The 'golden germ' or golden embryo that rises in the beginning in Rigveda 10.121 as the one lord of all beings. Later texts link it with Brahma, born in the cosmic egg."
+references:
+  - source: griffith-rigveda
+    locator: "10.121"
+  - source: muller-upanishads
+    locator: "Svetasvatara Upanishad 3.4"
+  - source: wilson-vishnu-purana
+    locator: "1.2"

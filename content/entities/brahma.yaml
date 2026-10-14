@@ -1,0 +1,19 @@
+slug: brahma
+names:
+  - text: "Brahma"
+    lang: en
+    script: Latn
+  - text: ब्रह्मा
+    lang: sa
+    script: Deva
+    iast: Brahmā
+kinds: [deity, prajapati]
+traditions: [puranic, itihasa]
+summary_beginner: "The creator god of the Puranas. In the Vishnu Purana he brings forth the world and, from his own mind, a first group of sons who become the great sages and patriarchs."
+references:
+  - source: wilson-vishnu-purana
+    locator: "1.5"
+  - source: wilson-vishnu-purana
+    locator: "1.7"
+  - source: ganguli-mahabharata
+    locator: "1.65"

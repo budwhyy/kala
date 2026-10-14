@@ -1,0 +1,19 @@
+slug: vinata
+names:
+  - text: Vinata
+    lang: en
+    script: Latn
+  - text: विनता
+    lang: sa
+    script: Deva
+    iast: Vinatā
+kinds: [other]
+traditions: [itihasa, puranic]
+summary_beginner: "A wife of Kashyapa and mother of Garuda and Aruna. In the Mahabharata she loses a wager to her co-wife Kadru and becomes her slave until Garuda frees her."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.16"
+  - source: ganguli-mahabharata
+    locator: "1.23"
+  - source: wilson-vishnu-purana
+    locator: "1.21"

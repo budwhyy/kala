@@ -1,0 +1,19 @@
+slug: nagas
+names:
+  - text: Nagas
+    lang: en
+    script: Latn
+  - text: नाग
+    lang: sa
+    script: Deva
+    iast: Nāga
+kinds: [naga]
+traditions: [itihasa, puranic]
+summary_beginner: "The serpent race born of Kadru and Kashyapa. In the Mahabharata many are cursed by their own mother, and they are the enemies of Garuda."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.16"
+  - source: ganguli-mahabharata
+    locator: "1.35"
+  - source: wilson-vishnu-purana
+    locator: "1.21"

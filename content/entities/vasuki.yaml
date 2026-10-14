@@ -1,0 +1,19 @@
+slug: vasuki
+names:
+  - text: Vasuki
+    lang: en
+    script: Latn
+  - text: वासुकि
+    lang: sa
+    script: Deva
+    iast: Vāsuki
+kinds: [naga]
+traditions: [itihasa, puranic]
+summary_beginner: "A king of the serpents and son of Kadru. In the Mahabharata the gods and asuras use him as the rope when they churn the ocean."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.18"
+  - source: ganguli-mahabharata
+    locator: "1.35"
+  - source: wilson-vishnu-purana
+    locator: "1.21"

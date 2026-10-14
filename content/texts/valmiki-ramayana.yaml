@@ -1,0 +1,15 @@
+slug: valmiki-ramayana
+names:
+  - text: Ramayana of Valmiki
+    lang: en
+    script: Latn
+  - text: वाल्मीकिरामायण
+    lang: sa
+    script: Deva
+    iast: Vālmīki Rāmāyaṇa
+genre: itihasa
+original_language: sa
+traditions:
+  - itihasa
+  - vaishnava
+summary_beginner: The epic of Rama, prince of Ayodhya, attributed to the sage Valmiki.

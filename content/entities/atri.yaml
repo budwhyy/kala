@@ -1,0 +1,19 @@
+slug: atri
+names:
+  - text: "Atri"
+    lang: en
+    script: Latn
+  - text: अत्रि
+    lang: sa
+    script: Deva
+    iast: Atri
+kinds: [rishi, prajapati]
+traditions: [puranic, itihasa]
+summary_beginner: "A sage born from Brahma's mind, named among the seven rishis of the present age in the Vishnu Purana."
+references:
+  - source: wilson-vishnu-purana
+    locator: "1.7"
+  - source: wilson-vishnu-purana
+    locator: "3.1"
+  - source: ganguli-mahabharata
+    locator: "1.65"

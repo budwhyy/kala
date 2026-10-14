@@ -1,0 +1,19 @@
+slug: kadru
+names:
+  - text: Kadru
+    lang: en
+    script: Latn
+  - text: कद्रू
+    lang: sa
+    script: Deva
+    iast: Kadrū
+kinds: [other]
+traditions: [itihasa, puranic]
+summary_beginner: "A wife of Kashyapa and mother of the thousand serpents (nagas). In the Mahabharata she wins a wager against Vinata by trickery and curses the sons who refuse to help her."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.16"
+  - source: ganguli-mahabharata
+    locator: "1.20"
+  - source: wilson-vishnu-purana
+    locator: "1.21"

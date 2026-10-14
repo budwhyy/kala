@@ -1,0 +1,119 @@
+- id: vishnu-partner-lakshmi
+  from: vishnu
+  to: lakshmi
+  type: partner
+  explanation: "Shri (Lakshmi) is the wife of Vishnu (Narayana); the Vishnu Purana describes the two as inseparable in every one of his forms."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.8"
+    - source: wilson-vishnu-purana
+      locator: "1.9"
+- id: bhrigu-father-of-lakshmi
+  from: bhrigu
+  to: lakshmi
+  type: parent
+  role: father
+  mode: biological
+  variant: vishnu-purana-account
+  explanation: "In one Vishnu Purana passage Shri is the daughter of Bhrigu and Khyati. The next chapter also tells of her rising from the churned ocean of milk, and Parasara explains that she is eternal, so this is one account of her origin, not the only one."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.8"
+- id: shiva-partner-sati
+  from: shiva
+  to: sati
+  type: partner
+  explanation: "Sati, daughter of Daksha, is married to Rudra (Bhava). She later gives up her body because of Daksha's hostility."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.7"
+    - source: wilson-vishnu-purana
+      locator: "1.8"
+- id: shiva-partner-parvati
+  from: shiva
+  to: parvati
+  type: partner
+  explanation: "Shiva marries Uma (Parvati), daughter of Himavan and Mena; in the Vishnu Purana she is Sati born again."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.8"
+    - source: ganguli-mahabharata
+      locator: "3.230"
+      note: "Shows Mahadeva riding with Parvati (Uma)."
+- id: shiva-father-of-kartikeya-vana
+  from: shiva
+  to: kartikeya
+  type: parent
+  role: father
+  mode: divine
+  variant: deities-skanda-birth-vana-parva
+  explanation: "In the Vana Parva, Brahma tells Skanda that Rudra had entered Agni to beget him, and calls Mahadeva his father. The same story also calls Skanda the son of Agni."
+  references:
+    - source: ganguli-mahabharata
+      locator: "3.230"
+    - source: ganguli-mahabharata
+      locator: "3.224"
+      note: "Calls the child the son of Agni."
+- id: parvati-mother-of-kartikeya-vana
+  from: parvati
+  to: kartikeya
+  type: parent
+  role: mother
+  mode: divine
+  variant: deities-skanda-birth-vana-parva
+  explanation: "In the Vana Parva, Uma is said to have entered Svaha, so that Skanda is her son as well. Svaha herself tells him she is his mother."
+  references:
+    - source: ganguli-mahabharata
+      locator: "3.230"
+    - source: ganguli-mahabharata
+      locator: "3.225"
+      note: "Svaha reveals that she is his mother."
+- id: shiva-father-of-ganesha-db
+  from: shiva
+  to: ganesha
+  type: parent
+  role: father
+  mode: other
+  variant: devi-bhagavata-account
+  explanation: "In a hymn of the gods in the Devi Bhagavata, Ganesha is mentioned in passing as born of Mahadeva. The passage gives no birth story and does not say how he was born; no public-domain translation of the fuller Shiva Purana accounts is available."
+  references:
+    - source: vijnanananda-devi-bhagavata
+      locator: "5.19"
+      note: "Mentioned in passing within the hymn of the gods to the Devi after the slaying of Mahishasura."
+- id: rama-avatar-of-vishnu
+  from: rama
+  to: vishnu
+  type: avatar_of
+  explanation: "Vishnu decides to divide himself into four and be born as the sons of Dasharatha, of whom Rama is the eldest."
+  references:
+    - source: griffith-ramayana
+      locator: "1.15"
+    - source: wilson-vishnu-purana
+      locator: "4.4"
+- id: saptarishis-manifestation-of-vishnu-vp
+  from: saptarishis
+  to: vishnu
+  type: manifestation_of
+  variant: vishnu-purana-account
+  explanation: "The Vishnu Purana says that the gods, the Manus, the seven rishis, the sons of the Manus and the Indras are all the might of Vishnu in personal form."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "3.1"
+- id: devi-identified-with-brahman
+  from: devi
+  to: brahman
+  type: identified_with
+  variant: devi-bhagavata-account
+  explanation: "In the Devi Bhagavata the Goddess says she is one with the Supreme Self, and that she remains as Brahman with her power of illusion hidden within it."
+  references:
+    - source: vijnanananda-devi-bhagavata
+      locator: "3.6"
+- id: devi-identified-with-prakriti
+  from: devi
+  to: prakriti
+  type: identified_with
+  variant: devi-bhagavata-account
+  explanation: "In the Devi Bhagavata the Goddess calls herself the Supreme Prakriti, sometimes with qualities and sometimes without."
+  references:
+    - source: vijnanananda-devi-bhagavata
+      locator: "3.6"

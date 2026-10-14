@@ -1,0 +1,46 @@
+slug: chitrakoot
+names:
+  - text: Chitrakoot
+    lang: en
+    script: Latn
+  - text: चित्रकूट
+    lang: sa
+    script: Deva
+    iast: Citrakūṭa
+realm: terrestrial
+kind: mountain
+confidence: traditional
+geometry:
+  type: Point
+  coordinates:
+    - 80.87
+    - 25.17
+modern_admin:
+  country: India
+  region: Uttar Pradesh / Madhya Pradesh border
+  district: Chitrakoot
+evidence:
+  - type: textual
+    summary: In Valmiki's Ramayana Bharadvaja directs the exiles from the Ganga-Yamuna confluence to
+      Chitrakuta hill, where they settle and where Bharata later finds them.
+    references:
+      - source: griffith-ramayana
+        locator: "2.54"
+      - source: griffith-ramayana
+        locator: "2.56"
+      - source: griffith-ramayana
+        locator: "2.94"
+  - type: traditional
+    summary: Living tradition identifies the hill of Kamadgiri at Chitrakoot on the Mandakini as the site.
+    references:
+      - source: griffith-ramayana
+        locator: "2.56"
+        note: textual setting only; modern identification is living tradition
+traditions:
+  - itihasa
+  - vaishnava
+summary_beginner: A hill and pilgrimage town on the Uttar Pradesh-Madhya Pradesh border,
+  traditionally where Rama, Sita and Lakshmana first lived in exile.
+references:
+  - source: griffith-ramayana
+    locator: "2.56"

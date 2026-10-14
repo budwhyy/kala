@@ -1,0 +1,19 @@
+slug: kashyapa
+names:
+  - text: Kashyapa
+    lang: en
+    script: Latn
+  - text: कश्यप
+    lang: sa
+    script: Deva
+    iast: Kaśyapa
+kinds: [rishi, prajapati]
+traditions: [itihasa, puranic]
+summary_beginner: "A sage, son of Marichi, who marries thirteen daughters of Daksha. Through these wives the Mahabharata and the Vishnu Purana make him the father of gods, asuras, serpents and birds."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.65"
+  - source: ganguli-mahabharata
+    locator: "1.66"
+  - source: wilson-vishnu-purana
+    locator: "1.15"

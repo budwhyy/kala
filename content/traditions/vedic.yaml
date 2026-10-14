@@ -1,0 +1,10 @@
+slug: vedic
+names:
+  - text: Vedic
+    lang: en
+    script: Latn
+family: vedic
+summary_beginner: The religion of the Vedic hymns, ritual texts and early Upanishads.
+references:
+  - source: griffith-rigveda
+    locator: "1.1"

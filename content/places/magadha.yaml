@@ -1,0 +1,60 @@
+slug: magadha
+names:
+  - text: Magadha
+    lang: en
+    script: Latn
+  - text: मगध
+    lang: sa
+    script: Deva
+    iast: Magadha
+realm: terrestrial
+kind: region
+confidence: verified
+geometry:
+  type: Point
+  coordinates:
+    - 85.42
+    - 25.03
+modern_admin:
+  country: India
+  region: Bihar
+evidence:
+  - type: historical
+    summary: Raychaudhuri says Magadha corresponds roughly to the Patna and Gaya districts of Bihar,
+      with its earliest capital at Girivraja (old Rajagriha) near Rajgir.
+    references:
+      - source: raychaudhuri-phai-1923
+        locator: "56"
+  - type: textual
+    summary: The Vishnu Purana lists the Magadhas among the peoples of Bharatavarsha; Wilson glosses
+      Magadha as Behar.
+    references:
+      - source: wilson-vishnu-purana
+        locator: "2.3"
+related_places:
+  - to: girivraja
+    relation: part_of
+    note: Girivraja was Magadha's earliest capital.
+    references:
+      - source: raychaudhuri-phai-1923
+        locator: "56"
+kingdoms:
+  - to: magadha-kingdom-epic
+    note: Region of Jarasandha's kingdom.
+    references:
+      - source: ganguli-mahabharata
+        locator: "2.21"
+  - to: magadha-mahajanapada
+    note: Region of the historical state.
+    references:
+      - source: raychaudhuri-phai-1923
+        locator: "56"
+traditions:
+  - hindu
+  - buddhist
+  - jain
+summary_beginner: An ancient region in south Bihar, later the heart of great empires. The marker
+  sits at its first capital, Rajgir; the region's extent is not drawn.
+references:
+  - source: raychaudhuri-phai-1923
+    locator: "56"

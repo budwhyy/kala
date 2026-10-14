@@ -1,0 +1,64 @@
+slug: girivraja
+names:
+  - text: Girivraja (Rajagriha)
+    lang: en
+    script: Latn
+  - text: गिरिव्रज
+    lang: sa
+    script: Deva
+    iast: Girivraja
+  - text: Rajgir
+    lang: en
+    script: Latn
+realm: terrestrial
+kind: city
+confidence: verified
+geometry:
+  type: Point
+  coordinates:
+    - 85.42
+    - 25.03
+modern_admin:
+  country: India
+  region: Bihar
+  district: Nalanda
+evidence:
+  - type: historical
+    summary:
+      Fa-Hian and Hwen Thsang describe the old city in a valley ringed by five hills; Cunningham
+      identifies it with Old Rajagriha (Purana Rajgir).
+    references:
+      - source: cunningham-ancient-geography
+        locator: "462"
+      - source: cunningham-ancient-geography
+        locator: "463"
+  - type: textual
+    summary: In the Mahabharata Krishna, Bhima and Arjuna come to Girivraja, Jarasandha's capital of
+      Magadha.
+    references:
+      - source: ganguli-mahabharata
+        locator: "2.21"
+kingdoms:
+  - to: magadha-kingdom-epic
+    note: Jarasandha's capital.
+    references:
+      - source: ganguli-mahabharata
+        locator: "2.21"
+  - to: magadha-mahajanapada
+    note: Earliest capital of historical Magadha.
+    references:
+      - source: raychaudhuri-phai-1923
+        locator: "56"
+traditions:
+  - itihasa
+  - buddhist
+  - jain
+summary_beginner: The old hill-ringed capital of Magadha at Rajgir in Bihar, remembered in the
+  Mahabharata as Jarasandha's city.
+summary_scholar: The historical city is well attested; this does not verify the Mahabharata's
+  account of Jarasandha. (Cunningham's dating of the epic war is not followed here.)
+references:
+  - source: cunningham-ancient-geography
+    locator: "462"
+  - source: raychaudhuri-phai-1923
+    locator: "56"

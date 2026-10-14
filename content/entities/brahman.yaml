@@ -1,0 +1,17 @@
+slug: brahman
+names:
+  - text: "Brahman (the Absolute)"
+    lang: en
+    script: Latn
+  - text: ब्रह्मन्
+    lang: sa
+    script: Deva
+    iast: Brahman
+kinds: [principle]
+traditions: [vedanta, shakta]
+summary_beginner: "In the Upanishads, the ultimate reality: that from which beings are born, by which they live and into which they return. It is a principle, not the god Brahma."
+references:
+  - source: muller-upanishads
+    locator: "Taittiriya Upanishad 3.1"
+  - source: vijnanananda-devi-bhagavata
+    locator: "3.6"

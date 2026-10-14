@@ -1,0 +1,28 @@
+slug: gandhara-kingdom-epic
+names:
+  - text: Gandhara (Mahabharata)
+    lang: en
+    script: Latn
+  - text: गान्धार
+    lang: sa
+    script: Deva
+    iast: Gāndhāra
+kind: epic_legendary
+same_name_as:
+  - gandhara-mahajanapada
+rulers:
+  - name:
+      text: Subala
+      lang: en
+      script: Latn
+    attested: false
+    note: Father of Gandhari.
+    references:
+      - source: ganguli-mahabharata
+        locator: "1.110"
+traditions:
+  - itihasa
+summary_beginner: The kingdom of Gandhari's father Subala in the Mahabharata.
+references:
+  - source: ganguli-mahabharata
+    locator: "1.110"

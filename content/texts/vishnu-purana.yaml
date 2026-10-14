@@ -1,0 +1,15 @@
+slug: vishnu-purana
+names:
+  - text: Vishnu Purana
+    lang: en
+    script: Latn
+  - text: विष्णुपुराण
+    lang: sa
+    script: Deva
+    iast: Viṣṇu Purāṇa
+genre: purana
+original_language: sa
+traditions:
+  - puranic
+  - vaishnava
+summary_beginner: A Purana on creation, the cosmic cycles, genealogies and Vishnu.

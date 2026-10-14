@@ -1,0 +1,17 @@
+slug: sati
+names:
+  - text: "Sati"
+    lang: en
+    script: Latn
+  - text: सती
+    lang: sa
+    script: Deva
+    iast: Satī
+kinds: [deity]
+traditions: [shaiva, puranic]
+summary_beginner: "A daughter of Daksha and the first wife of Shiva. The Vishnu Purana says she gave up her body because of her father's hostility and was later born again as Uma, daughter of Himavan."
+references:
+  - source: wilson-vishnu-purana
+    locator: "1.7"
+  - source: wilson-vishnu-purana
+    locator: "1.8"

@@ -1,0 +1,11 @@
+slug: vaishnava
+names:
+  - text: Vaishnava
+    lang: en
+    script: Latn
+family: hindu
+parent: hindu
+summary_beginner: Traditions centred on Vishnu and his avatars, such as Rama and Krishna.
+references:
+  - source: wilson-vishnu-purana
+    locator: "1.1"

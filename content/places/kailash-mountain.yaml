@@ -1,0 +1,54 @@
+slug: kailash-mountain
+names:
+  - text: Mount Kailash
+    lang: en
+    script: Latn
+  - text: कैलास
+    lang: sa
+    script: Deva
+    iast: Kailāsa
+realm: terrestrial
+kind: mountain
+confidence: traditional
+geometry:
+  type: Point
+  coordinates:
+    - 81.31
+    - 31.07
+modern_admin:
+  country: China
+  region: Tibet Autonomous Region
+  district: Ngari
+evidence:
+  - type: textual
+    summary:
+      In Valmiki's Ramayana Sugriva sends searchers north to Kailasa, home of Kuvera; the Vishnu
+      Purana names Kailasa among the mountains of Jambudvipa.
+    references:
+      - source: griffith-ramayana
+        locator: "4.43"
+      - source: wilson-vishnu-purana
+        locator: "2.2"
+  - type: traditional
+    summary: Hindu, Buddhist and Jain pilgrims revere the peak in western Tibet as Kailasa.
+    references:
+      - source: griffith-ramayana
+        locator: "4.43"
+        note: textual mention only; identification is living tradition
+related_places:
+  - to: kailasa-cosmological
+    relation: cosmological_counterpart
+    note: The earthly peak is revered as the mountain of the divine Kailasa; the two are kept as
+      separate records.
+    references:
+      - source: wilson-vishnu-purana
+        locator: "2.7"
+        note: Wilson's note on Kailasa as Shiva's world
+traditions:
+  - shaiva
+  - buddhist
+  - jain
+summary_beginner: A peak in western Tibet, sacred to Hindus, Buddhists and Jains, revered as the mountain of Kailasa.
+references:
+  - source: griffith-ramayana
+    locator: "4.43"

@@ -1,0 +1,33 @@
+slug: videha-kingdom-epic
+names:
+  - text: Videha (Ramayana and Puranas)
+    lang: en
+    script: Latn
+  - text: विदेह
+    lang: sa
+    script: Deva
+    iast: Videha
+kind: epic_legendary
+capitals:
+  - to: mithila
+    note: Mithila, named after King Mithi.
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.5"
+dynasties:
+  - to: suryavansha
+    note: The Vishnu Purana derives the kings of Mithila from Nimi, a son of Ikshvaku.
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.5"
+traditions:
+  - itihasa
+  - puranic
+summary_beginner: King Janaka's kingdom, the home of Sita in the Ramayana.
+summary_scholar: "No separate historical record is created here: the Videhans appear in Raychaudhuri
+  as part of the Vajji confederacy rather than as one of the sixteen mahajanapadas."
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.5"
+  - source: griffith-ramayana
+    locator: "1.50"

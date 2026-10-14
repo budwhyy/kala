@@ -1,0 +1,77 @@
+slug: ayodhya
+names:
+  - text: Ayodhya
+    lang: en
+    script: Latn
+  - text: अयोध्या
+    lang: sa
+    script: Deva
+    iast: Ayodhyā
+realm: terrestrial
+kind: city
+confidence: traditional
+geometry:
+  type: Point
+  coordinates:
+    - 82.2
+    - 26.8
+modern_admin:
+  country: India
+  region: Uttar Pradesh
+  district: Ayodhya
+evidence:
+  - type: textual
+    summary:
+      Valmiki's Ramayana describes Ayodhya as the royal city of Kosala on the bank of the Sarayu
+      (Sarju).
+    references:
+      - source: griffith-ramayana
+        locator: "1.5"
+  - type: historical
+    summary:
+      Cunningham identified the present town of Ajudhya, near Faizabad, with the ancient Ayodhya
+      or Saketa visited by Chinese pilgrims, reasoning from their recorded distances.
+    references:
+      - source: cunningham-ancient-geography
+        locator: "400"
+  - type: historical
+    summary:
+      Raychaudhuri lists Ayodhya, on the Sarayu, among the three main cities of Kosala, and notes
+      that whether Saketa and Ayodhya were one city or two is disputed.
+    references:
+      - source: raychaudhuri-phai-1923
+        locator: "49"
+      - source: raychaudhuri-phai-1923
+        locator: "53"
+kingdoms:
+  - to: kosala-kingdom-epic
+    note: Royal city of Kosala in the Ramayana.
+    references:
+      - source: griffith-ramayana
+        locator: "1.5"
+  - to: kosala-mahajanapada
+    note: One of the cities of the historical Kosala state; Raychaudhuri thinks it was its earliest
+      capital.
+    references:
+      - source: raychaudhuri-phai-1923
+        locator: "53"
+entities:
+  - to: rama
+    note: In the Vishnu Purana Rama returns to Ayodhya with Sita after the war.
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.4"
+traditions:
+  - itihasa
+  - vaishnava
+summary_beginner: A town on the Sarayu river in Uttar Pradesh that Hindu tradition identifies as the
+  capital of Rama's family in the Ramayana.
+summary_scholar: "The modern town is identified with the epic city by living tradition and, through
+  Saketa, by nineteenth-century historical geography (Cunningham). Raychaudhuri notes that Ayodhya
+  and Saketa both appear in Buddhist texts, so their identity is uncertain. The record is kept as
+  'traditional': historical notices of the town do not verify any event of the Ramayana."
+references:
+  - source: griffith-ramayana
+    locator: "1.5"
+  - source: cunningham-ancient-geography
+    locator: "400"

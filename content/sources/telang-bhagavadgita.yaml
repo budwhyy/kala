@@ -1,0 +1,15 @@
+slug: telang-bhagavadgita
+title: The Bhagavadgita (Sacred Books of the East, vol. 8)
+text: bhagavad-gita
+kind: translation
+creators:
+  - Kashinath Trimbak Telang
+language: en
+published:
+  year: 1882
+  publisher: Clarendon Press
+  place: Oxford
+licence: public_domain
+licence_note: "Published 1882; translator d. 1893. Verification status: to check against a catalogue
+  before first use (see docs/SOURCES.md)."
+url: https://www.sacred-texts.com/hin/sbe08/

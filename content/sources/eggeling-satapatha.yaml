@@ -1,0 +1,16 @@
+slug: eggeling-satapatha
+title: The Satapatha-Brahmana (Sacred Books of the East)
+text: satapatha-brahmana
+kind: translation
+creators:
+  - Julius Eggeling
+language: en
+published:
+  year: 1882
+  end_year: 1900
+  publisher: Clarendon Press
+  place: Oxford
+licence: public_domain
+licence_note: "Published 1882-1900; translator d. 1918. Verification status: to check against a
+  catalogue before first use (see docs/SOURCES.md)."
+url: https://www.sacred-texts.com/hin/sbr/

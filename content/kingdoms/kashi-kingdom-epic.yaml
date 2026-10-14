@@ -1,0 +1,34 @@
+slug: kashi-kingdom-epic
+names:
+  - text: Kashi (Puranas and Mahabharata)
+    lang: en
+    script: Latn
+  - text: काशी
+    lang: sa
+    script: Deva
+    iast: Kāśī
+kind: epic_legendary
+same_name_as:
+  - kashi-mahajanapada
+capitals:
+  - to: kashi
+    note: Seat of the kings of Kasi.
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.8"
+dynasties:
+  - to: chandravansha
+    note: The Vishnu Purana's kings of Kasi descend from Ayus, son of Pururavas.
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.8"
+traditions:
+  - itihasa
+  - puranic
+summary_beginner: The kingdom of Kasi in the epics and Puranas; in the Mahabharata Bhishma carries
+  off the three daughters of its king.
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.8"
+  - source: ganguli-mahabharata
+    locator: "1.102"

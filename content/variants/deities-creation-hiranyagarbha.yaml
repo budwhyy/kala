@@ -1,0 +1,12 @@
+slug: deities-creation-hiranyagarbha
+names:
+  - text: "Hiranyagarbha hymn (Rigveda 10.121)"
+    lang: en
+    script: Latn
+kind: creation_pathway
+tradition: vedic
+text: rigveda
+description: "The Rigveda hymn in which Hiranyagarbha, the golden germ, rises in the beginning as the one lord of all that is born, and holds up earth and heaven. Its last verse names this lord as Prajapati."
+references:
+  - source: griffith-rigveda
+    locator: "10.121"

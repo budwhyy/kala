@@ -1,0 +1,17 @@
+slug: chandra
+names:
+  - text: "Chandra (Soma)"
+    lang: en
+    script: Latn
+  - text: चन्द्र
+    lang: sa
+    script: Deva
+    iast: Candra
+kinds: [deity, deva]
+traditions: [vedic, puranic]
+summary_beginner: "The Moon god, also called Soma. In the Vishnu Purana he is the father of Budha and so the ancestor of the lunar royal line."
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.6"
+  - source: griffith-rigveda
+    locator: "10.90.13"

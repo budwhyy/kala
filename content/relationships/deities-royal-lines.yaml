@@ -1,0 +1,139 @@
+- id: surya-father-of-vaivasvata-manu
+  from: surya
+  to: vaivasvata-manu
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Vaivasvata Manu is the son of the Sun (Vivasvat); the Vishnu Purana names Sanjna, daughter of Vishvakarman, as his mother."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.75"
+    - source: wilson-vishnu-purana
+      locator: "3.2"
+    - source: wilson-vishnu-purana
+      locator: "4.1"
+- id: vaivasvata-manu-father-of-ikshvaku
+  from: vaivasvata-manu
+  to: ikshvaku
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Ikshvaku is one of the sons of Manu, son of Vivasvat."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.75"
+    - source: griffith-ramayana
+      locator: "1.70"
+- id: vaivasvata-manu-father-of-ikshvaku-sneeze
+  from: vaivasvata-manu
+  to: ikshvaku
+  type: parent
+  role: father
+  mode: other
+  variant: vishnu-purana-account
+  explanation: "The Vishnu Purana adds that Ikshvaku was born from the Manu's nostril when he sneezed."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "4.2"
+- id: vaivasvata-manu-father-of-ila
+  from: vaivasvata-manu
+  to: ila
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Ila is a child of Manu: a daughter in the Mahabharata's list, and in the Vishnu Purana a daughter produced by a sacrifice that went wrong, who later becomes the man Sudyumna."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.75"
+    - source: wilson-vishnu-purana
+      locator: "4.1"
+- id: chandra-father-of-budha
+  from: chandra
+  to: budha
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Budha is the son of Soma, the Moon, who embraces him and names him Budha ('wise')."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "4.6"
+- id: budha-father-of-pururavas
+  from: budha
+  to: pururavas
+  type: parent
+  role: father
+  mode: biological
+  explanation: "In the Vishnu Purana Budha fathers Pururavas with Ila."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "4.6"
+- id: ila-mother-of-pururavas
+  from: ila
+  to: pururavas
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Pururavas is born of Ila. The Mahabharata adds that Ila was both his mother and his father."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "4.6"
+    - source: ganguli-mahabharata
+      locator: "1.75"
+- id: yayati-descendant-of-pururavas
+  from: yayati
+  to: pururavas
+  type: descendant_of
+  explanation: "The Mahabharata traces the line from Pururavas through his son Ayus and Ayus's son Nahusha to Yayati; those two kings are not yet entered."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.75"
+    - source: ganguli-mahabharata
+      locator: "1.95"
+- id: yayati-father-of-yadu
+  from: yayati
+  to: yadu
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Yadu is Yayati's son by Devayani."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.75"
+    - source: ganguli-mahabharata
+      locator: "1.95"
+    - source: wilson-vishnu-purana
+      locator: "4.10"
+- id: yayati-father-of-puru
+  from: yayati
+  to: puru
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Puru is Yayati's youngest son, by Sharmishtha."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.75"
+    - source: ganguli-mahabharata
+      locator: "1.95"
+    - source: wilson-vishnu-purana
+      locator: "4.10"
+- id: kuru-descendant-of-puru
+  from: kuru
+  to: puru
+  type: descendant_of
+  explanation: "Kuru, son of Samvarana, belongs to the line of Puru. The intermediate kings differ between the two genealogies in the Adi Parva, so no count of generations is given."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.94"
+    - source: wilson-vishnu-purana
+      locator: "4.19"
+- id: rama-descendant-of-ikshvaku
+  from: rama
+  to: ikshvaku
+  type: descendant_of
+  explanation: "Rama, son of Dasharatha, belongs to the line of Ikshvaku, which Valmiki's Ramayana traces king by king."
+  references:
+    - source: griffith-ramayana
+      locator: "1.70"
+    - source: wilson-vishnu-purana
+      locator: "4.4"

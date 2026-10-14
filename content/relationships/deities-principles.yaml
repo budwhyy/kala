@@ -1,0 +1,64 @@
+- id: purusha-aspect-of-vishnu-vp
+  from: purusha
+  to: vishnu
+  type: aspect_of
+  variant: vishnu-purana-account
+  explanation: "The Vishnu Purana calls spirit (purusha) the first form of the supreme Vishnu."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.2"
+- id: prakriti-aspect-of-vishnu-vp
+  from: prakriti
+  to: vishnu
+  type: aspect_of
+  variant: vishnu-purana-account
+  explanation: "The Vishnu Purana counts primal matter (pradhana, also called prakriti) among the forms of the supreme Vishnu."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.2"
+- id: purusha-father-of-chandra-sukta
+  from: purusha
+  to: chandra
+  type: parent
+  role: father
+  mode: other
+  variant: deities-creation-purusha-sukta
+  explanation: "In the Purusha Sukta the Moon is born from the mind of the sacrificed cosmic Person."
+  references:
+    - source: griffith-rigveda
+      locator: "10.90.13"
+- id: purusha-father-of-surya-sukta
+  from: purusha
+  to: surya
+  type: parent
+  role: father
+  mode: other
+  variant: deities-creation-purusha-sukta
+  explanation: "In the Purusha Sukta the Sun is born from the eye of the sacrificed cosmic Person."
+  references:
+    - source: griffith-rigveda
+      locator: "10.90.13"
+- id: shiva-father-of-hiranyagarbha-svetasvatara
+  from: shiva
+  to: hiranyagarbha
+  type: parent
+  role: father
+  mode: other
+  variant: deities-creation-svetasvatara-rudra
+  explanation: "The Svetasvatara Upanishad praises Rudra as the one who in the beginning gave birth to Hiranyagarbha."
+  references:
+    - source: muller-upanishads
+      locator: "Svetasvatara Upanishad 3.4"
+    - source: muller-upanishads
+      locator: "Svetasvatara Upanishad 4.12"
+      note: "Says Rudra saw Hiranyagarbha being born."
+- id: hiranyagarbha-identified-with-brahma-vp
+  from: hiranyagarbha
+  to: brahma
+  type: identified_with
+  variant: vishnu-purana-account
+  explanation: "In the Vishnu Purana Brahma is born inside the golden cosmic egg; Wilson's note to the passage explains Hiranyagarbha as a name of Brahma, the one born from the golden egg."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.2"
+      note: "The name Hiranyagarbha is in Wilson's annotation; the text describes Brahma in the egg."

@@ -1,0 +1,15 @@
+slug: bhagavata-purana
+names:
+  - text: Bhagavata Purana
+    lang: en
+    script: Latn
+  - text: भागवतपुराण
+    lang: sa
+    script: Deva
+    iast: Bhāgavata Purāṇa
+genre: purana
+original_language: sa
+traditions:
+  - puranic
+  - vaishnava
+summary_beginner: A Purana devoted to Vishnu, especially Krishna.

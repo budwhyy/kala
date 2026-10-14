@@ -1,0 +1,19 @@
+slug: surya
+names:
+  - text: Surya
+    lang: en
+    script: Latn
+  - text: सूर्य
+    lang: sa
+    script: Deva
+    iast: Sūrya
+kinds: [deity, deva]
+traditions: [vedic, itihasa, puranic]
+summary_beginner: "The Sun god. Under the name Vivasvat he is one of the twelve Adityas, sons of Kashyapa and Aditi, in both the Mahabharata and the Vishnu Purana."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.65"
+  - source: wilson-vishnu-purana
+    locator: "1.15"
+  - source: wilson-vishnu-purana
+    locator: "3.2"

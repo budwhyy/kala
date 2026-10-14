@@ -1,0 +1,25 @@
+slug: yadava-dynasty
+names:
+  - text: Yadava dynasty
+    lang: en
+    script: Latn
+  - text: यादव
+    lang: sa
+    script: Deva
+    iast: Yādava
+kind: legendary
+lineage_type: yadava
+founders:
+  - yadu
+variant: vishnu-purana-account
+traditions:
+  - puranic
+  - vaishnava
+summary_beginner: The legendary line descended from Yadu, eldest son of Yayati, into which Krishna is born.
+summary_scholar: The Vishnu Purana devotes several chapters of Book 4 to the race of Yadu, from whom
+  all are called Yadavas.
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.10"
+  - source: wilson-vishnu-purana
+    locator: "4.11"

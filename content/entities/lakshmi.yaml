@@ -1,0 +1,17 @@
+slug: lakshmi
+names:
+  - text: "Lakshmi"
+    lang: en
+    script: Latn
+  - text: लक्ष्मी
+    lang: sa
+    script: Deva
+    iast: Lakṣmī
+kinds: [deity]
+traditions: [vaishnava, puranic]
+summary_beginner: "The goddess of fortune and prosperity, also called Shri, the wife of Vishnu. The Vishnu Purana gives two births for her: as Bhrigu's daughter and from the churning of the ocean of milk."
+references:
+  - source: wilson-vishnu-purana
+    locator: "1.8"
+  - source: wilson-vishnu-purana
+    locator: "1.9"

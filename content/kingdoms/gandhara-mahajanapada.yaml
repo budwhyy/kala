@@ -1,0 +1,35 @@
+slug: gandhara-mahajanapada
+names:
+  - text: Gandhara (mahajanapada)
+    lang: en
+    script: Latn
+  - text: गान्धार
+    lang: sa
+    script: Deva
+    iast: Gāndhāra
+kind: historical_mahajanapada
+same_name_as:
+  - gandhara-kingdom-epic
+traditions:
+  - buddhist
+historical_time:
+  start: -600
+  end: -500
+  precision: century
+  confidence: low
+  note: Coarse bracket. Raychaudhuri places the sixteen mahajanapadas together before the time of
+    Mahakosala and Bimbisara, i.e. in or before the sixth century BCE.
+  references:
+    - source: raychaudhuri-phai-1923
+      locator: "45"
+    - source: raychaudhuri-phai-1923
+      locator: "46"
+    - source: raychaudhuri-phai-1923
+      locator: "76"
+summary_beginner: One of the sixteen great states of Buddhist tradition, in the north-west, with its
+  capital at Takshasila (Taxila).
+references:
+  - source: raychaudhuri-phai-1923
+    locator: "45"
+  - source: raychaudhuri-phai-1923
+    locator: "76"

@@ -1,0 +1,19 @@
+slug: yayati
+names:
+  - text: "Yayati"
+    lang: en
+    script: Latn
+  - text: ययाति
+    lang: sa
+    script: Deva
+    iast: Yayāti
+kinds: [king, human]
+traditions: [puranic, itihasa]
+summary_beginner: "A king of the lunar line, descended from Pururavas, who took his youngest son Puru's youth in exchange for his own old age. His sons Yadu and Puru found the Yadava and Paurava lines."
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.10"
+  - source: ganguli-mahabharata
+    locator: "1.75"
+  - source: ganguli-mahabharata
+    locator: "1.95"

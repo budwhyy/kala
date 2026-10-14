@@ -1,0 +1,17 @@
+slug: hiranyakashipu
+names:
+  - text: Hiranyakashipu
+    lang: en
+    script: Latn
+  - text: हिरण्यकशिपु
+    lang: sa
+    script: Deva
+    iast: Hiraṇyakaśipu
+kinds: [daitya, asura, king]
+traditions: [itihasa, puranic]
+summary_beginner: "A mighty king of the Daityas, son of Diti and Kashyapa. The Vishnu Purana tells how he persecuted his own son Prahlada for his devotion to Vishnu."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.65"
+  - source: wilson-vishnu-purana
+    locator: "1.15"

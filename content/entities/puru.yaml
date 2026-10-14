@@ -1,0 +1,19 @@
+slug: puru
+names:
+  - text: "Puru"
+    lang: en
+    script: Latn
+  - text: पूरु
+    lang: sa
+    script: Deva
+    iast: Pūru
+kinds: [king, human]
+traditions: [puranic, itihasa]
+summary_beginner: "The youngest son of Yayati and Sharmishtha, who gave his youth to his father and received the kingdom. The Pauravas, including the Kurus, descend from him."
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.10"
+  - source: ganguli-mahabharata
+    locator: "1.75"
+  - source: ganguli-mahabharata
+    locator: "1.94"

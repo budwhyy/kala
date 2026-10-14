@@ -1,0 +1,14 @@
+slug: deities-creation-brahma-vishnu-purana
+names:
+  - text: "Brahma's creation (Vishnu Purana Book 1)"
+    lang: en
+    script: Latn
+kind: creation_pathway
+tradition: puranic
+text: vishnu-purana
+description: "In the Vishnu Purana, Vishnu in the form of Brahma meditates and brings forth the kinds of creation in turn, and then mind-born sons who become the sages and patriarchs."
+references:
+  - source: wilson-vishnu-purana
+    locator: "1.5"
+  - source: wilson-vishnu-purana
+    locator: "1.7"

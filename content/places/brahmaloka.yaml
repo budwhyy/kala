@@ -1,0 +1,29 @@
+slug: brahmaloka
+names:
+  - text: Brahmaloka
+    lang: en
+    script: Latn
+  - text: ब्रह्मलोक
+    lang: sa
+    script: Deva
+    iast: Brahmaloka
+  - text: Satyaloka
+    lang: en
+    script: Latn
+realm: cosmological
+kind: realm
+confidence: mythical
+entities:
+  - to: brahma
+    note: The highest sphere is the world of Brahma.
+    references:
+      - source: wilson-vishnu-purana
+        locator: "2.7"
+traditions:
+  - puranic
+summary_beginner: The world of Brahma, highest of the seven spheres in Puranic cosmology. Not a place on Earth.
+summary_scholar: The Vishnu Purana's highest sphere is Satya-loka; Wilson's note discusses how other
+  Puranas identify Brahma-loka with or rank it against Vishnu-loka and Rudra-loka.
+references:
+  - source: wilson-vishnu-purana
+    locator: "2.7"

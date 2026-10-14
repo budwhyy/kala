@@ -1,0 +1,31 @@
+slug: panchala-kingdom-epic
+names:
+  - text: Panchala (Mahabharata)
+    lang: en
+    script: Latn
+  - text: पञ्चाल
+    lang: sa
+    script: Deva
+    iast: Pañcāla
+kind: epic_legendary
+same_name_as:
+  - panchala-mahajanapada
+rulers:
+  - name:
+      text: Drupada
+      lang: en
+      script: Latn
+    attested: false
+    note: King of Panchala, father of Draupadi.
+    references:
+      - source: ganguli-mahabharata
+        locator: "1.140"
+traditions:
+  - itihasa
+summary_beginner: Drupada's kingdom in the Mahabharata; the Vishnu Purana derives the name Panchala
+  from five princes of the Puru line.
+references:
+  - source: ganguli-mahabharata
+    locator: "1.140"
+  - source: wilson-vishnu-purana
+    locator: "4.19"

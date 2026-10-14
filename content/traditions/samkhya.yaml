@@ -1,0 +1,12 @@
+slug: samkhya
+names:
+  - text: Samkhya
+    lang: en
+    script: Latn
+family: hindu
+parent: hindu
+summary_beginner: A school of philosophy that explains the world through two principles, Purusha
+  (consciousness) and Prakriti (matter).
+references:
+  - source: colebrooke-sankhya-karika
+    locator: karika 3

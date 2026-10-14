@@ -1,0 +1,17 @@
+slug: danu
+names:
+  - text: Danu
+    lang: en
+    script: Latn
+  - text: दनु
+    lang: sa
+    script: Deva
+    iast: Danu
+kinds: [other]
+traditions: [itihasa, puranic]
+summary_beginner: "A daughter of Daksha and wife of Kashyapa, mother of the Danavas, another race of asuras."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.65"
+  - source: wilson-vishnu-purana
+    locator: "1.21"

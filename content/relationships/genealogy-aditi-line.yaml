@@ -1,0 +1,109 @@
+- id: kashyapa-father-of-adityas
+  from: kashyapa
+  to: adityas
+  type: parent
+  role: father
+  mode: biological
+  explanation: "The twelve Adityas are born to Kashyapa through Aditi."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.66"
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+- id: aditi-mother-of-adityas
+  from: aditi
+  to: adityas
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "The twelve Adityas are Aditi's sons, which is the meaning of their name."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.65"
+    - source: ganguli-mahabharata
+      locator: "1.66"
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+- id: kashyapa-father-of-indra
+  from: kashyapa
+  to: indra
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Shakra (Indra) is named among the twelve Adityas, the sons of Kashyapa."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.65"
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+- id: aditi-mother-of-indra
+  from: aditi
+  to: indra
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Shakra (Indra) is named among the twelve Adityas born of Aditi."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.65"
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+- id: kashyapa-father-of-surya
+  from: kashyapa
+  to: surya
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Vivasvat (the Sun) is named among the twelve Adityas, the sons of Kashyapa."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.65"
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+- id: aditi-mother-of-surya
+  from: aditi
+  to: surya
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Vivasvat (the Sun) is named among the twelve Adityas born of Aditi."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.65"
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+- id: kashyapa-father-of-varuna
+  from: kashyapa
+  to: varuna
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Varuna is named among the twelve Adityas, the sons of Kashyapa."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.65"
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+- id: aditi-mother-of-varuna
+  from: aditi
+  to: varuna
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Varuna is named among the twelve Adityas born of Aditi."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.65"
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+- id: surya-father-of-ashvins
+  from: surya
+  to: ashvins
+  type: parent
+  role: father
+  mode: biological
+  variant: vishnu-purana-account
+  explanation: "In the form of a horse, the Sun fathers the twin Ashvins on his wife Sanjna, who had taken the form of a mare. The Mahabharata instead names Savitri as their father."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "3.2"

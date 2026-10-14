@@ -1,0 +1,16 @@
+slug: bhagavad-gita
+names:
+  - text: Bhagavad Gita
+    lang: en
+    script: Latn
+  - text: भगवद्गीता
+    lang: sa
+    script: Deva
+    iast: Bhagavad Gītā
+genre: itihasa
+original_language: sa
+traditions:
+  - itihasa
+  - vaishnava
+  - vedanta
+summary_beginner: Krishna's teaching to Arjuna before the battle, part of the Mahabharata.

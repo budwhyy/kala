@@ -1,0 +1,12 @@
+slug: deities-creation-taittiriya-brahman
+names:
+  - text: "Brahman as origin (Taittiriya Upanishad)"
+    lang: en
+    script: Latn
+kind: creation_pathway
+tradition: vedanta
+text: upanishads
+description: "In the Taittiriya Upanishad, Varuna teaches his son Bhrigu that Brahman is that from which beings are born, by which they live, and into which they return. Vedanta reads creation through this teaching."
+references:
+  - source: muller-upanishads
+    locator: "Taittiriya Upanishad 3.1"

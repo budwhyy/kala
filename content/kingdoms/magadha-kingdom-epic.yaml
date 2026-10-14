@@ -1,0 +1,39 @@
+slug: magadha-kingdom-epic
+names:
+  - text: Magadha (Mahabharata)
+    lang: en
+    script: Latn
+  - text: मगध
+    lang: sa
+    script: Deva
+    iast: Magadha
+kind: epic_legendary
+same_name_as:
+  - magadha-mahajanapada
+capitals:
+  - to: girivraja
+    note: Jarasandha's capital Girivraja.
+    references:
+      - source: ganguli-mahabharata
+        locator: "2.21"
+rulers:
+  - name:
+      text: Jarasandha
+      lang: en
+      script: Latn
+    attested: false
+    note: Epic king of Magadha.
+    references:
+      - source: ganguli-mahabharata
+        locator: "2.14"
+      - source: wilson-vishnu-purana
+        locator: "4.19"
+traditions:
+  - itihasa
+  - puranic
+summary_beginner: Jarasandha's kingdom in the Mahabharata and the Puranas, the enemy of the Yadavas.
+references:
+  - source: ganguli-mahabharata
+    locator: "2.21"
+  - source: wilson-vishnu-purana
+    locator: "4.19"

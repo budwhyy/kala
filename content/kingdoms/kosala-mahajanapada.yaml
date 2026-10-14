@@ -1,0 +1,50 @@
+slug: kosala-mahajanapada
+names:
+  - text: Kosala (mahajanapada)
+    lang: en
+    script: Latn
+  - text: कोसल
+    lang: sa
+    script: Deva
+    iast: Kosala
+kind: historical_mahajanapada
+same_name_as:
+  - kosala-kingdom-epic
+capitals:
+  - to: ayodhya
+    note: Raychaudhuri thinks Ayodhya was the earliest capital, followed by Saketa and Sravasti.
+    references:
+      - source: raychaudhuri-phai-1923
+        locator: "53"
+relations:
+  - kingdom: kashi-mahajanapada
+    type: vassalage
+    note: Kasi lost its independence and became part of the Kosalan monarchy in the sixth century BCE.
+    references:
+      - source: raychaudhuri-phai-1923
+        locator: "46"
+traditions:
+  - buddhist
+historical_time:
+  start: -600
+  end: -500
+  precision: century
+  confidence: low
+  note: Coarse bracket. Raychaudhuri places the sixteen mahajanapadas together before the time of
+    Mahakosala and Bimbisara, i.e. in or before the sixth century BCE.
+  references:
+    - source: raychaudhuri-phai-1923
+      locator: "45"
+    - source: raychaudhuri-phai-1923
+      locator: "46"
+    - source: raychaudhuri-phai-1923
+      locator: "49"
+    - source: raychaudhuri-phai-1923
+      locator: "53"
+summary_beginner: One of the sixteen great states of Buddhist tradition, with the cities Ayodhya,
+  Saketa and Sravasti.
+references:
+  - source: raychaudhuri-phai-1923
+    locator: "45"
+  - source: raychaudhuri-phai-1923
+    locator: "49"

@@ -1,0 +1,19 @@
+slug: diti
+names:
+  - text: Diti
+    lang: en
+    script: Latn
+  - text: दिति
+    lang: sa
+    script: Deva
+    iast: Diti
+kinds: [other]
+traditions: [itihasa, puranic]
+summary_beginner: "A daughter of Daksha and wife of Kashyapa, mother of the Daityas, a race of asuras (opponents of the gods). The Vishnu Purana names her sons as Hiranyakashipu and Hiranyaksha."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.64"
+  - source: ganguli-mahabharata
+    locator: "1.65"
+  - source: wilson-vishnu-purana
+    locator: "1.15"

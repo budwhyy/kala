@@ -1,0 +1,75 @@
+slug: panchavati
+names:
+  - text: Panchavati
+    lang: en
+    script: Latn
+  - text: पञ्चवटी
+    lang: sa
+    script: Deva
+    iast: Pañcavaṭī
+realm: terrestrial
+kind: forest
+confidence: debated
+modern_admin:
+  country: India
+  region: Maharashtra
+  district: Nashik
+alternative_identifications:
+  - label: Panchavati, Nashik
+    confidence: traditional
+    geometry:
+      type: Point
+      coordinates:
+        - 73.79
+        - 20.01
+    modern_admin:
+      country: India
+      region: Maharashtra
+      district: Nashik
+    argument:
+      The best-known living tradition places Panchavati on the Godavari at Nashik. Our sources
+      do not document this identification.
+    references:
+      - source: griffith-ramayana
+        locator: "3.15"
+        note: textual setting only
+  - label: Bhadrachalam area on the Godavari
+    confidence: traditional
+    geometry:
+      type: Point
+      coordinates:
+        - 80.89
+        - 17.67
+    modern_admin:
+      country: India
+      region: Telangana
+      district: Bhadradri Kothagudem
+    argument: A rival tradition places Rama's forest dwelling near Bhadrachalam, further down the
+      Godavari. Our sources do not document this identification.
+    references:
+      - source: griffith-ramayana
+        locator: "3.13"
+        note: textual setting only
+evidence:
+  - type: textual
+    summary:
+      In Valmiki's Ramayana the sage Agastya directs Rama to Panchavati, where Lakshmana builds
+      the exiles' hut.
+    references:
+      - source: griffith-ramayana
+        locator: "3.13"
+      - source: griffith-ramayana
+        locator: "3.15"
+  - type: textual
+    summary: The Mahabharata's pilgrimage list includes the woods of Panchavati.
+    references:
+      - source: ganguli-mahabharata
+        locator: "3.83"
+traditions:
+  - itihasa
+  - vaishnava
+summary_beginner: The forest where Rama, Sita and Lakshmana lived before Sita was taken. Nashik is
+  the most famous traditional site, but others are claimed.
+references:
+  - source: griffith-ramayana
+    locator: "3.15"

@@ -1,0 +1,15 @@
+slug: budha
+names:
+  - text: "Budha"
+    lang: en
+    script: Latn
+  - text: बुध
+    lang: sa
+    script: Deva
+    iast: Budha
+kinds: [deity]
+traditions: [puranic]
+summary_beginner: "The son of the Moon (Soma), identified with the planet Mercury. In the Vishnu Purana he fathers Pururavas with Ila."
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.6"

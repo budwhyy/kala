@@ -1,0 +1,62 @@
+slug: sarasvati-river
+names:
+  - text: Sarasvati (river)
+    lang: en
+    script: Latn
+  - text: सरस्वती
+    lang: sa
+    script: Deva
+    iast: Sarasvatī
+realm: terrestrial
+kind: river
+confidence: debated
+modern_admin:
+  country: India
+  region: Haryana / Rajasthan
+alternative_identifications:
+  - label: Sarsuti stream near Thanesar
+    confidence: debated
+    geometry:
+      type: Point
+      coordinates:
+        - 76.82
+        - 29.97
+    modern_admin:
+      country: India
+      region: Haryana
+      district: Kurukshetra
+    argument: Cunningham describes the land around Thanesar as lying between the Sarasvati and
+      Drishadvati, identifying the epic river with the stream that still bears the name there.
+    references:
+      - source: cunningham-ancient-geography
+        locator: "331"
+  - label: River that vanishes at Vinasana
+    confidence: debated
+    argument:
+      The Mahabharata says the Sarasvati disappears at Vinasana and reappears at other tirthas,
+      so the epic river cannot simply be equated with a single modern stream. No point is drawn.
+    references:
+      - source: ganguli-mahabharata
+        locator: "3.82"
+evidence:
+  - type: textual
+    summary: The Mahabharata places Kurukshetra south of the Sarasvati and describes the river
+      disappearing at Vinasana; the Vishnu Purana lists the Sarasvati among the rivers of
+      Bharatavarsha.
+    references:
+      - source: ganguli-mahabharata
+        locator: "3.83"
+      - source: ganguli-mahabharata
+        locator: "3.82"
+      - source: wilson-vishnu-purana
+        locator: "2.3"
+traditions:
+  - vedic
+  - hindu
+summary_beginner: A holy river praised in early texts whose course is debated. The epic says it
+  vanishes in the desert; a small stream near Kurukshetra still bears its name.
+references:
+  - source: ganguli-mahabharata
+    locator: "3.82"
+  - source: cunningham-ancient-geography
+    locator: "331"

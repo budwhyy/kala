@@ -1,0 +1,11 @@
+slug: vedanta
+names:
+  - text: Vedanta
+    lang: en
+    script: Latn
+family: hindu
+parent: hindu
+summary_beginner: Schools of philosophy based on the Upanishads, the Bhagavad Gita and the Brahma Sutras.
+references:
+  - source: muller-upanishads
+    locator: SBE 1, Introduction

@@ -29,7 +29,8 @@ export const CosmicCycleModel = z
       )
       .length(4),
     mahayugas_per_manvantara: z.int().min(1),
-    manvantaras_per_kalpa: z.int().min(1),
+    /** Omit when the text does not state it (e.g. Manu calls the manvantaras numberless). */
+    manvantaras_per_kalpa: z.int().min(1).optional(),
     /** Mahayugas per kalpa, if the text states it directly (it may not equal the product above). */
     mahayugas_per_kalpa: z.int().min(1).optional(),
     /** Sandhi periods between manvantaras, if the text describes them. */
@@ -82,7 +83,8 @@ export const CosmicCycleModel = z
         message: "manvantara ordinals must be unique",
       });
     }
-    if (ordinals.some((o) => o > m.manvantaras_per_kalpa)) {
+    const limit = m.manvantaras_per_kalpa;
+    if (limit !== undefined && ordinals.some((o) => o > limit)) {
       ctx.addIssue({
         code: "custom",
         path: ["manvantaras"],

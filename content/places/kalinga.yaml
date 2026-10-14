@@ -1,0 +1,67 @@
+slug: kalinga
+names:
+  - text: Kalinga
+    lang: en
+    script: Latn
+  - text: कलिङ्ग
+    lang: sa
+    script: Deva
+    iast: Kaliṅga
+realm: terrestrial
+kind: region
+confidence: debated
+modern_admin:
+  country: India
+  region: Odisha / Andhra Pradesh
+alternative_identifications:
+  - label: Capital at Rajahmundry (seventh century)
+    confidence: debated
+    geometry:
+      type: Point
+      coordinates:
+        - 81.78
+        - 17
+    modern_admin:
+      country: India
+      region: Andhra Pradesh
+    argument: Cunningham took Hwen Thsang's bearings to point to Rajamahendri on the Godavari as the
+      capital of Kalinga in the seventh century.
+    references:
+      - source: cunningham-ancient-geography
+        locator: "516"
+  - label: Original capital at Srikakulam
+    confidence: traditional
+    geometry:
+      type: Point
+      coordinates:
+        - 83.9
+        - 18.3
+    modern_admin:
+      country: India
+      region: Andhra Pradesh
+      district: Srikakulam
+    argument: Cunningham records the report that the original capital was Srikakola (Chikakol), near
+      Kalingapatnam.
+    references:
+      - source: cunningham-ancient-geography
+        locator: "516"
+evidence:
+  - type: historical
+    summary: Hwen Thsang visited Kalinga in 639-640 CE; Cunningham discusses its capital and boundaries.
+    references:
+      - source: cunningham-ancient-geography
+        locator: "515"
+      - source: cunningham-ancient-geography
+        locator: "516"
+  - type: textual
+    summary: The Vishnu Purana lists the Kalingas among the peoples of Bharatavarsha.
+    references:
+      - source: wilson-vishnu-purana
+        locator: "2.3"
+traditions:
+  - hindu
+summary_beginner: An ancient coastal region of eastern India. The region is historical, but where
+  its capital lay at different times is discussed by scholars.
+references:
+  - source: cunningham-ancient-geography
+    locator: "515"

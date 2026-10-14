@@ -1,0 +1,16 @@
+slug: muller-upanishads
+title: The Upanishads (Sacred Books of the East, vols 1 and 15)
+text: upanishads
+kind: translation
+creators:
+  - F. Max Müller
+language: en
+published:
+  year: 1879
+  end_year: 1884
+  publisher: Clarendon Press
+  place: Oxford
+licence: public_domain
+licence_note: "Published 1879, 1884; translator d. 1900. Verification status: to check against a
+  catalogue before first use (see docs/SOURCES.md)."
+url: https://www.sacred-texts.com/hin/sbe15/

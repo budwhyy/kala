@@ -1,0 +1,11 @@
+slug: puranic
+names:
+  - text: Puranic
+    lang: en
+    script: Latn
+family: hindu
+parent: hindu
+summary_beginner: The cosmology and genealogies of the Puranas, shared across several Hindu traditions.
+references:
+  - source: wilson-vishnu-purana
+    locator: "1.1"

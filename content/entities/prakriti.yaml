@@ -1,0 +1,21 @@
+slug: prakriti
+names:
+  - text: "Prakriti (nature)"
+    lang: en
+    script: Latn
+  - text: प्रकृति
+    lang: sa
+    script: Deva
+    iast: Prakṛti
+kinds: [principle]
+traditions: [samkhya, puranic, shakta]
+summary_beginner: "Primal nature or matter, made of the three qualities (gunas), from which the material world unfolds. In Samkhya it is uncreated and acts in union with spirit (purusha)."
+references:
+  - source: colebrooke-sankhya-karika
+    locator: "3"
+  - source: colebrooke-sankhya-karika
+    locator: "21"
+  - source: wilson-vishnu-purana
+    locator: "1.2"
+  - source: vijnanananda-devi-bhagavata
+    locator: "3.6"

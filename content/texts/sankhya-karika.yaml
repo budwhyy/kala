@@ -1,0 +1,14 @@
+slug: sankhya-karika
+names:
+  - text: Samkhya Karika
+    lang: en
+    script: Latn
+  - text: सांख्यकारिका
+    lang: sa
+    script: Deva
+    iast: Sāṃkhyakārikā
+genre: darshana
+original_language: sa
+traditions:
+  - samkhya
+summary_beginner: The classic summary of Samkhya philosophy, attributed to Ishvarakrishna.

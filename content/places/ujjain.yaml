@@ -1,0 +1,52 @@
+slug: ujjain
+names:
+  - text: Ujjain
+    lang: en
+    script: Latn
+  - text: उज्जयिनी
+    lang: sa
+    script: Deva
+    iast: Ujjayinī
+  - text: उज्जैन
+    lang: hi
+    script: Deva
+realm: terrestrial
+kind: city
+confidence: verified
+geometry:
+  type: Point
+  coordinates:
+    - 75.78
+    - 23.18
+modern_admin:
+  country: India
+  region: Madhya Pradesh
+  district: Ujjain
+evidence:
+  - type: historical
+    summary:
+      Hwen Thsang described Ujjayini as a capital about five miles round; Cunningham identified
+      it with Ujain.
+    references:
+      - source: cunningham-ancient-geography
+        locator: "489"
+  - type: historical
+    summary: Raychaudhuri gives Ujjain as the capital of northern Avanti.
+    references:
+      - source: raychaudhuri-phai-1923
+        locator: "75"
+kingdoms:
+  - to: avanti-mahajanapada
+    note: Capital of northern Avanti.
+    references:
+      - source: raychaudhuri-phai-1923
+        locator: "75"
+traditions:
+  - hindu
+summary_beginner: A historic city in Madhya Pradesh, capital of the ancient region of Avanti and a
+  major Hindu pilgrimage centre.
+references:
+  - source: cunningham-ancient-geography
+    locator: "489"
+  - source: raychaudhuri-phai-1923
+    locator: "75"

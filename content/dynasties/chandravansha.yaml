@@ -1,0 +1,33 @@
+slug: chandravansha
+names:
+  - text: Lunar dynasty (Chandravansha)
+    lang: en
+    script: Latn
+  - text: चन्द्रवंश
+    lang: sa
+    script: Deva
+    iast: Candravaṃśa
+kind: legendary
+lineage_type: chandravansha
+founders:
+  - chandra
+  - pururavas
+kingdoms:
+  - to: kashi-kingdom-epic
+    note: The kings of Kasi descend from Ayus, son of Pururavas.
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.8"
+variant: vishnu-purana-account
+traditions:
+  - puranic
+  - itihasa
+summary_beginner: The legendary royal line descended from Soma (the Moon) through Budha and
+  Pururavas, ancestors of the Yadavas and the Kurus.
+summary_scholar: In the Vishnu Purana Soma, son of Atri, fathers Budha, and Budha fathers Pururavas
+  on Ila; later branches include the Yadavas and the Pauravas.
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.6"
+  - source: wilson-vishnu-purana
+    locator: "4.10"

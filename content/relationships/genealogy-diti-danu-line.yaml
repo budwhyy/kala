@@ -1,0 +1,101 @@
+- id: kashyapa-father-of-daityas
+  from: kashyapa
+  to: daityas
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Kashyapa's offspring include the asuras; the Daityas descend from him through Diti."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.66"
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+- id: diti-mother-of-daityas
+  from: diti
+  to: daityas
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "The Daityas are the sons of Diti."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.64"
+    - source: wilson-vishnu-purana
+      locator: "1.21"
+- id: kashyapa-father-of-hiranyakashipu
+  from: kashyapa
+  to: hiranyakashipu
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Hiranyakashipu is Diti's son by Kashyapa."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.65"
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+- id: diti-mother-of-hiranyakashipu
+  from: diti
+  to: hiranyakashipu
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Hiranyakashipu is the son of Diti; the Mahabharata names him as her only son."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.65"
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+- id: kashyapa-father-of-hiranyaksha
+  from: kashyapa
+  to: hiranyaksha
+  type: parent
+  role: father
+  mode: biological
+  variant: vishnu-purana-account
+  explanation: "The Vishnu Purana names Hiranyaksha as Diti's second son by Kashyapa."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+- id: diti-mother-of-hiranyaksha
+  from: diti
+  to: hiranyaksha
+  type: parent
+  role: mother
+  mode: biological
+  variant: vishnu-purana-account
+  explanation: "The Vishnu Purana gives Diti two sons, Hiranyakashipu and Hiranyaksha; the Mahabharata names only one."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+- id: hiranyakashipu-sibling-of-hiranyaksha
+  from: hiranyakashipu
+  to: hiranyaksha
+  type: sibling
+  variant: vishnu-purana-account
+  explanation: "In the Vishnu Purana the two are brothers, both sons of Diti and Kashyapa."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+- id: kashyapa-father-of-danavas
+  from: kashyapa
+  to: danavas
+  type: parent
+  role: father
+  mode: biological
+  explanation: "The Danavas are the children of Kashyapa by Danu."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.21"
+- id: danu-mother-of-danavas
+  from: danu
+  to: danavas
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "The Danavas are the sons of Danu, whom both texts list by name."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.65"
+    - source: wilson-vishnu-purana
+      locator: "1.21"

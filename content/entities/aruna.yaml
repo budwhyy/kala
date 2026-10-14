@@ -1,0 +1,17 @@
+slug: aruna
+names:
+  - text: Aruna
+    lang: en
+    script: Latn
+  - text: अरुण
+    lang: sa
+    script: Deva
+    iast: Aruṇa
+kinds: [suparna]
+traditions: [itihasa, puranic]
+summary_beginner: "The elder son of Vinata, born half-formed because his mother broke his egg early. In the Mahabharata he curses her for this and becomes the charioteer of the Sun."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.16"
+  - source: wilson-vishnu-purana
+    locator: "1.21"

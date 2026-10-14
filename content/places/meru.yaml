@@ -1,0 +1,26 @@
+slug: meru
+names:
+  - text: Meru
+    lang: en
+    script: Latn
+  - text: मेरु
+    lang: sa
+    script: Deva
+    iast: Meru
+realm: cosmological
+kind: mountain
+confidence: mythical
+entities:
+  - to: brahma
+    note: The Vishnu Purana places the city of Brahma on Meru's summit.
+    references:
+      - source: wilson-vishnu-purana
+        locator: "2.2"
+traditions:
+  - puranic
+summary_beginner: The golden mountain at the centre of the world in Puranic cosmology. It is not a place on Earth.
+summary_scholar: In the Vishnu Purana Meru stands at the centre of Jambudvipa, between the Nila and
+  Nishadha ranges, with Brahma's city on its summit, encircled by the heavenly Ganga.
+references:
+  - source: wilson-vishnu-purana
+    locator: "2.2"

@@ -1,0 +1,54 @@
+slug: dwarka
+names:
+  - text: Dwarka
+    lang: en
+    script: Latn
+  - text: द्वारका
+    lang: sa
+    script: Deva
+    iast: Dvārakā
+  - text: Dwaravati
+    lang: en
+    script: Latn
+realm: terrestrial
+kind: city
+confidence: traditional
+geometry:
+  type: Point
+  coordinates:
+    - 68.97
+    - 22.24
+modern_admin:
+  country: India
+  region: Gujarat
+  district: Devbhumi Dwarka
+evidence:
+  - type: textual
+    summary: The Vishnu Purana says the old city of Kusasthali came to be known as Dwaraka; Wilson's
+      note places it on the coast of Gujarat. Krishna builds Dwaraka when Mathura is threatened.
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.1"
+      - source: wilson-vishnu-purana
+        locator: "5.23"
+  - type: textual
+    summary: In the Mahabharata (Sabha Parva) the Yadavas, fearing Jarasandha, withdraw west to
+      Kusasthali near the Raivata hills, called Dwaravati.
+    references:
+      - source: ganguli-mahabharata
+        locator: "2.14"
+  - type: traditional
+    summary: Living tradition identifies the epic city with the temple town of Dwarka on the Gujarat coast.
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.1"
+        note: Wilson's note on Kusasthali/Dwaraka
+traditions:
+  - vaishnava
+  - itihasa
+summary_beginner: A coastal temple town in Gujarat that tradition identifies with Krishna's city of Dwaraka.
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.1"
+  - source: ganguli-mahabharata
+    locator: "2.14"

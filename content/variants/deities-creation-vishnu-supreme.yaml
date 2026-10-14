@@ -1,0 +1,12 @@
+slug: deities-creation-vishnu-supreme
+names:
+  - text: "Vishnu as the source of all (Vishnu Purana)"
+    lang: en
+    script: Latn
+kind: creation_pathway
+tradition: vaishnava
+text: vishnu-purana
+description: "In the Vishnu Purana, Vishnu is the supreme being from whom the universe comes. Primal matter (pradhana or prakriti), spirit (purusha) and time are all forms of him, and he acts as Brahma to create, as himself to preserve and as Rudra to destroy."
+references:
+  - source: wilson-vishnu-purana
+    locator: "1.2"

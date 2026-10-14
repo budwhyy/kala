@@ -1,0 +1,17 @@
+slug: daityas
+names:
+  - text: Daityas
+    lang: en
+    script: Latn
+  - text: दैत्य
+    lang: sa
+    script: Deva
+    iast: Daitya
+kinds: [daitya, asura]
+traditions: [itihasa, puranic]
+summary_beginner: "The descendants of Diti, a race of asuras who often oppose the gods."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.64"
+  - source: wilson-vishnu-purana
+    locator: "1.21"

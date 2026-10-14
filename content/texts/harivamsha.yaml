@@ -1,0 +1,15 @@
+slug: harivamsha
+names:
+  - text: Harivamsha
+    lang: en
+    script: Latn
+  - text: हरिवंश
+    lang: sa
+    script: Deva
+    iast: Harivaṃśa
+genre: itihasa
+original_language: sa
+traditions:
+  - itihasa
+  - vaishnava
+summary_beginner: A supplement to the Mahabharata telling the genealogy and life of Krishna.

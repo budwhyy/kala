@@ -1,0 +1,16 @@
+slug: deities-skanda-birth-vana-parva
+names:
+  - text: "Birth of Skanda (Mahabharata, Vana Parva)"
+    lang: en
+    script: Latn
+kind: account
+tradition: itihasa
+text: mahabharata
+description: "Markandeya's telling of Skanda's birth in the Vana Parva: the child is born of Agni's seed and is called Agni's son, and Brahma later tells him that Rudra had entered Agni and Uma had entered Svaha, so Mahadeva is his father."
+references:
+  - source: ganguli-mahabharata
+    locator: "3.224"
+  - source: ganguli-mahabharata
+    locator: "3.225"
+  - source: ganguli-mahabharata
+    locator: "3.230"

@@ -1,0 +1,11 @@
+slug: shakta
+names:
+  - text: Shakta
+    lang: en
+    script: Latn
+family: hindu
+parent: hindu
+summary_beginner: Traditions centred on the Goddess (Devi) as the supreme power.
+references:
+  - source: vijnanananda-devi-bhagavata
+    locator: "1.1"

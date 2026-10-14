@@ -1,0 +1,21 @@
+slug: daksha
+names:
+  - text: "Daksha"
+    lang: en
+    script: Latn
+  - text: दक्ष
+    lang: sa
+    script: Deva
+    iast: Dakṣa
+kinds: [prajapati]
+traditions: [puranic, itihasa]
+summary_beginner: "A patriarch (prajapati, 'lord of creatures') whose many daughters marry gods and sages and become mothers of much of creation. Texts differ on his birth: born from Brahma's mind in one chapter of the Vishnu Purana, son of the Prachetasas in another and in the Mahabharata."
+references:
+  - source: wilson-vishnu-purana
+    locator: "1.7"
+  - source: wilson-vishnu-purana
+    locator: "1.15"
+  - source: ganguli-mahabharata
+    locator: "1.65"
+  - source: ganguli-mahabharata
+    locator: "1.75"

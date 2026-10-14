@@ -1,0 +1,12 @@
+slug: deities-creation-nasadiya-sukta
+names:
+  - text: "Nasadiya Sukta (Rigveda 10.129)"
+    lang: en
+    script: Latn
+kind: creation_pathway
+tradition: vedic
+text: rigveda
+description: "The Rigveda's hymn of creation, which describes a time before existence and non-existence, when only 'That One' breathed by its own power, and ends by asking whether even the overseer of the world knows how it began. The gods themselves are said to come later than creation."
+references:
+  - source: griffith-rigveda
+    locator: "10.129"

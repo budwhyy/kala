@@ -1,0 +1,15 @@
+slug: saptarishis
+names:
+  - text: "Saptarishis (the seven rishis)"
+    lang: en
+    script: Latn
+  - text: सप्तर्षि
+    lang: sa
+    script: Deva
+    iast: Saptarṣi
+kinds: [rishi]
+traditions: [puranic]
+summary_beginner: "The 'seven sages', an office held by a group rather than a fixed set of people. The Vishnu Purana names a different seven for each age of a Manu, so each membership list is stored as its own account."
+references:
+  - source: wilson-vishnu-purana
+    locator: "3.1"

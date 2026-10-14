@@ -1,0 +1,25 @@
+slug: patala
+names:
+  - text: Patala
+    lang: en
+    script: Latn
+  - text: पाताल
+    lang: sa
+    script: Deva
+    iast: Pātāla
+realm: cosmological
+kind: realm
+confidence: mythical
+entities:
+  - to: shesha
+    note: The Vishnu Purana's account of Patala includes the serpent Shesha below it.
+    references:
+      - source: wilson-vishnu-purana
+        locator: "2.5"
+traditions:
+  - puranic
+summary_beginner: The seven splendid underworld regions below the earth in Puranic cosmology, home
+  of nagas, daityas and danavas. Not a place on Earth.
+references:
+  - source: wilson-vishnu-purana
+    locator: "2.5"

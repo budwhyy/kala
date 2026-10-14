@@ -1,0 +1,42 @@
+slug: magadha-mahajanapada
+names:
+  - text: Magadha (mahajanapada)
+    lang: en
+    script: Latn
+  - text: मगध
+    lang: sa
+    script: Deva
+    iast: Magadha
+kind: historical_mahajanapada
+same_name_as:
+  - magadha-kingdom-epic
+capitals:
+  - to: girivraja
+    note: Earliest capital, Girivraja or old Rajagriha.
+    references:
+      - source: raychaudhuri-phai-1923
+        locator: "56"
+traditions:
+  - buddhist
+  - jain
+historical_time:
+  start: -600
+  end: -500
+  precision: century
+  confidence: low
+  note: Coarse bracket. Raychaudhuri places the sixteen mahajanapadas together before the time of
+    Mahakosala and Bimbisara, i.e. in or before the sixth century BCE.
+  references:
+    - source: raychaudhuri-phai-1923
+      locator: "45"
+    - source: raychaudhuri-phai-1923
+      locator: "46"
+    - source: raychaudhuri-phai-1923
+      locator: "56"
+summary_beginner: One of the sixteen great states of Buddhist tradition, in south Bihar; it later
+  grew into an empire.
+references:
+  - source: raychaudhuri-phai-1923
+    locator: "45"
+  - source: raychaudhuri-phai-1923
+    locator: "56"

@@ -1,0 +1,19 @@
+slug: vasishtha
+names:
+  - text: "Vasishtha"
+    lang: en
+    script: Latn
+  - text: वसिष्ठ
+    lang: sa
+    script: Deva
+    iast: Vasiṣṭha
+kinds: [rishi]
+traditions: [puranic]
+summary_beginner: "A great sage. The Vishnu Purana counts him among Brahma's mind-born sons and among the seven rishis of the present age, and names him as family priest of Ikshvaku's house."
+references:
+  - source: wilson-vishnu-purana
+    locator: "1.7"
+  - source: wilson-vishnu-purana
+    locator: "3.1"
+  - source: wilson-vishnu-purana
+    locator: "4.2"

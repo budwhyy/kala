@@ -1,0 +1,41 @@
+slug: kashi-mahajanapada
+names:
+  - text: Kashi (mahajanapada)
+    lang: en
+    script: Latn
+  - text: काशी
+    lang: sa
+    script: Deva
+    iast: Kāśī
+kind: historical_mahajanapada
+same_name_as:
+  - kashi-kingdom-epic
+capitals:
+  - to: kashi
+    note: Benares.
+    references:
+      - source: raychaudhuri-phai-1923
+        locator: "46"
+traditions:
+  - buddhist
+historical_time:
+  start: -600
+  end: -500
+  precision: century
+  confidence: low
+  note: Coarse bracket. Raychaudhuri places the sixteen mahajanapadas together before the time of
+    Mahakosala and Bimbisara, i.e. in or before the sixth century BCE.
+  references:
+    - source: raychaudhuri-phai-1923
+      locator: "45"
+    - source: raychaudhuri-phai-1923
+      locator: "46"
+    - source: raychaudhuri-phai-1923
+      locator: "46"
+summary_beginner: One of the sixteen great states of Buddhist tradition, ruled from Benares, later
+  absorbed by Kosala.
+references:
+  - source: raychaudhuri-phai-1923
+    locator: "45"
+  - source: raychaudhuri-phai-1923
+    locator: "46"

@@ -1,0 +1,44 @@
+slug: rameswaram
+names:
+  - text: Rameswaram
+    lang: en
+    script: Latn
+  - text: रामेश्वर
+    lang: sa
+    script: Deva
+    iast: Rāmeśvara
+realm: terrestrial
+kind: tirtha
+confidence: traditional
+geometry:
+  type: Point
+  coordinates:
+    - 79.31
+    - 9.29
+modern_admin:
+  country: India
+  region: Tamil Nadu
+  district: Ramanathapuram
+evidence:
+  - type: textual
+    summary: In Valmiki's Ramayana Nala builds a bridge across the sea for Rama's army.
+    references:
+      - source: griffith-ramayana
+        locator: "6.22"
+  - type: traditional
+    summary: Wilson's note on the Vishnu Purana refers to 'Setubandha or Rameswara', showing the
+      tradition that equates the bridge's starting point with Rameswaram.
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.5"
+        note: Wilson's note citing the Kasi Khanda
+traditions:
+  - shaiva
+  - vaishnava
+summary_beginner: An island temple town in Tamil Nadu that tradition associates with the place from
+  which Rama's bridge to Lanka was built.
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.5"
+  - source: griffith-ramayana
+    locator: "6.22"

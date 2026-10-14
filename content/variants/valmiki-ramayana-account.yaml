@@ -1,0 +1,12 @@
+slug: valmiki-ramayana-account
+names:
+  - text: Valmiki Ramayana account
+    lang: en
+    script: Latn
+kind: account
+tradition: itihasa
+text: valmiki-ramayana
+description: Valmiki's version of the Rama story and its genealogies.
+references:
+  - source: griffith-ramayana
+    locator: "1.1"

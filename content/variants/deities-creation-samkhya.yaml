@@ -1,0 +1,14 @@
+slug: deities-creation-samkhya
+names:
+  - text: "Purusha and Prakriti (Samkhya Karika)"
+    lang: en
+    script: Latn
+kind: creation_pathway
+tradition: samkhya
+text: sankhya-karika
+description: "In the Samkhya Karika, uncreated nature (prakriti) is the root of everything, and spirit (purusha) is neither produced nor productive. The world unfolds when the two come together, which the text compares to a lame man riding on a blind man's shoulders."
+references:
+  - source: colebrooke-sankhya-karika
+    locator: "3"
+  - source: colebrooke-sankhya-karika
+    locator: "21"

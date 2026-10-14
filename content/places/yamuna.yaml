@@ -1,0 +1,60 @@
+slug: yamuna
+names:
+  - text: Yamuna
+    lang: en
+    script: Latn
+  - text: यमुना
+    lang: sa
+    script: Deva
+    iast: Yamunā
+  - text: Jumna
+    lang: en
+    script: Latn
+  - text: Kalindi
+    lang: en
+    script: Latn
+realm: terrestrial
+kind: river
+confidence: traditional
+geometry:
+  type: Point
+  coordinates:
+    - 81.89
+    - 25.42
+modern_admin:
+  country: India
+  region: Uttar Pradesh
+  district: Prayagraj
+evidence:
+  - type: textual
+    summary:
+      In the Mahabharata the Yamuna, daughter of the sun, unites with the Ganga at Prayaga; in
+      the Ramayana the exiles cross the Yamuna (Kalindi).
+    references:
+      - source: ganguli-mahabharata
+        locator: "3.85"
+      - source: griffith-ramayana
+        locator: "2.55"
+  - type: historical
+    summary: Cunningham describes Prayaga at the junction of the Ganges and Jumna.
+    references:
+      - source: cunningham-ancient-geography
+        locator: "388"
+related_places:
+  - to: prayagraj
+    relation: near
+    note: The point marks the confluence at Prayaga.
+    references:
+      - source: cunningham-ancient-geography
+        locator: "388"
+traditions:
+  - hindu
+  - vaishnava
+summary_beginner: A sacred river of north India flowing past Delhi, Mathura and Vrindavan. The
+  marker is placed at its confluence with the Ganga at Prayagraj rather than drawing the whole
+  river.
+references:
+  - source: ganguli-mahabharata
+    locator: "3.85"
+  - source: cunningham-ancient-geography
+    locator: "388"

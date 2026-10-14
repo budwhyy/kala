@@ -1,0 +1,12 @@
+slug: deities-saptarishis-vishnu-purana-vaivasvata
+names:
+  - text: "Seven rishis of the present age (Vishnu Purana)"
+    lang: en
+    script: Latn
+kind: list
+tradition: puranic
+text: vishnu-purana
+description: "The Vishnu Purana's list of the seven rishis for the age of the present Manu, Vaivasvata: Vasishtha, Kashyapa, Atri, Jamadagni, Gautama, Vishvamitra and Bharadvaja. The same chapter gives a different seven for each earlier Manu (for example Svarochisha's age has the seven sons of Vasishtha). Membership is recorded here rather than as relationships, because the data model has no 'member of' relationship type."
+references:
+  - source: wilson-vishnu-purana
+    locator: "3.1"

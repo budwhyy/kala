@@ -1,0 +1,12 @@
+slug: cosmic-manusmriti
+names:
+  - text: Manusmriti cycle of ages
+    lang: en
+    script: Latn
+kind: cosmic_model
+tradition: hindu
+text: manusmriti
+description: The reckoning of the ages, the day of Brahma and the period of a Manu given in the first chapter of the Laws of Manu.
+references:
+  - source: buhler-manu
+    locator: "Manu 1.68"

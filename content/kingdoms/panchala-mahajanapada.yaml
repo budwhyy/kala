@@ -1,0 +1,41 @@
+slug: panchala-mahajanapada
+names:
+  - text: Panchala (mahajanapada)
+    lang: en
+    script: Latn
+  - text: पञ्चाल
+    lang: sa
+    script: Deva
+    iast: Pañcāla
+kind: historical_mahajanapada
+same_name_as:
+  - panchala-kingdom-epic
+capitals:
+  - to: ahichchhatra
+    note: Capital of northern Panchala.
+    references:
+      - source: raychaudhuri-phai-1923
+        locator: "69"
+traditions:
+  - buddhist
+historical_time:
+  start: -600
+  end: -500
+  precision: century
+  confidence: low
+  note: Coarse bracket. Raychaudhuri places the sixteen mahajanapadas together before the time of
+    Mahakosala and Bimbisara, i.e. in or before the sixth century BCE.
+  references:
+    - source: raychaudhuri-phai-1923
+      locator: "45"
+    - source: raychaudhuri-phai-1923
+      locator: "46"
+    - source: raychaudhuri-phai-1923
+      locator: "69"
+summary_beginner: One of the sixteen great states of Buddhist tradition, east of the Kurus, divided
+  into northern and southern parts.
+references:
+  - source: raychaudhuri-phai-1923
+    locator: "45"
+  - source: raychaudhuri-phai-1923
+    locator: "69"

@@ -1,0 +1,39 @@
+slug: kuru-kingdom-epic
+names:
+  - text: Kuru (Mahabharata)
+    lang: en
+    script: Latn
+  - text: कुरु
+    lang: sa
+    script: Deva
+    iast: Kuru
+kind: epic_legendary
+same_name_as:
+  - kuru-mahajanapada
+capitals:
+  - to: hastinapura
+    note: Hastinapura, founded by Hastin.
+    references:
+      - source: ganguli-mahabharata
+        locator: "1.95"
+      - source: wilson-vishnu-purana
+        locator: "4.19"
+  - to: indraprastha
+    note: The Pandavas' city.
+    references:
+      - source: ganguli-mahabharata
+        locator: "1.209"
+dynasties:
+  - to: kuru-dynasty
+    note: Ruled by Kuru's descendants.
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.20"
+traditions:
+  - itihasa
+summary_beginner: The kingdom of the Kuru dynasty, the setting of the Mahabharata.
+references:
+  - source: ganguli-mahabharata
+    locator: "1.95"
+  - source: wilson-vishnu-purana
+    locator: "4.20"

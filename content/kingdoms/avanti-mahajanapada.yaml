@@ -1,0 +1,40 @@
+slug: avanti-mahajanapada
+names:
+  - text: Avanti (mahajanapada)
+    lang: en
+    script: Latn
+  - text: अवन्ति
+    lang: sa
+    script: Deva
+    iast: Avanti
+kind: historical_mahajanapada
+same_name_as:
+  - avanti-kingdom-epic
+capitals:
+  - to: ujjain
+    note: Capital of northern Avanti.
+    references:
+      - source: raychaudhuri-phai-1923
+        locator: "75"
+traditions:
+  - buddhist
+historical_time:
+  start: -600
+  end: -500
+  precision: century
+  confidence: low
+  note: Coarse bracket. Raychaudhuri places the sixteen mahajanapadas together before the time of
+    Mahakosala and Bimbisara, i.e. in or before the sixth century BCE.
+  references:
+    - source: raychaudhuri-phai-1923
+      locator: "45"
+    - source: raychaudhuri-phai-1923
+      locator: "46"
+    - source: raychaudhuri-phai-1923
+      locator: "75"
+summary_beginner: One of the sixteen great states of Buddhist tradition, around Malwa, with Ujjain as a capital.
+references:
+  - source: raychaudhuri-phai-1923
+    locator: "45"
+  - source: raychaudhuri-phai-1923
+    locator: "75"

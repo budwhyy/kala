@@ -1,0 +1,21 @@
+slug: garuda
+names:
+  - text: Garuda
+    lang: en
+    script: Latn
+  - text: गरुड
+    lang: sa
+    script: Deva
+    iast: Garuḍa
+kinds: [suparna]
+traditions: [itihasa, puranic, vaishnava]
+summary_beginner: "The great bird, son of Kashyapa and Vinata, who steals the nectar of immortality to free his mother from slavery. He becomes the mount of Vishnu and the enemy of the serpents."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.16"
+  - source: ganguli-mahabharata
+    locator: "1.33"
+  - source: ganguli-mahabharata
+    locator: "1.34"
+  - source: wilson-vishnu-purana
+    locator: "1.21"

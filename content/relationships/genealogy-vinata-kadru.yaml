@@ -1,0 +1,217 @@
+- id: kashyapa-father-of-garuda
+  from: kashyapa
+  to: garuda
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Garuda is born from Kashyapa's boon to Vinata of two mighty sons."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.16"
+    - source: wilson-vishnu-purana
+      locator: "1.21"
+- id: vinata-mother-of-garuda
+  from: vinata
+  to: garuda
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Garuda hatches from the second of Vinata's two eggs."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.16"
+    - source: ganguli-mahabharata
+      locator: "1.66"
+    - source: wilson-vishnu-purana
+      locator: "1.21"
+- id: kashyapa-father-of-aruna
+  from: kashyapa
+  to: aruna
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Aruna is one of the two sons Vinata bears to Kashyapa."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.16"
+    - source: wilson-vishnu-purana
+      locator: "1.21"
+- id: vinata-mother-of-aruna
+  from: vinata
+  to: aruna
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Aruna comes from Vinata's first egg, which she breaks open too early."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.16"
+    - source: ganguli-mahabharata
+      locator: "1.66"
+    - source: wilson-vishnu-purana
+      locator: "1.21"
+- id: garuda-sibling-of-aruna
+  from: garuda
+  to: aruna
+  type: sibling
+  explanation: "Garuda and Aruna are the two sons of Vinata."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.16"
+    - source: wilson-vishnu-purana
+      locator: "1.21"
+- id: aruna-curse-vinata
+  from: aruna
+  to: vinata
+  type: curse
+  explanation: "Born half-formed because Vinata broke his egg early, Aruna curses her to be a slave until his brother frees her."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.16"
+    - source: ganguli-mahabharata
+      locator: "1.34"
+      note: "Garuda recalls the curse of Aruna"
+- id: kashyapa-father-of-nagas
+  from: kashyapa
+  to: nagas
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Kashyapa grants Kadru's wish for a thousand serpent sons."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.16"
+- id: kadru-mother-of-nagas
+  from: kadru
+  to: nagas
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Kadru lays a thousand eggs from which the serpents hatch."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.16"
+    - source: wilson-vishnu-purana
+      locator: "1.21"
+- id: kadru-mother-of-shesha
+  from: kadru
+  to: shesha
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Shesha is named among the chief sons of Kadru."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.35"
+    - source: ganguli-mahabharata
+      locator: "1.65"
+    - source: wilson-vishnu-purana
+      locator: "1.21"
+- id: kashyapa-father-of-shesha
+  from: kashyapa
+  to: shesha
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Shesha is one of the serpent sons Kashyapa grants to Kadru, and he calls Kashyapa his father."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.16"
+    - source: ganguli-mahabharata
+      locator: "1.36"
+- id: kadru-mother-of-vasuki
+  from: kadru
+  to: vasuki
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Vasuki is named among the chief sons of Kadru."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.35"
+    - source: ganguli-mahabharata
+      locator: "1.65"
+    - source: wilson-vishnu-purana
+      locator: "1.21"
+- id: kashyapa-father-of-vasuki
+  from: kashyapa
+  to: vasuki
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Vasuki is one of the serpent sons Kashyapa grants to Kadru."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.16"
+    - source: ganguli-mahabharata
+      locator: "1.65"
+- id: kadru-mother-of-takshaka
+  from: kadru
+  to: takshaka
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Takshaka is named among the chief sons of Kadru."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.35"
+    - source: ganguli-mahabharata
+      locator: "1.65"
+    - source: wilson-vishnu-purana
+      locator: "1.21"
+- id: kashyapa-father-of-takshaka
+  from: kashyapa
+  to: takshaka
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Takshaka is one of the serpent sons Kashyapa grants to Kadru."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.16"
+    - source: ganguli-mahabharata
+      locator: "1.65"
+- id: shesha-sibling-of-vasuki
+  from: shesha
+  to: vasuki
+  type: sibling
+  explanation: "Shesha is born first among Kadru's sons and Vasuki next."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.35"
+- id: kadru-curse-nagas
+  from: kadru
+  to: nagas
+  type: curse
+  explanation: "When her serpent sons refuse to help her cheat in the wager with Vinata, Kadru curses them to burn in King Janamejaya's snake sacrifice."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.20"
+- id: garuda-enemy-of-nagas
+  from: garuda
+  to: nagas
+  type: enemy
+  explanation: "After freeing his mother, Garuda obtains the serpents as his food; the Vishnu Purana calls him the relentless enemy of the serpent race."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.34"
+    - source: wilson-vishnu-purana
+      locator: "1.21"
+- id: garuda-vahana-of-vishnu
+  from: garuda
+  to: vishnu
+  type: vahana_of
+  explanation: "Vishnu grants Garuda immortality and a place above him; in return Garuda agrees to be Vishnu's carrier."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.33"
+- id: garuda-ally-of-indra
+  from: garuda
+  to: indra
+  type: ally
+  explanation: "After they clash over the nectar, Indra asks for Garuda's lasting friendship and Garuda agrees."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.33"
+    - source: ganguli-mahabharata
+      locator: "1.34"

@@ -1,0 +1,17 @@
+slug: angiras
+names:
+  - text: "Angiras"
+    lang: en
+    script: Latn
+  - text: अङ्गिरस्
+    lang: sa
+    script: Deva
+    iast: Aṅgiras
+kinds: [rishi, prajapati]
+traditions: [puranic, itihasa]
+summary_beginner: "A sage born from Brahma's mind, listed among his first spiritual sons in the Mahabharata and the Vishnu Purana."
+references:
+  - source: wilson-vishnu-purana
+    locator: "1.7"
+  - source: ganguli-mahabharata
+    locator: "1.65"

@@ -1,0 +1,26 @@
+slug: svarga
+names:
+  - text: Svarga
+    lang: en
+    script: Latn
+  - text: स्वर्ग
+    lang: sa
+    script: Deva
+    iast: Svarga
+  - text: Svarloka
+    lang: en
+    script: Latn
+realm: cosmological
+kind: realm
+confidence: mythical
+traditions:
+  - puranic
+summary_beginner: Heaven, the world of the gods in Hindu cosmology. Not a place on Earth.
+summary_scholar: In the Vishnu Purana Svar-loka is the third of the seven spheres, extending from
+  the sun to the pole star; enjoyment of heaven, like punishment in hell, lasts only for a time.
+references:
+  - source: wilson-vishnu-purana
+    locator: "2.7"
+  - source: wilson-vishnu-purana
+    locator: "2.3"
+    note: Wilson's note on Swarga

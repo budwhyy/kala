@@ -1,0 +1,19 @@
+slug: ikshvaku
+names:
+  - text: "Ikshvaku"
+    lang: en
+    script: Latn
+  - text: इक्ष्वाकु
+    lang: sa
+    script: Deva
+    iast: Ikṣvāku
+kinds: [king, human]
+traditions: [puranic, itihasa]
+summary_beginner: "A son of Vaivasvata Manu and the founder of the royal line to which Rama belongs. The Vishnu Purana says he was born from the Manu's nostril when he sneezed."
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.2"
+  - source: ganguli-mahabharata
+    locator: "1.75"
+  - source: griffith-ramayana
+    locator: "1.70"

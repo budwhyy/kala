@@ -1,0 +1,12 @@
+slug: manusmriti-account
+names:
+  - text: Manusmriti creation account
+    lang: en
+    script: Latn
+kind: account
+tradition: hindu
+text: manusmriti
+description: The account of creation in the first chapter of the Laws of Manu.
+references:
+  - source: buhler-manu
+    locator: "1.1"

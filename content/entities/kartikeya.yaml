@@ -1,0 +1,19 @@
+slug: kartikeya
+names:
+  - text: "Kartikeya (Skanda)"
+    lang: en
+    script: Latn
+  - text: कार्त्तिकेय
+    lang: sa
+    script: Deva
+    iast: Kārttikeya
+kinds: [deity]
+traditions: [shaiva, itihasa]
+summary_beginner: "The six-faced war god, also called Skanda and Mahasena, leader of the army of the gods. His birth is told in several ways; in the Mahabharata's Vana Parva he is called the son of Agni and also the son of Shiva and Uma."
+references:
+  - source: ganguli-mahabharata
+    locator: "3.224"
+  - source: ganguli-mahabharata
+    locator: "3.225"
+  - source: ganguli-mahabharata
+    locator: "3.230"

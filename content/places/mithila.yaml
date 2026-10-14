@@ -1,0 +1,73 @@
+slug: mithila
+names:
+  - text: Mithila
+    lang: en
+    script: Latn
+  - text: मिथिला
+    lang: sa
+    script: Deva
+    iast: Mithilā
+realm: terrestrial
+kind: city
+confidence: debated
+modern_admin:
+  country: Nepal
+  region: Madhesh Province
+  district: Dhanusha
+alternative_identifications:
+  - label: Janakpur
+    confidence: debated
+    geometry:
+      type: Point
+      coordinates:
+        - 85.92
+        - 26.73
+    modern_admin:
+      country: Nepal
+      region: Madhesh Province
+      district: Dhanusha
+    argument: Raychaudhuri reports that some scholars identify the Videhan capital Mithila with the
+      small town of Janakpur just inside Nepal; it is also the place living tradition honours as
+      Sita's home.
+    references:
+      - source: raychaudhuri-phai-1923
+        locator: "59"
+  - label: Mithila as the Videha country (region)
+    confidence: debated
+    argument:
+      Wilson notes that the names Vaideha and Mithila were applied to the country on the Gandak,
+      so the name may denote a region rather than one town.
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.5"
+        note: Wilson's note
+evidence:
+  - type: textual
+    summary: The Vishnu Purana derives the name Mithila from King Mithi of Nimi's line and lists its
+      kings, including Siradhvaja Janaka, father of Sita.
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.5"
+  - type: textual
+    summary: In Valmiki's Ramayana Rama travels with Vishvamitra to Mithila, the city of King Janaka.
+    references:
+      - source: griffith-ramayana
+        locator: "1.49"
+      - source: griffith-ramayana
+        locator: "1.50"
+kingdoms:
+  - to: videha-kingdom-epic
+    note: Capital of the Videha kings.
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.5"
+traditions:
+  - itihasa
+  - puranic
+summary_beginner: The capital of King Janaka, Sita's father, in the Ramayana. Its exact site is
+  uncertain; Janakpur in Nepal is the best-known candidate.
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.5"
+  - source: raychaudhuri-phai-1923
+    locator: "59"

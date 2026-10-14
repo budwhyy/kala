@@ -1,0 +1,67 @@
+slug: hastinapura
+names:
+  - text: Hastinapura
+    lang: en
+    script: Latn
+  - text: हस्तिनापुर
+    lang: sa
+    script: Deva
+    iast: Hastināpura
+realm: terrestrial
+kind: city
+confidence: verified
+geometry:
+  type: Point
+  coordinates:
+    - 78.02
+    - 29.16
+modern_admin:
+  country: India
+  region: Uttar Pradesh
+  district: Meerut
+evidence:
+  - type: archaeological
+    summary:
+      B. B. Lal's excavation (1950-52) found a settlement whose second period, marked by Painted
+      Grey Ware, he dated to about 1100-800 BCE and which ended in a flood of the Ganga.
+    references:
+      - source: lal-hastinapura-1955
+        locator: "23"
+  - type: archaeological
+    summary: The report's editorial notes warn that the excavation has no bearing on whether the
+      Mahabharata story is true.
+    references:
+      - source: lal-hastinapura-1955
+        locator: "2"
+        note: Notes preceding the report
+  - type: textual
+    summary:
+      The Mahabharata and the Vishnu Purana say the city was founded by, and named after, King
+      Hastin.
+    references:
+      - source: ganguli-mahabharata
+        locator: "1.95"
+      - source: wilson-vishnu-purana
+        locator: "4.19"
+kingdoms:
+  - to: kuru-kingdom-epic
+    note: Capital of the Kuru kings in the Mahabharata.
+    references:
+      - source: ganguli-mahabharata
+        locator: "1.95"
+traditions:
+  - itihasa
+summary_beginner: An excavated ancient town in Uttar Pradesh, identified with the Kuru capital of
+  the Mahabharata. The dig shows people lived there long ago; it does not prove the epic's events
+  happened.
+summary_scholar: Verified as an ancient site by Lal's stratified excavation. Lal's own report
+  cautions that the Painted Grey Ware levels and the flood do not authenticate the epic narrative.
+  Puranic tradition that Hastinapura was washed away by the Ganga is noted by Raychaudhuri and
+  Cunningham.
+references:
+  - source: lal-hastinapura-1955
+    locator: "23"
+  - source: raychaudhuri-phai-1923
+    locator: "67"
+  - source: cunningham-ancient-geography
+    locator: "392"

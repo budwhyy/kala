@@ -1,0 +1,19 @@
+slug: shesha
+names:
+  - text: Shesha
+    lang: en
+    script: Latn
+  - text: शेष
+    lang: sa
+    script: Deva
+    iast: Śeṣa
+kinds: [naga]
+traditions: [itihasa, puranic, vaishnava]
+summary_beginner: "The eldest of Kadru's serpent sons, also called Ananta. In the Mahabharata he turns away from his quarrelsome brothers to practise austerity, and Brahma asks him to hold up the Earth."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.35"
+  - source: ganguli-mahabharata
+    locator: "1.36"
+  - source: wilson-vishnu-purana
+    locator: "1.21"

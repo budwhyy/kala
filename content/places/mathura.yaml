@@ -1,0 +1,57 @@
+slug: mathura
+names:
+  - text: Mathura
+    lang: en
+    script: Latn
+  - text: मथुरा
+    lang: sa
+    script: Deva
+    iast: Mathurā
+realm: terrestrial
+kind: city
+confidence: verified
+geometry:
+  type: Point
+  coordinates:
+    - 77.67
+    - 27.49
+modern_admin:
+  country: India
+  region: Uttar Pradesh
+  district: Mathura
+evidence:
+  - type: historical
+    summary:
+      The Chinese pilgrim Hwen Thsang (seventh century CE) described Mathura as the capital of a
+      large kingdom; Cunningham matched his account to the present city on the Jumna.
+    references:
+      - source: cunningham-ancient-geography
+        locator: "373"
+  - type: archaeological
+    summary: Cunningham reports mounds around the city that yielded statues and remains of large buildings.
+    references:
+      - source: cunningham-ancient-geography
+        locator: "374"
+  - type: textual
+    summary:
+      In the Vishnu Purana Shatrughna takes Mathura, the capital of Madhu's son; later chapters
+      set Krishna's youth around Mathura and Jarasandha's sieges of it.
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.4"
+      - source: wilson-vishnu-purana
+        locator: "5.22"
+entities: []
+traditions:
+  - vaishnava
+  - puranic
+summary_beginner: An old city on the Yamuna in Uttar Pradesh, revered as the birthplace of Krishna.
+  Its ancient history is well documented.
+summary_scholar: Mathura's identification rests on historical records (Hwen Thsang via Cunningham)
+  and archaeological finds. That evidence concerns the historical city only; it does not verify the
+  Krishna narratives set there.
+references:
+  - source: cunningham-ancient-geography
+    locator: "373"
+  - source: wilson-vishnu-purana
+    locator: "4.4"
