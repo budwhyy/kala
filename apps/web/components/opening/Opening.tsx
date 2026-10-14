@@ -142,28 +142,28 @@ export function Opening({ pathways }: { pathways: Pathway[] }) {
             <Link
               href="/cosmic"
               tabIndex={done ? 0 : -1}
-              className="text-celestial hover:underline"
+              className="text-celestial underline decoration-celestial/40 underline-offset-2 hover:decoration-celestial"
             >
               Cosmic time
             </Link>
             <Link
               href="/genealogy"
               tabIndex={done ? 0 : -1}
-              className="text-celestial hover:underline"
+              className="text-celestial underline decoration-celestial/40 underline-offset-2 hover:decoration-celestial"
             >
               Genealogy
             </Link>
             <Link
               href="/geography"
               tabIndex={done ? 0 : -1}
-              className="text-celestial hover:underline"
+              className="text-celestial underline decoration-celestial/40 underline-offset-2 hover:decoration-celestial"
             >
               Geography
             </Link>
             <Link
               href="/search"
               tabIndex={done ? 0 : -1}
-              className="text-celestial hover:underline"
+              className="text-celestial underline decoration-celestial/40 underline-offset-2 hover:decoration-celestial"
             >
               Search
             </Link>

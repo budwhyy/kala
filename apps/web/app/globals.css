@@ -43,3 +43,17 @@ body {
     scroll-behavior: auto !important;
   }
 }
+
+/* Slow rotation of the cosmic wheel; paused by the component under reduced motion or on hover. */
+@keyframes kala-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+.kala-spin {
+  animation: kala-spin 240s linear infinite;
+}
+.kala-spin {
+  transform-box: fill-box;
+  transform-origin: center;
+}

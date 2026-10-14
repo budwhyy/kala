@@ -38,7 +38,10 @@ export default async function GeographyPage() {
             <ul className="grid gap-x-6 gap-y-2 sm:grid-cols-2">
               {places.map((p) => (
                 <li key={p.slug}>
-                  <Link href={`/place/${p.slug}`} className="text-celestial hover:underline">
+                  <Link
+                    href={`/place/${p.slug}`}
+                    className="text-celestial underline decoration-celestial/40 underline-offset-2 hover:decoration-celestial"
+                  >
                     {displayName(p.names)}
                   </Link>
                   {p.modern_admin && (
@@ -58,7 +61,10 @@ export default async function GeographyPage() {
             .sort((a, b) => displayName(a.names).localeCompare(displayName(b.names)))
             .map((k) => (
               <li key={k.slug}>
-                <Link href={`/kingdom/${k.slug}`} className="text-celestial hover:underline">
+                <Link
+                  href={`/kingdom/${k.slug}`}
+                  className="text-celestial underline decoration-celestial/40 underline-offset-2 hover:decoration-celestial"
+                >
                   {displayName(k.names)}
                 </Link>
                 <KingdomKind kala={kala} slug={k.slug} />

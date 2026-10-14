@@ -155,7 +155,11 @@ export function SourceCard({ kala, slug }: { kala: Kala; slug: string }) {
       )}
       {s.url && (
         <Section title="Read online">
-          <a href={s.url} className="text-celestial hover:underline" rel="noopener noreferrer">
+          <a
+            href={s.url}
+            className="text-celestial underline decoration-celestial/40 underline-offset-2 hover:decoration-celestial"
+            rel="noopener noreferrer"
+          >
             {s.url}
           </a>
         </Section>
@@ -193,13 +197,22 @@ export function VariantCard({ kala, slug }: { kala: Kala; slug: string }) {
             differently; none is presented here as the single true account.
           </p>
           <div className="mt-3 flex flex-wrap gap-x-5 gap-y-2">
-            <Link href="/" className="text-celestial hover:underline">
+            <Link
+              href="/"
+              className="text-celestial underline decoration-celestial/40 underline-offset-2 hover:decoration-celestial"
+            >
               ← Other accounts of the beginning
             </Link>
-            <Link href="/cosmic" className="text-celestial hover:underline">
+            <Link
+              href="/cosmic"
+              className="text-celestial underline decoration-celestial/40 underline-offset-2 hover:decoration-celestial"
+            >
               Continue: the cycles of time →
             </Link>
-            <Link href="/genealogy" className="text-celestial hover:underline">
+            <Link
+              href="/genealogy"
+              className="text-celestial underline decoration-celestial/40 underline-offset-2 hover:decoration-celestial"
+            >
               Continue: the families of gods and sages →
             </Link>
           </div>

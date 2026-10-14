@@ -52,7 +52,10 @@ export default async function GenealogyPage() {
               .sort((a, b) => displayName(a.names).localeCompare(displayName(b.names)))
               .map((e) => (
                 <li key={e.slug}>
-                  <Link href={`/entity/${e.slug}`} className="text-celestial hover:underline">
+                  <Link
+                    href={`/entity/${e.slug}`}
+                    className="text-celestial underline decoration-celestial/40 underline-offset-2 hover:decoration-celestial"
+                  >
                     {displayName(e.names)}
                   </Link>
                   <span className="ml-2 text-sm text-muted">

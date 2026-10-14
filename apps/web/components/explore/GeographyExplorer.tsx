@@ -150,7 +150,7 @@ export function GeographyExplorer({
                       <li key={k.slug}>
                         <Link
                           href={`/kingdom/${k.slug}`}
-                          className="text-celestial hover:underline"
+                          className="text-celestial underline decoration-celestial/40 underline-offset-2 hover:decoration-celestial"
                         >
                           {k.label}
                         </Link>{" "}
@@ -163,7 +163,7 @@ export function GeographyExplorer({
                 )}
                 <Link
                   href={`/place/${place.slug}`}
-                  className="mt-2 inline-block text-sm text-celestial hover:underline"
+                  className="mt-2 inline-block text-sm text-celestial underline decoration-celestial/40 underline-offset-2 hover:decoration-celestial"
                 >
                   Open full card →
                 </Link>
@@ -185,7 +185,7 @@ export function GeographyExplorer({
                   <button
                     type="button"
                     onClick={() => select(p.slug)}
-                    className="text-celestial hover:underline"
+                    className="text-celestial underline decoration-celestial/40 underline-offset-2 hover:decoration-celestial"
                   >
                     {p.label}
                   </button>

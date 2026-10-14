@@ -42,7 +42,10 @@ export function SearchResults({ index }: { index: SearchItem[] }) {
         {results.map((r) => (
           <li key={r.href}>
             <span className="mr-2 inline-block w-20 text-xs text-muted">{TYPE_LABEL[r.type]}</span>
-            <Link href={r.href} className="text-lg text-celestial hover:underline">
+            <Link
+              href={r.href}
+              className="text-lg text-celestial underline decoration-celestial/40 underline-offset-2 hover:decoration-celestial"
+            >
               {r.label}
             </Link>
             {r.sub && <span className="ml-2 text-ink/70">{r.sub}</span>}

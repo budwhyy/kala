@@ -127,3 +127,18 @@ Architectural decisions, newest last. Each entry: timestamp (UTC), decision, why
   are free and keyless; if either becomes unavailable, the list view still works.
 - **Note:** Places with a geometry are drawn as markers at their first vertex in Phase 1; kingdom
   extents are not drawn because no extent has a citable source yet (brief §10: no crisp borders).
+
+## 2026-10-14 — Cosmic wheel drawn in SVG with a CSS 3D tilt
+
+- **Decision:** The Cosmic Time Wheel is an SVG tilted with CSS `perspective`/`rotateX` and rotated
+  with a CSS animation, instead of React Three Fiber.
+- **Why:** Quality gate 6 (cosmic scene interactive < 4 s on mobile) failed at 7.7 s because WebGL
+  was loaded to draw flat rings. The SVG version scores 85 and is interactive in 3.8 s, with the same
+  rings, proportions and interaction. React Three Fiber remains for the genealogy constellation,
+  which is genuinely 3D.
+
+## 2026-10-14 — In-text links are underlined
+
+- **Decision:** All links in running text carry a subtle underline.
+- **Why:** Accessibility gate 5 (axe `link-in-text-block`): colour alone does not distinguish links
+  for colour-blind visitors.

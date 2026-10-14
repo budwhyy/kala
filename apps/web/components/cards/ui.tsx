@@ -99,7 +99,10 @@ export function shortSource(kala: Kala, slug: string): string {
 export function RecordLink({ href, children }: { href: string | null; children: ReactNode }) {
   if (!href) return <span>{children}</span>;
   return (
-    <Link href={href} className="text-celestial hover:underline">
+    <Link
+      href={href}
+      className="text-celestial underline decoration-celestial/40 underline-offset-2 hover:decoration-celestial"
+    >
       {children}
     </Link>
   );

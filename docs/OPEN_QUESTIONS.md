@@ -34,3 +34,5 @@ Format: `ID — question — context — conservative reading adopted for now �
 ## Stage 6
 
 - **OQ-019 — Brief §8 graph-test pairs need Phase 3 content.** Krishna ↔ Arjuna and Shakuni ↔ Duryodhana are not in Phase 1 content. The trace gate runs on 12 Phase 1 pairs (incl. Kashyapa ↔ Garuda, Rama ↔ Manu); add the epic pairs when Phase 3 content lands. Status: open.
+- **OQ-020 — Genealogy 3D page performance.** Lighthouse mobile ~58 because the 3D constellation needs three.js (not a gated page; entity and cosmic pages pass). Options for Phase 2: load the 3D scene only after first interaction, or show the list view first on small screens. Status: open.
+- **OQ-021 — Real-device testing.** Gate 6 was measured with Lighthouse's mobile profile, not a physical mid-range Android. Recommended before a public launch. Status: open.

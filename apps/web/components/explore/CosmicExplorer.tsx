@@ -9,7 +9,6 @@ import type { CycleSummary } from "@/lib/time/cycle";
 import { ViewToggle } from "./ViewToggle";
 
 const CosmicWheel = dynamic(() => import("@/components/3d/CosmicWheel"), {
-  ssr: false,
   loading: () => (
     <div className="grid h-full place-items-center text-muted">Loading the wheel…</div>
   ),
@@ -140,7 +139,10 @@ export function CosmicExplorer({
                 <ul className="mt-1 space-y-1 text-sm">
                   {placements[yuga.yuga].map((p) => (
                     <li key={p.href + p.variantName}>
-                      <Link href={p.href} className="text-celestial hover:underline">
+                      <Link
+                        href={p.href}
+                        className="text-celestial underline decoration-celestial/40 underline-offset-2 hover:decoration-celestial"
+                      >
                         {p.label}
                       </Link>{" "}
                       <span className="text-xs text-muted">
@@ -240,7 +242,10 @@ function CycleTable({ model }: { model: CosmicModelView }) {
               <li key={m.ordinal}>
                 {m.ordinal}.{" "}
                 {m.manuHref ? (
-                  <Link href={m.manuHref} className="text-celestial hover:underline">
+                  <Link
+                    href={m.manuHref}
+                    className="text-celestial underline decoration-celestial/40 underline-offset-2 hover:decoration-celestial"
+                  >
                     {m.name}
                   </Link>
                 ) : (

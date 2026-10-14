@@ -160,7 +160,7 @@ export function GenealogyExplorer({
                 <p className="mt-2 text-sm">{node.summary}</p>
                 <Link
                   href={`/entity/${node.slug}`}
-                  className="mt-2 inline-block text-sm text-celestial hover:underline"
+                  className="mt-2 inline-block text-sm text-celestial underline decoration-celestial/40 underline-offset-2 hover:decoration-celestial"
                 >
                   Open full card →
                 </Link>
