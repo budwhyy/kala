@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "kala-web",
+      "runtimeExecutable": "pnpm",
+      "runtimeArgs": ["--filter", "@kala/web", "start", "--port", "3000"],
+      "port": 3000
+    }
+  ]
+}

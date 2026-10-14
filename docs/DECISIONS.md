@@ -72,3 +72,33 @@ Architectural decisions, newest last. Each entry: timestamp (UTC), decision, why
   PostGIS and pg_trgm extensions, in-process.
 - **Why:** No Docker or Postgres on the dev machine, and CI stays simple. The same SQL runs on
   Supabase/Neon.
+
+## 2026-10-14 — Phase 1 site is generated from the YAML at build time (resolves OQ-004)
+
+- **Decision:** Every page is static HTML built from `content/` via `@kala/schema/load`. The build
+  fails if content is invalid. Search runs in the browser over a small name index made at build time.
+  Postgres stays the scalable store (schema, migrations, seed) and is wired in when content outgrows
+  static generation or search needs it.
+- **Why:** Static-first (brief §3.1), no database account needed to deploy, nothing to keep in sync.
+
+## 2026-10-14 — URL is the selection; Zustand remembers it
+
+- **Decision:** `?entity=`, `?place=`, `?kingdom=` … carry the selection across modes. Detail pages pass
+  their record as context to the mode switcher; a Zustand store keeps the last selection for pages
+  without one (e.g. search).
+
+## 2026-10-14 — Link extraction shared by site and database
+
+- **Decision:** `extractLinks` moved from `packages/db` to `@kala/schema` so the site's navigation and
+  the database's `links` table derive the graph the same way.
+
+## 2026-10-14 — `member_of` relationship type added (owner approved)
+
+- **Decision:** New directed type `member_of` (member → group), so the Vasus, Rudras and differing
+  seven-rishi lists can be linked, each list under its own variant. Not in brief §4.1; added at the
+  owner's request (OQ-011).
+
+## 2026-10-14 — Hindi interface strings deferred to Phase 2
+
+- **Decision:** Names already show in Devanagari and search accepts Hindi. Translating the interface
+  itself (next-intl, en/hi) is Phase 2 ("Hindi UI complete", brief §9).

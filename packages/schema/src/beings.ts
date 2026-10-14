@@ -45,7 +45,8 @@ export type Entity = z.infer<typeof Entity>;
 /**
  * Relationship types. Directed types read "from <type> to":
  *   parent: from is a parent of to · teacher: from taught to · curse: from cursed to
- *   avatar_of: from is an avatar of to · vahana_of: from is the mount of to …
+ *   avatar_of: from is an avatar of to · vahana_of: from is the mount of to
+ *   member_of: from is one of the group to (e.g. a named Vasu → vasus), per variant when lists differ
  * Inverses (child, disciple) are derived, never stored.
  */
 export const RelationshipType = z.enum([
@@ -63,6 +64,7 @@ export const RelationshipType = z.enum([
   "identified_with",
   "vahana_of",
   "descendant_of",
+  "member_of",
 ]);
 export type RelationshipType = z.infer<typeof RelationshipType>;
 

@@ -87,15 +87,16 @@ human, king, gandharva, apsara, yaksha, rakshasa, vanara, principle, other), `na
 
 `{ id, from, to, type, role?, mode?, generations?, variant?, explanation, references }`
 
-| Type                                                     | Reads as                                        | Direction |
-| -------------------------------------------------------- | ----------------------------------------------- | --------- |
-| `parent`                                                 | from is a parent of to                          | directed  |
-| `teacher`                                                | from taught to                                  | directed  |
-| `curse`, `blessing`                                      | from cursed / blessed to                        | directed  |
-| `avatar_of`, `manifestation_of`, `aspect_of`             | from is an avatar/… of to                       | directed  |
-| `vahana_of`                                              | from is the mount of to                         | directed  |
-| `descendant_of`                                          | from descends from to (`generations` if stated) | directed  |
-| `partner`, `sibling`, `ally`, `enemy`, `identified_with` | symmetric                                       | either    |
+| Type                                                     | Reads as                                                       | Direction |
+| -------------------------------------------------------- | -------------------------------------------------------------- | --------- |
+| `parent`                                                 | from is a parent of to                                         | directed  |
+| `teacher`                                                | from taught to                                                 | directed  |
+| `curse`, `blessing`                                      | from cursed / blessed to                                       | directed  |
+| `avatar_of`, `manifestation_of`, `aspect_of`             | from is an avatar/… of to                                      | directed  |
+| `vahana_of`                                              | from is the mount of to                                        | directed  |
+| `descendant_of`                                          | from descends from to (`generations` if stated)                | directed  |
+| `member_of`                                              | from is one of the group to (lists that differ go in variants) | directed  |
+| `partner`, `sibling`, `ally`, `enemy`, `identified_with` | symmetric                                                      | either    |
 
 `child` and `disciple` are not stored; they are the reverse of `parent` and `teacher`.
 

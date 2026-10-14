@@ -152,6 +152,7 @@ references:
   either direction.
 - `avatar_of`, `manifestation_of`, `aspect_of` and `identified_with` mean different things. Use the
   one the source uses; do not upgrade an identification into an avatar.
+- `member_of` puts a figure in a named group (a Vasu in `vasus`, a rishi in `saptarishis`). When texts give different lists, give each membership the variant of its list.
 - `descendant_of` links distant generations (Rama to Manu) when the intermediate line is not yet
   entered. Add `generations` only if the source counts them.
 - The `explanation` is your own plain-English summary, not a quotation.
