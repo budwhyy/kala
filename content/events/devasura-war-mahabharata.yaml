@@ -1,0 +1,41 @@
+slug: devasura-war-mahabharata
+same_story_as:
+  - devasura-war-vishnu-purana
+names:
+  - text: War between the devas and asuras, Mahabharata account
+    lang: en
+    script: Latn
+  - text: देवासुरसंग्राम
+    lang: sa
+    script: Deva
+    iast: Devāsurasaṃgrāma
+participants:
+  - entity: indra
+    role: leader of the gods
+  - entity: brihaspati
+    role: installed as the gods' priest; cannot revive the dead
+  - entity: shukra
+    role: Ushanas, the Asuras' priest, who revives their slain with Sanjivani
+  - entity: kacha
+    role: sent by the gods to learn the science of revival from Shukra
+  - entity: daityas
+    role: fight for the sovereignty of the three worlds
+  - entity: danavas
+    role: the Asuras who kill Kacha and are revived by Shukra's art
+  - entity: vrishaparvan
+    role: the Danava king at whose court Shukra serves
+  - entity: vishnu
+    role: Narayana, who with Nara joins the battle after the churning
+narrative_order:
+  text: mahabharata
+  position: 76
+variant: mahabharata-adi-parva
+traditions:
+  - itihasa
+summary_beginner: In the Mahabharata the gods and asuras often fought for lordship of the three worlds. The gods took Brihaspati as their priest, the asuras took Shukra, who could bring their slain back to life. Brihaspati could not do the same, so the gods sent his son Kacha to learn Shukra's secret. One battle, after the churning of the ocean, ends with the gods winning and the Danavas fleeing underground.
+summary_scholar: MBh 1.76 introduces the rivalry in the setting of Kacha's pupilage, and 1.19 gives the battle that follows the churning, with Nara and Narayana. These are different strands of the Adi Parva and are combined here only as the epic's picture of recurring war between gods and asuras. No date or cosmic position is given. The 'position' in narrative_order is the Adi Parva section number of the main passage.
+references:
+  - source: ganguli-mahabharata
+    locator: "1.76"
+  - source: ganguli-mahabharata
+    locator: "1.19"

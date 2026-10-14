@@ -1,0 +1,36 @@
+slug: mahakali
+names:
+  - text: Mahakali
+    lang: en
+    script: Latn
+  - text: महाकाली
+    lang: sa
+    script: Deva
+    iast: Mahākālī
+kinds: [deity]
+traditions: [shakta, puranic, itihasa]
+summary_beginner: >-
+  "Great Kali", a name and form of the Goddess in several texts. In the Devi Bhagavata she is the tamasic (dark, dissolving)
+  power of the Devi, given to Shiva as his consort. In the Mahabharata's Daksha story, Uma takes this dreadful form beside
+  Shiva's creation Virabhadra. The Devi Mahatmya's closing verses name the Goddess herself as Mahakali at Mahakala.
+summary_scholar: >-
+  Three different usages should not be merged. In the Devi Bhagavata (1.2, 3.6) Mahakali is one of three Shaktis, with
+  Mahalakshmi and Mahasaraswati, assigned to Shiva, Vishnu and Brahma. In the Santi Parva (Section CCLXXXIV) Uma assumes a
+  dreadful form known as Mahakali to watch the destruction of Daksha's sacrifice. In the Devi Mahatmya the Goddess who
+  pervades the world is said to be Mahakali at Mahakala (the Shiva shrine at Ujjain according to Pargiter's note).
+references:
+  - source: vijnanananda-devi-bhagavata
+    locator: "1.2"
+    note: "Mahakali is the tamasic Shakti of the Devi, with Mahalakshmi (sattvic) and Sarasvati (rajasic)."
+  - source: vijnanananda-devi-bhagavata
+    locator: "3.6"
+    note: "The Devi gives Mahakali to Shiva."
+  - source: ganguli-mahabharata
+    locator: "12.284"
+    note: "Uma takes a dreadful form known as Mahakali and goes with Virabhadra."
+  - source: pargiter-markandeya-purana
+    locator: "92"
+    note: "Closing verses: the Goddess who pervades the egg of Brahma is Mahakali at Mahakala."
+  - source: ganguli-mahabharata
+    locator: "6.23"
+    note: "Arjuna's hymn to Durga addresses her as Mahakali."

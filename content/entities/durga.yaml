@@ -1,0 +1,67 @@
+slug: durga
+names:
+  - text: Durga
+    lang: en
+    script: Latn
+  - text: दुर्गा
+    lang: sa
+    script: Deva
+    iast: Durgā
+epithets:
+  - text: Chandika
+    lang: en
+    script: Latn
+  - text: Ambika
+    lang: en
+    script: Latn
+  - text: Kausiki
+    lang: en
+    script: Latn
+  - text: Katyayani
+    lang: en
+    script: Latn
+kinds: [deity]
+traditions: [shakta, puranic, itihasa]
+summary_beginner: >-
+  The warrior form of the Goddess, called Chandika, Ambika and Durga, who defeats the buffalo demon Mahisha and the
+  demons Shumbha and Nishumbha in the Devi Mahatmya. Shaktas worship her as the Great Goddess herself; other texts
+  describe her in other ways, for example as the power of Vishnu who is born as the daughter of Yashoda.
+summary_scholar: >-
+  The Devi Mahatmya (Markandeya Purana) says the goddess takes birth when she reveals herself to help the gods, and that
+  Chandika is formed from the combined energies of the gods. In the Shumbha episode Ambika issues from the body of Parvati,
+  who becomes dark and is called Kalika. The Mahabharata's two hymns (Virata Parva and Bhishma Parva) address Durga
+  with the names Kali, Mahakali, Uma, Shakambhari and Saraswati and also call her born of Yashoda; the Vishnu Purana
+  (5.1) makes the same goddess Yoganidra, the illusory power of Vishnu, who is born to Yashoda, slays Shumbha and
+  Nishumbha and is called Durga, Ambika and Bhadrakali. The Devi Bhagavata calls the supreme Goddess Bhagavati Durga (3.6)
+  and, in a second scheme, makes Durga the first of five forms of Prakriti (9.1).
+references:
+  - source: pargiter-markandeya-purana
+    locator: "81"
+    note: "Mahamaya, the goddess as Vishnu's power of sleep, who is born when she reveals herself to help the gods."
+  - source: pargiter-markandeya-purana
+    locator: "82"
+    note: "The goddess Chandika is formed from the gods' combined energies."
+  - source: pargiter-markandeya-purana
+    locator: "85"
+    note: "Ambika issues from the body of Parvati and is therefore called Kausiki."
+  - source: pargiter-markandeya-purana
+    locator: "90"
+    note: "Shumbha addresses her as Durga; she says the other goddesses draw their power from her and are absorbed into her."
+  - source: pargiter-markandeya-purana
+    locator: "91"
+    note: "The gods' hymn to Narayani, naming her Durga and Bhadrakali, among other names."
+  - source: ganguli-mahabharata
+    locator: "4.6"
+    note: "Yudhishthira's hymn to Durga, born of Yashoda."
+  - source: ganguli-mahabharata
+    locator: "6.23"
+    note: "Arjuna's hymn to Durga before the battle."
+  - source: wilson-vishnu-purana
+    locator: "5.1"
+    note: "Yoganidra, Vishnu's illusory energy, will be born to Yashoda and be called Durga, Ambika and Bhadrakali."
+  - source: vijnanananda-devi-bhagavata
+    locator: "3.6"
+    note: "'Bhagavati Durga' gives the three gods their Shaktis."
+  - source: vijnanananda-devi-bhagavata
+    locator: "9.1"
+    note: "Durga is the first of five forms of the highest Prakriti."

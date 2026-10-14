@@ -1,0 +1,60 @@
+slug: parasnath
+names:
+  - text: Parasnath Hill (Sammeta Shikhar)
+    lang: en
+    script: Latn
+  - text: Sammeta Shikhar
+    lang: en
+    script: Latn
+  - text: पारसनाथ
+    lang: hi
+    script: Deva
+realm: terrestrial
+kind: mountain
+confidence: traditional
+geometry:
+  type: Point
+  coordinates:
+    - 86.13
+    - 23.97
+modern_admin:
+  country: India
+  region: Jharkhand
+  district: Giridih
+evidence:
+  - type: textual
+    summary: The Kalpa Sutra says Parshva passed away on the summit of Mount Sammeta in the
+      company of eighty-three persons.
+    references:
+      - source: jacobi-jaina-sutras-1
+        locator: Kalpa Sutra, section 168, p. 275
+  - type: traditional
+    summary: The Imperial Gazetteer describes Parasnath as a hill of Jain pilgrimage, originally
+      called Samet Sikhar, where Jains hold that ten of the twenty-four Tirthankaras attained
+      liberation, with new shrines still being built and thousands of pilgrims each year.
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "19:409"
+traditions:
+  - jain
+pilgrimage_networks:
+  - network: jain-tirthankara-nirvana-places
+    variant: jain-nirvana-places-kalpa-sutra
+    references:
+      - source: jacobi-jaina-sutras-1
+        locator: Kalpa Sutra, section 168, p. 275
+        note: Parshva's liberation on Mount Sammeta.
+      - source: imperial-gazetteer-1909
+        locator: "19:409"
+        note: The Gazetteer identifies Samet Sikhar with the hill now called Parasnath.
+summary_beginner: A hill in eastern India, now in Jharkhand, that is one of the holiest Jain
+  pilgrimage places. Jains hold that many of the Tirthankaras attained liberation on its peaks.
+summary_scholar: The Kalpa Sutra names Mount Sammeta for Parshva; the identification with the
+  hill now called Parasnath rests on the Gazetteer's report of its older name. In the Gazetteer
+  the hill is placed in the Hazaribagh district of Bengal. The count of ten Tirthankaras is the
+  Gazetteer's report of Jain belief; the Kalpa Sutra passage read names only Parshva.
+references:
+  - source: imperial-gazetteer-1909
+    locator: "19:409"
+  - source: jacobi-jaina-sutras-1
+    locator: Kalpa Sutra, section 168, p. 275

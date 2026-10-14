@@ -1,0 +1,27 @@
+slug: virabhadra
+names:
+  - text: Virabhadra
+    lang: en
+    script: Latn
+  - text: वीरभद्र
+    lang: sa
+    script: Deva
+    iast: Vīrabhadra
+kinds: [deity]
+traditions: [shaiva, puranic, itihasa]
+summary_beginner: >-
+  A fierce being whom Shiva creates from his own wrath to destroy the sacrifice of Daksha, in which Shiva has been left
+  without a share. In the Mahabharata and the Vishnu Purana, Virabhadra says he is the offspring of Rudra's anger, sent
+  together with a wrathful form of the goddess (called Bhadrakali).
+summary_scholar: >-
+  In the Santi Parva (Section CCLXXXIV) Mahadeva creates the being from his mouth to calm Uma's anger; he is called the
+  living embodiment of Mahadeva's wrath, yet he tells the gods he is neither Rudra nor Uma, only sprung from Rudra's wrath.
+  The Vishnu Purana tells the same event more briefly and Wilson's note says fuller tellings are in the Linga, Kurma and
+  Bhagavata Puranas, which are not among KALA's sources. The Shiva Purana versions are not entered.
+references:
+  - source: ganguli-mahabharata
+    locator: "12.284"
+    note: "Mahadeva creates the being, named Virabhadra, who destroys the sacrifice; he says he sprang from the wrath of Rudra."
+  - source: wilson-vishnu-purana
+    locator: "1.8"
+    note: "Mahesvara sends Virabhadra, the issue of Rudra's wrath, with Bhadrakali, to destroy Daksha's sacrifice."

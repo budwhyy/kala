@@ -1,0 +1,25 @@
+slug: apsarases
+names:
+  - text: Apsarases
+    lang: en
+    script: Latn
+  - text: अप्सरस्
+    lang: sa
+    script: Deva
+    iast: Apsaras
+kinds:
+  - apsara
+traditions:
+  - itihasa
+  - puranic
+summary_beginner: The celestial nymphs. In the Vishnu Purana and the Ramayana accounts of the churning they are produced from the ocean; elsewhere the same texts trace them to Kashyapa's wives.
+summary_scholar: VP 1.9 and Ramayana 1.45 list the Apsarases among the churning's products (Griffith's note on 1.45 gives the word's traditional derivation from water). MBh 1.65 and VP 1.21 instead make them offspring of Kashyapa's wives Pradha and Muni respectively. Neither mother has a record yet, so no parent link is entered.
+references:
+  - source: wilson-vishnu-purana
+    locator: "1.9"
+  - source: griffith-ramayana
+    locator: "1.45"
+  - source: ganguli-mahabharata
+    locator: "1.65"
+  - source: wilson-vishnu-purana
+    locator: "1.21"

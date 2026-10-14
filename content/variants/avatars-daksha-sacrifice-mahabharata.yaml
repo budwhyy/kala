@@ -1,0 +1,12 @@
+slug: avatars-daksha-sacrifice-mahabharata
+names:
+  - text: "Daksha's sacrifice in the Mahabharata (Santi Parva)"
+    lang: en
+    script: Latn
+kind: account
+tradition: shaiva
+text: mahabharata
+description: "The account in the Santi Parva of how Shiva (Mahadeva) creates Virabhadra to destroy Daksha's sacrifice, with the goddess taking a dreadful form beside him."
+references:
+  - source: ganguli-mahabharata
+    locator: "12.284"

@@ -1,0 +1,75 @@
+slug: sankasya
+names:
+  - text: Sankasya
+    lang: en
+    script: Latn
+  - text: सांकाश्य
+    lang: sa
+    script: Deva
+    iast: Sāṅkāśya
+  - text: Sankisa
+    lang: en
+    script: Latn
+realm: terrestrial
+kind: site
+confidence: debated
+geometry:
+  type: Point
+  coordinates:
+    - 79.27
+    - 27.33
+modern_admin:
+  country: India
+  region: Uttar Pradesh
+  district: Farrukhabad
+alternative_identifications:
+  - label: Sankisa Basantpur, Farrukhabad district
+    confidence: debated
+    geometry:
+      type: Point
+      coordinates:
+        - 79.27
+        - 27.33
+    argument: Cunningham identified the ruined mound at Sankisa with the capital that Fa-hien
+      calls Sankasya and Xuanzang calls Kapitha, and found an elephant capital that he took to
+      belong to the Asokan pillar the pilgrims mention. The Gazetteer notes that the
+      identification rests on measurements and directions that are not definite and has been
+      doubted.
+    references:
+      - source: cunningham-ancient-geography
+        locator: "369"
+      - source: imperial-gazetteer-1909
+        locator: "22:59"
+      - source: imperial-gazetteer-1909
+        locator: "22:60"
+evidence:
+  - type: historical
+    summary: Fa-hien and Xuanzang name the place where, in Buddhist tradition, the Buddha
+      descended from the heaven of the thirty-three gods after teaching his mother there; the
+      accounts differ on the arrangement of the three staircases.
+    references:
+      - source: legge-fa-hien
+        locator: "17"
+      - source: beal-si-yu-ki
+        locator: "1:202"
+      - source: cunningham-ancient-geography
+        locator: "369"
+traditions:
+  - buddhist
+pilgrimage_networks:
+  - network: buddhist-fa-hien-sacred-places
+    variant: buddhist-places-fa-hien-record
+    references:
+      - source: legge-fa-hien
+        locator: "17"
+summary_beginner: A place in north India where Buddhist tradition says the Buddha came back down to
+  earth after a stay in heaven. The village of Sankisa is the usual candidate, but the match is
+  not certain.
+summary_scholar: The descent from the Trayastrimsa heaven is a traditional account; the site is an
+  identification from distances and mounds. Fa-hien and Xuanzang differ on which staircase
+  belonged to the Buddha (Cunningham 370).
+references:
+  - source: cunningham-ancient-geography
+    locator: "369"
+  - source: imperial-gazetteer-1909
+    locator: "22:59"

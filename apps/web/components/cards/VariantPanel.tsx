@@ -1,4 +1,5 @@
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
+import { useTranslations } from "next-intl";
 import type { Kala, RelationView } from "@/lib/graph/kala";
 
 /**
@@ -6,6 +7,7 @@ import type { Kala, RelationView } from "@/lib/graph/kala";
  * sources KĀLA holds; tagged claims belong to one account and others may differ (principle 3).
  */
 export function VariantPanel({ kala, relations }: { kala: Kala; relations: RelationView[] }) {
+  const t = useTranslations("variantPanel");
   const counts = new Map<string, number>();
   let shared = 0;
   for (const v of relations) {
@@ -17,14 +19,12 @@ export function VariantPanel({ kala, relations }: { kala: Kala; relations: Relat
 
   return (
     <aside
-      aria-label="Accounts"
+      aria-label={t("aria")}
       className="mt-6 rounded-lg border border-celestial/30 bg-celestial/5 p-4 text-sm"
     >
-      <h2 className="text-celestial">Different texts, different accounts</h2>
+      <h2 className="text-celestial">{t("heading")}</h2>
       <p className="mt-1 text-muted">
-        Some of the connections below come from one particular account. Other texts may tell it
-        differently.{" "}
-        {shared > 0 && `${shared} connection(s) are shared across the sources KĀLA holds.`}
+        {t("body")} {shared > 0 && t("shared", { count: shared })}
       </p>
       <ul className="mt-2 flex flex-wrap gap-2">
         {[...counts.entries()].map(([variant, n]) => (

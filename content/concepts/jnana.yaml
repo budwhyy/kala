@@ -1,0 +1,56 @@
+slug: jnana
+names:
+  - text: "Jnana (knowledge)"
+    lang: en
+    script: Latn
+  - text: "ज्ञान"
+    lang: sa
+    script: Deva
+    iast: "Jñāna"
+summary_beginner: "Jnana is knowledge, especially knowledge that frees: insight into the true nature of the Self and the world. Schools disagree on what is known and on how far knowledge alone, without devotion or action, brings liberation."
+interpretations:
+  - tradition: vedanta
+    explanation: "The Mundaka Upanishad says that whoever knows the highest Brahman becomes Brahman, and the Chandogya Upanishad teaches the Self as the subtle essence of all things. Both treat knowledge of the Self as the means of release."
+    references:
+      - source: muller-upanishads
+        locator: "Mundaka Upanishad 3.2.9 (SBE 15)"
+      - source: muller-upanishads
+        locator: "Chandogya Upanishad 6.8.7 (SBE 1)"
+  - tradition: itihasa
+    explanation: "Krishna teaches that those who destroy ignorance by self-knowledge see the supreme clearly and do not return. He names the knower as the dearest of his four kinds of worshippers, since such a person takes him as the highest goal."
+    references:
+      - source: telang-bhagavadgita
+        locator: "5.15-17"
+      - source: telang-bhagavadgita
+        locator: "7.16-19"
+  - tradition: samkhya
+    explanation: "In the Samkhya Karika deliverance comes through knowledge, bondage through its opposite. The soul that has achieved self-knowledge watches nature calmly, as a spectator watches an actress, and nature ceases to act for it."
+    references:
+      - source: colebrooke-sankhya-karika
+        locator: "karika 44"
+      - source: colebrooke-sankhya-karika
+        locator: "karika 63"
+      - source: colebrooke-sankhya-karika
+        locator: "karika 65"
+  - tradition: yoga
+    explanation: "The Yoga Sutras name unwavering discriminative discernment as the means of escape from the link between Seer and seen, and describe insight that grows through seven stages."
+    references:
+      - source: woods-yoga-system-patanjali
+        locator: "Yoga-sutra 2.26-27"
+  - tradition: advaita-vedanta
+    explanation: "For Shankara, knowledge of Brahman alone brings the highest aim, because it removes the superimposition of non-Self on Self. He says the Vedanta texts exist to make this known, citing 'that art thou' and arguing that nothing needs to be done once the Self is understood."
+    references:
+      - source: thibaut-vedanta-sutras-shankara
+        locator: "SBE 34, Vedanta-Sutras 1.1.4"
+      - source: thibaut-vedanta-sutras-shankara
+        locator: "SBE 34, Shankara's Introduction (superimposition)"
+  - tradition: vishishtadvaita
+    explanation: "Ramanuja argues that the knowledge which leads to Brahman is meditation: repeated daily, refined by repetition and continued till death. He holds that it is a loving remembrance, so knowledge and devotion are not separate paths."
+    references:
+      - source: thibaut-vedanta-sutras-ramanuja
+        locator: "SBE 48, Vedanta-Sutras 1.1.1 (p. 16)"
+related:
+  - avidya
+  - moksha
+  - bhakti
+  - yoga

@@ -58,3 +58,13 @@ references:
     locator: "3.85"
   - source: cunningham-ancient-geography
     locator: "388"
+pilgrimage_networks:
+  - network: river-tirthas
+    variant: pilgrimage-river-tirthas-gazetteer
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "14:232-233"
+        note: "Jumna rises past the sacred shrine of Jamnotri"
+      - source: vijnanananda-devi-bhagavata
+        locator: "7.30"
+        note: "Mrigavati in the Yamuna"

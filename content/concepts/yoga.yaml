@@ -1,0 +1,42 @@
+slug: yoga
+names:
+  - text: "Yoga"
+    lang: en
+    script: Latn
+  - text: "योग"
+    lang: sa
+    script: Deva
+    iast: "Yoga"
+summary_beginner: "Yoga means discipline or union, and in philosophy a path of training the mind and senses. Different texts use the word for meditation, for disciplined action and for the school of the Yoga Sutras. Buddhist and Jain traditions also use this term, with meanings of their own that this page does not cover."
+interpretations:
+  - tradition: vedanta
+    explanation: "The Katha Upanishad says the firm holding back of the senses is what is called yoga, and warns that yoga comes and goes, so one must stay alert. The Maitrayana Upanishad explains yoga as joining breath, mind and senses to Om and letting go of all conceptions."
+    references:
+      - source: muller-upanishads
+        locator: "Katha Upanishad 2.6.11 (SBE 15)"
+      - source: muller-upanishads
+        locator: "Maitrayana-Brahmana Upanishad 6.25 (SBE 15)"
+  - tradition: itihasa
+    explanation: "In Telang's translation the Gita's yoga appears as 'devotion': treating pleasure and pain, gain and loss alike, and acting without making the fruit one's motive. Krishna also describes a seated meditation with the mind steady like a lamp in still air, and moderation in food, sleep and effort."
+    references:
+      - source: telang-bhagavadgita
+        locator: "2.38-39"
+        note: "Telang translates yoga as 'devotion' or 'abstraction'."
+      - source: telang-bhagavadgita
+        locator: "2.49-50"
+      - source: telang-bhagavadgita
+        locator: "6.12-19"
+  - tradition: yoga
+    explanation: "The Yoga Sutras define yoga as the restriction of the mind's fluctuations, so that the Seer abides in itself. They say it is reached through practice and passionlessness, and set out eight aids, from restraints and observances to concentration."
+    references:
+      - source: woods-yoga-system-patanjali
+        locator: "Yoga-sutra 1.2-4"
+      - source: woods-yoga-system-patanjali
+        locator: "Yoga-sutra 1.12-14"
+      - source: woods-yoga-system-patanjali
+        locator: "Yoga-sutra 2.29"
+related:
+  - tapas
+  - bhakti
+  - jnana
+  - ahimsa

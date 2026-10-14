@@ -1,0 +1,19 @@
+slug: churning-products
+names:
+  - text: Things produced by the churning of the ocean
+    lang: en
+    script: Latn
+kinds:
+  - other
+traditions:
+  - itihasa
+  - puranic
+summary_beginner: A grouping used by KĀLA for the beings and objects that rise from the ocean when the gods and asuras churn it. Each text gives its own list and its own order, and none of the three accounts read here counts fourteen items.
+summary_scholar: Wilson's note to VP 1.9 observes that popular lists give fourteen treasures while the Ramayana and Mahabharata name about nine and the Puranas vary, and that the sectarian additions of the bow and conch lack good authority. The entity exists so that each account's list can be stored as its own ordered variant.
+references:
+  - source: wilson-vishnu-purana
+    locator: "1.9"
+  - source: ganguli-mahabharata
+    locator: "1.18"
+  - source: griffith-ramayana
+    locator: "1.45"

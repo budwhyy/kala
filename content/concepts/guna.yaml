@@ -1,0 +1,38 @@
+slug: guna
+names:
+  - text: "Guna (the three qualities)"
+    lang: en
+    script: Latn
+  - text: "गुण"
+    lang: sa
+    script: Deva
+    iast: "Guṇa"
+summary_beginner: "The gunas are three strands of nature - sattva (goodness or clarity), rajas (activity or passion) and tamas (darkness or inertia) - that together make up the material world and shape character. Several schools use the idea with their own emphasis."
+interpretations:
+  - tradition: samkhya
+    explanation: "The Samkhya Karika says goodness is light and illuminating, foulness urgent and versatile, and darkness heavy and enveloping. Though opposed, the three cooperate for a common purpose, as the wick, oil and flame of a lamp do."
+    references:
+      - source: colebrooke-sankhya-karika
+        locator: "karika 13"
+        note: "Colebrooke's terms are goodness, foulness and darkness."
+  - tradition: itihasa
+    explanation: "The Gita says the three qualities are born of nature and bind the soul in the body: goodness by attachment to pleasure and knowledge, passion by craving and attachment, darkness by ignorance. It also says a deluded person thinks himself the doer of acts that the qualities perform."
+    references:
+      - source: telang-bhagavadgita
+        locator: "14.5-8"
+      - source: telang-bhagavadgita
+        locator: "3.27-28"
+  - tradition: dharmashastra
+    explanation: "Manu names goodness, activity and darkness as the three qualities with which the Great One pervades all beings. Whichever predominates marks the embodied soul, goodness taking the form of knowledge, darkness of ignorance, and activity of love and hatred."
+    references:
+      - source: buhler-manu
+        locator: "Manu 12.24-26"
+  - tradition: yoga
+    explanation: "The Yoga Sutras describe the world the Seer looks upon as having a disposition to brightness, activity and inertia, and as existing for the Seer's experience and liberation. Woods renders guna as 'aspects'."
+    references:
+      - source: woods-yoga-system-patanjali
+        locator: "Yoga-sutra 2.18-19"
+related:
+  - purusha-and-prakriti
+  - maya
+  - karma

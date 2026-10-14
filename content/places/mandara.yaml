@@ -1,0 +1,34 @@
+slug: mandara
+names:
+  - text: Mandara
+    lang: en
+    script: Latn
+  - text: मन्दर
+    lang: sa
+    script: Deva
+    iast: Mandara
+realm: cosmological
+kind: mountain
+confidence: mythical
+entities:
+  - to: vasuki
+    note: In the accounts of the churning, Mandara serves as the staff and the serpent Vasuki as the rope.
+    references:
+      - source: ganguli-mahabharata
+        locator: "1.18"
+      - source: wilson-vishnu-purana
+        locator: "1.9"
+      - source: griffith-ramayana
+        locator: "1.45"
+traditions:
+  - itihasa
+  - puranic
+summary_beginner: The mountain the gods and asuras use as a churning staff when they churn the ocean for amrita. It is a mountain of the stories, not a place KĀLA puts on a map.
+summary_scholar: MBh 1.18 describes it as a cloud-capped mountain covered in herbs and visited by gods, rising and descending eleven thousand yojanas. VP 1.9 and Ramayana 1.45 call it the staff or pole of the churning. No source read for this record places it on Earth.
+references:
+  - source: ganguli-mahabharata
+    locator: "1.18"
+  - source: wilson-vishnu-purana
+    locator: "1.9"
+  - source: griffith-ramayana
+    locator: "1.45"

@@ -1,0 +1,15 @@
+slug: pilgrimage-sapta-puri-sacred-cities-gazetteer
+names:
+  - text: "The seven sacred cities of India, as described in the Imperial Gazetteer"
+    lang: en
+    script: Latn
+kind: list
+tradition: hindu
+description: "The Imperial Gazetteer calls Ujjain and Conjeeveram (Kanchipuram) 'one of the seven sacred cities of India' and describes Ajodhya, Muttra, Benares, Hardwar (it mentions the old name Maya) and Dwarka as great sacred centres. The Gazetteer does not print the full list of seven. The seven usually named today are Ayodhya, Mathura, Haridwar (Maya), Kashi, Kanchi, Ujjain (Avantika) and Dwarka; KALA has found no usable public-domain English translation of a scripture that enumerates them, so the grouping is recorded here as the usual reckoning, with each city entered on the strength of its own Gazetteer article. Dutt's translation of the Garuda Purana (chapter 81) names all seven (as Ayodhya, Mathura, Mayapuri, Kanchipuri, Ujjayani, Dvaraka and Benares) among its sacred places, but not as a list of seven."
+references:
+  - source: imperial-gazetteer-1909
+    locator: "24:113-114"
+    note: "Ujjain: one of the seven sacred cities"
+  - source: imperial-gazetteer-1909
+    locator: "10:377-378"
+    note: "Conjeeveram: placed among the seven sacred cities"

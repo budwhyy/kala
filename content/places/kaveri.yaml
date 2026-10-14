@@ -1,0 +1,52 @@
+slug: kaveri
+names:
+  - text: "Kaveri"
+    lang: en
+    script: Latn
+  - text: "Cauvery"
+    lang: en
+    script: Latn
+  - text: "कावेरी"
+    lang: sa
+    script: Deva
+    iast: "Kāverī"
+  - text: "காவேரி"
+    lang: ta
+    script: Taml
+realm: terrestrial
+kind: river
+confidence: traditional
+geometry:
+  type: Point
+  coordinates:
+    - 75.49
+    - 12.39
+modern_admin:
+  country: "India"
+  region: "Karnataka"
+  district: "Kodagu"
+evidence:
+  - type: historical
+    summary: "The Imperial Gazetteer describes the Cauvery (Kaveri) as a great river of southern India famous for its traditional sanctity. It says devout Hindus know it as Dakshina Ganga, the Ganges of the south, that its whole course is holy ground, and that ancient temples at its source (Tala Kaveri) and at Bhagamandala are visited by pilgrims each October-November. The marker is placed at the source."
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "9:303-305"
+  - type: textual
+    summary: "Dutt's Garuda Purana (chapter 81) names the Kaveri among sacred rivers."
+    references:
+      - source: dutt-garuda-purana
+        locator: "81"
+        note: "pp. 210-211"
+traditions:
+  - hindu
+summary_beginner: "The great river of the south, rising in the Western Ghats in Kodagu and flowing east to the sea, honoured as the Ganga of the south. The marker shows its source."
+references:
+  - source: imperial-gazetteer-1909
+    locator: "9:303-305"
+pilgrimage_networks:
+  - network: river-tirthas
+    variant: pilgrimage-river-tirthas-gazetteer
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "9:303-305"
+        note: "Known to devout Hindus as the Ganges of the south"

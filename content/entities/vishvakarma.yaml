@@ -1,0 +1,35 @@
+slug: vishvakarma
+names:
+  - text: Vishvakarma
+    lang: en
+    script: Latn
+  - text: विश्वकर्मा
+    lang: sa
+    script: Deva
+    iast: Viśvakarmā
+epithets:
+  - text: Viswakarman
+    lang: en
+    script: Latn
+  - text: Viswakarma
+    lang: en
+    script: Latn
+kinds:
+  - deity
+  - deva
+traditions:
+  - itihasa
+  - puranic
+summary_beginner: The divine craftsman, maker of the gods' chariots and ornaments. He is the son of Prabhasa, the eighth Vasu, and the sister of Brihaspati; in the Vishnu Purana he is the father of Sanjna, wife of the Sun.
+summary_scholar: MBh 1.66 and VP 1.15 agree on his parentage. VP 3.2 has him trim the Sun's glare on a lathe and fashion Vishnu's discus, Shiva's trident and other weapons from the shavings. MBh 2.8 says he built Yama's assembly hall. VP 1.15 also gives the name of his mother as Yogasiddha, which the Mahabharata does not.
+references:
+  - source: ganguli-mahabharata
+    locator: "1.66"
+  - source: wilson-vishnu-purana
+    locator: "1.15"
+  - source: wilson-vishnu-purana
+    locator: "3.2"
+  - source: ganguli-mahabharata
+    locator: "2.8"
+  - source: dutt-harivamsha
+    locator: "3"

@@ -1,0 +1,44 @@
+slug: brahman
+names:
+  - text: "Brahman"
+    lang: en
+    script: Latn
+  - text: "ब्रह्मन्"
+    lang: sa
+    script: Deva
+    iast: "Brahman"
+summary_beginner: "Brahman is the ultimate reality of the Upanishads, the source and ground of everything. Schools of Vedanta disagree on whether it is without qualities or has auspicious qualities, and on how the world and souls relate to it."
+interpretations:
+  - tradition: vedanta
+    explanation: "The Upanishads present Brahman as the Self within the heart, as what a knower becomes on knowing it, and as the one reality described as without cause and effect or inside and outside. The Brihadaranyaka says this Self is Brahman, all-perceiving."
+    references:
+      - source: muller-upanishads
+        locator: "Chandogya Upanishad 3.14.3-4 (SBE 1)"
+      - source: muller-upanishads
+        locator: "Mundaka Upanishad 3.2.9 (SBE 15)"
+      - source: muller-upanishads
+        locator: "Brihadaranyaka Upanishad 2.5.19 (SBE 15)"
+  - tradition: itihasa
+    explanation: "In the Gita, Krishna presents the sacrifice itself as Brahman, offered by Brahman into the fire of Brahman. In another passage he calls a 'great Brahman' the womb in which he casts the seed of all beings, a term Telang's note reads as the 'nature' spoken of earlier."
+    references:
+      - source: telang-bhagavadgita
+        locator: "4.24"
+      - source: telang-bhagavadgita
+        locator: "14.3-4"
+  - tradition: advaita-vedanta
+    explanation: "Shankara argues that scripture reveals Brahman as all-knowing and the cause of the world's origin, continuance and dissolution, and that the Vedanta texts all point to it. He holds that cause and effect are not different and that the world's differences are the product of nescience."
+    references:
+      - source: thibaut-vedanta-sutras-shankara
+        locator: "SBE 34, Vedanta-Sutras 1.1.4"
+      - source: thibaut-vedanta-sutras-shankara
+        locator: "SBE 34, Vedanta-Sutras 2.1.9"
+  - tradition: vishishtadvaita
+    explanation: "Ramanuja teaches that Brahman is free from all imperfection and has innumerable auspicious qualities. For him the whole of souls and matter is real and forms Brahman's body, so Brahman is one but contains plurality within itself."
+    references:
+      - source: thibaut-vedanta-sutras-ramanuja
+        locator: "SBE 48, Vedanta-Sutras 1.1.1 (pp. 88-89, 93)"
+related:
+  - atman
+  - maya
+  - ishvara
+  - purusha-and-prakriti

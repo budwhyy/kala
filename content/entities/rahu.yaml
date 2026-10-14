@@ -1,0 +1,25 @@
+slug: rahu
+names:
+  - text: Rahu
+    lang: en
+    script: Latn
+  - text: राहु
+    lang: sa
+    script: Deva
+    iast: Rāhu
+kinds:
+  - asura
+  - danava
+traditions:
+  - itihasa
+  - puranic
+summary_beginner: A Danava who slipped in among the gods to drink amrita. The Sun and Moon exposed him and Narayana cut off his head, which stays immortal and, according to the Mahabharata, still swallows the Sun and Moon at eclipses.
+summary_scholar: MBh 1.65 makes Rahu a son of Sinhika, a daughter of Daksha and wife of Kashyapa; this is not entered as a relationship because no Sinhika record exists yet. Wilson's note to VP 1.9 observes that the Vishnu Purana text does not tell the Rahu story, and describes the beheading as the simplest and oldest form of the legend, with Ketu an afterthought.
+references:
+  - source: ganguli-mahabharata
+    locator: "1.19"
+  - source: ganguli-mahabharata
+    locator: "1.65"
+  - source: wilson-vishnu-purana
+    locator: "1.9"
+    note: Wilson's footnote 8 on the churning discusses Rahu.

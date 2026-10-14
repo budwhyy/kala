@@ -1,0 +1,27 @@
+slug: varuni
+names:
+  - text: Varuni
+    lang: en
+    script: Latn
+  - text: वारुणी
+    lang: sa
+    script: Deva
+    iast: Vāruṇī
+epithets:
+  - text: Sura
+    lang: en
+    script: Latn
+kinds:
+  - deity
+traditions:
+  - itihasa
+  - puranic
+summary_beginner: The goddess of wine, called Varuni in the Vishnu Purana and Sura in the Ramayana and the Mahabharata. The Ramayana gives her as a daughter of Varuna who rises from the ocean and explains the words sura and asura from who accepts her.
+summary_scholar: "The Mahabharata gives two origins for Sura: in 1.66 she is the daughter of Varuna and Divi, a daughter of Shukra; at the churning in other accounts she rises from the ocean (VP 1.9 as Varuni, Ramayana 1.45 as Sura). Ganguli's account of the churning (1.18) does not name her."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.66"
+  - source: griffith-ramayana
+    locator: "1.45"
+  - source: wilson-vishnu-purana
+    locator: "1.9"

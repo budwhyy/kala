@@ -1,0 +1,35 @@
+slug: matrikas
+names:
+  - text: Matrikas (the Mothers)
+    lang: en
+    script: Latn
+  - text: मातृका
+    lang: sa
+    script: Deva
+    iast: Mātṛkā
+kinds: [deity]
+traditions: [shakta, puranic]
+summary_beginner: >-
+  A band of goddesses called the Mothers. In the Devi Mahatmya they are the energies (shaktis) of gods such as Brahma,
+  Shiva, Vishnu and Indra, who come to fight beside the goddess Chandika against the demons; at the end she says they are
+  her own powers and they enter into her. KALA records only this group and not a numbered list.
+summary_scholar: >-
+  Pargiter's translation of the Devi Mahatmya names the energies of Brahma, Maheshvara, Kumara, Vishnu, the boar and the
+  man-lion forms of Vishnu and Indra, together with Shiva-duti (the goddess Chandika's own messenger form) and calls
+  the group the Mothers. The hymn in canto 91 lists the same forms by name (Maheshvari, Kaumari, Vaishnavi, Aindri). The
+  Devi Bhagavata (3.6) has the Devi say that Varahi, Vaishnavi, Gauri, Narasimhi, Shachi, Shiva and her other Shaktis
+  will take bodies when the Devas are afraid of the Daityas. Neither text gives a fixed count here, and no list of seven
+  or eight is entered.
+references:
+  - source: pargiter-markandeya-purana
+    locator: "88"
+    note: "The energies of the gods arrive and fight; the 'band of Mothers' crushes the Asura host."
+  - source: pargiter-markandeya-purana
+    locator: "90"
+    note: "The goddess says these goddesses have their power from her and they are absorbed into her."
+  - source: pargiter-markandeya-purana
+    locator: "91"
+    note: "The gods' hymn names the Mothers' forms."
+  - source: vijnanananda-devi-bhagavata
+    locator: "3.6"
+    note: "Varahi, Vaishnavi, Gauri, Nara Simhi, Sachi, Shiva and other Shaktis will take bodies to help the gods."

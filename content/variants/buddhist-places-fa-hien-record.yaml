@@ -1,0 +1,18 @@
+slug: buddhist-places-fa-hien-record
+names:
+  - text: Places of the Buddha's life recorded by Fa-hien
+    lang: en
+    script: Latn
+kind: list
+tradition: buddhist
+description: The sites of events in the Buddha's life that the Chinese pilgrim Fa-hien describes
+  in the Gangetic plain and the Himalayan foothills (Legge's translation). This is the list of
+  one traveller's record, not an official circuit, and it does not include every site later
+  pilgrims visited.
+references:
+  - source: legge-fa-hien
+    locator: "17"
+  - source: legge-fa-hien
+    locator: "20"
+  - source: legge-fa-hien
+    locator: "22"

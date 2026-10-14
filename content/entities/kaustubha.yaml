@@ -1,0 +1,20 @@
+slug: kaustubha
+names:
+  - text: Kaustubha
+    lang: en
+    script: Latn
+  - text: कौस्तुभ
+    lang: sa
+    script: Deva
+    iast: Kaustubha
+kinds:
+  - other
+traditions:
+  - itihasa
+  - puranic
+summary_beginner: The jewel that rises from the ocean at the churning and is worn on Vishnu's chest, according to the Mahabharata and the Ramayana.
+references:
+  - source: ganguli-mahabharata
+    locator: "1.18"
+  - source: griffith-ramayana
+    locator: "1.45"

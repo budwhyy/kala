@@ -1,0 +1,21 @@
+slug: vritra
+names:
+  - text: Vritra
+    lang: en
+    script: Latn
+  - text: वृत्र
+    lang: sa
+    script: Deva
+    iast: Vṛtra
+kinds:
+  - asura
+traditions:
+  - vedic
+  - itihasa
+summary_beginner: A great Asura, named in the Mahabharata among the four sons of Danayu. Indra is addressed in the Adi Parva as the slayer of Vritra.
+summary_scholar: "This record rests only on the Adi Parva: MBh 1.65 for his birth and MBh 1.25 for Indra's epithet. The fuller story of Indra and Vritra, told elsewhere, is not yet entered."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.65"
+  - source: ganguli-mahabharata
+    locator: "1.25"

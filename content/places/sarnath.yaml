@@ -1,0 +1,79 @@
+slug: sarnath
+names:
+  - text: Sarnath
+    lang: en
+    script: Latn
+  - text: सारनाथ
+    lang: hi
+    script: Deva
+  - text: Isipatana
+    lang: pi
+    script: Latn
+    iast: Isipatana
+  - text: Mrigadava (the deer park)
+    lang: en
+    script: Latn
+realm: terrestrial
+kind: site
+confidence: verified
+geometry:
+  type: Point
+  coordinates:
+    - 83.03
+    - 25.38
+modern_admin:
+  country: India
+  region: Uttar Pradesh
+  district: Varanasi
+evidence:
+  - type: archaeological
+    summary: Ruins of a large stone stupa and a monastery, with new inscriptions of Asoka and
+      Kanishka found in 1905, are described in the Imperial Gazetteer, which identifies Sarnath
+      with the deer park (Mrigadava) where the Buddha is said to have first taught, with the
+      Isipattana monastery nearby.
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "22:109"
+  - type: historical
+    summary: Fa-hien describes the deer park of the rishis a little north-east of Varanasi, and
+      Xuanzang describes the monastery of the stag grove with an Asokan stupa and pillar.
+    references:
+      - source: legge-fa-hien
+        locator: "34"
+      - source: beal-si-yu-ki
+        locator: "2:42"
+related_places:
+  - to: kashi
+    relation: near
+    note: Sarnath lies a short distance north of the city of Varanasi (Kashi) and is a separate
+      place with its own, Buddhist, meaning; the two are not merged.
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "22:109"
+traditions:
+  - buddhist
+pilgrimage_networks:
+  - network: buddhist-four-great-places
+    variant: buddhist-four-places-mahaparinibbana
+    references:
+      - source: rhys-davids-buddhist-suttas
+        locator: "5.19"
+        note: The third place is where the Tathagata set the kingdom of righteousness in motion.
+      - source: imperial-gazetteer-1909
+        locator: "22:109"
+  - network: buddhist-fa-hien-sacred-places
+    variant: buddhist-places-fa-hien-record
+    references:
+      - source: legge-fa-hien
+        locator: "34"
+summary_beginner: The site just north of Varanasi where Buddhist tradition says the Buddha gave his
+  first teaching, the turning of the wheel of the Dhamma. It is one of the four great Buddhist
+  pilgrimage places.
+summary_scholar: The monastery and stupa remains and the Asokan inscriptions are historically
+  attested; the Buddha's first sermon is a traditional account that is not verified here. Sarnath
+  is a separate place from Kashi, which is the city of Hindu pilgrimage.
+references:
+  - source: imperial-gazetteer-1909
+    locator: "22:109"
+  - source: legge-fa-hien
+    locator: "34"

@@ -1,0 +1,25 @@
+slug: river-tirthas
+names:
+  - text: "Sacred Rivers"
+    lang: en
+    script: Latn
+  - text: "पवित्र नदियाँ"
+    lang: hi
+    script: Deva
+kind: river_tirtha
+traditions:
+  - hindu
+variants:
+  - pilgrimage-river-tirthas-gazetteer
+summary_beginner: "Rivers worshipped as holy, as goddesses or as washers-away of sin, with the pilgrimage places along them: the Ganga, Yamuna, Sarasvati, Godavari, Narmada and Kaveri, and the confluence at Prayagraj."
+summary_scholar: "No scriptural list of the sacred rivers is entered, because KALA holds no public-domain English text that enumerates one. The grouping is built from the Imperial Gazetteer's separate articles on each river, supplemented by Dutt's Garuda Purana (chapter 81) and the Devi Bhagavata's 108 seats, which name several of these rivers as holy places."
+references:
+  - source: imperial-gazetteer-1909
+    locator: "12:132-136"
+    note: "Ganges"
+  - source: imperial-gazetteer-1909
+    locator: "9:303-305"
+    note: "Cauvery"
+  - source: dutt-garuda-purana
+    locator: "81"
+    note: "Garuda Purana chapter on sacred places"

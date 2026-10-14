@@ -66,3 +66,16 @@ references:
     locator: "388"
   - source: ganguli-mahabharata
     locator: "3.85"
+pilgrimage_networks:
+  - network: shakti-peethas
+    variant: pilgrimage-shakti-devi-bhagavata-108
+    references:
+      - source: vijnanananda-devi-bhagavata
+        locator: "7.30"
+        note: "Lalita Devi in Prayaga"
+  - network: river-tirthas
+    variant: pilgrimage-river-tirthas-gazetteer
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "12:134"
+        note: "The junction of the Ganges and Jumna at Allahabad is one of the most holy places in India"

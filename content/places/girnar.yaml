@@ -1,0 +1,69 @@
+slug: girnar
+names:
+  - text: Girnar
+    lang: en
+    script: Latn
+  - text: गिरनार
+    lang: hi
+    script: Deva
+  - text: Ujjayanta
+    lang: sa
+    script: Deva
+    iast: Ujjayanta
+realm: terrestrial
+kind: mountain
+confidence: verified
+geometry:
+  type: Point
+  coordinates:
+    - 70.52
+    - 21.53
+modern_admin:
+  country: India
+  region: Gujarat
+  district: Junagadh
+evidence:
+  - type: historical
+    summary: The Imperial Gazetteer records a rock at the foot of the hill covered with
+      inscriptions of Asoka, a later inscription of Rudradaman, and one that records repairs to the
+      Sudarshana tank. These attest the hill in history; they do not concern the Jain account.
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "12:247"
+      - source: imperial-gazetteer-1909
+        locator: "12:248"
+  - type: textual
+    summary: The Kalpa Sutra says Arishtanemi passed away on the summit of Mount Girnar in the
+      company of 536 monks.
+    references:
+      - source: jacobi-jaina-sutras-1
+        locator: Kalpa Sutra, section 182, p. 279
+  - type: historical
+    summary: The Gazetteer gives the hill's ancient name as Ujjayanta, describes it as a sacred
+      seat of the Jains second in importance to Palitana, and mentions a temple of Neminath on the
+      ascent.
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "12:247"
+      - source: imperial-gazetteer-1909
+        locator: "12:248"
+traditions:
+  - jain
+pilgrimage_networks:
+  - network: jain-tirthankara-nirvana-places
+    variant: jain-nirvana-places-kalpa-sutra
+    references:
+      - source: jacobi-jaina-sutras-1
+        locator: Kalpa Sutra, section 182, p. 279
+        note: Arishtanemi's liberation on Mount Girnar.
+summary_beginner: A sacred hill in Gujarat, a major Jain pilgrimage place, where Jains hold that
+  the twenty-second Tirthankara, Neminatha (Arishtanemi), attained liberation.
+summary_scholar: The hill itself is well attested by inscriptions, which date from the Asokan
+  period onward and do not verify the Jain account. The Gazetteer's coordinates are not used; the
+  point is the present-day location of the hill. The Gazetteer says the hill is second only to
+  Palitana among Jain tirthas and also lists shrines of other traditions on its peaks.
+references:
+  - source: imperial-gazetteer-1909
+    locator: "12:247"
+  - source: jacobi-jaina-sutras-1
+    locator: Kalpa Sutra, section 182, p. 279

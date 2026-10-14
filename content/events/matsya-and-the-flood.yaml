@@ -1,0 +1,35 @@
+slug: matsya-and-the-flood
+names:
+  - text: The fish and the flood
+    lang: en
+    script: Latn
+  - text: मत्स्योपाख्यान
+    lang: sa
+    script: Deva
+    iast: Matsyopākhyāna
+participants:
+  - entity: matsya
+    role: The fish who warns Manu (identified as Vishnu in the Bhagavata Purana, as Brahma in the Mahabharata)
+  - entity: vaivasvata-manu
+    role: Manu, who rears the fish and is saved from the flood
+traditions: [vedic, puranic, vaishnava]
+summary_beginner: >-
+  A small fish asks Manu to protect it and promises in return to save him from a coming flood. Manu raises the fish
+  until it is huge, builds a ship as it advises, and when the flood comes the fish tows the ship to safety. Texts disagree
+  about who the fish is.
+summary_scholar: >-
+  The Satapatha Brahmana (1.8.1) gives the oldest version in KALA's sources: the fish is not named as a deity, the ship is
+  tied to its horn, and Manu alone survives on the northern mountain. In the Mahabharata's Vana Parva (Section CLXXXVI) the
+  fish takes Manu and the seven rishis through the flood to a peak of the Himalaya and says at the end that it is Brahma.
+  The Bhagavata Purana (1.3) counts the fish among Hari's forms and places the deluge at the end of the Chakshusha
+  manvantara, saving Vaivasvata Manu in a vessel. KALA does not merge these identifications, which are stored on the
+  relevant avatar records; this event has no single variant.
+references:
+  - source: eggeling-satapatha
+    locator: "1.8.1.1"
+  - source: ganguli-mahabharata
+    locator: "3.186"
+  - source: dutt-bhagavata-purana
+    locator: "1.3"
+  - source: dutt-bhagavata-purana
+    locator: "2.7"

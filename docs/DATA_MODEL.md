@@ -218,3 +218,43 @@ server is needed to run them.
 | Every Entity has ≥1 relationship and ≥1 source         | `references.min(1)`  | "entity has no relationships" | `entity_has_references`              | `rules.test.ts`                     |
 | Conflicting relationships only with different variants | —                    | `relationshipConflicts`       | —                                    | `rules.test.ts`                     |
 | Every seed file validates (§8 gate 1)                  | —                    | `loadContent`                 | —                                    | `load.test.ts` (runs on `content/`) |
+
+## 9. Phase 2 additions
+
+### Ordered lists: `Relationship.position`
+
+Some accounts are _ordered lists_: the ten avatars of Vishnu, the twenty-two avatars of the Bhagavata
+Purana, the seven rishis of one account. A list is a `Variant` of `kind: list`; each member is a
+relationship (`avatar_of`, `manifestation_of`, `aspect_of`, `member_of`) carrying that `variant` and a
+`position` (1 = first). `position` needs a variant, because order means something only inside one
+list, and positions in one list are unique per principal and type. A figure that appears in two
+lists is two relationships. The Avatars mode compares lists side by side from exactly this data.
+
+The four "form" relationships mean different things and are never merged: **avatar** (a descent into
+the world), **manifestation** (a form in which a deity appears or acts), **aspect** (one side or power),
+**identification** (a text says two names are one being). Use the one the source uses.
+
+### Pilgrimage networks: `networks` collection
+
+`slug`, `names`, `kind` (char_dham, jyotirlinga, shakti_peetha, sacred_cities, river_tirtha, himalayan,
+buddhist, jain, other), `traditions`, `variants` (the list variants that define membership),
+summaries, references. Membership lives on each `Place`: `pilgrimage_networks: [{ network, variant?,
+references }]`. Rules: the network must exist; a membership's variant must be one of the network's
+lists; list variants must be `kind: list`. Networks of different traditions stay separate, and the
+Pilgrimage mode groups them by tradition family.
+
+### Journeys: `journeys` collection
+
+A guided path: `steps` (≥2), each with `title`, `body`, optional `detail`, `references` (≥1),
+`cosmic_model`, `focus_yuga` and `links` to other records. All journey text lives in content; step ids
+are unique and every link and model must resolve.
+
+### Events and concepts
+
+Events (`events`) and concepts (`concepts`) now have pages (`/event/<slug>`, `/concept/<slug>`).
+`Concept` gained an optional `summary_scholar`. Events still carry no historical dates.
+
+### Database
+
+Two tables: `networks` and `journeys` (migration `0002_networks_journeys.sql`). Seeds, names search and
+the `links` graph include them.

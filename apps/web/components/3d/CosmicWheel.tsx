@@ -6,6 +6,7 @@
 // Drawn as SVG tilted in 3D with CSS perspective rather than WebGL: the wheel is made of flat
 // rings, and this keeps the page interactive well inside the 4 s mobile budget (DECISIONS.md).
 import type { YugaName } from "@kala/schema";
+import { useTranslations } from "next-intl";
 import { useState } from "react";
 import type { CycleSummary } from "@/lib/time/cycle";
 import { YUGA_TONE } from "./colors";
@@ -36,6 +37,7 @@ export default function CosmicWheel({
   onSelect: (y: YugaName) => void;
   reducedMotion: boolean;
 }) {
+  const ty = useTranslations("enums.yugaShort");
   const [hover, setHover] = useState<YugaName | null>(null);
   const kalpa = cycle.manvantarasPerKalpa;
   const mahayugas = cycle.mahayugasPerManvantara;
@@ -117,7 +119,7 @@ export default function CosmicWheel({
                     fill="var(--kala-ink)"
                     className="pointer-events-none capitalize"
                   >
-                    {y.yuga}
+                    {ty(y.yuga)}
                   </text>
                 </g>
               );

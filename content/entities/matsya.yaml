@@ -1,0 +1,42 @@
+slug: matsya
+names:
+  - text: Matsya
+    lang: en
+    script: Latn
+  - text: मत्स्य
+    lang: sa
+    script: Deva
+    iast: Matsya
+epithets:
+  - text: The Fish
+    lang: en
+    script: Latn
+kinds: [deity]
+traditions: [vaishnava, puranic, itihasa]
+summary_beginner: >-
+  The fish form of Vishnu in the story of the great flood. In the Bhagavata Purana the Lord takes the form of a fish to
+  save Vaivasvata Manu at a deluge. Older tellings of the same story describe the fish differently, so Matsya is the
+  Vaishnava Puranic identification of that fish.
+summary_scholar: >-
+  The flood story is older than the avatar lists. In the Satapatha Brahmana the fish who warns Manu is not named as a god.
+  In the Mahabharata's Vana Parva the fish says at the end that it is Brahma, lord of creatures. The Bhagavata
+  Purana's list counts the fish among the forms of Hari and places the deluge at the end of the Chakshusha manvantara.
+  The Vishnu Purana says that in earlier kalpas Narayana had taken the shape of a fish.
+references:
+  - source: dutt-bhagavata-purana
+    locator: "1.3"
+    note: "The deluge at the end of the Chakshusha cycle: the Lord as a fish saves Vaivasvata Manu in a vessel."
+  - source: dutt-bhagavata-purana
+    locator: "2.7"
+  - source: eggeling-satapatha
+    locator: "1.8.1.1"
+    note: "The earliest version in our sources: a fish tells Manu to rear it and says it will save him from a flood. The fish is not named as Vishnu."
+  - source: ganguli-mahabharata
+    locator: "3.186"
+    note: "The fish says it is Brahma."
+  - source: ganguli-mahabharata
+    locator: "12.340"
+    note: "Listed among Narayana's forms."
+  - source: wilson-vishnu-purana
+    locator: "1.4"
+    note: "Mentions that in earlier kalpas Narayana took the shape of a fish or a tortoise."

@@ -1,0 +1,65 @@
+slug: moksha
+names:
+  - text: "Moksha"
+    lang: en
+    script: Latn
+  - text: "मोक्ष"
+    lang: sa
+    script: Deva
+    iast: "Mokṣa"
+summary_beginner: "Moksha is liberation: release from the cycle of rebirth and from the bonds of ignorance and action. Schools describe the freed state differently, from becoming one with Brahman to the Self standing apart from nature. Buddhist and Jain traditions also use this term, with meanings of their own that this page does not cover."
+interpretations:
+  - tradition: vedanta
+    explanation: "The Mundaka Upanishad compares the wise person to rivers that lose name and form in the sea, and says that whoever knows the highest Brahman becomes Brahman, overcoming grief and becoming immortal. The Chandogya Upanishad adds that anyone who finds the Self free from evil, and its true desires, gains all worlds and desires."
+    references:
+      - source: muller-upanishads
+        locator: "Mundaka Upanishad 3.2.8-9 (SBE 15)"
+      - source: muller-upanishads
+        locator: "Chandogya Upanishad 8.7.1 (SBE 1)"
+  - tradition: itihasa
+    explanation: "The Gita describes a person who has cast off attachment and gained knowledge as going where there is no return, and a yogin with a stilled mind as reaching a peace that ends in release. At the close, Krishna promises to free from all sins whoever takes refuge in him alone."
+    references:
+      - source: telang-bhagavadgita
+        locator: "5.17"
+      - source: telang-bhagavadgita
+        locator: "6.15"
+      - source: telang-bhagavadgita
+        locator: "18.66"
+  - tradition: dharmashastra
+    explanation: "Manu separates acts that continue worldly existence, done for rewards, from acts done without desire and preceded by knowledge, which lead to supreme bliss and a cessation of that existence. Bühler's notes show that commentators read 'supreme bliss' as final liberation."
+    references:
+      - source: buhler-manu
+        locator: "Manu 12.88-89"
+        note: "Bühler's translation and notes."
+  - tradition: samkhya
+    explanation: "In the Samkhya Karika nature evolves for the deliverance of each soul. Once the soul has seen nature, nature desists, and when the soul finally separates from its body the text calls the deliverance absolute and final."
+    references:
+      - source: colebrooke-sankhya-karika
+        locator: "karika 56"
+      - source: colebrooke-sankhya-karika
+        locator: "karika 66"
+      - source: colebrooke-sankhya-karika
+        locator: "karika 68"
+  - tradition: yoga
+    explanation: "The Yoga Sutras define the goal as the 'isolation' of the Seer. It is reached when the false link between Seer and seen, caused by undifferentiated consciousness, ends through steady discriminating insight."
+    references:
+      - source: woods-yoga-system-patanjali
+        locator: "Yoga-sutra 2.24-26"
+  - tradition: advaita-vedanta
+    explanation: "For Shankara the aim is knowledge of the Self of Brahman, from which comes the end of all suffering and the highest human aim. Release cannot depend on place, time or action, since it is not a product of work but follows from the knowledge that the Self is not an agent."
+    references:
+      - source: thibaut-vedanta-sutras-shankara
+        locator: "SBE 34, Vedanta-Sutras 1.1.4"
+      - source: thibaut-vedanta-sutras-shankara
+        locator: "SBE 38, Vedanta-Sutras 4.1.13-14"
+  - tradition: vishishtadvaita
+    explanation: "Ramanuja holds that the highest Self is gained through steady loving remembrance, which he calls devotion and equates with meditation, and that the Self reveals itself to the person it chooses. Because Brahman for Ramanuja carries plurality within itself, the soul that reaches it is not described as dissolving into an undifferentiated unity."
+    references:
+      - source: thibaut-vedanta-sutras-ramanuja
+        locator: "SBE 48, Vedanta-Sutras 1.1.1 (p. 16)"
+related:
+  - karma
+  - samsara
+  - jnana
+  - bhakti
+  - yoga

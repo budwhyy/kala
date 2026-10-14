@@ -1,0 +1,16 @@
+slug: gods-maruts-born-of-diti
+names:
+  - text: Maruts born of Diti's divided child
+    lang: en
+    script: Latn
+kind: genealogy
+tradition: puranic
+text: vishnu-purana
+description: The account in Vishnu Purana 1.21 and Ramayana 1.47 in which Indra splits Diti's unborn son and the pieces become the Maruts. The Vishnu Purana's own 1.15 gives the Maruts a different mother, Marutwati, wife of Dharma.
+references:
+  - source: wilson-vishnu-purana
+    locator: "1.21"
+  - source: griffith-ramayana
+    locator: "1.47"
+  - source: wilson-vishnu-purana
+    locator: "1.15"

@@ -1,0 +1,33 @@
+slug: kubera
+names:
+  - text: Kubera
+    lang: en
+    script: Latn
+  - text: कुबेर
+    lang: sa
+    script: Deva
+    iast: Kubera
+epithets:
+  - text: Kuvera
+    lang: en
+    script: Latn
+  - text: Vaisravana
+    lang: en
+    script: Latn
+  - text: Dhanada
+    lang: en
+    script: Latn
+kinds:
+  - deity
+  - yaksha
+traditions:
+  - itihasa
+  - puranic
+summary_beginner: The lord of wealth and king of the Yakshas. The Mahabharata calls him a son of Pulastya and describes his shining assembly hall, where Shiva visits as his friend.
+summary_scholar: MBh 2.10 (Narada's description of Kubera's hall) states that he is Pulastya's son, that Vibhishana honours him as his elder brother, and that Shiva became his friend. VP 1.8, in the extract from the Vayu Purana that Wilson appends to the chapter, places Kuvera on Kailasa among Shiva's retinue. Other fathers for Kubera appear in other works, and Wilson's note to VP 1.10 reports the Bhagavata's version; those are not entered.
+references:
+  - source: ganguli-mahabharata
+    locator: "2.10"
+  - source: wilson-vishnu-purana
+    locator: "1.8"
+    note: In the Vayu Purana extract appended by Wilson to the chapter.

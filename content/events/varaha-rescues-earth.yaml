@@ -1,0 +1,39 @@
+slug: varaha-rescues-earth
+names:
+  - text: Varaha rescues the Earth
+    lang: en
+    script: Latn
+  - text: वराह द्वारा पृथ्वी का उद्धार
+    lang: sa
+    script: Deva
+    iast: Varāhoddhāra
+participants:
+  - entity: varaha
+    role: The boar form of Vishnu who raises the Earth
+  - entity: vishnu
+    role: The deity who takes the boar form
+cosmic_time:
+  variant: vishnu-purana-account
+  phase: creation
+  note: "The Vishnu Purana places the boar form at the beginning of the present kalpa, after the close of the past (Padma) kalpa."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.4"
+traditions: [vaishnava, puranic]
+summary_beginner: >-
+  At the start of the present kalpa the Earth lies beneath the cosmic ocean. In the Vishnu Purana, Narayana takes the form
+  of a boar, descends into the waters, and lifts the Earth up on his tusks after she praises him, so that creation can
+  begin again.
+summary_scholar: >-
+  The Vishnu Purana tells it in one chapter and mentions that in earlier kalpas Narayana had already taken the forms of a
+  fish and a tortoise. The Harivamsha lists the boar among Vishnu's incarnations and describes the boar's body in terms of
+  the sacrifice (the Vedas are his feet, the altar his tusk). In the Santi Parva Narayana says he will be the boar in a
+  future kalpa and, in that form, also slay the Daitya Hiranyaksha. The Hiranyaksha story appears in other Puranas,
+  according to Wilson's note, and is not told in the sources KALA holds for this event.
+references:
+  - source: wilson-vishnu-purana
+    locator: "1.4"
+  - source: dutt-harivamsha
+    locator: "41"
+  - source: ganguli-mahabharata
+    locator: "12.340"

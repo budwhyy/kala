@@ -1,0 +1,276 @@
+- id: hiranyakashipu-father-of-prahlada
+  from: hiranyakashipu
+  to: prahlada
+  type: parent
+  role: father
+  mode: biological
+  explanation: Prahlada is a son of the Daitya king Hiranyakashipu. The Mahabharata names him as the eldest of five brothers; the Vishnu Purana counts four.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.65"
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+    - source: wilson-vishnu-purana
+      locator: "1.17"
+- id: prahlada-father-of-virochana
+  from: prahlada
+  to: virochana
+  type: parent
+  role: father
+  mode: biological
+  explanation: Virochana is Prahlada's son in both the Mahabharata and the Vishnu Purana.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.65"
+    - source: wilson-vishnu-purana
+      locator: "1.21"
+- id: virochana-father-of-bali
+  from: virochana
+  to: bali
+  type: parent
+  role: father
+  mode: biological
+  explanation: Bali (Vali in Ganguli's spelling) is Virochana's son in both texts.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.65"
+    - source: wilson-vishnu-purana
+      locator: "1.21"
+- id: bali-father-of-bana
+  from: bali
+  to: bana
+  type: parent
+  role: father
+  mode: biological
+  explanation: Bana (Vana) is Bali's son; the Vishnu Purana makes him the eldest of Bali's hundred sons.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.65"
+    - source: wilson-vishnu-purana
+      locator: "1.21"
+- id: vishnu-blessing-prahlada
+  from: vishnu
+  to: prahlada
+  type: blessing
+  explanation: After Prahlada's long trial, Vishnu appears to him, assures him that his devotion will not fade, and grants the boons he asks, including pardon for his father.
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.20"
+- id: vishnu-blessing-bali
+  from: vishnu
+  to: bali
+  type: blessing
+  explanation: The Vishnu Purana says that by Vishnu's favour Bali is sovereign of part of Patala and will be Indra in the eighth Manvantara.
+  references:
+    - source: wilson-vishnu-purana
+      locator: "3.2"
+- id: hiranyakashipu-enemy-of-vishnu
+  from: hiranyakashipu
+  to: vishnu
+  type: enemy
+  explanation: In the Vishnu Purana Hiranyakashipu calls Vishnu his foe and persecutes his own son for praising him; Vishnu in the man-lion form finally kills him. The man-lion episode itself is recorded under the avatar Narasimha.
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.17"
+    - source: wilson-vishnu-purana
+      locator: "1.20"
+- id: kashyapa-partner-of-danayu
+  from: kashyapa
+  to: danayu
+  type: partner
+  explanation: Danayu is named in the Mahabharata among the thirteen daughters of Daksha given to Kashyapa.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.65"
+    - source: ganguli-mahabharata
+      locator: "1.66"
+- id: daksha-father-of-danayu
+  from: daksha
+  to: danayu
+  type: parent
+  role: father
+  mode: biological
+  explanation: Danayu is listed among the thirteen daughters of Daksha in the Mahabharata.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.65"
+- id: danayu-mother-of-vritra
+  from: danayu
+  to: vritra
+  type: parent
+  role: mother
+  mode: biological
+  explanation: The Mahabharata lists Vritra as one of the four Asura sons of Danayu, with Vikshara, Bala and Vira.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.65"
+- id: indra-enemy-of-vritra
+  from: indra
+  to: vritra
+  type: enemy
+  explanation: The Adi Parva addresses Indra as the slayer of Vritra, which marks the two as enemies. The story of the fight is not told in the passages entered here.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.25"
+    - source: ganguli-mahabharata
+      locator: "1.65"
+- id: danu-mother-of-vrishaparvan
+  from: danu
+  to: vrishaparvan
+  type: parent
+  role: mother
+  mode: biological
+  explanation: Vrishaparvan is named among the sons of Danu in the Mahabharata and in the Vishnu Purana.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.65"
+    - source: wilson-vishnu-purana
+      locator: "1.21"
+- id: kashyapa-father-of-vrishaparvan
+  from: kashyapa
+  to: vrishaparvan
+  type: parent
+  role: father
+  mode: biological
+  explanation: Vrishaparvan is among the Danavas born of Kashyapa through Danu.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.65"
+    - source: wilson-vishnu-purana
+      locator: "1.21"
+- id: vrishaparvan-father-of-sharmishtha
+  from: vrishaparvan
+  to: sharmishtha
+  type: parent
+  role: father
+  mode: biological
+  explanation: Sharmishtha is the daughter of the Danava king Vrishaparvan.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.78"
+    - source: wilson-vishnu-purana
+      locator: "1.21"
+- id: yayati-partner-of-devayani
+  from: yayati
+  to: devayani
+  type: partner
+  explanation: Shukra gives his daughter Devayani to King Yayati, and she becomes his first wife.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.75"
+    - source: ganguli-mahabharata
+      locator: "1.81"
+- id: yayati-partner-of-sharmishtha
+  from: yayati
+  to: sharmishtha
+  type: partner
+  explanation: Sharmishtha, who came with Devayani as her attendant, secretly bears Yayati three sons; Shukra had forbidden him to call her to his bed.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.75"
+    - source: ganguli-mahabharata
+      locator: "1.81"
+    - source: ganguli-mahabharata
+      locator: "1.83"
+- id: devayani-mother-of-yadu
+  from: devayani
+  to: yadu
+  type: parent
+  role: mother
+  mode: biological
+  explanation: Yadu and Turvasu are the sons of Yayati by Devayani.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.75"
+    - source: ganguli-mahabharata
+      locator: "1.83"
+- id: sharmishtha-mother-of-puru
+  from: sharmishtha
+  to: puru
+  type: parent
+  role: mother
+  mode: biological
+  explanation: Druhyu, Anu and Puru are the sons of Yayati by Sharmishtha.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.75"
+    - source: ganguli-mahabharata
+      locator: "1.83"
+- id: rahu-member-of-danavas
+  from: rahu
+  to: danavas
+  type: member_of
+  explanation: The Mahabharata calls Rahu a Danava when it tells how he drank amrita among the gods.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.19"
+- id: rahu-enemy-of-surya
+  from: rahu
+  to: surya
+  type: enemy
+  explanation: Surya revealed Rahu to the gods, and the Mahabharata says the quarrel between Rahu's head and Surya endures.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.19"
+- id: rahu-enemy-of-chandra
+  from: rahu
+  to: chandra
+  type: enemy
+  explanation: Soma (Chandra) was the other god who exposed Rahu; the Mahabharata says Rahu's head still swallows the Sun and Moon at eclipses.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.19"
+- id: rahu-enemy-of-vishnu
+  from: rahu
+  to: vishnu
+  type: enemy
+  explanation: Narayana (Vishnu) cuts off Rahu's head with his discus as Rahu drinks the amrita.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.19"
+- id: adityas-enemy-of-daityas
+  from: adityas
+  to: daityas
+  type: enemy
+  explanation: The sons of Aditi and the sons of Diti, half-brothers, fight each other over the amrita in the Ramayana, and the Vishnu Purana has the Daityas overthrow the gods before the churning.
+  references:
+    - source: griffith-ramayana
+      locator: "1.45"
+    - source: wilson-vishnu-purana
+      locator: "1.9"
+- id: diti-mother-of-maruts
+  from: diti
+  to: maruts
+  type: parent
+  role: mother
+  mode: biological
+  variant: gods-maruts-born-of-diti
+  explanation: Diti's unborn child, split by Indra, becomes the Maruts; the Ramayana has her ask Indra that the pieces become the Maruts.
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.21"
+    - source: griffith-ramayana
+      locator: "1.47"
+- id: kashyapa-father-of-maruts
+  from: kashyapa
+  to: maruts
+  type: parent
+  role: father
+  mode: biological
+  variant: gods-maruts-born-of-diti
+  explanation: Diti conceives the child by Kashyapa's boon, which Indra later splits into the Maruts.
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.21"
+    - source: griffith-ramayana
+      locator: "1.46"
+- id: indra-ally-of-maruts
+  from: indra
+  to: maruts
+  type: ally
+  explanation: "The Maruts are Indra's companions: the Vishnu Purana calls them his associates, and in the Ramayana he promises they will drink amrita and wait on him."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.21"
+    - source: griffith-ramayana
+      locator: "1.47"

@@ -1,0 +1,21 @@
+slug: buddhist-fa-hien-sacred-places
+names:
+  - text: Sites of the Buddha's life recorded by Fa-hien
+    lang: en
+    script: Latn
+kind: buddhist
+traditions:
+  - buddhist
+variants:
+  - buddhist-places-fa-hien-record
+summary_beginner: The holy places of the Buddha's life that the Chinese pilgrim Fa-hien visited and
+  described in the early fifth century, gathered here as one traveller's record rather than as an
+  official circuit.
+summary_scholar: Legge's translation of Fa-hien is the source of the list. Fa-hien describes
+  Shravasti and Kapilavastu as thinly peopled or desolate in his day. Xuanzang's later account, in
+  Beal's translation, is cited on the place records where it adds detail.
+references:
+  - source: legge-fa-hien
+    locator: "17"
+  - source: legge-fa-hien
+    locator: "34"

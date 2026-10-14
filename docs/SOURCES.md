@@ -61,3 +61,29 @@ See [CONTENT_GUIDE.md](CONTENT_GUIDE.md) §4 for how to cite.
   Phase 1 must rest on the Mahabharata, Ramayana, Vishnu, Bhagavata, Markandeya and Devi Bhagavata
   Puranas, and Kalidasa. Logged as OQ-008.
 - Nasadiya and Purusha Suktas: Griffith (`griffith-rigveda`) and Muir (`muir-original-sanskrit-texts`).
+
+## Phase 2 additions
+
+Added during Phase 2, each verified by the research agent that used it (details and open checks in
+`docs/research/*-p2-notes.md`). All are public domain unless marked.
+
+| Slug                              | Edition                                                                                                     | Translator / author (life)       | Locator convention                  | Licence       | Status                                                                                                  |
+| --------------------------------- | ----------------------------------------------------------------------------------------------------------- | -------------------------------- | ----------------------------------- | ------------- | ------------------------------------------------------------------------------------------------------- |
+| `thibaut-vedanta-sutras-shankara` | _The Vedanta-Sutras with the commentary by Sankaracarya_, SBE vols 34 and 38, Oxford: Clarendon, 1890, 1896 | George Thibaut (1848–1914)       | adhyaya.pada.sutra, with SBE volume | public_domain | Title pages read in scans; death date from Wikipedia — catalogue check outstanding                      |
+| `thibaut-vedanta-sutras-ramanuja` | _The Vedanta-Sutras with the commentary of Ramanuja_, SBE vol. 48, Oxford: Clarendon, 1904                  | George Thibaut                   | adhyaya.pada.sutra, with page       | public_domain | As above                                                                                                |
+| `woods-yoga-system-patanjali`     | _The Yoga-System of Patanjali_, Harvard Oriental Series 17, Harvard University Press, 1914                  | James Haughton Woods (1864–1935) | book.sutra                          | public_domain | Title page read; catalogue check outstanding                                                            |
+| `dutt-garuda-purana`              | _The Garuda Puranam_ (prose), Calcutta, 1908                                                                | Manmatha Nath Dutt (1855–1912)   | chapter (Dutt's numbering)          | public_domain | Scan verified (preface dated 1908); publisher not confirmed. Not the 1911 Wood–Subrahmanyam translation |
+| `rhys-davids-buddhist-suttas`     | _Buddhist Suttas_, SBE 11, Oxford: Clarendon, 1881                                                          | T. W. Rhys Davids                | chapter.paragraph                   | public_domain | Read in an online transcription, not a page scan                                                        |
+| `jacobi-jaina-sutras-1`           | _Gaina Sutras_ part I, SBE 22, Oxford: Clarendon, 1884                                                      | Hermann Jacobi                   | Kalpa Sutra section and page        | public_domain | Scan is a Motilal reprint; original pagination assumed                                                  |
+| `beal-si-yu-ki`                   | _Si-yu-ki: Buddhist Records of the Western World_, 2 vols, London: Trübner, 1884                            | Samuel Beal                      | volume:page                         | public_domain | Scan on archive.org (`si-yu-ki-1884`)                                                                   |
+| `legge-fa-hien`                   | _A Record of Buddhistic Kingdoms_, Oxford: Clarendon, 1886                                                  | James Legge                      | chapter                             | public_domain | Project Gutenberg 64535                                                                                 |
+
+| Slug                          | Work                                                                                                                        | Author (life)                            | Locator     | Licence       | Status                                                                                            |
+| ----------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ----------- | ------------- | ------------------------------------------------------------------------------------------------- |
+| `cunningham-mahabodhi`        | _Mahabodhi, or the Great Buddhist Temple under the Bodhi Tree at Buddha-Gaya_, London, 1892                                 | Alexander Cunningham                     | page        | public_domain | Scan on archive.org (`dli.csl.8896`)                                                              |
+| `wilson-religious-sects-1861` | "Sketch of the Religious Sects of the Hindus", in _Select Works of H. H. Wilson_ vol. 1, ed. R. Rost, London: Trübner, 1861 | H. H. Wilson (1786–1860)                 | page        | public_domain | Scan verified; item 9 of the twelve-linga list is an editor's bracketed insertion                 |
+| `imperial-gazetteer-1909`     | _The Imperial Gazetteer of India_, new ed., 26 vols, Oxford: Clarendon, 1907–09                                             | W. S. Meyer, R. Burn, J. S. Cotton (eds) | volume:page | public_domain | Added in Phase 1 follow-up; page numbers from OCR running heads are listed per place in the notes |
+
+Locator notes: `dutt-bhagavata-purana` — the scan found covers only skandhas 1–2 (archive.org
+`proseenglishtran12dutt`); `dutt-harivamsha` — chapter numbers restart in the Bhavishya Parva, so cite the
+parva with the chapter.

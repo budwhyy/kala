@@ -1,0 +1,53 @@
+slug: gangotri
+names:
+  - text: "Gangotri"
+    lang: en
+    script: Latn
+  - text: "गंगोत्री"
+    lang: hi
+    script: Deva
+realm: terrestrial
+kind: tirtha
+confidence: traditional
+geometry:
+  type: Point
+  coordinates:
+    - 78.94
+    - 30.99
+modern_admin:
+  country: "India"
+  region: "Uttarakhand"
+  district: "Uttarkashi"
+evidence:
+  - type: historical
+    summary: "The Imperial Gazetteer describes the mountain temple of Gangotri, in Tehri State, on the right bank of the Bhagirathi eight miles from its source in the Gaumukh glacier, at about 10,319 feet. The temple holds small statues of Ganga, Bhagirathi and others, and was erected by Amar Singh Thappa, a Gurkha commander; many pilgrims come in summer, and flasks of the sacred water are sealed and carried away."
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "12:140"
+  - type: traditional
+    summary: "The Gazetteer's article on the Ganges lists Gangotri, near the source, among the principal bathing resorts on the river."
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "12:135"
+related_places:
+  - to: ganga
+    relation: part_of
+    note: "The temple stands near the source of the river that the Ganga place record marks at Prayagraj."
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "12:140"
+traditions:
+  - hindu
+summary_beginner: "A small temple of the goddess Ganga near the glacier that feeds the Bhagirathi, the headstream of the Ganga. Pilgrims come in the warm months and carry its water home."
+references:
+  - source: imperial-gazetteer-1909
+    locator: "12:140"
+  - source: imperial-gazetteer-1909
+    locator: "12:132-136"
+pilgrimage_networks:
+  - network: chota-char-dham
+    variant: pilgrimage-chota-char-dham-himalayan
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "12:140"
+        note: "Mountain temple at the source of the Ganges"

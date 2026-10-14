@@ -1,0 +1,20 @@
+slug: danayu
+names:
+  - text: Danayu
+    lang: en
+    script: Latn
+  - text: दनायु
+    lang: sa
+    script: Deva
+    iast: Danāyu
+kinds:
+  - other
+traditions:
+  - itihasa
+summary_beginner: One of the thirteen daughters of Daksha given to Kashyapa in the Mahabharata's list. She is the mother of four Asura sons, among them Vritra.
+summary_scholar: The Vishnu Purana's list of Kashyapa's wives (1.15) does not include Danayu; Wilson's note says the Vayu Purana has Anayush or Danayush in place of Surasa.
+references:
+  - source: ganguli-mahabharata
+    locator: "1.65"
+  - source: ganguli-mahabharata
+    locator: "1.66"

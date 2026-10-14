@@ -1,0 +1,27 @@
+slug: jyotirlingas
+names:
+  - text: "The Twelve Jyotirlingas"
+    lang: en
+    script: Latn
+  - text: "द्वादश ज्योतिर्लिङ्ग"
+    lang: sa
+    script: Deva
+    iast: "Dvādaśa jyotirliṅga"
+  - text: "बारह ज्योतिर्लिंग"
+    lang: hi
+    script: Deva
+kind: jyotirlinga
+traditions:
+  - shaiva
+variants:
+  - pilgrimage-jyotirlinga-wilson-nandi-upapurana
+  - pilgrimage-jyotirlinga-gazetteer-entries
+summary_beginner: "Twelve shrines where Shaivas honour Shiva as a self-manifest 'linga of light'. The shrines are spread across India, from Kedarnath in the Himalaya to Rameswaram in the south. Different texts and traditions do not give exactly the same twelve."
+summary_scholar: "Two public-domain accounts are kept apart. H. H. Wilson reports a list of twelve from the Kedara Kalpa of the Nandi Upapurana, with his identifications; it includes Amareshvara and Gautamesa. The Imperial Gazetteer, without listing the twelve, describes Mandhata, Deogarh, Bhimashankar and Gokarn as holding one of the twelve celebrated lingas. Gokarna and Bhimashankar do not appear in Wilson's list as he locates it. The list used in India today, with Nageshvara and Ghrishneshvara, is not recorded here because KALA holds no public-domain English text for it."
+references:
+  - source: wilson-religious-sects-1861
+    locator: "223-224"
+    note: "Wilson's list of twelve"
+  - source: imperial-gazetteer-1909
+    locator: "17:152"
+    note: "Gazetteer: Mandhata"

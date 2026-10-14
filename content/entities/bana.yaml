@@ -1,0 +1,27 @@
+slug: bana
+names:
+  - text: Bana
+    lang: en
+    script: Latn
+  - text: बाण
+    lang: sa
+    script: Deva
+    iast: Bāṇa
+epithets:
+  - text: Vana
+    lang: en
+    script: Latn
+  - text: Mahakala
+    lang: en
+    script: Latn
+kinds:
+  - asura
+traditions:
+  - itihasa
+  - puranic
+summary_beginner: An Asura, the eldest son of Bali. The Mahabharata calls him a follower of Rudra and says he was also known as Mahakala.
+references:
+  - source: ganguli-mahabharata
+    locator: "1.65"
+  - source: wilson-vishnu-purana
+    locator: "1.21"

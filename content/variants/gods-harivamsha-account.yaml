@@ -1,0 +1,12 @@
+slug: gods-harivamsha-account
+names:
+  - text: Harivamsha account of Dhanvantari
+    lang: en
+    script: Latn
+kind: account
+tradition: vaishnava
+text: harivamsha
+description: The Harivamsha's story (Dutt, chapter 29, Account of Kashi Kings) of Dhanvantari rising from the ocean, being named Avja by Vishnu and promised a second birth in Kashi.
+references:
+  - source: dutt-harivamsha
+    locator: "29"

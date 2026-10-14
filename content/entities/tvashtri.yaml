@@ -1,0 +1,24 @@
+slug: tvashtri
+names:
+  - text: Tvashtri
+    lang: en
+    script: Latn
+  - text: त्वष्टृ
+    lang: sa
+    script: Deva
+    iast: Tvaṣṭṛ
+kinds:
+  - deity
+  - deva
+traditions:
+  - itihasa
+  - puranic
+summary_beginner: One of the twelve Adityas, sons of Kashyapa and Aditi, in both the Mahabharata and the Vishnu Purana. In the Vishnu Purana he is also named among the eleven Rudras and as the father of Vishvarupa.
+summary_scholar: Both lists of the Adityas (MBh 1.65, VP 1.15) include Tvashtri. VP 1.15 also calls a Rudra by the name Twashtri and gives him the son Vishvarupa; Wilson's note observes that the name is sometimes a synonym of Vishvakarma, so the two records are kept separate here. MBh 1.66 speaks of a mare-formed Tvashtri who becomes the wife of Savitri and bears the Ashvins; the translation uses a feminine sense there, so no parent link to the Ashvins is entered.
+references:
+  - source: ganguli-mahabharata
+    locator: "1.65"
+  - source: ganguli-mahabharata
+    locator: "1.66"
+  - source: wilson-vishnu-purana
+    locator: "1.15"

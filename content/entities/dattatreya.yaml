@@ -1,0 +1,27 @@
+slug: dattatreya
+names:
+  - text: Dattatreya
+    lang: en
+    script: Latn
+  - text: दत्तात्रेय
+    lang: sa
+    script: Deva
+    iast: Dattātreya
+kinds: [rishi]
+traditions: [vaishnava, puranic, itihasa]
+summary_beginner: >-
+  A sage in the line of Atri, counted among Vishnu's descents in the Harivamsha and the Bhagavata Purana. The Vishnu
+  Purana calls him a portion of Vishnu and says that King Kartavirya Arjuna won a thousand arms from him.
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.11"
+    note: "The sage Dattatreya, descendant of Atri, 'a portion of Vishnu', grants Kartavirya Arjuna his boons."
+  - source: dutt-harivamsha
+    locator: "41"
+    note: "Incarnation as Dattatreya who restores the Vedas and the castes and grants Kartavirya a boon."
+  - source: dutt-bhagavata-purana
+    locator: "2.7"
+    note: "The Lord tells Atri he has given himself, and is named Datta."
+  - source: dutt-bhagavata-purana
+    locator: "1.3"
+    note: "Sixth emanation, born to Anasuya, wife of Atri (unnamed in the text)."

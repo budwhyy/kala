@@ -53,6 +53,22 @@ traditions:
   - itihasa
   - buddhist
   - jain
+pilgrimage_networks:
+  - network: buddhist-fa-hien-sacred-places
+    variant: buddhist-places-fa-hien-record
+    references:
+      - source: legge-fa-hien
+        locator: "28"
+        note: Fa-hien describes the old city of Bimbisara in the valley of five hills and the new
+          Rajagriha built by Ajatasatru.
+      - source: legge-fa-hien
+        locator: "29"
+  - network: jain-mahavira-rainy-season-places
+    variant: jain-mahavira-rainy-seasons-kalpa-sutra
+    references:
+      - source: jacobi-jaina-sutras-1
+        locator: Kalpa Sutra, section 122, p. 264
+        note: Fourteen rainy seasons are listed for Rajagriha together with the suburbs of Nalanda.
 summary_beginner: The old hill-ringed capital of Magadha at Rajgir in Bihar, remembered in the
   Mahabharata as Jarasandha's city.
 summary_scholar: The historical city is well attested; this does not verify the Mahabharata's

@@ -1,0 +1,16 @@
+slug: avatars-list-mahabharata-santi-340
+names:
+  - text: "Mahabharata, Santi Parva 340: Narayana's forthcoming forms"
+    lang: en
+    script: Latn
+kind: list
+tradition: vaishnava
+text: mahabharata
+description: >-
+  In the Narayaniya section of the Santi Parva (Section CCCXL in Ganguli), Narayana tells the sage Narada which forms he
+  will take. The order given is: swan, tortoise, fish, boar, man-lion, dwarf, Rama of Bhrigu's race, Rama son of
+  Dasaratha, Krishna of the Sattwata race, and Kalki. This list has no Balarama and no Buddha. Positions follow the
+  text; the swan (Hamsa) form is first and has no record in KALA.
+references:
+  - source: ganguli-mahabharata
+    locator: "12.340"

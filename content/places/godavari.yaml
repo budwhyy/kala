@@ -1,0 +1,57 @@
+slug: godavari
+names:
+  - text: "Godavari"
+    lang: en
+    script: Latn
+  - text: "गोदावरी"
+    lang: sa
+    script: Deva
+    iast: "Godāvarī"
+  - text: "गोदावरी"
+    lang: hi
+    script: Deva
+realm: terrestrial
+kind: river
+confidence: traditional
+geometry:
+  type: Point
+  coordinates:
+    - 73.53
+    - 19.93
+modern_admin:
+  country: "India"
+  region: "Maharashtra"
+  district: "Nashik"
+evidence:
+  - type: historical
+    summary: "The Imperial Gazetteer describes the Godavari as a great river of southern India, about 900 miles long, rising behind the village of Trimbak in Nasik District. It reports that its peculiar sacredness is said to have been revealed by Rama to the sage Gautama, that every part of its course is holy, that bathing in it washes away sin, and that the Pushkaram bathing festival is held every twelfth year at Rajahmundry. The marker is placed at the source."
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "12:297-299"
+  - type: textual
+    summary: "Dutt's Garuda Purana (chapter 81) names the Godavari among sacred rivers and speaks of seven sanctuaries along its banks. The Devi Bhagavata gives the Devi's name in the Godavari as Trisandhya (7.30)."
+    references:
+      - source: dutt-garuda-purana
+        locator: "81"
+        note: "pp. 210-212"
+      - source: vijnanananda-devi-bhagavata
+        locator: "7.30"
+traditions:
+  - hindu
+summary_beginner: "A great river of the Deccan, rising near Trimbak and flowing to the Bay of Bengal, holy to Hindus along its whole course. The marker shows its source rather than the whole river."
+references:
+  - source: imperial-gazetteer-1909
+    locator: "12:297-299"
+pilgrimage_networks:
+  - network: river-tirthas
+    variant: pilgrimage-river-tirthas-gazetteer
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "12:297-299"
+        note: "Every part of its course is holy ground"
+  - network: shakti-peethas
+    variant: pilgrimage-shakti-devi-bhagavata-108
+    references:
+      - source: vijnanananda-devi-bhagavata
+        locator: "7.30"
+        note: "Trisandhya in the Godavari"

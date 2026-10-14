@@ -1,0 +1,74 @@
+slug: somnath
+names:
+  - text: "Somnath"
+    lang: en
+    script: Latn
+  - text: "सोमनाथ"
+    lang: sa
+    script: Deva
+    iast: "Somanātha"
+  - text: "सोमनाथ"
+    lang: hi
+    script: Deva
+  - text: "प्रभास"
+    lang: sa
+    script: Deva
+    iast: "Prabhāsa"
+  - text: "Prabhas Pattan"
+    lang: en
+    script: Latn
+realm: terrestrial
+kind: tirtha
+confidence: verified
+geometry:
+  type: Point
+  coordinates:
+    - 70.4
+    - 20.89
+modern_admin:
+  country: "India"
+  region: "Gujarat"
+  district: "Gir Somnath"
+evidence:
+  - type: historical
+    summary: "The Imperial Gazetteer describes Somnath (also Prabhas Pattan or Veraval Pattan) as an ancient town on the south coast of Kathiawar with a large Siva temple on the shore. It records that the town was captured by Mahmud of Ghazni in 1024-6, and that little is known of its history before that. This confirms a major temple and town by the early eleventh century; it does not verify the legends told of the place."
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "23:74-75"
+  - type: textual
+    summary: "Wilson, discussing the temple destroyed by Mahmud, gives Somanatha in Saurashtra as the first of the twelve lingas of the Nandi Upapurana. Dutt's Garuda Purana (chapter 81) names the sacred pool at Prabhasa as a great place of pilgrimage where an image of Somnath is installed."
+    references:
+      - source: wilson-religious-sects-1861
+        locator: "223"
+      - source: dutt-garuda-purana
+        locator: "81"
+        note: "p. 209"
+  - type: textual
+    summary: "The Devi Bhagavata, in its list of 108 seats, names the Devi at Prabhasa as Puskaravati (7.30). Equating Prabhasa with Prabhas Pattan, the Gazetteer's alternative name for Somnath, is a traditional identification."
+    references:
+      - source: vijnanananda-devi-bhagavata
+        locator: "7.30"
+traditions:
+  - shaiva
+  - shakta
+  - hindu
+summary_beginner: "A temple town on the Gujarat coast where Shaivas honour Shiva as Somanatha, 'Lord of the Moon', counted as the first of the twelve jyotirlingas. The site is also known as Prabhasa, a place of pilgrimage named in the Puranas."
+summary_scholar: "The temple's attack by Mahmud of Ghazni in 1024-6 is the historical anchor the Gazetteer gives. Krishna traditions also place his death near here (the Gazetteer mentions the Bhat Kund); these are traditions and are not dated."
+references:
+  - source: imperial-gazetteer-1909
+    locator: "23:74-75"
+  - source: wilson-religious-sects-1861
+    locator: "223"
+pilgrimage_networks:
+  - network: jyotirlingas
+    variant: pilgrimage-jyotirlinga-wilson-nandi-upapurana
+    references:
+      - source: wilson-religious-sects-1861
+        locator: "223"
+        note: "Item 1: Somanatha in Saurashtra"
+  - network: shakti-peethas
+    variant: pilgrimage-shakti-devi-bhagavata-108
+    references:
+      - source: vijnanananda-devi-bhagavata
+        locator: "7.30"
+        note: "Puskaravati at Prabhasa; identification of Prabhasa with Somnath is traditional"

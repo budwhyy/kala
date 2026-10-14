@@ -6,7 +6,10 @@ import { describe, expect, it } from "vitest";
 import { parse } from "yaml";
 import { COLLECTIONS, type CollectionName } from "../src";
 
-const guide = readFileSync(resolve(import.meta.dirname, "../../../docs/CONTENT_GUIDE.md"), "utf8");
+const guide = readFileSync(
+  resolve(import.meta.dirname, "../../../docs/CONTENT_GUIDE.md"),
+  "utf8",
+).replace(/\r\n/g, "\n");
 
 const examples = [...guide.matchAll(/^( *)```yaml\n([\s\S]*?)^\1```/gm)].flatMap((m) => {
   const indent = m[1]!.length;

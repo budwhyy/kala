@@ -1,0 +1,35 @@
+slug: dhanvantari
+names:
+  - text: Dhanvantari
+    lang: en
+    script: Latn
+  - text: धन्वन्तरि
+    lang: sa
+    script: Deva
+    iast: Dhanvantari
+epithets:
+  - text: Dhanwantari
+    lang: en
+    script: Latn
+  - text: Avja
+    lang: en
+    script: Latn
+kinds:
+  - deity
+  - deva
+traditions:
+  - itihasa
+  - puranic
+summary_beginner: The physician of the gods, who rises from the ocean at the churning carrying the cup of amrita, the drink of immortality. Medicine (Ayurveda) is said to have been taught by him.
+summary_scholar: He appears in the Mahabharata (1.18), the Vishnu Purana (1.9) and the Ramayana (1.45, with Griffith's note calling him the gods' physician). The Harivamsha (Dutt, chapter 29) adds that Vishnu named him Avja ('water-born'), accepted him as a son, and promised him a second birth as a king of Kashi who would spread Ayurveda; Wilson's VP 3.6 lists medicine among the branches of knowledge 'as taught by Dhanwantari'. The Kashi king of the Harivamsha is told as Dhanvantari's second birth and is not yet a separate record.
+references:
+  - source: ganguli-mahabharata
+    locator: "1.18"
+  - source: wilson-vishnu-purana
+    locator: "1.9"
+  - source: griffith-ramayana
+    locator: "1.45"
+  - source: dutt-harivamsha
+    locator: "29"
+  - source: wilson-vishnu-purana
+    locator: "3.6"

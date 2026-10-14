@@ -1,0 +1,12 @@
+slug: gods-churning-list-ramayana
+names:
+  - text: Products of the churning (Ramayana order)
+    lang: en
+    script: Latn
+kind: list
+tradition: itihasa
+text: valmiki-ramayana
+description: "The order in Griffith's Ramayana 1.45: poison, Dhanvantari, the Apsarases, Sura (Varuni), the steed Uchchaihshravas, the Kaustubha gem, the Moon, Lakshmi, and then the amrita (position 9, without a record). Airavata is not named."
+references:
+  - source: griffith-ramayana
+    locator: "1.45"

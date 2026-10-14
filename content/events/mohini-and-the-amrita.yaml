@@ -1,0 +1,30 @@
+slug: mohini-and-the-amrita
+names:
+  - text: Mohini and the amrita
+    lang: en
+    script: Latn
+  - text: मोहिनी और अमृत
+    lang: sa
+    script: Deva
+    iast: Mohinī ca amṛtam
+participants:
+  - entity: mohini
+    role: The female form of Vishnu who deludes the Daityas
+  - entity: dhanvantari
+    role: Emerges from the ocean with the cup of amrita
+  - entity: daityas
+    role: Seize the cup and are deceived
+traditions: [vaishnava, puranic]
+summary_beginner: >-
+  When the ocean of milk is churned, Dhanvantari rises holding the cup of amrita, the drink of immortality. The Daityas seize
+  the cup by force, but Vishnu takes a female form and so fascinates them that the amrita is recovered for the gods.
+summary_scholar: >-
+  In the Vishnu Purana (1.9) the female form is not named. The Bhagavata Purana (1.3) names Mohini as the thirteenth form
+  of Hari and Dhanvantari as the twelfth, and describes the two together as serving the nectar to the gods and
+  infatuating their rivals. The longer Bhagavata chapters on the churning are not in the portion KALA reads, so no further
+  detail is entered here.
+references:
+  - source: wilson-vishnu-purana
+    locator: "1.9"
+  - source: dutt-bhagavata-purana
+    locator: "1.3"

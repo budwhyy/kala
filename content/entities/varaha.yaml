@@ -1,0 +1,38 @@
+slug: varaha
+names:
+  - text: Varaha
+    lang: en
+    script: Latn
+  - text: वराह
+    lang: sa
+    script: Deva
+    iast: Varāha
+epithets:
+  - text: The Boar
+    lang: en
+    script: Latn
+kinds: [deity]
+traditions: [vaishnava, puranic, itihasa]
+summary_beginner: >-
+  The boar form that Vishnu takes to lift the Earth out of the cosmic waters. In the Vishnu Purana, Earth has sunk
+  beneath the ocean at the start of the present kalpa (a long cosmic day), prays to Vishnu, and is raised on the boar's
+  tusks so that creation can go on.
+summary_scholar: >-
+  The Vishnu Purana tells the story briefly and says that in earlier kalpas he had already taken the shapes of a fish and
+  a tortoise. Wilson's note observes that other Puranas give the boar's size and the story of Hiranyaksha at greater
+  length. In the Mahabharata's Santi Parva the boar is one of the forms Narayana lists, and he adds that he will slay the
+  Daitya Hiranyaksha in that form. The Harivamsha places the boar second in its list of incarnations.
+references:
+  - source: wilson-vishnu-purana
+    locator: "1.4"
+    note: "Narayana takes the boar form to raise the earth; the text also mentions earlier fish and tortoise forms."
+  - source: dutt-harivamsha
+    locator: "41"
+    note: "Harivamsha Parva: the boar form in the chapter's list of incarnations."
+  - source: ganguli-mahabharata
+    locator: "12.340"
+    note: "Narayana lists the boar among his forms and says he will slay Hiranyaksha in it."
+  - source: dutt-bhagavata-purana
+    locator: "1.3"
+  - source: dutt-bhagavata-purana
+    locator: "2.7"

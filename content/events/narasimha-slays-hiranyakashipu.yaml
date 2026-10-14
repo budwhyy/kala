@@ -1,0 +1,43 @@
+slug: narasimha-slays-hiranyakashipu
+names:
+  - text: Narasimha slays Hiranyakashipu
+    lang: en
+    script: Latn
+  - text: नरसिंह द्वारा हिरण्यकशिपु का वध
+    lang: sa
+    script: Deva
+    iast: Hiraṇyakaśipuvadha
+participants:
+  - entity: narasimha
+    role: The man-lion form of Vishnu
+  - entity: hiranyakashipu
+    role: The Daitya king who is killed
+  - entity: prahlada
+    role: Hiranyakashipu's devout son (in the Vishnu Purana's telling)
+cosmic_time:
+  variant: avatars-harivamsha-account
+  yuga: satya
+  note: "The Harivamsha says the event took place in the golden age."
+  references:
+    - source: dutt-harivamsha
+      locator: "41"
+traditions: [vaishnava, puranic]
+summary_beginner: >-
+  The Daitya king Hiranyakashipu wins a boon from Brahma that protects him from almost every kind of death and then
+  oppresses the gods. In the Harivamsha the gods appeal to Vishnu, who takes the form of a half-lion, half-man and kills
+  him. The Vishnu Purana tells the story through his son Prahlada, who keeps faith in Vishnu, and states that the king was
+  finally put to death by Vishnu as the man-lion.
+summary_scholar: >-
+  The Vishnu Purana (1.17-1.20) spends most of its space on Prahlada's trials and mentions the killing only in a sentence
+  (1.20). Wilson notes that the Bhagavata tells at length of the pillar and the conflict. The Harivamsha gives Hiranyakashipu's
+  list of immunities from Brahma in detail. The Santi Parva has Narayana say he will take the man-lion form to kill
+  Hiranyakashipu, son of Diti, who is destroying sacrifices.
+references:
+  - source: wilson-vishnu-purana
+    locator: "1.20"
+  - source: wilson-vishnu-purana
+    locator: "1.17"
+  - source: dutt-harivamsha
+    locator: "41"
+  - source: ganguli-mahabharata
+    locator: "12.340"

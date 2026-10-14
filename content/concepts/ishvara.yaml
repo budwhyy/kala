@@ -1,0 +1,48 @@
+slug: ishvara
+names:
+  - text: "Ishvara (the Lord)"
+    lang: en
+    script: Latn
+  - text: "ईश्वर"
+    lang: sa
+    script: Deva
+    iast: "Īśvara"
+summary_beginner: "Ishvara means the Lord, a personal God who creates, rules or is worshipped. Schools disagree on whether the Lord is the highest reality, a form of Brahman, or a special Self."
+interpretations:
+  - tradition: vedanta
+    explanation: "The Svetasvatara Upanishad calls the great Lord the maker of maya, working through nature to bring forth all things. Müller observes that its Lord is a personal creator and, in Vedanta terms, an aspect of Brahman."
+    references:
+      - source: muller-upanishads
+        locator: "Svetasvatara Upanishad 4.10 (SBE 15)"
+      - source: muller-upanishads
+        locator: "SBE 15, Introduction to the Svetasvatara Upanishad, pp. xxxvii-xxxviii"
+  - tradition: itihasa
+    explanation: "Krishna says the Lord dwells in the heart of every being, turning them around as though on a wheel by his delusion, and asks Arjuna to seek refuge in him. Elsewhere he describes himself as the father, mother and supporter of the universe."
+    references:
+      - source: telang-bhagavadgita
+        locator: "18.61-62"
+      - source: telang-bhagavadgita
+        locator: "9.17-18"
+  - tradition: yoga
+    explanation: "The Yoga Sutras describe Ishvara as a special Self untouched by hindrances, karma or their ripening, who is the teacher even of the first sages. Devotion to Ishvara is one way to concentration and one of the observances."
+    references:
+      - source: woods-yoga-system-patanjali
+        locator: "Yoga-sutra 1.23-26"
+      - source: woods-yoga-system-patanjali
+        locator: "Yoga-sutra 2.1"
+      - source: woods-yoga-system-patanjali
+        locator: "Yoga-sutra 2.45"
+  - tradition: advaita-vedanta
+    explanation: "Shankara says the highest Lord, as cause of everything, can be taught as the object of devotion with qualities, and can take a form made of maya to please worshippers, while other texts teach the highest Lord as without qualities."
+    references:
+      - source: thibaut-vedanta-sutras-shankara
+        locator: "SBE 34, Vedanta-Sutras 1.1.20-22 (pp. 79-80)"
+  - tradition: vishishtadvaita
+    explanation: "For Ramanuja the highest Brahman is the Lord who is free of imperfection, has all auspicious qualities and creates, sustains and withdraws the universe as play, with all souls and matter as his body."
+    references:
+      - source: thibaut-vedanta-sutras-ramanuja
+        locator: "SBE 48, Vedanta-Sutras 1.1.1 (pp. 88-89)"
+related:
+  - brahman
+  - maya
+  - bhakti

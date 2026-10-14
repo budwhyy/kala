@@ -1,0 +1,58 @@
+slug: kanchipuram
+names:
+  - text: "Kanchipuram"
+    lang: en
+    script: Latn
+  - text: "Conjeeveram"
+    lang: en
+    script: Latn
+  - text: "काञ्ची"
+    lang: sa
+    script: Deva
+    iast: "Kāñcī"
+  - text: "காஞ்சிபுரம்"
+    lang: ta
+    script: Taml
+realm: terrestrial
+kind: city
+confidence: traditional
+geometry:
+  type: Point
+  coordinates:
+    - 79.7
+    - 12.84
+modern_admin:
+  country: "India"
+  region: "Tamil Nadu"
+  district: "Kanchipuram"
+evidence:
+  - type: historical
+    summary: "The Imperial Gazetteer's article on Conjeeveram (Kanchipuram) in Chingleput District calls it one of the holiest places in the south and says it is placed among the seven sacred cities of India, crowded with temples and shrines. The same article records an old Jain temple in a nearby hamlet."
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "10:377-378"
+  - type: textual
+    summary: "Dutt's Garuda Purana (chapter 81) names Kanchipuri among the sacred cities, hills and pools."
+    references:
+      - source: dutt-garuda-purana
+        locator: "81"
+        note: "p. 210"
+traditions:
+  - hindu
+  - shaiva
+  - vaishnava
+summary_beginner: "A temple city in Tamil Nadu with great Shaiva and Vaishnava shrines, counted among the seven sacred cities. It is the only one of the seven in the south."
+summary_scholar: "KALA records Kanchipuram as sacred on the strength of the Gazetteer and Dutt's Garuda Purana; the Gazetteer's account of its political history (Pallava, Chola and later periods) was not read in full for this record."
+references:
+  - source: imperial-gazetteer-1909
+    locator: "10:377-378"
+pilgrimage_networks:
+  - network: sapta-puri
+    variant: pilgrimage-sapta-puri-sacred-cities-gazetteer
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "10:377-378"
+        note: "Placed among the seven sacred cities of India"
+      - source: dutt-garuda-purana
+        locator: "81"
+        note: "Kanchipuri, p. 210"

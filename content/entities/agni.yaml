@@ -1,0 +1,31 @@
+slug: agni
+names:
+  - text: Agni
+    lang: en
+    script: Latn
+  - text: अग्नि
+    lang: sa
+    script: Deva
+    iast: Agni
+epithets:
+  - text: Hutasana
+    lang: en
+    script: Latn
+kinds:
+  - deity
+  - deva
+traditions:
+  - vedic
+  - itihasa
+  - puranic
+summary_beginner: The god of fire. In the lists of the Vasus given in the Mahabharata and the Vishnu Purana, fire appears among the eight, and both texts call the war-god Kumara (Kartikeya) the son of Agni, born in a clump of reeds.
+summary_scholar: MBh 1.66 glosses the Vasu Anala as Hutasana, an epithet of Agni; VP 1.15 glosses both Dhava and Anala as fire, so the identification is left open there. In VP 1.9 the god of fire (Hutasana) goes with Indra and the gods to Brahma. Agni's role as father of Kartikeya has a different telling in the Vana Parva, entered under Shiva and Parvati.
+references:
+  - source: ganguli-mahabharata
+    locator: "1.66"
+  - source: wilson-vishnu-purana
+    locator: "1.15"
+  - source: wilson-vishnu-purana
+    locator: "1.9"
+  - source: dutt-harivamsha
+    locator: "3"

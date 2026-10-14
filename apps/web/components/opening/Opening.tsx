@@ -1,9 +1,11 @@
 "use client";
 // Opening experience (brief §6.1): darkness → light → the question → a luminous structure →
 // the creation pathways, each a named account from content. None is presented as the origin story.
-import Link from "next/link";
-import { useEffect, useState } from "react";
+import { useTranslations } from "next-intl";
+import { Link } from "@/i18n/navigation";
+import { Suspense, useEffect, useState } from "react";
 import { useReducedMotion } from "@/lib/state/view";
+import { LanguageSwitcher } from "@/components/shell/LanguageSwitcher";
 import { SoundToggle } from "./Soundscape";
 import { Starfield } from "./Starfield";
 
@@ -15,17 +17,14 @@ export type Pathway = {
   description: string;
 };
 
-const LINES = [
-  "Before kingdoms.",
-  "Before heroes.",
-  "Before the stories of gods and mortals —",
-  "what was existence?",
-];
+const LINES = ["line1", "line2", "line3", "line4"] as const;
 /** Phase timeline in ms: stars, each line, the mandala, the pathways. */
 const TIMELINE = [400, 1800, 3000, 4200, 5600, 7200, 8800];
 const SEEN_KEY = "kala-intro-seen";
 
 export function Opening({ pathways }: { pathways: Pathway[] }) {
+  const t = useTranslations("opening");
+  const tn = useTranslations("nav");
   const reducedMotion = useReducedMotion();
   const [phase, setPhase] = useState(0);
   const done = phase >= TIMELINE.length;
@@ -67,8 +66,13 @@ export function Opening({ pathways }: { pathways: Pathway[] }) {
       />
 
       <div className="relative z-10 flex items-center justify-between px-4 py-4">
-        <span className="text-lg tracking-[0.3em] text-gold">KĀLA</span>
-        <div className="flex items-center gap-2">
+        <span lang="en" className="text-lg tracking-[0.3em] text-gold">
+          KĀLA
+        </span>
+        <div className="flex flex-wrap items-center justify-end gap-2">
+          <Suspense fallback={null}>
+            <LanguageSwitcher />
+          </Suspense>
           <SoundToggle />
           {!done && (
             <button
@@ -76,16 +80,14 @@ export function Opening({ pathways }: { pathways: Pathway[] }) {
               onClick={() => setPhase(TIMELINE.length)}
               className="rounded-full border border-white/20 px-3 py-1 text-xs text-ink/80 hover:text-ink"
             >
-              Skip intro
+              {t("skip")}
             </button>
           )}
         </div>
       </div>
 
       <main className="relative z-10 mx-auto flex max-w-5xl flex-col items-center px-4 pb-24 text-center">
-        <h1 className="sr-only">
-          KĀLA — an atlas of Indian mythology, cosmology, genealogy and sacred geography
-        </h1>
+        <h1 className="sr-only">{t("title")}</h1>
         <div
           className="mt-[8vh] min-h-[9rem] space-y-1 text-2xl leading-snug text-ink sm:text-4xl"
           aria-live="polite"
@@ -97,7 +99,7 @@ export function Opening({ pathways }: { pathways: Pathway[] }) {
                 lineVisible(i) || done ? "translate-y-0 opacity-100" : "translate-y-2 opacity-0"
               } ${i === LINES.length - 1 ? "text-gold" : ""}`}
             >
-              {line}
+              {t(line)}
             </p>
           ))}
         </div>
@@ -109,16 +111,14 @@ export function Opening({ pathways }: { pathways: Pathway[] }) {
           className={`w-full transition-opacity duration-[1600ms] ${done ? "opacity-100" : "pointer-events-none opacity-0"}`}
         >
           <h2 id="pathways-heading" className="text-xl text-gold">
-            Different texts answer differently
+            {t("pathwaysHeading")}
           </h2>
-          <p className="mx-auto mt-2 max-w-2xl text-ink/80">
-            Hymns, philosophies and Puranas each give their own account of how things began. KĀLA
-            keeps them side by side. Choose one to begin.
-          </p>
+          <p className="mx-auto mt-2 max-w-2xl text-ink/80">{t("pathwaysIntro")}</p>
           <ul className="mt-6 grid gap-3 text-left sm:grid-cols-2 lg:grid-cols-3">
             {pathways.map((p) => (
               <li key={p.slug}>
                 <Link
+                  prefetch={false}
                   href={`/variant/${p.slug}`}
                   tabIndex={done ? 0 : -1}
                   className="block h-full rounded-xl border border-white/10 bg-white/[0.03] p-4 transition-colors hover:border-gold/60 hover:bg-gold/5 focus-visible:border-gold"
@@ -135,37 +135,41 @@ export function Opening({ pathways }: { pathways: Pathway[] }) {
             ))}
           </ul>
           <nav
-            aria-label="Or explore directly"
+            aria-label={t("exploreAria")}
             className="mt-8 flex flex-wrap justify-center gap-3 text-sm"
           >
-            <span className="text-muted">Or explore directly:</span>
+            <span className="text-muted">{t("exploreLabel")}</span>
             <Link
+              prefetch={false}
               href="/cosmic"
               tabIndex={done ? 0 : -1}
               className="text-celestial underline decoration-celestial/40 underline-offset-2 hover:decoration-celestial"
             >
-              Cosmic time
+              {tn("cosmic")}
             </Link>
             <Link
+              prefetch={false}
               href="/genealogy"
               tabIndex={done ? 0 : -1}
               className="text-celestial underline decoration-celestial/40 underline-offset-2 hover:decoration-celestial"
             >
-              Genealogy
+              {tn("genealogy")}
             </Link>
             <Link
+              prefetch={false}
               href="/geography"
               tabIndex={done ? 0 : -1}
               className="text-celestial underline decoration-celestial/40 underline-offset-2 hover:decoration-celestial"
             >
-              Geography
+              {tn("geography")}
             </Link>
             <Link
+              prefetch={false}
               href="/search"
               tabIndex={done ? 0 : -1}
               className="text-celestial underline decoration-celestial/40 underline-offset-2 hover:decoration-celestial"
             >
-              Search
+              {tn("search")}
             </Link>
           </nav>
         </section>

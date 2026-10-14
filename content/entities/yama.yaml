@@ -1,0 +1,25 @@
+slug: yama
+names:
+  - text: Yama
+    lang: en
+    script: Latn
+  - text: यम
+    lang: sa
+    script: Deva
+    iast: Yama
+kinds:
+  - deity
+  - deva
+traditions:
+  - vedic
+  - itihasa
+  - puranic
+summary_beginner: The god of death and judge of the dead, a son of the Sun (Vivasvat) and brother of Vaivasvata Manu. The Mahabharata describes his assembly hall, built by Vishvakarma.
+summary_scholar: MBh 1.75 and VP 3.2 agree that Yama is a son of Vivasvat; only VP 3.2 names his mother (Sanjna) and tells of the curse laid on him by Chhaya. MBh 2.8 describes his hall in Narada's tour of the divine assemblies.
+references:
+  - source: ganguli-mahabharata
+    locator: "1.75"
+  - source: wilson-vishnu-purana
+    locator: "3.2"
+  - source: ganguli-mahabharata
+    locator: "2.8"

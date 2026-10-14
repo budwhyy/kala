@@ -1,0 +1,15 @@
+slug: kalpa-sutra
+names:
+  - text: Kalpa Sutra
+    lang: en
+    script: Latn
+  - text: कल्पसूत्र
+    lang: pra
+    script: Deva
+    iast: Kalpasūtra
+genre: jain_canon
+original_language: pra
+traditions:
+  - jain
+summary_beginner: A Jain scripture that recounts the lives of the Jinas (Tirthankaras), above all
+  Mahavira, and lists the early teachers of the community.

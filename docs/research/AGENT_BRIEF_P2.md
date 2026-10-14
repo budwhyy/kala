@@ -59,7 +59,7 @@ and where they differ.
 Existing entity slugs from Phase 1 are usable by everyone (list `content/entities`). New slugs:
 
 **avatars agent** — entities: `matsya`, `kurma`, `varaha`, `narasimha`, `vamana`, `parashurama`,
-`krishna`, `balarama`, `buddha-avatar` (the *Puranic* avatar; never merge with the historical
+`krishna`, `balarama`, `buddha-avatar` (the _Puranic_ avatar; never merge with the historical
 Buddha or Buddhism), `kalki`, `mohini`, plus any further avatars of the Bhagavata Purana's list that
 you confirm; Shiva manifestations; goddess entities `durga`, `kali`, `saraswati`, `mahalakshmi`,
 `mahakali`, `mahasaraswati` and the Matrikas/Navadurga only where confirmed. Owns lists (variants

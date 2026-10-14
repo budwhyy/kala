@@ -1,0 +1,19 @@
+slug: avatars-list-harivamsha-41
+names:
+  - text: "Harivamsha, chapter 41: the incarnations of Vishnu"
+    lang: en
+    script: Latn
+kind: list
+tradition: vaishnava
+text: harivamsha
+description: >-
+  The chapter of the Harivamsha Parva titled "The Incarnations of Vishnu" in Dutt's translation. Vaishampayana gives a
+  sequence that ends with the tenth form, Kalki: the lotus form (Vishnu on the waters), the boar, the man-lion, the
+  dwarf, Dattatreya, Jamadagni's son Rama (Parashurama), Rama son of Dasharatha, Krishna, and Vyasa as the ninth.
+  This list has no fish, no tortoise, no Balarama and no Buddha. The Buddha does not appear as an incarnation here; in
+  the Kalki passage Kalki is said to debate with followers of Buddhism. Positions follow the text's own count: the
+  lotus form (not an entity in KALA) is first, so the boar is second.
+references:
+  - source: dutt-harivamsha
+    locator: "41"
+    note: "Harivamsha Parva; chapter numbers in Dutt's Bhavishya Parva restart at 1, so this is not the Bhavishya Parva chapter 41."

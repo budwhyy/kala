@@ -1,0 +1,64 @@
+slug: srisailam
+names:
+  - text: "Srisailam"
+    lang: en
+    script: Latn
+  - text: "श्रीशैल"
+    lang: sa
+    script: Deva
+    iast: "Śrīśaila"
+  - text: "Sri Sailam"
+    lang: en
+    script: Latn
+realm: terrestrial
+kind: tirtha
+confidence: traditional
+geometry:
+  type: Point
+  coordinates:
+    - 78.87
+    - 16.07
+modern_admin:
+  country: "India"
+  region: "Andhra Pradesh"
+  district: "Nandyal"
+evidence:
+  - type: historical
+    summary: "The Imperial Gazetteer describes Srisailam as a famous temple in the Nandikotkur taluk of Kurnool District, on the northern plateau of the Nallamalai hills above a gorge of the Kistna, with a temple 660 feet by 510 feet whose walls are sculptured with scenes from the Ramayana and Mahabharata. The central shrine is that of Mallikarjuna, the name by which Siva is worshipped here, and the Sivaratri festival draws many pilgrims."
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "23:110"
+  - type: textual
+    summary: "Wilson lists Mallikarjuna, or Sri Saila, as the second of the twelve lingas of the Nandi Upapurana. Dutt's Garuda Purana (chapter 81) names Shreeshailam among important sacred hills. The Devi Bhagavata gives the Devi's name at Srisaila as Madhavi (7.30)."
+    references:
+      - source: wilson-religious-sects-1861
+        locator: "223"
+      - source: dutt-garuda-purana
+        locator: "81"
+        note: "p. 210"
+      - source: vijnanananda-devi-bhagavata
+        locator: "7.30"
+traditions:
+  - shaiva
+  - shakta
+  - hindu
+summary_beginner: "A hill temple in the Nallamalai forests above the Krishna river, where Shiva is worshipped as Mallikarjuna. It is counted among the twelve jyotirlingas and, in the Devi Bhagavata, among the seats of the Goddess."
+summary_scholar: "Equating the 'Srisaila' of the texts with this temple is the traditional identification followed by Wilson and the Gazetteer."
+references:
+  - source: imperial-gazetteer-1909
+    locator: "23:110"
+  - source: wilson-religious-sects-1861
+    locator: "223"
+pilgrimage_networks:
+  - network: jyotirlingas
+    variant: pilgrimage-jyotirlinga-wilson-nandi-upapurana
+    references:
+      - source: wilson-religious-sects-1861
+        locator: "223"
+        note: "Item 2: Mallikarjuna, or Sri Saila"
+  - network: shakti-peethas
+    variant: pilgrimage-shakti-devi-bhagavata-108
+    references:
+      - source: vijnanananda-devi-bhagavata
+        locator: "7.30"
+        note: "Madhavi in Srisaila"

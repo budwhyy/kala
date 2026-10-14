@@ -1,0 +1,19 @@
+slug: kacha
+names:
+  - text: Kacha
+    lang: en
+    script: Latn
+  - text: कच
+    lang: sa
+    script: Deva
+    iast: Kaca
+kinds:
+  - rishi
+traditions:
+  - itihasa
+summary_beginner: The eldest son of the gods' priest Brihaspati. At the gods' request he becomes the pupil of the Asuras' priest Shukra to learn the science of reviving the dead, and carries it back to the gods.
+references:
+  - source: ganguli-mahabharata
+    locator: "1.76"
+  - source: ganguli-mahabharata
+    locator: "1.77"

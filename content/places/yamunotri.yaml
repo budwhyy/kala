@@ -1,0 +1,56 @@
+slug: yamunotri
+names:
+  - text: "Yamunotri"
+    lang: en
+    script: Latn
+  - text: "Jamnotri"
+    lang: en
+    script: Latn
+  - text: "यमुनोत्री"
+    lang: hi
+    script: Deva
+realm: terrestrial
+kind: tirtha
+confidence: traditional
+geometry:
+  type: Point
+  coordinates:
+    - 78.46
+    - 31.01
+modern_admin:
+  country: "India"
+  region: "Uttarakhand"
+  district: "Uttarkashi"
+evidence:
+  - type: historical
+    summary: "The Imperial Gazetteer's article on Jamnotri describes a small wooden temple in Tehri State, on the western flank of the peak Bandarpunch at about 10,800 feet, four miles below the glacier from which the Jumna issues. It contains an image of the goddess Jumna, there are hot springs nearby, and many pilgrims visit the sacred place every summer."
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "14:51"
+  - type: traditional
+    summary: "The Gazetteer's article on the Jumna says the river flows past the sacred shrine of Jamnotri after rising on Bandarpunch."
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "14:232-233"
+related_places:
+  - to: yamuna
+    relation: part_of
+    note: "The temple lies near the source of the river recorded as the Yamuna."
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "14:232-233"
+traditions:
+  - hindu
+summary_beginner: "A small temple of the goddess Yamuna near the glacier where the Yamuna river begins, the first shrine of the Chota Char Dham circuit."
+references:
+  - source: imperial-gazetteer-1909
+    locator: "14:51"
+  - source: imperial-gazetteer-1909
+    locator: "14:232-233"
+pilgrimage_networks:
+  - network: chota-char-dham
+    variant: pilgrimage-chota-char-dham-himalayan
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "14:51"
+        note: "Temple of the goddess Jumna"

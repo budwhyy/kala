@@ -1,0 +1,23 @@
+slug: maruts
+names:
+  - text: Maruts
+    lang: en
+    script: Latn
+  - text: मरुत्
+    lang: sa
+    script: Deva
+    iast: Marut
+kinds:
+  - deva
+traditions:
+  - vedic
+  - puranic
+summary_beginner: A band of storm gods who attend Indra. In the Vishnu Purana, Indra splits the unborn child of Diti into pieces, forty-nine in all, which become the Maruts.
+summary_scholar: VP 1.21 and Ramayana 1.47 tell the birth from Diti's divided embryo, the Vishnu Purana counting forty-nine and the Ramayana's passage speaking of seven Maruts. VP 1.15 gives a different parentage, calling the Maruts the children of Marutwati, a wife of Dharma. The Diti story is stored under its own variant.
+references:
+  - source: wilson-vishnu-purana
+    locator: "1.21"
+  - source: griffith-ramayana
+    locator: "1.47"
+  - source: wilson-vishnu-purana
+    locator: "1.15"

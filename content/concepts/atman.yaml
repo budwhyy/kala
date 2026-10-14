@@ -1,0 +1,65 @@
+slug: atman
+names:
+  - text: "Atman (the Self)"
+    lang: en
+    script: Latn
+  - text: "आत्मन्"
+    lang: sa
+    script: Deva
+    iast: "Ātman"
+summary_beginner: "Atman is the inner Self or soul of a living being. Whether it is the same as the ultimate reality, Brahman, is one of the main disagreements between schools, and Samkhya holds there are many separate selves. Buddhist and Jain traditions also discuss the self in ways of their own that this page does not cover."
+interpretations:
+  - tradition: vedanta
+    explanation: "In the Chandogya Upanishad a father teaches his son that the fine essence in which everything has its self is the True, the Self, and that the son is that. Another passage calls the Self within the heart Brahman, and a third presents it as free from evil. The Katha Upanishad says the knowing Self is not born and does not die."
+    references:
+      - source: muller-upanishads
+        locator: "Chandogya Upanishad 6.8.7 (SBE 1)"
+      - source: muller-upanishads
+        locator: "Chandogya Upanishad 3.14.3-4 (SBE 1)"
+      - source: muller-upanishads
+        locator: "Chandogya Upanishad 8.7.1 (SBE 1)"
+      - source: muller-upanishads
+        locator: "Katha Upanishad 1.2.18 (SBE 15)"
+  - tradition: itihasa
+    explanation: "Krishna tells Arjuna that the embodied self is never born and never dies, cannot be killed when the body is killed, and passes from body to body like a person changing clothes."
+    references:
+      - source: telang-bhagavadgita
+        locator: "2.20-22"
+  - tradition: dharmashastra
+    explanation: "Manu speaks of the embodied self as the 'knower of the field' that impels action, of a separate self consisting of the elements that performs it, and of a further inner self through which pleasure and pain are felt. Commentators disagree on how these terms map onto the soul and the Supreme Soul."
+    references:
+      - source: buhler-manu
+        locator: "Manu 12.12-13"
+  - tradition: samkhya
+    explanation: "The Samkhya Karika describes the soul as a witness, solitary, a bystander and inactive, in contrast to the active qualities of nature. It argues that there are many souls, because births, deaths and the faculties of beings are allotted separately and beings do not act all at once."
+    references:
+      - source: colebrooke-sankhya-karika
+        locator: "karika 17"
+      - source: colebrooke-sankhya-karika
+        locator: "karika 18"
+      - source: colebrooke-sankhya-karika
+        locator: "karika 19"
+  - tradition: yoga
+    explanation: "The Yoga Sutras describe the Self as the Seer, who in the state of concentration abides in its own nature, and who otherwise takes the form of the mind's fluctuations. Though pure, the Seer looks on the ideas presented to it."
+    references:
+      - source: woods-yoga-system-patanjali
+        locator: "Yoga-sutra 1.3-4"
+      - source: woods-yoga-system-patanjali
+        locator: "Yoga-sutra 2.20"
+  - tradition: advaita-vedanta
+    explanation: "Shankara begins his commentary by distinguishing the Self, whose nature is intelligence, from the non-Self of body and senses, and says that identifying the two is the error behind ordinary life. He reads the Upanishads as teaching that the Self is Brahman, citing 'that art thou' as the passage that makes this known."
+    references:
+      - source: thibaut-vedanta-sutras-shankara
+        locator: "SBE 34, Shankara's Introduction (superimposition)"
+      - source: thibaut-vedanta-sutras-shankara
+        locator: "SBE 34, Vedanta-Sutras 1.1.4"
+  - tradition: vishishtadvaita
+    explanation: "Ramanuja holds that individual souls are real, exist in their own nature as knowledge, and are manifestations of Brahman's power, forming part of Brahman's body. The soul is therefore closely tied to Brahman but is not simply identical with it."
+    references:
+      - source: thibaut-vedanta-sutras-ramanuja
+        locator: "SBE 48, Vedanta-Sutras 1.1.1 (pp. 88-89, 93)"
+related:
+  - brahman
+  - purusha-and-prakriti
+  - moksha
+  - avidya

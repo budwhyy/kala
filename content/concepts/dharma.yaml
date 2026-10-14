@@ -1,0 +1,40 @@
+slug: dharma
+names:
+  - text: "Dharma"
+    lang: en
+    script: Latn
+  - text: "धर्म"
+    lang: sa
+    script: Deva
+    iast: "Dharma"
+summary_beginner: "Dharma is a central Indian idea of right order: the duties, conduct and law that hold a person's life and the world together. What exactly it covers, and what it ranks above, differs from text to text. Buddhist and Jain traditions also use this term, with meanings of their own that this page does not cover."
+interpretations:
+  - tradition: vedanta
+    explanation: "In the Chandogya Upanishad (in Müller's rendering) the 'law' has three branches: sacrifice, study and giving; austerity; and living as a student in a teacher's house. All three lead to good worlds, but only the person firmly grounded in Brahman reaches immortality, so keeping dharma and final release are treated as different things."
+    references:
+      - source: muller-upanishads
+        locator: "Chandogya Upanishad 2.23.1 (SBE 1)"
+        note: "Müller translates the term as 'the law'."
+  - tradition: itihasa
+    explanation: "In the Gita, Krishna says he takes birth whenever right order declines, in order to establish it. Arjuna is told that doing one's own duty imperfectly is better than doing another's well, and at the very end is told to set aside all duties and seek refuge in Krishna alone."
+    references:
+      - source: telang-bhagavadgita
+        locator: "4.7-8"
+        note: "Telang renders dharma here as 'piety'."
+      - source: telang-bhagavadgita
+        locator: "18.47-48"
+      - source: telang-bhagavadgita
+        locator: "18.66"
+        note: "Telang's note reads 'duties' as those of caste or stage of life."
+  - tradition: dharmashastra
+    explanation: "Manu names four ways of knowing the law: the Veda, remembered tradition, the conduct of good people and what satisfies one's own self, with revealed scripture the highest authority for those who seek the law. Elsewhere he gives a short summary of the law for all four castes: not harming creatures, truthfulness, not taking others' goods, purity and control of the senses."
+    references:
+      - source: buhler-manu
+        locator: "Manu 2.12-13"
+      - source: buhler-manu
+        locator: "Manu 10.63"
+related:
+  - karma
+  - moksha
+  - ahimsa
+  - tapas

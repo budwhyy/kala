@@ -1,0 +1,184 @@
+- id: kashyapa-father-of-tvashtri
+  from: kashyapa
+  to: tvashtri
+  type: parent
+  role: father
+  mode: biological
+  explanation: Tvashtri is one of the twelve Adityas, sons of Kashyapa.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.65"
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+- id: aditi-mother-of-tvashtri
+  from: aditi
+  to: tvashtri
+  type: parent
+  role: mother
+  mode: biological
+  explanation: Tvashtri is one of the twelve Adityas, sons of Aditi.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.65"
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+- id: tvashtri-member-of-adityas
+  from: tvashtri
+  to: adityas
+  type: member_of
+  explanation: Both the Mahabharata and the Vishnu Purana name Tvashtri among the twelve Adityas.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.65"
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+- id: tvashtri-father-of-vishvarupa
+  from: tvashtri
+  to: vishvarupa
+  type: parent
+  role: father
+  mode: biological
+  explanation: The Vishnu Purana calls Vishvarupa the self-born son of Twashtri.
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+- id: prabhasa-vasu-father-of-vishvakarma
+  from: prabhasa-vasu
+  to: vishvakarma
+  type: parent
+  role: father
+  mode: biological
+  explanation: Vishvakarma is the son of Prabhasa, the eighth Vasu, and the sister of Brihaspati.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.66"
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+    - source: dutt-harivamsha
+      locator: "3"
+- id: vishvakarma-father-of-sanjna
+  from: vishvakarma
+  to: sanjna
+  type: parent
+  role: father
+  mode: biological
+  variant: vishnu-purana-account
+  explanation: The Vishnu Purana makes Sanjna, the Sun's wife, a daughter of Vishvakarma.
+  references:
+    - source: wilson-vishnu-purana
+      locator: "3.2"
+- id: surya-partner-of-sanjna
+  from: surya
+  to: sanjna
+  type: partner
+  variant: vishnu-purana-account
+  explanation: Sanjna is the wife of the Sun in the Vishnu Purana.
+  references:
+    - source: wilson-vishnu-purana
+      locator: "3.2"
+- id: sanjna-mother-of-yama
+  from: sanjna
+  to: yama
+  type: parent
+  role: mother
+  mode: biological
+  variant: vishnu-purana-account
+  explanation: Sanjna bears the Sun three children, Vaivasvata Manu, Yama and Yami.
+  references:
+    - source: wilson-vishnu-purana
+      locator: "3.2"
+- id: sanjna-mother-of-vaivasvata-manu
+  from: sanjna
+  to: vaivasvata-manu
+  type: parent
+  role: mother
+  mode: biological
+  variant: vishnu-purana-account
+  explanation: Sanjna bears the Sun three children, Vaivasvata Manu, Yama and Yami.
+  references:
+    - source: wilson-vishnu-purana
+      locator: "3.2"
+- id: sanjna-mother-of-ashvins
+  from: sanjna
+  to: ashvins
+  type: parent
+  role: mother
+  mode: biological
+  variant: vishnu-purana-account
+  explanation: The Vishnu Purana has the Sun, as a horse, father the two Ashvins on Sanjna while she is in the form of a mare.
+  references:
+    - source: wilson-vishnu-purana
+      locator: "3.2"
+- id: surya-father-of-yama
+  from: surya
+  to: yama
+  type: parent
+  role: father
+  mode: biological
+  explanation: Yama is the son of Vivasvat, the Sun, in both the Mahabharata and the Vishnu Purana.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.75"
+    - source: wilson-vishnu-purana
+      locator: "3.2"
+- id: yama-sibling-of-vaivasvata-manu
+  from: yama
+  to: vaivasvata-manu
+  type: sibling
+  explanation: Both texts make Yama and Vaivasvata Manu brothers, sons of Vivasvat.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.75"
+    - source: wilson-vishnu-purana
+      locator: "3.2"
+- id: pulastya-father-of-kubera
+  from: pulastya
+  to: kubera
+  type: parent
+  role: father
+  mode: biological
+  explanation: Narada calls Kubera (Vaisravana) the son of Pulastya when he describes Kubera's assembly hall.
+  references:
+    - source: ganguli-mahabharata
+      locator: "2.10"
+- id: kubera-ally-of-shiva
+  from: kubera
+  to: shiva
+  type: ally
+  explanation: In Narada's description, Shiva became Kubera's friend and now sits in his hall with his attendants and Parvati.
+  references:
+    - source: ganguli-mahabharata
+      locator: "2.10"
+- id: agni-father-of-kartikeya
+  from: agni
+  to: kartikeya
+  type: parent
+  role: father
+  mode: biological
+  explanation: The Mahabharata's Adi Parva and the Vishnu Purana both call Kumara (Kartikeya), born in a clump of reeds, the son of Agni. The Vana Parva's story, in which Shiva is the divine father, is entered separately.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.66"
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+    - source: dutt-harivamsha
+      locator: "3"
+- id: agni-identified-with-anala-vasu
+  from: agni
+  to: anala-vasu
+  type: identified_with
+  variant: groups-vasus-mahabharata
+  explanation: Ganguli renders the Vasu Anala as Hutasana, a name for the fire god. Wilson's rendering of the Vishnu Purana glosses both Dhava and Anala as fire, so the identification is not forced there.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.66"
+- id: vayu-identified-with-anila-vasu
+  from: vayu
+  to: anila-vasu
+  type: identified_with
+  explanation: Both translators gloss the Vasu Anila as the wind (Swasana in Ganguli, wind in Wilson). The identification rests on that gloss of the name.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.66"
+    - source: wilson-vishnu-purana
+      locator: "1.15"

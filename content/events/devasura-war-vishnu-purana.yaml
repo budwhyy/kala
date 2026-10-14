@@ -1,0 +1,33 @@
+slug: devasura-war-vishnu-purana
+same_story_as:
+  - devasura-war-mahabharata
+names:
+  - text: War between the devas and asuras, Vishnu Purana account
+    lang: en
+    script: Latn
+  - text: देवासुरसंग्राम
+    lang: sa
+    script: Deva
+    iast: Devāsurasaṃgrāma
+participants:
+  - entity: daityas
+    role: defeat the gods after a battle lasting a divine year
+  - entity: vishnu
+    role: appears to the gods and gives them an illusory figure to mislead the Daityas
+  - entity: garuda
+    role: the mount on whom Vishnu rides when he appears
+places:
+  - kshira-sagara
+narrative_order:
+  text: vishnu-purana
+  position: 17
+variant: vishnu-purana-account
+traditions:
+  - puranic
+summary_beginner: In the Vishnu Purana, the gods lose a year-long battle to the Daityas and flee to the northern shore of the milky ocean, where they pray to Vishnu. He appears on Garuda and gives them an illusory figure through which the Daityas can be turned away from their Vedic practice, so that the gods can defeat them.
+summary_scholar: Vishnu Purana 3.17 begins its discussion of those outside Vedic practice with this war, in which the Daityas are led by Hrada (whom Wilson's note takes for a son of Hiranyakashipu). The later part of the chapter, which Wilson's heading ties to the Buddha, is not summarised here; KĀLA does not equate this illusory figure with the historical Buddha or with Buddhism, and the Puranic Buddha is recorded separately by the avatars content. Earlier, VP 1.9 shows the Daityas overpowering the gods after Durvasas's curse. The 'position' in narrative_order is the Book 3 chapter number.
+references:
+  - source: wilson-vishnu-purana
+    locator: "3.17"
+  - source: wilson-vishnu-purana
+    locator: "1.9"

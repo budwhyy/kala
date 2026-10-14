@@ -1,0 +1,45 @@
+slug: mount-abu
+names:
+  - text: Mount Abu (Dilwara temples)
+    lang: en
+    script: Latn
+  - text: Delwara temples
+    lang: en
+    script: Latn
+  - text: Arbuda
+    lang: sa
+    script: Latn
+    iast: Arbuda
+realm: terrestrial
+kind: mountain
+confidence: verified
+geometry:
+  type: Point
+  coordinates:
+    - 72.72
+    - 24.6
+modern_admin:
+  country: India
+  region: Rajasthan
+  district: Sirohi
+evidence:
+  - type: historical
+    summary: The Imperial Gazetteer describes the five Jain Delwara temples about a mile north of
+      the station, naming two as unrivalled in India - the temple of Vimala Sah, built according to
+      its inscription in 1032 and dedicated to Adinath, and the temple of Vastupala and Tejpala,
+      built in 1231 and dedicated to Neminath.
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "5:3"
+      - source: imperial-gazetteer-1909
+        locator: "5:4"
+traditions:
+  - jain
+summary_beginner: A mountain in Rajasthan with the Dilwara (Delwara) temples, Jain shrines of
+  white marble famed for their carving and still places of worship.
+summary_scholar: The Gazetteer gives the foundation dates of the two chief temples from their
+  inscriptions, which verifies the temples as historical monuments and not any legend. The
+  mountain's other associations are not covered by the sources read here.
+references:
+  - source: imperial-gazetteer-1909
+    locator: "5:3"

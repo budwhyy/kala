@@ -1,0 +1,31 @@
+slug: kurma
+names:
+  - text: Kurma
+    lang: en
+    script: Latn
+  - text: कूर्म
+    lang: sa
+    script: Deva
+    iast: Kūrma
+epithets:
+  - text: The Tortoise
+    lang: en
+    script: Latn
+kinds: [deity]
+traditions: [vaishnava, puranic, itihasa]
+summary_beginner: >-
+  The tortoise form of Vishnu. When the gods and the Daityas churn the ocean of milk for the drink of immortality, the
+  Vishnu Purana says that Hari himself, in the form of a tortoise, serves as the pivot on which the churning mountain
+  turns.
+references:
+  - source: wilson-vishnu-purana
+    locator: "1.9"
+    note: "During the churning of the ocean Hari, in the form of a tortoise, serves as the pivot for the mountain."
+  - source: dutt-bhagavata-purana
+    locator: "1.3"
+    note: "Eleventh form: a tortoise supporting the mountain Mandara."
+  - source: dutt-bhagavata-purana
+    locator: "2.7"
+  - source: ganguli-mahabharata
+    locator: "12.340"
+    note: "Listed among Narayana's forms (swan, tortoise, fish, boar, ...)."

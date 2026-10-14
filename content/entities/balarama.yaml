@@ -1,0 +1,35 @@
+slug: balarama
+names:
+  - text: Balarama
+    lang: en
+    script: Latn
+  - text: बलराम
+    lang: sa
+    script: Deva
+    iast: Balarāma
+epithets:
+  - text: Sankarshana
+    lang: en
+    script: Latn
+kinds: [deity, human]
+traditions: [vaishnava, puranic, itihasa]
+summary_beginner: >-
+  Krishna's elder brother. The Bhagavata Purana counts Balarama among the forms of Hari alongside Krishna, while the
+  Vishnu Purana says he was conceived as a portion of the divine serpent Shesha, who is himself a part of Vishnu. He is
+  named in some lists of Vishnu's descents and absent from others.
+summary_scholar: >-
+  Sources differ about his place. The Bhagavata list (1.3) puts Rama of the Vrishnis nineteenth, beside Krishna, while
+  Brahma's recital (2.7) calls him another portion of the Lord alongside Krishna. The Vishnu Purana says Vishnu sends a
+  portion of Shesha for the seventh conception of Devaki, which Yoganidra moves into Rohini's womb, and names the child
+  Sankarshana. Wilson's note says the white and black hairs of Vishnu in that chapter are Balarama and Krishna. The Santi
+  Parva and Harivamsha lists contain no Balarama.
+references:
+  - source: dutt-bhagavata-purana
+    locator: "1.3"
+    note: "The nineteenth and twentieth forms are born among the Vrishnis as Rama and Krishna."
+  - source: dutt-bhagavata-purana
+    locator: "2.7"
+    note: "Krishna's 'another portion' is incarnate as Balarama."
+  - source: wilson-vishnu-purana
+    locator: "5.1"
+    note: "The seventh conception is a portion of Shesha, transferred to Rohini and named Sankarshana."

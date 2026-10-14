@@ -1,0 +1,12 @@
+slug: avatars-daksha-sacrifice-vishnu-purana
+names:
+  - text: "Daksha's sacrifice in the Vishnu Purana"
+    lang: en
+    script: Latn
+kind: account
+tradition: puranic
+text: vishnu-purana
+description: "The Vishnu Purana's brief telling of how Virabhadra, sent by Mahadeva, destroys Daksha's sacrifice."
+references:
+  - source: wilson-vishnu-purana
+    locator: "1.8"

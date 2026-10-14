@@ -1,0 +1,15 @@
+slug: yoga
+names:
+  - text: Yoga
+    lang: en
+    script: Latn
+  - text: योग
+    lang: sa
+    script: Deva
+    iast: Yoga
+family: hindu
+parent: hindu
+summary_beginner: The philosophical school of the Yoga Sutras, which teaches disciplined restraint of the mind as the path by which the Self is separated from what it perceives.
+references:
+  - source: woods-yoga-system-patanjali
+    locator: Yoga-sutra 1.2

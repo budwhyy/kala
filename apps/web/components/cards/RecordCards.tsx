@@ -1,7 +1,9 @@
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
+import { useTranslations } from "next-intl";
 import type { TextSection } from "@kala/schema";
 import type { Kala } from "@/lib/graph/kala";
 import { hrefFor } from "@/lib/graph/kala";
+import { enumLabel } from "@/lib/i18n-helpers";
 import { LinkList } from "./EntityCard";
 import {
   Badge,
@@ -15,6 +17,8 @@ import {
 } from "./ui";
 
 export function DynastyCard({ kala, slug }: { kala: Kala; slug: string }) {
+  const t = useTranslations("dynasty");
+  const te = useTranslations("enums");
   const d = kala.get("dynasties", slug)!;
   const kingdoms = kala.neighbours("dynasties", slug, "kingdoms");
   const members = kala
@@ -25,9 +29,9 @@ export function DynastyCard({ kala, slug }: { kala: Kala; slug: string }) {
       <NameBlock names={d.names} />
       <div className="mt-3 flex flex-wrap gap-2">
         <Badge tone={d.kind === "legendary" ? "celestial" : "copper"}>
-          {d.kind === "legendary" ? "Legendary dynasty" : "Historical dynasty"}
+          {d.kind === "legendary" ? t("legendary") : t("historical")}
         </Badge>
-        <Badge>{d.lineage_type}</Badge>
+        <Badge>{enumLabel(te, "lineage", d.lineage_type)}</Badge>
         {d.variant && <VariantTag kala={kala} variant={d.variant} />}
       </div>
       <Summaries beginner={d.summary_beginner} scholar={d.summary_scholar} />
@@ -35,17 +39,17 @@ export function DynastyCard({ kala, slug }: { kala: Kala; slug: string }) {
         <Cite refs={d.references} kala={kala} />
       </p>
       {d.founders.length > 0 && (
-        <Section title="Founders">
+        <Section title={t("founders")}>
           <LinkList kala={kala} type="entities" slugs={d.founders} />
         </Section>
       )}
       {members.length > 0 && (
-        <Section title="Members">
+        <Section title={t("members")}>
           <LinkList kala={kala} type="entities" slugs={members} />
         </Section>
       )}
       {kingdoms.length > 0 && (
-        <Section title="Kingdoms">
+        <Section title={t("kingdoms")}>
           <LinkList kala={kala} type="kingdoms" slugs={kingdoms} />
         </Section>
       )}
@@ -59,6 +63,8 @@ export function DynastyCard({ kala, slug }: { kala: Kala; slug: string }) {
 }
 
 export function TextCard({ kala, slug }: { kala: Kala; slug: string }) {
+  const tx = useTranslations("text");
+  const te = useTranslations("enums");
   const t = kala.get("texts", slug)!;
   const editions = kala.dataset.sources.filter((s) => s.text === slug);
   const variants = kala.dataset.variants.filter((v) => v.text === slug);
@@ -66,26 +72,26 @@ export function TextCard({ kala, slug }: { kala: Kala; slug: string }) {
     <article>
       <NameBlock names={t.names} />
       <div className="mt-3 flex flex-wrap gap-2">
-        <Badge>{t.genre.replace(/_/g, " ")}</Badge>
+        <Badge>{enumLabel(te, "genre", t.genre)}</Badge>
         {t.traditions.map((tr) => (
-          <a key={tr} href={`/tradition/${tr}`}>
+          <Link key={tr} href={`/tradition/${tr}`}>
             <Badge tone="celestial">{kala.nameOf("traditions", tr)}</Badge>
-          </a>
+          </Link>
         ))}
       </div>
       <Summaries beginner={t.summary_beginner} scholar={t.summary_scholar} />
       {editions.length > 0 && (
-        <Section title="Editions KĀLA cites">
+        <Section title={tx("editions")}>
           <LinkList kala={kala} type="sources" slugs={editions.map((e) => e.slug)} />
         </Section>
       )}
       {variants.length > 0 && (
-        <Section title="Accounts drawn from this text">
+        <Section title={tx("accounts")}>
           <LinkList kala={kala} type="variants" slugs={variants.map((v) => v.slug)} />
         </Section>
       )}
       {t.sections.length > 0 && (
-        <Section title="Structure">
+        <Section title={tx("structure")}>
           <Sections sections={t.sections} />
         </Section>
       )}
@@ -107,27 +113,19 @@ function Sections({ sections }: { sections: TextSection[] }) {
   );
 }
 
-const LICENCE: Record<string, { label: string; tone: "gold" | "copper"; explain: string }> = {
-  public_domain: {
-    label: "Public domain",
-    tone: "gold",
-    explain: "May be quoted with a citation.",
-  },
-  open_licence: {
-    label: "Open licence",
-    tone: "gold",
-    explain: "May be quoted under its licence.",
-  },
-  cited_only: {
-    label: "Cited only",
-    tone: "copper",
-    explain: "Still in copyright somewhere. KĀLA cites it by page but never reproduces it.",
-  },
+const LICENCE_TONE: Record<string, "gold" | "copper"> = {
+  public_domain: "gold",
+  open_licence: "gold",
+  cited_only: "copper",
 };
 
 export function SourceCard({ kala, slug }: { kala: Kala; slug: string }) {
+  const t = useTranslations("source");
+  const tl = useTranslations("licence");
+  const te = useTranslations("enums");
   const s = kala.get("sources", slug)!;
-  const lic = LICENCE[s.licence]!;
+  const licLabel = tl(`${s.licence}.label`);
+  const licExplain = tl(`${s.licence}.explain`);
   return (
     <article>
       <h1 className="text-3xl text-gold">{s.title}</h1>
@@ -139,22 +137,22 @@ export function SourceCard({ kala, slug }: { kala: Kala; slug: string }) {
         {s.published.end_year ? `–${s.published.end_year}` : ""}
       </p>
       <div className="mt-3 flex flex-wrap gap-2">
-        <Badge tone={lic.tone} title={lic.explain}>
-          {lic.label}
+        <Badge tone={LICENCE_TONE[s.licence] ?? "copper"} title={licExplain}>
+          {licLabel}
         </Badge>
-        <Badge>{s.kind.replace(/_/g, " ")}</Badge>
+        <Badge>{enumLabel(te, "sourceKind", s.kind)}</Badge>
       </div>
-      <p className="mt-3 max-w-3xl text-sm text-muted">{lic.explain}</p>
-      <Section title="Licence check">
+      <p className="mt-3 max-w-3xl text-sm text-muted">{licExplain}</p>
+      <Section title={t("licenceCheck")}>
         <p className="max-w-3xl text-sm">{s.licence_note}</p>
       </Section>
       {s.text && (
-        <Section title="Edition of">
+        <Section title={t("editionOf")}>
           <RecordLink href={hrefFor("texts", s.text)}>{kala.nameOf("texts", s.text)}</RecordLink>
         </Section>
       )}
       {s.url && (
-        <Section title="Read online">
+        <Section title={t("readOnline")}>
           <a
             href={s.url}
             className="text-celestial underline decoration-celestial/40 underline-offset-2 hover:decoration-celestial"
@@ -169,67 +167,73 @@ export function SourceCard({ kala, slug }: { kala: Kala; slug: string }) {
 }
 
 export function VariantCard({ kala, slug }: { kala: Kala; slug: string }) {
+  const t = useTranslations("variant");
+  const tv = useTranslations("verbs");
+  const te = useTranslations("enums");
   const v = kala.get("variants", slug)!;
   const claims = kala.dataset.relationships.filter((r) => r.variant === slug);
   return (
     <article>
       <NameBlock names={v.names} />
       <div className="mt-3 flex flex-wrap gap-2">
-        <Badge tone="celestial">{v.kind.replace(/_/g, " ")}</Badge>
-        <a href={`/tradition/${v.tradition}`}>
+        <Badge tone="celestial">{enumLabel(te, "variantKind", v.kind)}</Badge>
+        <Link href={`/tradition/${v.tradition}`}>
           <Badge>{kala.nameOf("traditions", v.tradition)}</Badge>
-        </a>
+        </Link>
       </div>
       <p className="mt-5 max-w-3xl text-lg leading-relaxed">{v.description}</p>
       <p className="mt-2">
         <Cite refs={v.references} kala={kala} />
       </p>
       {v.text && (
-        <Section title="Text">
+        <Section title={t("text")}>
           <RecordLink href={hrefFor("texts", v.text)}>{kala.nameOf("texts", v.text)}</RecordLink>
         </Section>
       )}
       {v.kind === "creation_pathway" && (
         <aside className="mt-6 rounded-lg border border-gold/30 bg-gold/5 p-4 text-sm">
-          <h2 className="text-gold">One account among several</h2>
-          <p className="mt-1 text-muted">
-            This is how one text or tradition describes the beginning. Others describe it
-            differently; none is presented here as the single true account.
-          </p>
+          <h2 className="text-gold">{t("oneAccountHeading")}</h2>
+          <p className="mt-1 text-muted">{t("oneAccountBody")}</p>
           <div className="mt-3 flex flex-wrap gap-x-5 gap-y-2">
             <Link
               href="/"
               className="text-celestial underline decoration-celestial/40 underline-offset-2 hover:decoration-celestial"
             >
-              ← Other accounts of the beginning
+              {t("backToAccounts")}
             </Link>
             <Link
               href="/cosmic"
               className="text-celestial underline decoration-celestial/40 underline-offset-2 hover:decoration-celestial"
             >
-              Continue: the cycles of time →
+              {t("continueCosmic")}
             </Link>
             <Link
               href="/genealogy"
               className="text-celestial underline decoration-celestial/40 underline-offset-2 hover:decoration-celestial"
             >
-              Continue: the families of gods and sages →
+              {t("continueGenealogy")}
             </Link>
           </div>
         </aside>
       )}
       {claims.length > 0 && (
-        <Section title="Connections in this account">
+        <Section title={t("connections")}>
           <ul className="space-y-3">
             {claims.map((r) => (
               <li key={r.id} className="rounded-lg border border-white/10 p-3 text-sm">
-                <RecordLink href={hrefFor("entities", r.from)}>
-                  {kala.nameOf("entities", r.from)}
-                </RecordLink>{" "}
-                <span className="text-muted">{r.type.replace(/_/g, " ")}</span>{" "}
-                <RecordLink href={hrefFor("entities", r.to)}>
-                  {kala.nameOf("entities", r.to)}
-                </RecordLink>
+                {tv.rich(r.type, {
+                  from: () => (
+                    <RecordLink href={hrefFor("entities", r.from)}>
+                      {kala.nameOf("entities", r.from)}
+                    </RecordLink>
+                  ),
+                  to: () => (
+                    <RecordLink href={hrefFor("entities", r.to)}>
+                      {kala.nameOf("entities", r.to)}
+                    </RecordLink>
+                  ),
+                  m: (chunks) => <span className="text-muted">{chunks}</span>,
+                })}
                 <p className="mt-1">{r.explanation}</p>
                 <Cite refs={r.references} kala={kala} />
               </li>
@@ -242,6 +246,8 @@ export function VariantCard({ kala, slug }: { kala: Kala; slug: string }) {
 }
 
 export function TraditionCard({ kala, slug }: { kala: Kala; slug: string }) {
+  const tt = useTranslations("tradition");
+  const te = useTranslations("enums");
   const t = kala.get("traditions", slug)!;
   const children = kala.dataset.traditions.filter((x) => x.parent === slug);
   const texts = kala.dataset.texts.filter((x) => x.traditions.includes(slug));
@@ -250,27 +256,27 @@ export function TraditionCard({ kala, slug }: { kala: Kala; slug: string }) {
     <article>
       <NameBlock names={t.names} />
       <div className="mt-3 flex flex-wrap gap-2">
-        <Badge tone="celestial">{t.family.replace(/_/g, " ")}</Badge>
+        <Badge tone="celestial">{enumLabel(te, "family", t.family)}</Badge>
         {t.parent && (
-          <a href={`/tradition/${t.parent}`}>
-            <Badge>within {kala.nameOf("traditions", t.parent)}</Badge>
-          </a>
+          <Link href={`/tradition/${t.parent}`}>
+            <Badge>{tt("within", { name: kala.nameOf("traditions", t.parent) })}</Badge>
+          </Link>
         )}
       </div>
       <p className="mt-5 max-w-3xl text-lg leading-relaxed">{t.summary_beginner}</p>
       {t.sourcing_note && <p className="mt-2 text-sm text-muted">{t.sourcing_note}</p>}
       {children.length > 0 && (
-        <Section title="Traditions within">
+        <Section title={tt("traditionsWithin")}>
           <LinkList kala={kala} type="traditions" slugs={children.map((c) => c.slug)} />
         </Section>
       )}
       {texts.length > 0 && (
-        <Section title="Texts">
+        <Section title={tt("texts")}>
           <LinkList kala={kala} type="texts" slugs={texts.map((c) => c.slug)} />
         </Section>
       )}
       {entities.length > 0 && (
-        <Section title="Figures">
+        <Section title={tt("figures")}>
           <LinkList kala={kala} type="entities" slugs={entities.map((c) => c.slug)} />
         </Section>
       )}

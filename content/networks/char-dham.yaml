@@ -1,0 +1,27 @@
+slug: char-dham
+names:
+  - text: "Char Dham"
+    lang: en
+    script: Latn
+  - text: "चार धाम"
+    lang: hi
+    script: Deva
+  - text: "चतुर्धाम"
+    lang: sa
+    script: Deva
+    iast: "Caturdhāma"
+kind: char_dham
+traditions:
+  - hindu
+variants:
+  - pilgrimage-char-dham-four-dhams
+  - pilgrimage-four-maths-gazetteer
+summary_beginner: "Four great pilgrimage centres at the four corners of India that many Hindus hope to visit in a lifetime: Badrinath in the north, Dwarka in the west, Puri in the east and Rameswaram in the south. It is a different circuit from the Himalayan 'Chota Char Dham'."
+summary_scholar: "No public-domain English scripture that enumerates the Char Dham has been found, so KALA does not present the list as scriptural. The four shrines are entered one by one on the Imperial Gazetteer's articles, and a second, documented list is kept beside it: the Gazetteer's statement that Sankaracharya founded four maths at Dwarka, Sringeri, Jagannath (Puri) and Badrinath. The two lists share three places and differ in the south (Rameswaram or Sringeri). Wilson (1861) names Badarinath, Jagannath and Dwaraka among Vaishnava temples famed as pilgrimage places, without calling them a set of four."
+references:
+  - source: imperial-gazetteer-1909
+    locator: "11:387"
+    note: "Dwarka article: the four maths"
+  - source: wilson-religious-sects-1861
+    locator: "39"
+    note: "Badarinath, Jagannath and Dwaraka among Vaishnava pilgrimage temples"

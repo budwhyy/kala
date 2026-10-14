@@ -1,0 +1,284 @@
+# Shiva's manifestations and the Goddess traditions. The four link types mean different things:
+# manifestation_of = a being or form brought forth by a deity; aspect_of = a form or side of the same deity;
+# identified_with = sources treat two names/figures as the same; avatar_of = a descent into the world (Vishnu only here).
+
+# --- Shiva ---------------------------------------------------------------------
+- id: virabhadra-manifestation-of-shiva-mbh
+  from: virabhadra
+  to: shiva
+  type: manifestation_of
+  variant: avatars-daksha-sacrifice-mahabharata
+  explanation: "Mahadeva creates the being from his mouth to destroy Daksha's sacrifice. The text calls him the embodiment of Mahadeva's wrath and says he resembles Maheshwara in energy and form, but Virabhadra himself says he is neither Rudra nor Uma, only sprung from Rudra's wrath, so he is a created manifestation and not Shiva himself."
+  references:
+    - source: ganguli-mahabharata
+      locator: "12.284"
+- id: virabhadra-manifestation-of-shiva-vp
+  from: virabhadra
+  to: shiva
+  type: manifestation_of
+  variant: avatars-daksha-sacrifice-vishnu-purana
+  explanation: "In the Vishnu Purana's brief account Mahesvara sends Virabhadra, who calls himself the issue of Rudra's wrath, to spoil Daksha's sacrifice; the wrathful goddess Rudrakali (Bhadrakali) comes with him."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.8"
+- id: ardhanarishvara-aspect-of-shiva
+  from: ardhanarishvara
+  to: shiva
+  type: aspect_of
+  explanation: "The Mahabharata's hymn praises Mahadeva as the god who has half his body occupied by his dear spouse and half his body anointed and garlanded; Ganguli's note names this half-male, half-female form Hara-Gauri. It is a form of Shiva himself, not a separate being."
+  references:
+    - source: ganguli-mahabharata
+      locator: "13.14"
+- id: ardhanarishvara-aspect-of-parvati
+  from: ardhanarishvara
+  to: parvati
+  type: aspect_of
+  explanation: "In the same form Mahadeva's own body is shared with Uma (Parvati), whose half is the female side."
+  references:
+    - source: ganguli-mahabharata
+      locator: "13.14"
+
+# --- Devi Mahatmya (Markandeya Purana, Pargiter) ---------------------------------
+- id: durga-manifestation-of-devi-dm
+  from: durga
+  to: devi
+  type: manifestation_of
+  variant: deities-devi-mahatmya
+  explanation: "The Devi Mahatmya says the eternal goddess, Mahamaya, takes birth when she reveals herself to help the gods, and Chandika (Durga) is formed from the gods' combined energies to defeat Mahisha. She is therefore a manifestation of the Great Goddess, not a separate deity."
+  references:
+    - source: pargiter-markandeya-purana
+      locator: "81"
+    - source: pargiter-markandeya-purana
+      locator: "82"
+- id: durga-manifestation-of-parvati-dm
+  from: durga
+  to: parvati
+  type: manifestation_of
+  variant: deities-devi-mahatmya
+  explanation: "In the Shumbha episode Ambika comes forth from the body of Parvati and is called Kausiki; Parvati then turns dark and is known as Kalika. This is a different telling from the one in which Chandika is formed from the gods' energies."
+  references:
+    - source: pargiter-markandeya-purana
+      locator: "85"
+- id: kali-manifestation-of-durga-dm
+  from: kali
+  to: durga
+  type: manifestation_of
+  variant: deities-devi-mahatmya
+  explanation: "When Ambika's face darkens with rage, Kali springs from her forehead, destroys the Asura host and brings the heads of Chanda and Munda to Chandika, who names her Chamunda."
+  references:
+    - source: pargiter-markandeya-purana
+      locator: "87"
+- id: matrikas-manifestation-of-durga-dm
+  from: matrikas
+  to: durga
+  type: manifestation_of
+  variant: deities-devi-mahatmya
+  explanation: "The Mothers appear as the energies of the gods to fight beside Chandika, and at the end the goddess says that they take their power from her and are absorbed into her."
+  references:
+    - source: pargiter-markandeya-purana
+      locator: "88"
+    - source: pargiter-markandeya-purana
+      locator: "90"
+- id: mahakali-identified-with-devi-dm
+  from: mahakali
+  to: devi
+  type: identified_with
+  variant: deities-devi-mahatmya
+  explanation: "The closing verses say that the whole egg of Brahma is pervaded by the Goddess who is Mahakali at Mahakala, who is also Lakshmi in homes where she dwells. The text names the Goddess herself as Mahakali; it does not call Mahakali a separate form."
+  references:
+    - source: pargiter-markandeya-purana
+      locator: "92"
+- id: saraswati-identified-with-devi-dm
+  from: saraswati
+  to: devi
+  type: identified_with
+  variant: deities-devi-mahatmya
+  explanation: "The gods' hymn to Narayani (Chandika) addresses her by many names, including Lakshmi and Saraswati, so Saraswati is one of the names of the Goddess here."
+  references:
+    - source: pargiter-markandeya-purana
+      locator: "91"
+
+# --- Mahabharata hymns to Durga ----------------------------------------------------
+- id: durga-identified-with-kali-mbh
+  from: durga
+  to: kali
+  type: identified_with
+  variant: avatars-durga-mahabharata
+  explanation: "Yudhishthira's hymn calls the goddess he praises as Durga 'Kali, the great Kali', and Arjuna's hymn addresses her as Kali and Mahakali. The Mahabharata makes no distinction, unlike the Devi Mahatmya, in which Kali is a separate emanation of Ambika."
+  references:
+    - source: ganguli-mahabharata
+      locator: "4.6"
+    - source: ganguli-mahabharata
+      locator: "6.23"
+- id: durga-identified-with-mahakali-mbh
+  from: durga
+  to: mahakali
+  type: identified_with
+  variant: avatars-durga-mahabharata
+  explanation: "Arjuna's hymn before the battle, in the Bhishma Parva, opens with Kali and Mahakali and calls the goddess Durga later in the same hymn."
+  references:
+    - source: ganguli-mahabharata
+      locator: "6.23"
+- id: durga-identified-with-parvati-mbh
+  from: durga
+  to: parvati
+  type: identified_with
+  variant: avatars-durga-mahabharata
+  explanation: "Arjuna's hymn to Durga addresses the same goddess as Uma and mother of Skanda, i.e. as Shiva's consort."
+  references:
+    - source: ganguli-mahabharata
+      locator: "6.23"
+- id: durga-identified-with-saraswati-mbh
+  from: durga
+  to: saraswati
+  type: identified_with
+  variant: avatars-durga-mahabharata
+  explanation: "Arjuna's hymn says the goddess is described as Svaha, Svadha, Kala, Kashtha and Saraswati, among other names, so Saraswati is one of the forms the hymn names for Durga."
+  references:
+    - source: ganguli-mahabharata
+      locator: "6.23"
+- id: mahakali-manifestation-of-parvati-mbh
+  from: mahakali
+  to: parvati
+  type: manifestation_of
+  variant: avatars-daksha-sacrifice-mahabharata
+  explanation: "In the Mahabharata's account of Daksha's sacrifice, Uma, angry, assumes a dreadful form known as Mahakali and goes with Virabhadra to watch the destruction."
+  references:
+    - source: ganguli-mahabharata
+      locator: "12.284"
+
+# --- Vishnu Purana: Yoganidra / Durga ------------------------------------------------
+- id: durga-aspect-of-vishnu-vp
+  from: durga
+  to: vishnu
+  type: aspect_of
+  variant: vishnu-purana-account
+  explanation: "The Vishnu Purana says that Yoganidra, Vishnu's great illusory energy, will be born as Yashoda's child and, having slain Shumbha and Nishumbha, will be called Arya, Durga, Ambika and Bhadrakali. Here Durga is Vishnu's own power, not an independent Great Goddess as in the Devi Mahatmya."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "5.1"
+
+# --- Devi Bhagavata -------------------------------------------------------------------
+- id: durga-identified-with-devi-db
+  from: durga
+  to: devi
+  type: identified_with
+  variant: devi-bhagavata-account
+  explanation: "After describing her own nature, the Devi in the Devi Bhagavata is called Bhagavati Durga when she gives the three gods their Shaktis, so here the supreme Goddess and Durga are one."
+  references:
+    - source: vijnanananda-devi-bhagavata
+      locator: "3.6"
+- id: mahalakshmi-manifestation-of-devi-db
+  from: mahalakshmi
+  to: devi
+  type: manifestation_of
+  variant: devi-bhagavata-account
+  explanation: "The Devi gives Mahalakshmi to Vishnu as a Shakti (power) of her own, and the first book calls her the Devi's sattvic Shakti."
+  references:
+    - source: vijnanananda-devi-bhagavata
+      locator: "3.6"
+    - source: vijnanananda-devi-bhagavata
+      locator: "1.2"
+- id: mahasaraswati-manifestation-of-devi-db
+  from: mahasaraswati
+  to: devi
+  type: manifestation_of
+  variant: devi-bhagavata-account
+  explanation: "The Devi gives Mahasarasvati to Brahma and calls her her own manifestation of power (bibhuti), so that she must be respected."
+  references:
+    - source: vijnanananda-devi-bhagavata
+      locator: "3.6"
+- id: mahakali-manifestation-of-devi-db
+  from: mahakali
+  to: devi
+  type: manifestation_of
+  variant: devi-bhagavata-account
+  explanation: "The Devi gives Mahakali to Shiva as a Shakti of her own, and the first book calls her the Devi's tamasic Shakti."
+  references:
+    - source: vijnanananda-devi-bhagavata
+      locator: "3.6"
+    - source: vijnanananda-devi-bhagavata
+      locator: "1.2"
+- id: mahakali-partner-of-shiva-db
+  from: mahakali
+  to: shiva
+  type: partner
+  variant: devi-bhagavata-account
+  explanation: "The Devi tells Shiva to take the beautiful Mahakali Gauri, build a new city on Kailasa and live there with her."
+  references:
+    - source: vijnanananda-devi-bhagavata
+      locator: "3.6"
+- id: mahalakshmi-partner-of-vishnu-db
+  from: mahalakshmi
+  to: vishnu
+  type: partner
+  variant: devi-bhagavata-account
+  explanation: "The Devi tells Vishnu that Mahalakshmi will always reside in his breast and that she unites Lakshmi and Narayana."
+  references:
+    - source: vijnanananda-devi-bhagavata
+      locator: "3.6"
+- id: mahasaraswati-partner-of-brahma-db
+  from: mahasaraswati
+  to: brahma
+  type: partner
+  variant: devi-bhagavata-account
+  explanation: "The Devi gives Mahasarasvati to Brahma as a companion who will always be his playmate."
+  references:
+    - source: vijnanananda-devi-bhagavata
+      locator: "3.6"
+- id: mahalakshmi-identified-with-lakshmi-db
+  from: mahalakshmi
+  to: lakshmi
+  type: identified_with
+  variant: devi-bhagavata-account
+  explanation: "In the same passage the Devi gives Vishnu 'Mahalakshmi' and then says she unites 'Lakshmi' and Narayana, using the two names for the one goddess."
+  references:
+    - source: vijnanananda-devi-bhagavata
+      locator: "3.6"
+- id: mahasaraswati-identified-with-saraswati-db
+  from: mahasaraswati
+  to: saraswati
+  type: identified_with
+  variant: devi-bhagavata-account
+  explanation: "The first book calls Sarasvati the Devi's rajasic Shakti; the third book gives Brahma the Shakti Mahasarasvati. The text uses the longer name for the same goddess in the later passage."
+  references:
+    - source: vijnanananda-devi-bhagavata
+      locator: "1.2"
+    - source: vijnanananda-devi-bhagavata
+      locator: "3.6"
+- id: durga-manifestation-of-prakriti-db
+  from: durga
+  to: prakriti
+  type: manifestation_of
+  variant: devi-bhagavata-account
+  explanation: "The ninth book of the Devi Bhagavata says that when the highest Prakriti is engaged in creation she appears in five forms: Durga, Radha, Lakshmi, Sarasvati and Savitri."
+  references:
+    - source: vijnanananda-devi-bhagavata
+      locator: "9.1"
+- id: lakshmi-manifestation-of-prakriti-db
+  from: lakshmi
+  to: prakriti
+  type: manifestation_of
+  variant: devi-bhagavata-account
+  explanation: "Lakshmi is the third of the five forms of the highest Prakriti in the ninth book of the Devi Bhagavata. The Vishnu Purana describes her differently, as Bhrigu's daughter and as risen from the churned ocean."
+  references:
+    - source: vijnanananda-devi-bhagavata
+      locator: "9.1"
+- id: saraswati-manifestation-of-prakriti-db
+  from: saraswati
+  to: prakriti
+  type: manifestation_of
+  variant: devi-bhagavata-account
+  explanation: "Sarasvati is the fourth of the five forms of the highest Prakriti in the ninth book of the Devi Bhagavata."
+  references:
+    - source: vijnanananda-devi-bhagavata
+      locator: "9.1"
+- id: matrikas-manifestation-of-devi-db
+  from: matrikas
+  to: devi
+  type: manifestation_of
+  variant: devi-bhagavata-account
+  explanation: "The Devi tells Brahma that when the Devas are afraid of the Daityas, Varahi, Vaishnavi, Gauri, Nara Simhi, Shachi, Shiva and her other Shaktis will take excellent bodies and destroy their fear."
+  references:
+    - source: vijnanananda-devi-bhagavata
+      locator: "3.6"

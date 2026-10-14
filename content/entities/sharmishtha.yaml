@@ -1,0 +1,22 @@
+slug: sharmishtha
+names:
+  - text: Sharmishtha
+    lang: en
+    script: Latn
+  - text: शर्मिष्ठा
+    lang: sa
+    script: Deva
+    iast: Śarmiṣṭhā
+kinds:
+  - danava
+traditions:
+  - itihasa
+  - puranic
+summary_beginner: Daughter of the Danava king Vrishaparvan. After a quarrel with Devayani she becomes Devayani's attendant, and later bears King Yayati three sons, including Puru.
+references:
+  - source: ganguli-mahabharata
+    locator: "1.78"
+  - source: ganguli-mahabharata
+    locator: "1.83"
+  - source: wilson-vishnu-purana
+    locator: "1.21"

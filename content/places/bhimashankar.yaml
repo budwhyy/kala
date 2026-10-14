@@ -1,0 +1,47 @@
+slug: bhimashankar
+names:
+  - text: "Bhimashankar"
+    lang: en
+    script: Latn
+  - text: "भीमाशङ्कर"
+    lang: sa
+    script: Deva
+    iast: "Bhīmaśaṅkara"
+  - text: "भीमाशंकर"
+    lang: hi
+    script: Deva
+realm: terrestrial
+kind: tirtha
+confidence: traditional
+geometry:
+  type: Point
+  coordinates:
+    - 73.54
+    - 19.07
+modern_admin:
+  country: "India"
+  region: "Maharashtra"
+  district: "Pune"
+evidence:
+  - type: historical
+    summary: "The Imperial Gazetteer describes Bhimashankar as a village and fort in the Khed taluka of Poona District at the source of the Bhima, possessing a famous temple of Mahadeo said to be one of the twelve great lingams of India. It stands at the crest of the Western Ghats at 3,448 feet; the old temple is plain stone with a vaulted roof, and a newer one was begun by the Poona minister Nana Farnavis and finished by his widow."
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "8:108"
+traditions:
+  - shaiva
+  - hindu
+summary_beginner: "A Shiva temple at the crest of the Western Ghats where the Bhima river rises, counted among the twelve jyotirlingas."
+summary_scholar: "Wilson's Bhimasankara 'in Dakini' is not placed here by him; he suggests it may be the Bhimeswara linga at Draksharam in the Godavari district. The Imperial Gazetteer, by contrast, names this hill temple as one of the twelve, so the two public-domain sources disagree on the site and each is kept as its own variant."
+references:
+  - source: imperial-gazetteer-1909
+    locator: "8:108"
+  - source: wilson-religious-sects-1861
+    locator: "223"
+pilgrimage_networks:
+  - network: jyotirlingas
+    variant: pilgrimage-jyotirlinga-gazetteer-entries
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "8:108"
+        note: "Famous temple of Mahadeo, said to be one of the twelve great lingams of India"

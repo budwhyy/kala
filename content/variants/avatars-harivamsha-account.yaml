@@ -1,0 +1,12 @@
+slug: avatars-harivamsha-account
+names:
+  - text: "Harivamsha account of Vishnu's descents"
+    lang: en
+    script: Latn
+kind: account
+tradition: vaishnava
+text: harivamsha
+description: "The Harivamsha's own telling of Vishnu's forms and of the stories attached to them, as given in Dutt's prose translation."
+references:
+  - source: dutt-harivamsha
+    locator: "41"

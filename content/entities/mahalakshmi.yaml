@@ -1,0 +1,21 @@
+slug: mahalakshmi
+names:
+  - text: Mahalakshmi
+    lang: en
+    script: Latn
+  - text: महालक्ष्मी
+    lang: sa
+    script: Deva
+    iast: Mahālakṣmī
+kinds: [deity]
+traditions: [shakta, puranic]
+summary_beginner: >-
+  "Great Lakshmi", the form of the Devi's power that the Devi Bhagavata says the Goddess gave to Vishnu to dwell on his
+  breast. The same text calls her the sattvic (pure, sustaining) Shakti of the Devi.
+references:
+  - source: vijnanananda-devi-bhagavata
+    locator: "1.2"
+    note: "Mahalakshmi is the sattvic Shakti of the Devi."
+  - source: vijnanananda-devi-bhagavata
+    locator: "3.6"
+    note: "The Devi tells Vishnu to take Mahalakshmi, who will always dwell in his breast."

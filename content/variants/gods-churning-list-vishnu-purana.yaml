@@ -1,0 +1,12 @@
+slug: gods-churning-list-vishnu-purana
+names:
+  - text: Products of the churning (Vishnu Purana order)
+    lang: en
+    script: Latn
+kind: list
+tradition: puranic
+text: vishnu-purana
+description: "The order in Wilson's Vishnu Purana 1.9: the cow Surabhi, Varuni, the Parijata tree, the Apsarases, the Moon, poison, Dhanvantari with the cup of amrita, and Shri. Positions follow the text's sequence; gaps (positions 1 and 3) mark items without a record. The text does not list Airavata, Uchchaihshravas or Kaustubha among the products."
+references:
+  - source: wilson-vishnu-purana
+    locator: "1.9"

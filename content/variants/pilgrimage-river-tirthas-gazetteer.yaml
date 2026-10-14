@@ -1,0 +1,21 @@
+slug: pilgrimage-river-tirthas-gazetteer
+names:
+  - text: "Sacred rivers and their holy places, as described in the Imperial Gazetteer"
+    lang: en
+    script: Latn
+kind: list
+tradition: hindu
+description: "Rivers that the Imperial Gazetteer describes as holy, with the sacred places along them: the Ganges (with the confluence at Allahabad), the Jumna, the Saraswati, the Godavari, the Narbada and the Cauvery. The Gazetteer does not print a list of the sacred rivers; the grouping is KALA's, built only from the individual river articles."
+references:
+  - source: imperial-gazetteer-1909
+    locator: "12:132-136"
+    note: "Ganges"
+  - source: imperial-gazetteer-1909
+    locator: "12:297-299"
+    note: "Godavari"
+  - source: imperial-gazetteer-1909
+    locator: "18:375-377"
+    note: "Narbada"
+  - source: imperial-gazetteer-1909
+    locator: "9:303-305"
+    note: "Cauvery"

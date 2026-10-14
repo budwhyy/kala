@@ -1,0 +1,33 @@
+slug: ahimsa
+names:
+  - text: "Ahimsa (non-harming)"
+    lang: en
+    script: Latn
+  - text: "अहिंसा"
+    lang: sa
+    script: Deva
+    iast: "Ahiṃsā"
+summary_beginner: "Ahimsa is the ethical principle of not harming living beings. It is listed as a duty or a discipline in several Hindu texts. Buddhist and Jain traditions also use this term, with meanings of their own that this page does not cover."
+interpretations:
+  - tradition: itihasa
+    explanation: "In the Gita, 'harmlessness' appears with purity, straightforwardness and honouring teachers and gods in the list of what is called bodily austerity."
+    references:
+      - source: telang-bhagavadgita
+        locator: "17.14"
+        note: "Telang's rendering is 'harmlessness'."
+  - tradition: dharmashastra
+    explanation: "Manu includes abstaining from injuring creatures, with truthfulness, not taking others' goods, purity and sense-control, in his short statement of the law that applies to all four castes."
+    references:
+      - source: buhler-manu
+        locator: "Manu 10.63"
+  - tradition: yoga
+    explanation: "The Yoga Sutras list abstinence from injury first among the five abstentions and say it should not be limited by kind, place, time or circumstance. They add that one firmly grounded in it brings others to give up enmity in his presence."
+    references:
+      - source: woods-yoga-system-patanjali
+        locator: "Yoga-sutra 2.30-31"
+      - source: woods-yoga-system-patanjali
+        locator: "Yoga-sutra 2.35"
+related:
+  - dharma
+  - yoga
+  - tapas

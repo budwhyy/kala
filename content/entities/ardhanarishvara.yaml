@@ -1,0 +1,27 @@
+slug: ardhanarishvara
+names:
+  - text: Ardhanarishvara
+    lang: en
+    script: Latn
+  - text: अर्धनारीश्वर
+    lang: sa
+    script: Deva
+    iast: Ardhanārīśvara
+epithets:
+  - text: Hara-Gauri
+    lang: en
+    script: Latn
+kinds: [deity]
+traditions: [shaiva, itihasa]
+summary_beginner: >-
+  The form of Shiva that is half male and half female, shared with his consort Uma (Parvati). The Mahabharata's hymn to
+  Mahadeva in the Anushasana Parva praises him as the one who has half his body occupied by his dear spouse, with half
+  a garland and half his body anointed and adorned; Ganguli's note calls this form Hara-Gauri.
+summary_scholar: >-
+  The name Ardhanarishvara itself is not found in the translations KALA can quote: the Mahabharata passage (13.14)
+  describes the form without that name, and Ganguli's footnote names it Hara-Gauri. The name is used here because it is
+  the form's standard name in the later tradition, and the record rests on the passage.
+references:
+  - source: ganguli-mahabharata
+    locator: "13.14"
+    note: "A hymn of praise in Section XIV describes Mahadeva as the god who has half his body occupied by his spouse; Ganguli's notes call the form Hara-Gauri."

@@ -1,0 +1,24 @@
+slug: vrishaparvan
+names:
+  - text: Vrishaparvan
+    lang: en
+    script: Latn
+  - text: वृषपर्वन्
+    lang: sa
+    script: Deva
+    iast: Vṛṣaparvan
+kinds:
+  - danava
+  - asura
+  - king
+traditions:
+  - itihasa
+  - puranic
+summary_beginner: A Danava king, a son of Danu, whose daughter is Sharmishtha. In the Mahabharata the sage Shukra serves as priest at his court.
+references:
+  - source: ganguli-mahabharata
+    locator: "1.65"
+  - source: ganguli-mahabharata
+    locator: "1.76"
+  - source: wilson-vishnu-purana
+    locator: "1.21"

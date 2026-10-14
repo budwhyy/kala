@@ -1,0 +1,66 @@
+slug: nalanda
+names:
+  - text: Nalanda
+    lang: en
+    script: Latn
+  - text: नालन्दा
+    lang: sa
+    script: Deva
+    iast: Nālandā
+  - text: Baragaon
+    lang: en
+    script: Latn
+realm: terrestrial
+kind: site
+confidence: verified
+geometry:
+  type: Point
+  coordinates:
+    - 85.44
+    - 25.14
+modern_admin:
+  country: India
+  region: Bihar
+  district: Nalanda
+evidence:
+  - type: archaeological
+    summary: Cunningham identified the village of Baragaon, seven miles north of Rajgir and ringed
+      with tanks and mounds, with Xuanzang's Nalanda, traced the great monastery's courtyards on
+      the ground, and found two inscriptions on the spot that call the place Nalanda.
+    references:
+      - source: cunningham-ancient-geography
+        locator: "468"
+      - source: cunningham-ancient-geography
+        locator: "469"
+      - source: cunningham-ancient-geography
+        locator: "470"
+  - type: historical
+    summary: Xuanzang describes the Nalanda sangharama, its tank and the legend of the naga after
+      whom it is named; Fa-hien mentions the village of Nala where Sariputra was born.
+    references:
+      - source: beal-si-yu-ki
+        locator: "2:166"
+      - source: legge-fa-hien
+        locator: "28"
+traditions:
+  - buddhist
+pilgrimage_networks:
+  - network: buddhist-fa-hien-sacred-places
+    variant: buddhist-places-fa-hien-record
+    references:
+      - source: legge-fa-hien
+        locator: "28"
+        note: The village of Nala, where Sariputra was born; the village is matched to Nalanda by
+          Cunningham.
+      - source: cunningham-ancient-geography
+        locator: "469"
+summary_beginner: The ruins in Bihar of a great Buddhist monastery and centre of learning, near
+  Rajgir, described by Chinese pilgrims in the seventh century.
+summary_scholar: The location is attested by the ruins and by inscriptions naming the place
+  (Cunningham 469). The Kalpa Sutra also names the suburbs of Nalanda beside Rajagriha as a Jain
+  rainy-season stay of Mahavira; that Jain Nalanda is not separately tagged here.
+references:
+  - source: cunningham-ancient-geography
+    locator: "468"
+  - source: beal-si-yu-ki
+    locator: "2:166"

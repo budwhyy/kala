@@ -1,0 +1,19 @@
+slug: avatars-list-bhagavata-2-7
+names:
+  - text: "Bhagavata Purana 2.7: Brahma's account of the Lord's descents"
+    lang: en
+    script: Latn
+kind: list
+tradition: vaishnava
+text: bhagavata-purana
+description: >-
+  A second, longer recital of Vishnu's descents, which Brahma gives to Narada in the seventh chapter of the second book
+  of the Bhagavata Purana. The text does not number the forms; positions here follow the order of narration, and only
+  figures with a record in KALA are placed. Order of narration: the boar, Yajna (Sujajna), Kapila, Dattatreya, the four
+  Kumaras, Nara and Narayana, Prithu, Rishabha, the horse-necked form (Hayagriva), the fish, the tortoise, the man-lion,
+  the dwarf, Dhanvantari, Parashurama, Rama, Krishna with Balarama as his other portion, Vyasa, Buddha and Kalki.
+  Unlike the list in 1.3 it names no Mohini, and it describes Balarama as a portion that appears alongside Krishna
+  rather than giving him a separate place in the sequence.
+references:
+  - source: dutt-bhagavata-purana
+    locator: "2.7"

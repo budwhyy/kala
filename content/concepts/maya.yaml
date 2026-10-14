@@ -1,0 +1,41 @@
+slug: maya
+names:
+  - text: "Maya"
+    lang: en
+    script: Latn
+  - text: "माया"
+    lang: sa
+    script: Deva
+    iast: "Māyā"
+summary_beginner: "Maya is a word for the power by which the world appears in its many forms; it can mean creative art, illusion or both. Schools disagree on whether it is a real power of God or a principle of illusion."
+interpretations:
+  - tradition: vedanta
+    explanation: "The Svetasvatara Upanishad says that nature (prakriti) is maya and that the great Lord is the one who wields it, with the other, the individual, bound by it. The Brihadaranyaka Upanishad says Indra appears in many forms through his mayas. Müller notes that no single English word covers both 'making' and 'illusion'."
+    references:
+      - source: muller-upanishads
+        locator: "Svetasvatara Upanishad 4.9-10 (SBE 15)"
+      - source: muller-upanishads
+        locator: "Brihadaranyaka Upanishad 2.5.19 (SBE 15)"
+  - tradition: itihasa
+    explanation: "Krishna says the whole world is bewildered by states of mind arising from the three gunas and so does not know him; this divine delusion of his is hard to cross, and only those who take refuge in him pass beyond it."
+    references:
+      - source: telang-bhagavadgita
+        locator: "7.13-14"
+  - tradition: advaita-vedanta
+    explanation: "Shankara describes an undeveloped causal potentiality, resting on the highest Lord and of the nature of nescience, which scripture also names maya, citing the Svetasvatara verse. Thibaut's introduction explains that in this school maya cannot be called either real or unreal and is the source of the appearance of the world, like a magician's power."
+    references:
+      - source: thibaut-vedanta-sutras-shankara
+        locator: "SBE 34, Vedanta-Sutras 1.4.3"
+      - source: thibaut-vedanta-sutras-shankara
+        locator: "SBE 34, Introduction, pp. xxv-xxvi"
+        note: "Thibaut's own summary of Shankara's system."
+  - tradition: vishishtadvaita
+    explanation: "Ramanuja rejects the view that maya means something undefinable. He says the word is used for whatever produces wonderful effects, so that prakriti is called maya, and the Lord is called its possessor without any ignorance in him; it is the individual soul that is bound by it."
+    references:
+      - source: thibaut-vedanta-sutras-ramanuja
+        locator: "SBE 48, Vedanta-Sutras 1.1.1 (pp. 125-126)"
+related:
+  - avidya
+  - brahman
+  - guna
+  - ishvara

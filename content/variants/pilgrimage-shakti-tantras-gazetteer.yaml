@@ -1,0 +1,12 @@
+slug: pilgrimage-shakti-tantras-gazetteer
+names:
+  - text: "Seats where Sati's limbs fell, as reported by the Imperial Gazetteer"
+    lang: en
+    script: Latn
+kind: list
+tradition: shakta
+description: "Places that the Imperial Gazetteer describes, in the words of local tradition or 'the Tantras', as pithasthanas where a part of Sati's body fell. The Gazetteer gives no list; KALA enters only Ujjain (the elbow). It stands apart from the 108 seats of the Devi Bhagavata."
+references:
+  - source: imperial-gazetteer-1909
+    locator: "24:113-114"
+    note: "Ujjain article: the elbow of Sati fell here according to the Tantras"

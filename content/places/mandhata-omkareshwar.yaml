@@ -1,0 +1,72 @@
+slug: mandhata-omkareshwar
+names:
+  - text: "Mandhata"
+    lang: en
+    script: Latn
+  - text: "Omkareshwar"
+    lang: en
+    script: Latn
+  - text: "ओंकारेश्वर"
+    lang: hi
+    script: Deva
+  - text: "ओङ्कारेश्वर"
+    lang: sa
+    script: Deva
+    iast: "Oṅkāreśvara"
+  - text: "मान्धाता"
+    lang: sa
+    script: Deva
+    iast: "Māndhātā"
+realm: terrestrial
+kind: tirtha
+confidence: traditional
+geometry:
+  type: Point
+  coordinates:
+    - 76.15
+    - 22.25
+modern_admin:
+  country: "India"
+  region: "Madhya Pradesh"
+  district: "Khandwa"
+evidence:
+  - type: historical
+    summary: "The Imperial Gazetteer describes Mandhata as a well-known Hindu place of pilgrimage on an island and south bank of the Narbada in Nimar District, which contains one of the twelve celebrated lingas of Siva. It notes the temple of Siddhanath, the more recent temple of Onkar on the island, a large October fair, and the former practice of devotees throwing themselves from the cliffs, last witnessed in 1824."
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "17:152"
+  - type: traditional
+    summary: "Wilson's list of twelve lingas has Omkara fourth; he says it is said to have been in Ujjain but is probably the shrine of Mahadeo at Omkara Mandatta on the Narmada."
+    references:
+      - source: wilson-religious-sects-1861
+        locator: "223"
+related_places:
+  - to: narmada
+    relation: near
+    note: "The shrine stands on an island in the Narmada."
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "17:152"
+traditions:
+  - shaiva
+  - hindu
+summary_beginner: "A river island on the Narmada whose shape is likened to the sacred syllable Om, with a Shiva temple counted among the twelve jyotirlingas. Pilgrims come for the river as well as the shrine."
+summary_scholar: "Wilson notes that the textual Omkara was placed at Ujjain by some and identifies this island shrine with it only as probable."
+references:
+  - source: imperial-gazetteer-1909
+    locator: "17:152"
+  - source: wilson-religious-sects-1861
+    locator: "223"
+pilgrimage_networks:
+  - network: jyotirlingas
+    variant: pilgrimage-jyotirlinga-gazetteer-entries
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "17:152"
+        note: "One of the twelve celebrated lingas of Siva"
+  - network: jyotirlingas
+    variant: pilgrimage-jyotirlinga-wilson-nandi-upapurana
+    references:
+      - source: wilson-religious-sects-1861
+        locator: "223"
+        note: "Item 4: Omkara, probably the shrine at Omkara Mandatta on the Narmada"

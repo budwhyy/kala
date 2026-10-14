@@ -1,0 +1,283 @@
+- id: vishnu-father-of-dhanvantari-harivamsha
+  from: vishnu
+  to: dhanvantari
+  type: parent
+  role: father
+  mode: other
+  variant: gods-harivamsha-account
+  explanation: In the Harivamsha, Dhanvantari rises from the ocean, calls himself Vishnu's son and is addressed by Vishnu as his son.
+  references:
+    - source: dutt-harivamsha
+      locator: "29"
+- id: vishnu-blessing-dhanvantari
+  from: vishnu
+  to: dhanvantari
+  type: blessing
+  variant: gods-harivamsha-account
+  explanation: Vishnu names him Avja, promises him a second birth as a king who will spread Ayurveda, and says he will be worshipped by the twice-born.
+  references:
+    - source: dutt-harivamsha
+      locator: "29"
+- id: airavata-vahana-of-indra
+  from: airavata
+  to: indra
+  type: vahana_of
+  explanation: Airavata is the elephant on which Indra rides in the Vishnu Purana's story of Durvasas's garland, and in the Mahabharata Indra takes him when he rises from the ocean.
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.9"
+    - source: ganguli-mahabharata
+      locator: "1.18"
+- id: uchchaihshravas-vahana-of-indra
+  from: uchchaihshravas
+  to: indra
+  type: vahana_of
+  explanation: The translators' notes identify the churning's divine horse as Indra's horse (Griffith's note calls it Indra's horse; Wilson's note says Indra took it). The main text of the Mahabharata passage does not say who takes it.
+  references:
+    - source: griffith-ramayana
+      locator: "1.45"
+      note: Griffith's footnote.
+    - source: wilson-vishnu-purana
+      locator: "1.9"
+      note: Wilson's footnote 8.
+- id: bhadramana-mother-of-airavata
+  from: bhadramana
+  to: airavata
+  type: parent
+  role: mother
+  mode: biological
+  variant: gods-mahabharata-krodha-daughters-line
+  explanation: In the Mahabharata's list of the offspring of Krodha's daughters, Bhadramana bears the celestial elephant Airavata. This sits beside the Mahabharata's own telling that Airavata rises at the churning.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.66"
+- id: varuna-father-of-varuni
+  from: varuna
+  to: varuni
+  type: parent
+  role: father
+  mode: biological
+  explanation: Sura (Varuni) is Varuna's daughter, in the Ramayana and in the Mahabharata's genealogy.
+  references:
+    - source: griffith-ramayana
+      locator: "1.45"
+    - source: ganguli-mahabharata
+      locator: "1.66"
+- id: lakshmi-blessing-indra
+  from: lakshmi
+  to: indra
+  type: blessing
+  explanation: Pleased by Indra's hymn, Shri (Lakshmi) promises never to leave the three worlds again and never to turn from those who recite his hymn.
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.9"
+- id: chandra-in-churning-list-mahabharata
+  from: chandra
+  to: churning-products
+  type: member_of
+  position: 1
+  variant: gods-churning-list-mahabharata
+  explanation: The Moon is the first thing named as rising.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.18"
+- id: lakshmi-in-churning-list-mahabharata
+  from: lakshmi
+  to: churning-products
+  type: member_of
+  position: 2
+  variant: gods-churning-list-mahabharata
+  explanation: Lakshmi, robed in white, rises second.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.18"
+- id: uchchaihshravas-in-churning-list-mahabharata
+  from: uchchaihshravas
+  to: churning-products
+  type: member_of
+  position: 4
+  variant: gods-churning-list-mahabharata
+  explanation: The white steed, named Uchchaihshravas in 1.17 and 1.20, comes fourth, after a second 'Soma' at position 3 that Ganguli lists separately.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.18"
+- id: kaustubha-in-churning-list-mahabharata
+  from: kaustubha
+  to: churning-products
+  type: member_of
+  position: 5
+  variant: gods-churning-list-mahabharata
+  explanation: The Kaustubha gem follows.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.18"
+- id: dhanvantari-in-churning-list-mahabharata
+  from: dhanvantari
+  to: churning-products
+  type: member_of
+  position: 6
+  variant: gods-churning-list-mahabharata
+  explanation: Dhanvantari rises holding the white vessel of amrita.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.18"
+- id: airavata-in-churning-list-mahabharata
+  from: airavata
+  to: churning-products
+  type: member_of
+  position: 7
+  variant: gods-churning-list-mahabharata
+  explanation: The elephant Airavata rises, and Indra takes him.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.18"
+- id: kalakuta-in-churning-list-mahabharata
+  from: kalakuta
+  to: churning-products
+  type: member_of
+  position: 8
+  variant: gods-churning-list-mahabharata
+  explanation: The poison Kalakuta rises last.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.18"
+- id: varuni-in-churning-list-vishnu-purana
+  from: varuni
+  to: churning-products
+  type: member_of
+  position: 2
+  variant: gods-churning-list-vishnu-purana
+  explanation: Varuni, the goddess of wine, follows the cow Surabhi.
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.9"
+- id: apsarases-in-churning-list-vishnu-purana
+  from: apsarases
+  to: churning-products
+  type: member_of
+  position: 4
+  variant: gods-churning-list-vishnu-purana
+  explanation: The Apsarases are produced after the Parijata tree.
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.9"
+- id: chandra-in-churning-list-vishnu-purana
+  from: chandra
+  to: churning-products
+  type: member_of
+  position: 5
+  variant: gods-churning-list-vishnu-purana
+  explanation: The Moon rises and is taken by Mahadeva.
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.9"
+- id: kalakuta-in-churning-list-vishnu-purana
+  from: kalakuta
+  to: churning-products
+  type: member_of
+  position: 6
+  variant: gods-churning-list-vishnu-purana
+  explanation: Poison (Wilson's note calls it Halahala or Kalakuta) is produced and the Nagas take it.
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.9"
+- id: dhanvantari-in-churning-list-vishnu-purana
+  from: dhanvantari
+  to: churning-products
+  type: member_of
+  position: 7
+  variant: gods-churning-list-vishnu-purana
+  explanation: Dhanvantari appears bearing the cup of amrita.
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.9"
+- id: lakshmi-in-churning-list-vishnu-purana
+  from: lakshmi
+  to: churning-products
+  type: member_of
+  position: 8
+  variant: gods-churning-list-vishnu-purana
+  explanation: Shri, seated on a lotus, rises last in the main text's sequence.
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.9"
+- id: kalakuta-in-churning-list-ramayana
+  from: kalakuta
+  to: churning-products
+  type: member_of
+  position: 1
+  variant: gods-churning-list-ramayana
+  explanation: The poison comes first, from the serpent's venom; Shiva drinks it.
+  references:
+    - source: griffith-ramayana
+      locator: "1.45"
+- id: dhanvantari-in-churning-list-ramayana
+  from: dhanvantari
+  to: churning-products
+  type: member_of
+  position: 2
+  variant: gods-churning-list-ramayana
+  explanation: Dhanvantari, the physician of the gods, rises second.
+  references:
+    - source: griffith-ramayana
+      locator: "1.45"
+- id: apsarases-in-churning-list-ramayana
+  from: apsarases
+  to: churning-products
+  type: member_of
+  position: 3
+  variant: gods-churning-list-ramayana
+  explanation: The Apsarases are born of the foam and water.
+  references:
+    - source: griffith-ramayana
+      locator: "1.45"
+- id: varuni-in-churning-list-ramayana
+  from: varuni
+  to: churning-products
+  type: member_of
+  position: 4
+  variant: gods-churning-list-ramayana
+  explanation: Sura, daughter of Varuna, rises fourth.
+  references:
+    - source: griffith-ramayana
+      locator: "1.45"
+- id: uchchaihshravas-in-churning-list-ramayana
+  from: uchchaihshravas
+  to: churning-products
+  type: member_of
+  position: 5
+  variant: gods-churning-list-ramayana
+  explanation: The steed Uchchaihshravas follows.
+  references:
+    - source: griffith-ramayana
+      locator: "1.45"
+- id: kaustubha-in-churning-list-ramayana
+  from: kaustubha
+  to: churning-products
+  type: member_of
+  position: 6
+  variant: gods-churning-list-ramayana
+  explanation: The Kaustubha gem follows the steed.
+  references:
+    - source: griffith-ramayana
+      locator: "1.45"
+- id: chandra-in-churning-list-ramayana
+  from: chandra
+  to: churning-products
+  type: member_of
+  position: 7
+  variant: gods-churning-list-ramayana
+  explanation: The Moon (Soma) rises next.
+  references:
+    - source: griffith-ramayana
+      locator: "1.45"
+- id: lakshmi-in-churning-list-ramayana
+  from: lakshmi
+  to: churning-products
+  type: member_of
+  position: 8
+  variant: gods-churning-list-ramayana
+  explanation: Lakshmi rises on her lotus, and the amrita itself follows at position 9.
+  references:
+    - source: griffith-ramayana
+      locator: "1.45"

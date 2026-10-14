@@ -49,3 +49,16 @@ references:
     locator: "6.22"
   - source: imperial-gazetteer-1909
     locator: "21:173"
+pilgrimage_networks:
+  - network: char-dham
+    variant: pilgrimage-char-dham-four-dhams
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "21:173-175"
+        note: "Temple founded, by tradition, by Rama; resort of pilgrims from all parts of India"
+  - network: jyotirlingas
+    variant: pilgrimage-jyotirlinga-wilson-nandi-upapurana
+    references:
+      - source: wilson-religious-sects-1861
+        locator: "223"
+        note: "Item 7: Ramesa at Setubandha, the island of Ramisseram"

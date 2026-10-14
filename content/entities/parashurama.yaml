@@ -1,0 +1,37 @@
+slug: parashurama
+names:
+  - text: Parashurama
+    lang: en
+    script: Latn
+  - text: परशुराम
+    lang: sa
+    script: Deva
+    iast: Paraśurāma
+epithets:
+  - text: Rama Jamadagnya
+    lang: en
+    script: Latn
+  - text: Bhargava Rama
+    lang: en
+    script: Latn
+kinds: [rishi, human]
+traditions: [vaishnava, puranic, itihasa]
+summary_beginner: >-
+  Rama, the axe-bearing son of the sage Jamadagni, born in the line of Bhrigu. The Vishnu Purana calls him a portion of
+  Narayana and says he destroyed the Kshatriya (warrior) rulers of his age; the Harivamsha adds that he gave the earth
+  to Kashyapa and still lives on Mount Mahendra.
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.7"
+    note: "Son of Jamadagni and Satyavati, the destroyer of the Kshatriya race, a portion of Narayana."
+  - source: dutt-harivamsha
+    locator: "41"
+    note: "The Jamadagni incarnation: kills Kartavirya Arjuna, clears the earth of Kshatriyas twenty-one times, gives the earth to Kashyapa."
+  - source: ganguli-mahabharata
+    locator: "12.340"
+    note: "'Rama of Bhrigu's race' in the Treta age."
+  - source: dutt-bhagavata-purana
+    locator: "1.3"
+    note: "Sixteenth form (unnamed in the text; Dutt's note to 2.7 names Parashurama)."
+  - source: dutt-bhagavata-purana
+    locator: "2.7"

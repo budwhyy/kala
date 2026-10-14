@@ -1,0 +1,57 @@
+slug: samudra-manthana-ramayana
+same_story_as:
+  - samudra-manthana-mahabharata
+  - samudra-manthana-vishnu-purana
+names:
+  - text: Samudra manthana (Churning of the Ocean), Ramayana account
+    lang: en
+    script: Latn
+  - text: समुद्रमन्थन
+    lang: sa
+    script: Deva
+    iast: Samudramanthana
+participants:
+  - entity: vishnu
+    role: takes the tortoise form to bear Mandara and tells Shiva to take the poison as the first fruit
+  - entity: kurma
+    role: the tortoise form Vishnu wears at the bottom of the sea
+  - entity: adityas
+    role: the sons of Aditi, who churn with the Daityas and defeat them
+  - entity: daityas
+    role: the sons of Diti, who decline Sura's love and are called Asuras
+  - entity: vasuki
+    role: the serpent used as the cord, whose heads shed the first venom
+  - entity: shiva
+    role: drinks the venom as the eldest of the gods
+  - entity: dhanvantari
+    role: rises after the poison, bearing staff and cup
+  - entity: apsarases
+    role: born of the foam and water
+  - entity: varuni
+    role: Sura, Varuna's daughter, who gives the gods and asuras their names
+  - entity: uchchaihshravas
+    role: the steed that rises
+  - entity: kaustubha
+    role: the best of gems
+  - entity: chandra
+    role: Soma, the Moon god
+  - entity: lakshmi
+    role: rises on a lotus and clings to Vishnu
+  - entity: kalakuta
+    role: the poison
+  - entity: indra
+    role: regains rule of the three worlds after the war
+places:
+  - kshira-sagara
+  - mandara
+narrative_order:
+  text: valmiki-ramayana
+  position: 45
+variant: valmiki-ramayana-account
+traditions:
+  - itihasa
+summary_beginner: In the Ramayana, the sage Vishvamitra tells Rama that the sons of Diti and the sons of Aditi, all sons of Kashyapa, agreed to churn the milky sea for deathlessness. A deadly poison rose and Shiva drank it; Vishnu became a tortoise to stop the mountain sinking. Dhanvantari, the Apsarases, Sura, the steed Uchchaihshravas, the Kaustubha gem, the Moon and Lakshmi rose in turn, followed by the amrita, over which the two families fought and Indra won back his kingdom.
+summary_scholar: "Griffith's Book 1 canto 45 (The Quest of the Amrit), told as Vishvamitra's story of the town of Vishala. The canto gives its own etymology: those who loved Sura are the Suras and those who refused her are the Asuras. It places the story before the end of the Krita age but does not say when in a cycle, and no cosmic position is recorded, since no cycle model in the data covers the Ramayana. The Ramayana names neither Airavata nor a female form of Vishnu. The 'position' in narrative_order is the canto number in Book 1."
+references:
+  - source: griffith-ramayana
+    locator: "1.45"

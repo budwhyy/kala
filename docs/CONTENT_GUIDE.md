@@ -330,3 +330,42 @@ conservative reading you adopted, then continue with what is certain.
 - [ ] Disagreements are stored as variants, and unresolved ones are in OPEN_QUESTIONS.md.
 - [ ] No cosmological place has coordinates; every terrestrial place has evidence and a modern location.
 - [ ] No myth has a historical date.
+
+## 13. Phase 2 record types
+
+**Ordered lists (avatars and similar).** Create one list variant per account (`kind: list`) and one
+relationship per member with `variant` and `position`:
+
+```yaml
+# collection: variants
+slug: example-avatar-list
+names:
+  - text: Example avatar list
+    lang: en
+    script: Latn
+kind: list
+tradition: vaishnava
+description: One text's list of avatars, in its order.
+references:
+  - source: wilson-vishnu-purana
+    locator: "<book>.<chapter>"
+```
+
+Use `avatar_of`, `manifestation_of`, `aspect_of` and `identified_with` as the source does; they are not
+interchangeable (see DATA_MODEL §9). The Buddha of the Puranic avatar lists is a separate record from the
+historical Buddha: never merge them.
+
+**Pilgrimage networks.** A network record lists the list variants that define it; each Place names the
+network and the list it belongs to in `pilgrimage_networks`. If the authoritative text for a list is
+not available in public-domain English, do not state the list as fact: record only the sites whose
+own entries you have read, and say so in the network summary and in OPEN_QUESTIONS.md.
+
+**Concepts.** One `interpretation` per school, each in your own words with its own references. Do not
+merge schools: if they disagree, the disagreement is the content.
+
+**Journeys.** Steps are short, plain-English and sourced; they may link to records but never carry
+claims of their own without a reference.
+
+**Hindi.** Interface text lives in `apps/web/messages/{en,hi}/*.json` (a test checks both files have the
+same keys). Content stays English; add a `lang: hi` name or a Sanskrit Devanagari name to show a record
+in Devanagari on the Hindi site.

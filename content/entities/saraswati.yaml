@@ -1,0 +1,32 @@
+slug: saraswati
+names:
+  - text: Saraswati
+    lang: en
+    script: Latn
+  - text: सरस्वती
+    lang: sa
+    script: Deva
+    iast: Sarasvatī
+kinds: [deity]
+traditions: [puranic, shakta, vaishnava]
+summary_beginner: >-
+  The goddess of speech, learning and the Vedas. Several Goddess texts treat her as one of the great forms of the Devi:
+  in the Devi Bhagavata she is the rajasic (active) Shakti and, as Mahasaraswati, is given to Brahma; in the Devi Mahatmya
+  and the Mahabharata's hymns to Durga, Saraswati is one of the names of the Goddess. In the Santi Parva Narayana
+  shows the goddess Saraswati, the mother of the Vedas, as dwelling in him.
+references:
+  - source: vijnanananda-devi-bhagavata
+    locator: "1.2"
+    note: "Sarasvati is the rajasic Shakti of the Devi."
+  - source: vijnanananda-devi-bhagavata
+    locator: "9.1"
+    note: "Sarasvati is the fourth of five forms of the highest Prakriti."
+  - source: pargiter-markandeya-purana
+    locator: "91"
+    note: "Among the names in the gods' hymn to Narayani."
+  - source: ganguli-mahabharata
+    locator: "6.23"
+    note: "One of the forms Durga is described as in Arjuna's hymn."
+  - source: ganguli-mahabharata
+    locator: "12.340"
+    note: "Narayana shows the goddess Saraswati, the mother of the Vedas, dwelling in him."

@@ -1,0 +1,29 @@
+slug: bali
+names:
+  - text: Bali
+    lang: en
+    script: Latn
+  - text: बलि
+    lang: sa
+    script: Deva
+    iast: Bali
+epithets:
+  - text: Vali
+    lang: en
+    script: Latn
+kinds:
+  - daitya
+  - asura
+  - king
+traditions:
+  - itihasa
+  - puranic
+summary_beginner: A Daitya king, grandson of Prahlada and son of Virochana. In the Vishnu Purana he has a hundred sons, the eldest being Bana, and Vishnu's favour leaves him ruling part of Patala; he is named as the future Indra of the eighth Manvantara.
+summary_scholar: MBh 1.65 and VP 1.21 agree on the descent Prahlada, Virochana, Bali, Bana. VP 3.2 says Bali will be Indra in the eighth Manvantara and, by Vishnu's favour, is already sovereign of part of Patala. The story of Vamana's three strides is not told in the Vishnu Purana itself; Wilson's note to VP 3.1 reports that other Puranas such as the Bhagavata tell it, and KĀLA records that episode under Vamana.
+references:
+  - source: ganguli-mahabharata
+    locator: "1.65"
+  - source: wilson-vishnu-purana
+    locator: "1.21"
+  - source: wilson-vishnu-purana
+    locator: "3.2"

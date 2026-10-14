@@ -1,0 +1,69 @@
+slug: samudra-manthana-mahabharata
+same_story_as:
+  - samudra-manthana-vishnu-purana
+  - samudra-manthana-ramayana
+names:
+  - text: Samudra manthana (Churning of the Ocean), Mahabharata account
+    lang: en
+    script: Latn
+  - text: समुद्रमन्थन
+    lang: sa
+    script: Deva
+    iast: Samudramanthana
+participants:
+  - entity: vishnu
+    role: Narayana, who urges the churning, restores the gods' strength and takes a female form to beguile the asuras
+  - entity: brahma
+    role: consulted by Narayana and the gods; asks Shiva to swallow the poison
+  - entity: indra
+    role: sets Mandara on the tortoise's back, quenches the forest fire, takes Airavata
+  - entity: shesha
+    role: Ananta, who uproots Mount Mandara and works the serpent's hood
+  - entity: vasuki
+    role: the serpent used as the churning cord
+  - entity: daityas
+    role: with the Danavas, hold Vasuki by the head and later fight the gods
+  - entity: danavas
+    role: hold the serpent's head side and place the amrita in the hands of the enchantress
+  - entity: shiva
+    role: swallows the poison Kalakuta and becomes Nilakantha
+  - entity: mohini
+    role: the enticing female form Narayana takes
+  - entity: lakshmi
+    role: rises from the ocean in white
+  - entity: chandra
+    role: the Moon, first to rise
+  - entity: uchchaihshravas
+    role: the white steed that rises from the ocean
+  - entity: dhanvantari
+    role: rises with the vessel of amrita
+  - entity: airavata
+    role: the elephant that rises and is taken by Indra
+  - entity: kaustubha
+    role: the gem that adorns Narayana's breast
+  - entity: kalakuta
+    role: the poison that threatens the three worlds
+  - entity: rahu
+    role: a Danava who drinks amrita disguised as a god and is beheaded
+  - entity: surya
+    role: with Soma, reveals Rahu to the gods
+places:
+  - meru
+  - mandara
+narrative_order:
+  text: mahabharata
+  position: 18
+variant: mahabharata-adi-parva
+traditions:
+  - itihasa
+summary_beginner: In the Mahabharata, the gods meet on Mount Meru wanting amrita, the drink of immortality. Narayana tells them to churn the ocean together with the asuras. Mount Mandara is the churning staff and the serpent Vasuki the rope. Many wonders rise, among them the Moon, Lakshmi, the horse Uchchaihshravas, Dhanvantari with the amrita and the elephant Airavata, and then a poison that Shiva swallows. Narayana, in a female form, takes the amrita from the asuras for the gods.
+summary_scholar: "Told by Sauti in the Astika Parva: 1.17 sets the scene on Meru and records Narayana's instruction; 1.18 gives the churning itself and the list of products; 1.19 gives the beguiling of the Danavas, Rahu's beheading and the battle that sends the Danavas into the earth and sea; 1.20 recalls the steed in the wager of Kadru and Vinata. The account differs from the Vishnu Purana and the Ramayana: it has no curse of Durvasas, the tortoise is a tortoise-king not explicitly named as Vishnu, Shiva swallows the poison at Brahma's request after Dhanvantari and Airavata have risen, and the order of products differs (see the three list variants). Wilson's note to VP 1.9 treats the Mahabharata and Ramayana tellings as the oldest. No text places the event within a yuga or manvantara, so no cosmic time is recorded. The 'position' in narrative_order is the Adi Parva section number."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.17"
+  - source: ganguli-mahabharata
+    locator: "1.18"
+  - source: ganguli-mahabharata
+    locator: "1.19"
+  - source: ganguli-mahabharata
+    locator: "1.20"

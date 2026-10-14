@@ -1,0 +1,16 @@
+slug: gods-churning-list-mahabharata
+names:
+  - text: Products of the churning (Mahabharata order)
+    lang: en
+    script: Latn
+kind: list
+tradition: itihasa
+text: mahabharata
+description: "The order in which things rise from the ocean in Ganguli's Adi Parva 1.18: the Moon, Lakshmi, a second 'Soma', the white steed, the Kaustubha gem, Dhanvantari with the amrita, the elephant Airavata and finally the poison Kalakuta. Positions follow the text's own sequence, so a gap marks an item that has no record (position 3, Ganguli's second 'Soma')."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.18"
+  - source: ganguli-mahabharata
+    locator: "1.17"
+  - source: ganguli-mahabharata
+    locator: "1.20"

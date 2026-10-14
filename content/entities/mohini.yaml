@@ -1,0 +1,28 @@
+slug: mohini
+names:
+  - text: Mohini
+    lang: en
+    script: Latn
+  - text: मोहिनी
+    lang: sa
+    script: Deva
+    iast: Mohinī
+epithets:
+  - text: The Enchantress
+    lang: en
+    script: Latn
+kinds: [deity]
+traditions: [vaishnava, puranic]
+summary_beginner: >-
+  The female form that Vishnu takes at the churning of the ocean. When the Daityas seize the cup of immortal nectar
+  (amrita), Vishnu in a female form so beguiles them that the nectar is recovered for the gods.
+summary_scholar: >-
+  The Vishnu Purana says only that Vishnu, assuming a female form, deluded the Daityas and recovered the amrita; it does
+  not give the form a name. The Bhagavata list (1.3) names the form Mohini and numbers it thirteenth, after Dhanvantari.
+references:
+  - source: wilson-vishnu-purana
+    locator: "1.9"
+    note: "Vishnu, assuming a female form, deludes the Daityas and recovers the amrita; the form is not named here."
+  - source: dutt-bhagavata-purana
+    locator: "1.3"
+    note: "Thirteenth form, Mohini, in the female incarnation."

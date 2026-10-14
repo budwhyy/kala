@@ -1,0 +1,59 @@
+slug: puri
+names:
+  - text: "Puri"
+    lang: en
+    script: Latn
+  - text: "Jagannath Puri"
+    lang: en
+    script: Latn
+  - text: "जगन्नाथ पुरी"
+    lang: hi
+    script: Deva
+realm: terrestrial
+kind: tirtha
+confidence: traditional
+geometry:
+  type: Point
+  coordinates:
+    - 85.83
+    - 19.81
+modern_admin:
+  country: "India"
+  region: "Odisha"
+  district: "Puri"
+evidence:
+  - type: historical
+    summary: "The Imperial Gazetteer's article on Puri Town describes it as celebrated for the great temple of Jagannath, to which many thousands of pilgrims come at the two chief festivals; it notes the dragging of the cars and the sanitary difficulties of the crowds, and calls the shrine of Jagannath a pilgrimage place known in every hamlet in India."
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "20:408-412"
+  - type: traditional
+    summary: "Wilson lists Jagannath in Orissa among the Vaishnava temples famous as pilgrimage places, and the Gazetteer's Dwarka article records the math founded at Jagannath in the east by Sankaracharya."
+    references:
+      - source: wilson-religious-sects-1861
+        locator: "39"
+      - source: imperial-gazetteer-1909
+        locator: "11:387"
+traditions:
+  - vaishnava
+  - hindu
+summary_beginner: "A coastal town in Odisha built around the temple of Jagannath, 'Lord of the World', a form of Vishnu-Krishna worshipped with his brother Balabhadra and sister Subhadra. Its Rath Yatra, in which the deities are drawn out on great chariots, is among the best known festivals in India."
+summary_scholar: "This record rests on the Gazetteer's description of the town and its pilgrimage. It does not state when the first temple was built."
+references:
+  - source: imperial-gazetteer-1909
+    locator: "20:408-412"
+  - source: wilson-religious-sects-1861
+    locator: "39"
+pilgrimage_networks:
+  - network: char-dham
+    variant: pilgrimage-char-dham-four-dhams
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "20:408-412"
+        note: "Temple of Jagannath"
+  - network: char-dham
+    variant: pilgrimage-four-maths-gazetteer
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "11:387"
+        note: "Jagannath listed as the eastern math"

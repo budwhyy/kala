@@ -1,0 +1,18 @@
+slug: sanjna
+names:
+  - text: Sanjna
+    lang: en
+    script: Latn
+  - text: संज्ञा
+    lang: sa
+    script: Deva
+    iast: Saṃjñā
+kinds:
+  - deity
+traditions:
+  - puranic
+summary_beginner: In the Vishnu Purana, a daughter of Vishvakarma and wife of the Sun. She bears Vaivasvata Manu, Yama and the river goddess Yami, withdraws to the forest to practise austerities, and later bears the two Ashvins in the form of a mare.
+summary_scholar: VP 3.2 also tells how she leaves her shadow Chhaya in her place. The Mahabharata (1.66) tells the Ashvins' birth differently, with a mare-formed Tvashtri as mother and Savitri as father.
+references:
+  - source: wilson-vishnu-purana
+    locator: "3.2"

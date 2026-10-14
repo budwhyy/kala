@@ -1,0 +1,72 @@
+slug: haridwar
+names:
+  - text: "Haridwar"
+    lang: en
+    script: Latn
+  - text: "Hardwar"
+    lang: en
+    script: Latn
+  - text: "हरिद्वार"
+    lang: sa
+    script: Deva
+    iast: "Haridvāra"
+  - text: "हरिद्वार"
+    lang: hi
+    script: Deva
+  - text: "गङ्गाद्वार"
+    lang: sa
+    script: Deva
+    iast: "Gaṅgādvāra"
+  - text: "मायापुरी"
+    lang: sa
+    script: Deva
+    iast: "Māyāpurī"
+realm: terrestrial
+kind: tirtha
+confidence: traditional
+geometry:
+  type: Point
+  coordinates:
+    - 78.16
+    - 29.95
+modern_admin:
+  country: "India"
+  region: "Uttarakhand"
+  district: "Haridwar"
+evidence:
+  - type: historical
+    summary: "The Imperial Gazetteer describes Hardwar as an ancient town and place of pilgrimage on the right bank of the Ganges where the river leaves the hills, with the pilgrim road to the Kumaun shrines passing through it. It reports that the Chinese pilgrim Hiuen Tsiang mentions a Brahmanical temple north of Mo-yu-lo that the Hindus called the gate of the Ganges, a name (Gangadwara) later used by Muslim historians, and that Abul Fazl refers to Maya, known as Haridwara."
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "13:51-52"
+  - type: textual
+    summary: "Dutt's Garuda Purana (chapter 81) praises bathing at Ganga-Dvara and Kankhala; Kankhal is a suburb of Haridwar. The Devi Bhagavata gives the Devi's name at Gangadvara as Ratipriya (7.30)."
+    references:
+      - source: dutt-garuda-purana
+        locator: "81"
+        note: "p. 212"
+      - source: vijnanananda-devi-bhagavata
+        locator: "7.30"
+traditions:
+  - hindu
+summary_beginner: "A city where the Ganga emerges from the Himalayan foothills onto the plains, a major bathing place and the starting point for pilgrimages into the mountains. It is one of the seven sacred cities and the place where the large Kumbh gatherings are held."
+summary_scholar: "Equating Maya (Mayapuri) and Gangadvara with Haridwar rests on the Gazetteer's observations and on tradition. The name's meaning is disputed: Shaivas derive it from Hara, Vaishnavas from Hari, as the Gazetteer notes."
+references:
+  - source: imperial-gazetteer-1909
+    locator: "13:51-52"
+pilgrimage_networks:
+  - network: sapta-puri
+    variant: pilgrimage-sapta-puri-sacred-cities-gazetteer
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "13:51-52"
+        note: "Ancient town and place of pilgrimage; Abul Fazl's Maya, known as Haridwara"
+      - source: dutt-garuda-purana
+        locator: "81"
+        note: "Mayapuri, p. 210; the identification of Mayapuri with Haridwar is traditional"
+  - network: shakti-peethas
+    variant: pilgrimage-shakti-devi-bhagavata-108
+    references:
+      - source: vijnanananda-devi-bhagavata
+        locator: "7.30"
+        note: "Ratipriya at Gangadvara (Haridwar by traditional identification)"

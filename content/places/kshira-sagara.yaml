@@ -1,0 +1,32 @@
+slug: kshira-sagara
+names:
+  - text: Kshira Sagara (Ocean of Milk)
+    lang: en
+    script: Latn
+  - text: क्षीरसागर
+    lang: sa
+    script: Deva
+    iast: Kṣīrasāgara
+realm: cosmological
+kind: other
+confidence: mythical
+entities:
+  - to: vishnu
+    note: The gods go to its northern shore to pray to Vishnu for help, both before the churning and in the war with the Daityas.
+    references:
+      - source: wilson-vishnu-purana
+        locator: "1.9"
+      - source: wilson-vishnu-purana
+        locator: "3.17"
+traditions:
+  - puranic
+  - itihasa
+summary_beginner: The sea of milk of the Puranas, the ocean the gods and asuras churn in the Vishnu Purana and the Ramayana. It is a sea of the stories, not a place on Earth.
+summary_scholar: Wilson's translation renders it as the sea of milk (1.9, 3.17) and Griffith as the milky sea (1.45; his note describes it as one of the seven seas, each surrounding a world). The Mahabharata's account speaks only of the Ocean.
+references:
+  - source: wilson-vishnu-purana
+    locator: "1.9"
+  - source: wilson-vishnu-purana
+    locator: "3.17"
+  - source: griffith-ramayana
+    locator: "1.45"

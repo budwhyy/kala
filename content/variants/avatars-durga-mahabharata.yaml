@@ -1,0 +1,14 @@
+slug: avatars-durga-mahabharata
+names:
+  - text: "Durga in the Mahabharata hymns"
+    lang: en
+    script: Latn
+kind: account
+tradition: shakta
+text: mahabharata
+description: "The two hymns to Durga in the Mahabharata, one by Yudhishthira in the Virata Parva and one by Arjuna before the battle in the Bhishma Parva, which address one goddess by many names."
+references:
+  - source: ganguli-mahabharata
+    locator: "4.6"
+  - source: ganguli-mahabharata
+    locator: "6.23"

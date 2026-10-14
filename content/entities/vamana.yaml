@@ -1,0 +1,38 @@
+slug: vamana
+names:
+  - text: Vamana
+    lang: en
+    script: Latn
+  - text: वामन
+    lang: sa
+    script: Deva
+    iast: Vāmana
+epithets:
+  - text: The Dwarf
+    lang: en
+    script: Latn
+kinds: [deity]
+traditions: [vaishnava, puranic, itihasa]
+summary_beginner: >-
+  The dwarf form in which Vishnu is born to Kashyapa and Aditi to win back the three worlds for the gods. In the sources
+  he takes the worlds from the mighty king Bali in three strides and gives them to Indra.
+summary_scholar: >-
+  The Vishnu Purana counts the dwarf as the form Vishnu takes in the present manvantara, as the son of Kashyapa by
+  Aditi (3.1), and Wilson's note says fuller accounts are in the Bhagavata, Kurma, Matsya and Vamana Puranas. In the
+  Santi Parva, Narayana says he will take birth in Aditi's womb as the twelfth Aditya after Bali, son of Virochana, has
+  taken the sovereignty of the three worlds from Indra. The Harivamsha has a short account of the three footsteps at
+  Bali's sacrifice.
+references:
+  - source: wilson-vishnu-purana
+    locator: "3.1"
+    note: "In the present manvantara Vishnu is born as Vamana, son of Kashyapa by Aditi, and with three paces wins the worlds for Purandara (Indra)."
+  - source: dutt-harivamsha
+    locator: "41"
+    note: "Short account of the dwarf form and the three strides at Bali's sacrifice."
+  - source: ganguli-mahabharata
+    locator: "12.340"
+    note: "Vishnu says he will be born as the twelfth Aditya and put Bali in the nether regions."
+  - source: dutt-bhagavata-purana
+    locator: "2.7"
+  - source: dutt-bhagavata-purana
+    locator: "1.3"

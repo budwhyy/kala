@@ -1,0 +1,538 @@
+{
+  "meta": {
+    "description": "An atlas of Indian mythology, cosmology, genealogy and sacred geography.",
+    "title": {
+      "cosmic": "Cosmic time · KĀLA",
+      "genealogy": "Genealogy · KĀLA",
+      "geography": "Geography · KĀLA",
+      "search": "Search · KĀLA"
+    }
+  },
+  "a11y": {
+    "skipToContent": "Skip to content"
+  },
+  "nav": {
+    "modes": "Exploration modes",
+    "cosmic": "Cosmic time",
+    "genealogy": "Genealogy",
+    "geography": "Geography",
+    "search": "Search"
+  },
+  "header": {
+    "searchLabel": "Search KĀLA",
+    "searchPlaceholder": "Search: Kashyapa, कश्यप, Gandhara…"
+  },
+  "lang": {
+    "label": "Language"
+  },
+  "notice": {
+    "contentEnglish": "Descriptions, explanations and source passages are currently shown in English. Names appear in Devanagari where available."
+  },
+  "search": {
+    "title": "Search",
+    "intro": "English, Hindi (Devanagari) or IAST — diacritics optional.",
+    "label": "Search",
+    "placeholder": "Kashyapa, कश्यप, Kaśyapa, Gandhara…",
+    "results": "{count, plural, one {# result} other {# results}} for “{query}”"
+  },
+  "selected": {
+    "heading": "Currently exploring"
+  },
+  "types": {
+    "entities": "Figure",
+    "places": "Place",
+    "kingdoms": "Kingdom",
+    "dynasties": "Dynasty",
+    "texts": "Text",
+    "traditions": "Tradition",
+    "variants": "Account",
+    "events": "Event",
+    "concepts": "Concept",
+    "networks": "Pilgrimage network",
+    "journeys": "Journey"
+  },
+  "common": {
+    "scholarly": "Scholarly detail",
+    "noneRecorded": "None recorded.",
+    "openCard": "Open full card →"
+  },
+  "view": {
+    "label": "View",
+    "threeD": "3D view",
+    "list": "List view",
+    "noWebgl": "3D needs WebGL, which this browser does not provide"
+  },
+  "time": {
+    "title": "Time",
+    "cosmicHeading": "Traditional (cosmic) chronology",
+    "cosmicNote": "Positions inside a tradition’s cycle of ages. Not years.",
+    "historicalHeading": "Historical dating",
+    "historicalNote": "Academic dates from evidence. A different system: not comparable.",
+    "historicalDetail": "({precision}, {confidence} confidence)",
+    "bce": "{year} BCE",
+    "ce": "{year} CE",
+    "kalpa": "kalpa: {name}",
+    "manvantara": "manvantara {n}",
+    "mahayuga": "mahayuga {n}"
+  },
+  "relations": {
+    "parent": {
+      "out": "Children",
+      "in": "Parents"
+    },
+    "partner": {
+      "out": "Partners",
+      "in": "Partners"
+    },
+    "sibling": {
+      "out": "Siblings",
+      "in": "Siblings"
+    },
+    "teacher": {
+      "out": "Students",
+      "in": "Teachers"
+    },
+    "ally": {
+      "out": "Allies",
+      "in": "Allies"
+    },
+    "enemy": {
+      "out": "Enemies",
+      "in": "Enemies"
+    },
+    "curse": {
+      "out": "Cursed",
+      "in": "Cursed by"
+    },
+    "blessing": {
+      "out": "Blessed",
+      "in": "Blessed by"
+    },
+    "avatar_of": {
+      "out": "Avatar of",
+      "in": "Avatars"
+    },
+    "manifestation_of": {
+      "out": "Manifestation of",
+      "in": "Manifestations"
+    },
+    "aspect_of": {
+      "out": "Aspect of",
+      "in": "Aspects"
+    },
+    "identified_with": {
+      "out": "Identified with",
+      "in": "Identified with"
+    },
+    "vahana_of": {
+      "out": "Mount (vahana) of",
+      "in": "Mount (vahana)"
+    },
+    "descendant_of": {
+      "out": "Descends from",
+      "in": "Descendants"
+    },
+    "member_of": {
+      "out": "Member of",
+      "in": "Members"
+    }
+  },
+  "verbs": {
+    "parent": "<from></from> <m>parent of</m> <to></to>",
+    "partner": "<from></from> <m>partner of</m> <to></to>",
+    "sibling": "<from></from> <m>sibling of</m> <to></to>",
+    "teacher": "<from></from> <m>teacher of</m> <to></to>",
+    "ally": "<from></from> <m>ally of</m> <to></to>",
+    "enemy": "<from></from> <m>enemy of</m> <to></to>",
+    "curse": "<from></from> <m>cursed</m> <to></to>",
+    "blessing": "<from></from> <m>blessed</m> <to></to>",
+    "avatar_of": "<from></from> <m>avatar of</m> <to></to>",
+    "manifestation_of": "<from></from> <m>manifestation of</m> <to></to>",
+    "aspect_of": "<from></from> <m>aspect of</m> <to></to>",
+    "identified_with": "<from></from> <m>identified with</m> <to></to>",
+    "vahana_of": "<from></from> <m>mount of</m> <to></to>",
+    "descendant_of": "<from></from> <m>descendant of</m> <to></to>",
+    "member_of": "<from></from> <m>member of</m> <to></to>"
+  },
+  "confidence": {
+    "verified": {
+      "label": "Historically verified",
+      "explain": "Supported by archaeological or historical evidence. This does not verify the stories set here."
+    },
+    "traditional": {
+      "label": "Traditionally identified",
+      "explain": "Located here by living tradition; not independently verified."
+    },
+    "debated": {
+      "label": "Debated",
+      "explain": "Scholars and traditions propose different locations."
+    },
+    "mythical": {
+      "label": "Cosmological",
+      "explain": "A realm of the cosmos, not a place on Earth. It has no map position."
+    }
+  },
+  "licence": {
+    "public_domain": {
+      "label": "Public domain",
+      "explain": "May be quoted with a citation."
+    },
+    "open_licence": {
+      "label": "Open licence",
+      "explain": "May be quoted under its licence."
+    },
+    "cited_only": {
+      "label": "Cited only",
+      "explain": "Still in copyright somewhere. KĀLA cites it by page but never reproduces it."
+    }
+  },
+  "enums": {
+    "kind": {
+      "deity": "Deity",
+      "deva": "Deva",
+      "asura": "Asura",
+      "daitya": "Daitya",
+      "danava": "Danava",
+      "naga": "Naga",
+      "suparna": "Suparna",
+      "rishi": "Rishi",
+      "prajapati": "Prajapati",
+      "manu": "Manu",
+      "human": "Human",
+      "king": "King",
+      "gandharva": "Gandharva",
+      "apsara": "Apsara",
+      "yaksha": "Yaksha",
+      "rakshasa": "Rakshasa",
+      "vanara": "Vanara",
+      "principle": "Principle",
+      "other": "Other"
+    },
+    "placeKind": {
+      "city": "City",
+      "region": "Region",
+      "mountain": "Mountain",
+      "river": "River",
+      "forest": "Forest",
+      "tirtha": "Tirtha",
+      "site": "Site",
+      "island": "Island",
+      "realm": "Realm",
+      "other": "Other"
+    },
+    "mode": {
+      "biological": "biological",
+      "mind_born": "mind-born",
+      "divine": "divine birth",
+      "legal": "legal",
+      "adoptive": "adoptive",
+      "foster": "foster",
+      "other": "other"
+    },
+    "genre": {
+      "veda": "Veda",
+      "brahmana": "Brahmana",
+      "aranyaka": "Aranyaka",
+      "upanishad": "Upanishad",
+      "itihasa": "Itihasa",
+      "purana": "Purana",
+      "agama": "Agama",
+      "tantra": "Tantra",
+      "sutra": "Sutra",
+      "darshana": "Darshana",
+      "kavya": "Kavya",
+      "buddhist_canon": "Buddhist canon",
+      "jain_canon": "Jain canon",
+      "other": "Other"
+    },
+    "sourceKind": {
+      "translation": "Translation",
+      "original_edition": "Original edition",
+      "critical_edition": "Critical edition",
+      "secondary_scholarship": "Secondary scholarship",
+      "reference_work": "Reference work"
+    },
+    "variantKind": {
+      "account": "Account",
+      "genealogy": "Genealogy",
+      "list": "List",
+      "creation_pathway": "Creation pathway",
+      "cosmic_model": "Cosmic model"
+    },
+    "family": {
+      "vedic": "Vedic",
+      "hindu": "Hindu",
+      "buddhist": "Buddhist",
+      "jain": "Jain",
+      "indigenous": "Indigenous",
+      "cross_cultural": "Cross-cultural"
+    },
+    "kingdomKind": {
+      "epic_legendary": "Kingdom of the epics and Puranas",
+      "historical_mahajanapada": "Historical state (mahajanapada)",
+      "historical_empire": "Historical empire",
+      "historical_regional": "Historical regional kingdom"
+    },
+    "kingdomKindShort": {
+      "epic_legendary": "Epic / legendary",
+      "historical": "Historical"
+    },
+    "lineage": {
+      "suryavansha": "Suryavansha (solar line)",
+      "chandravansha": "Chandravansha (lunar line)",
+      "yadava": "Yadava",
+      "kuru": "Kuru",
+      "other": "Other"
+    },
+    "evidence": {
+      "archaeological": "Archaeological",
+      "historical": "Historical",
+      "textual": "Textual",
+      "traditional": "Traditional"
+    },
+    "placeRelation": {
+      "cosmological_counterpart": "cosmological counterpart",
+      "part_of": "part of",
+      "identified_with": "identified with",
+      "near": "near"
+    },
+    "kingdomRelation": {
+      "war": "War",
+      "alliance": "Alliance",
+      "marriage": "Marriage",
+      "trade": "Trade",
+      "succession": "Succession",
+      "vassalage": "Vassalage"
+    },
+    "networkKind": {
+      "char_dham": "Char Dham",
+      "jyotirlinga": "Jyotirlinga",
+      "shakti_peetha": "Shakti Peetha",
+      "sacred_cities": "Sacred cities",
+      "river_tirtha": "River tirthas",
+      "himalayan": "Himalayan",
+      "buddhist": "Buddhist circuit",
+      "jain": "Jain circuit",
+      "other": "Pilgrimage network"
+    },
+    "phase": {
+      "before_creation": "before creation",
+      "creation": "creation",
+      "pralaya": "pralaya"
+    },
+    "precision": {
+      "year": "year",
+      "decade": "decade",
+      "century": "century",
+      "period": "period"
+    },
+    "timeConfidence": {
+      "high": "high",
+      "medium": "medium",
+      "low": "low"
+    },
+    "yuga": {
+      "satya": "Satya Yuga",
+      "treta": "Treta Yuga",
+      "dvapara": "Dvapara Yuga",
+      "kali": "Kali Yuga"
+    },
+    "yugaShort": {
+      "satya": "Satya",
+      "treta": "Treta",
+      "dvapara": "Dvapara",
+      "kali": "Kali"
+    },
+    "group": {
+      "deity": "Deities and devas",
+      "asura": "Asuras",
+      "creature": "Serpents, birds and other beings",
+      "sage": "Sages and progenitors",
+      "human": "Manus and kings",
+      "principle": "Cosmic principles"
+    }
+  },
+  "variantTag": {
+    "title": "This claim belongs to one account; other accounts may differ."
+  },
+  "variantPanel": {
+    "aria": "Accounts",
+    "heading": "Different texts, different accounts",
+    "body": "Some of the connections below come from one particular account. Other texts may tell it differently.",
+    "shared": "{count, plural, one {# connection is} other {# connections are}} shared across the sources KĀLA holds."
+  },
+  "entity": {
+    "alsoCalled": "Also called: {names}",
+    "dynasties": "Dynasties",
+    "places": "Places"
+  },
+  "place": {
+    "modernLocation": "Modern location (for orientation only)",
+    "coordinates": "{lat}° N, {lon}° E",
+    "modernBorders": "Modern borders are shown for orientation. They do not mean the ancient place belonged to a modern country.",
+    "evidence": "Evidence",
+    "proposed": "Proposed identifications",
+    "kingdoms": "Kingdoms",
+    "related": "Related places",
+    "linkedFrom": "Linked from",
+    "figures": "Figures associated with this place"
+  },
+  "kingdom": {
+    "sameNameHeading": "Same name, separate record",
+    "sameNameLegendary": "A historical state of the same name is documented separately. Sharing a name does not make the epic account historical.",
+    "sameNameHistorical": "The epics and Puranas describe a kingdom of the same name. That account is kept separately and is not confirmed by this historical record.",
+    "capitals": "Capitals",
+    "placesIn": "Places in this kingdom",
+    "dynasties": "Dynasties",
+    "rulers": "Rulers",
+    "attested": "historically attested",
+    "legendary": "legendary",
+    "relations": "Relations with other kingdoms"
+  },
+  "dynasty": {
+    "legendary": "Legendary dynasty",
+    "historical": "Historical dynasty",
+    "founders": "Founders",
+    "members": "Members",
+    "kingdoms": "Kingdoms"
+  },
+  "text": {
+    "editions": "Editions KĀLA cites",
+    "accounts": "Accounts drawn from this text",
+    "structure": "Structure"
+  },
+  "source": {
+    "licenceCheck": "Licence check",
+    "editionOf": "Edition of",
+    "readOnline": "Read online"
+  },
+  "variant": {
+    "text": "Text",
+    "oneAccountHeading": "One account among several",
+    "oneAccountBody": "This is how one text or tradition describes the beginning. Others describe it differently; none is presented here as the single true account.",
+    "backToAccounts": "← Other accounts of the beginning",
+    "continueCosmic": "Continue: the cycles of time →",
+    "continueGenealogy": "Continue: the families of gods and sages →",
+    "connections": "Connections in this account"
+  },
+  "tradition": {
+    "within": "within {name}",
+    "traditionsWithin": "Traditions within",
+    "texts": "Texts",
+    "figures": "Figures"
+  },
+  "event": {
+    "badge": "Event in the stories",
+    "participants": "Who takes part",
+    "where": "Where it is set",
+    "whereNote": "A place being real does not make the event historical.",
+    "toldIn": "Told in",
+    "position": "(position {n} in the telling)"
+  },
+  "concept": {
+    "badge": "Concept",
+    "schools": "How different schools understand it",
+    "schoolsNote": "These traditions do not always agree. Each explanation is given on its own terms and sourced to its own texts.",
+    "related": "Related concepts"
+  },
+  "network": {
+    "seeOnMap": "See these places on the map →",
+    "moreThanOne": "More than one list",
+    "moreBody": "Texts and traditions give different lists for this network. Each list is shown on its own; none is presented as the only one.",
+    "places": "Places ({count})",
+    "variantList": "{name} ({count})"
+  },
+  "sources": {
+    "heading": "Sources"
+  },
+  "opening": {
+    "line1": "Before kingdoms.",
+    "line2": "Before heroes.",
+    "line3": "Before the stories of gods and mortals —",
+    "line4": "what was existence?",
+    "title": "KĀLA — an atlas of Indian mythology, cosmology, genealogy and sacred geography",
+    "skip": "Skip intro",
+    "soundOn": "Sound on",
+    "soundOff": "Sound off",
+    "pathwaysHeading": "Different texts answer differently",
+    "pathwaysIntro": "Hymns, philosophies and Puranas each give their own account of how things began. KĀLA keeps them side by side. Choose one to begin.",
+    "exploreAria": "Or explore directly",
+    "exploreLabel": "Or explore directly:"
+  },
+  "cosmic": {
+    "intro": "Many Hindu texts describe time as cycles of ages (yugas) nested inside larger cycles. Different texts give different figures, so each account is shown on its own.",
+    "notice": "Traditional chronology, not historical dating. These cycles cannot be placed on a calendar of years BCE/CE.",
+    "loading": "Loading the wheel…",
+    "accountTabs": "Account of the cycle",
+    "chooseYuga": "Choose a yuga",
+    "accordingTo": "According to the {account}",
+    "length": "Length",
+    "lengthValue": "{years} divine years",
+    "twilights": "Twilights",
+    "twilightsValue": "{dawn} at dawn, {dusk} at dusk (included)",
+    "share": "Share of a mahayuga",
+    "placedHeading": "Placed in this yuga",
+    "nonePlaced": "No figures or events are placed in this yuga in KĀLA’s content yet.",
+    "prompt": "Select a yuga on the wheel or with the buttons to see its length and what the texts place in it.",
+    "pralayaHeading": "Dissolution (pralaya) in the {account}",
+    "innerRing": "Inner ring",
+    "innerText": "one mahayuga = {years} divine years, split into four yugas.",
+    "middleRing": "Middle ring",
+    "middleText": "one manvantara (age of a Manu) = {count} mahayugas.",
+    "outerRing": "Outer ring",
+    "outerText": "one kalpa (day of Brahma) = {count} manvantaras.",
+    "outerUndivided": "this text does not state how many manvantaras make a kalpa, so the ring is left undivided.",
+    "outerStated": "The text gives {count} mahayugas for a day of Brahma.",
+    "tableCaption": "The four yugas of one mahayuga, in divine years",
+    "colYuga": "Yuga",
+    "colDivineYears": "Divine years",
+    "colTwilights": "Twilights (included)",
+    "colShare": "Share",
+    "manvantaras": "Manvantaras named in this text"
+  },
+  "genealogy": {
+    "intro": "Families of gods, sages, beings and kings, as the texts describe them. Every line is a connection a source makes. Where texts disagree, each account is kept and labelled.",
+    "loading": "Arranging the constellation…",
+    "accountsShown": "Accounts shown",
+    "accountsNote": "Claims that belong to one text can be hidden. Claims shared across the sources are always shown.",
+    "selected": "Selected",
+    "prompt": "Select a figure — click a star, use the list, or search — to see its card and trace its connections.",
+    "traceHeading": "Trace a connection",
+    "from": "From",
+    "to": "To",
+    "choose": "Choose a figure…",
+    "none": "No connection found in the accounts shown. KĀLA only links figures where a source makes the connection.",
+    "route": "Route {n}",
+    "legend": "Legend",
+    "family": "family",
+    "story": "story",
+    "spiritual": "spiritual",
+    "connections": "{count, plural, one {# connection} other {# connections}}"
+  },
+  "geography": {
+    "intro": "Sacred and ancient places, each marked with how confident the identification is. A place being real does not make the stories set there historical.",
+    "loading": "Loading the globe…",
+    "mapLabel": "Map of places",
+    "whichRecord": "Which record",
+    "lensAll": "All places",
+    "lensMythological": "In the epics & Puranas",
+    "lensHistorical": "In the historical record",
+    "hintMythological": "Places the texts connect to stories, figures or legendary kingdoms. Positions in story time, not dates.",
+    "hintHistorical": "Places with archaeological or historical evidence, or a historical state. Dated by evidence.",
+    "lensNote": "Story time and historical dates are different systems and are never placed on one timeline.",
+    "ancientView": "Ancient view",
+    "modernMap": "Modern map",
+    "modernOverlay": "Modern map overlay",
+    "modernNote": "Modern names and borders are shown for orientation only. They are never projected back onto ancient places.",
+    "selectedPlace": "Selected place",
+    "today": "Today: {place}",
+    "epicLegendary": "epic / legendary",
+    "historical": "historical",
+    "prompt": "Select a place on the globe or in the list.",
+    "notOnMap": "Not on the map",
+    "notOnMapBody": "Cosmological realms are part of the cosmos the texts describe, not places on Earth. They have no coordinates.",
+    "legend": "Legend",
+    "proposedLegend": "Proposed location of a debated place",
+    "kingdoms": "Kingdoms"
+  }
+}

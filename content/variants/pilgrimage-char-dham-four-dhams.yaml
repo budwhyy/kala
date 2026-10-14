@@ -1,0 +1,21 @@
+slug: pilgrimage-char-dham-four-dhams
+names:
+  - text: "The four dhams: Badrinath, Dwarka, Puri, Rameswaram"
+    lang: en
+    script: Latn
+kind: list
+tradition: hindu
+description: "The four pilgrimage centres commonly called the Char Dham (the 'four abodes') in India today: Badrinath in the Himalaya, Dwarka in the west, Puri in the east and Rameswaram in the south. KALA has not found a public-domain English text that enumerates this list, so it is recorded here as the usual present-day reckoning and nothing more: each shrine is entered on the strength of its own Imperial Gazetteer article, which describes it as a great pilgrimage centre, and the list is not attributed to any scripture. The Himalayan Chota Char Dham is a different list and has its own network."
+references:
+  - source: imperial-gazetteer-1909
+    locator: "6:179-180"
+    note: "Badrinath: shrine of Vishnu in Garhwal"
+  - source: imperial-gazetteer-1909
+    locator: "11:387"
+    note: "Dwarka: temple of Dwarkanath, one of the most holy places"
+  - source: imperial-gazetteer-1909
+    locator: "20:408-412"
+    note: "Puri: temple of Jagannath"
+  - source: imperial-gazetteer-1909
+    locator: "21:173-175"
+    note: "Rameswaram: temple visited by pilgrims from all India"

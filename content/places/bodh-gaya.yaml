@@ -1,0 +1,73 @@
+slug: bodh-gaya
+names:
+  - text: Bodh Gaya
+    lang: en
+    script: Latn
+  - text: बोधगया
+    lang: hi
+    script: Deva
+  - text: Mahabodhi
+    lang: en
+    script: Latn
+  - text: Buddh Gaya
+    lang: en
+    script: Latn
+realm: terrestrial
+kind: site
+confidence: verified
+geometry:
+  type: Point
+  coordinates:
+    - 85.0
+    - 24.7
+modern_admin:
+  country: India
+  region: Bihar
+  district: Gaya
+evidence:
+  - type: archaeological
+    summary: Excavation during the 1881 restoration of the Mahabodhi temple uncovered foundations
+      of an older building beneath the floor and a stone railing, part of it of the Asokan age in
+      Cunningham's judgement. The Gazetteer reports these findings and the Vajrasana (throne)
+      beside the Bodhi tree.
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "9:43"
+      - source: cunningham-mahabodhi
+        locator: vii
+  - type: historical
+    summary: Fa-hien describes the place of the Buddha's enlightenment near Gaya, and Xuanzang
+      describes the Bodhi tree, the vihara and the surrounding monuments in the seventh century.
+    references:
+      - source: legge-fa-hien
+        locator: "31"
+      - source: beal-si-yu-ki
+        locator: "2:122"
+traditions:
+  - buddhist
+pilgrimage_networks:
+  - network: buddhist-four-great-places
+    variant: buddhist-four-places-mahaparinibbana
+    references:
+      - source: rhys-davids-buddhist-suttas
+        locator: "5.18"
+        note: The second place is where the Tathagata attained supreme enlightenment.
+      - source: cunningham-mahabodhi
+        locator: vii
+  - network: buddhist-fa-hien-sacred-places
+    variant: buddhist-places-fa-hien-record
+    references:
+      - source: legge-fa-hien
+        locator: "31"
+summary_beginner: The village in Bihar, India, with the Bodhi tree and the Mahabodhi temple, where
+  Buddhist tradition says the Buddha attained enlightenment. It is one of the central pilgrimage
+  places of Buddhism.
+summary_scholar: The site of a temple and tree of worship is well attested historically and
+  archaeologically; the account of the Buddha's enlightenment is a traditional one that is not
+  verified here. The tree standing today is described by the Gazetteer as an offshoot of an older
+  one. Cunningham's absolute dates are his own estimates and are not adopted.
+references:
+  - source: imperial-gazetteer-1909
+    locator: "9:43"
+  - source: cunningham-mahabodhi
+    locator: "4"

@@ -1,0 +1,58 @@
+slug: samsara
+names:
+  - text: "Samsara"
+    lang: en
+    script: Latn
+  - text: "संसार"
+    lang: sa
+    script: Deva
+    iast: "Saṃsāra"
+summary_beginner: "Samsara is the cycle of repeated birth, death and rebirth that a soul passes through. The texts differ on what travels from body to body and on what finally ends the cycle. Buddhist and Jain traditions also use this term, with meanings of their own that this page does not cover."
+interpretations:
+  - tradition: vedanta
+    explanation: "The Brihadaranyaka Upanishad compares the self leaving a body to a caterpillar moving to the next blade of grass and to a goldsmith reshaping gold, taking a new form according to its knowledge and work. The Katha Upanishad says a person without understanding keeps returning to births, while one with understanding reaches the place from which there is no return."
+    references:
+      - source: muller-upanishads
+        locator: "Brihadaranyaka Upanishad 4.4.3-5 (SBE 15)"
+      - source: muller-upanishads
+        locator: "Katha Upanishad 1.3.7-9 (SBE 15)"
+  - tradition: itihasa
+    explanation: "Krishna compares the embodied self to a person changing worn-out clothes for new ones. He also says that all worlds, even that of Brahma, are subject to return, while those who reach him are not born again."
+    references:
+      - source: telang-bhagavadgita
+        locator: "2.22"
+      - source: telang-bhagavadgita
+        locator: "8.15-16"
+  - tradition: dharmashastra
+    explanation: "Manu distinguishes the inner self that drives action from the body that performs it, and names a further inner self generated with every embodied being through which pleasure and pain are felt in successive births. His commentators disagree on what exactly the verses mean by these terms."
+    references:
+      - source: buhler-manu
+        locator: "Manu 12.12-13"
+        note: "Bühler's notes record the competing readings of the medieval commentators."
+  - tradition: samkhya
+    explanation: "In the Samkhya Karika it is the subtle body, shaped by virtue and vice, that migrates upward or downward. Dispassion without knowledge leads only to absorption into nature and a fresh migration, and strictly it is nature, not the soul, that migrates."
+    references:
+      - source: colebrooke-sankhya-karika
+        locator: "karika 44-45"
+      - source: colebrooke-sankhya-karika
+        locator: "karika 62"
+  - tradition: yoga
+    explanation: "The Yoga Sutras link birth itself to karma: while the root of the hindrances survives, the stored deposit ripens as a new birth with its length of life and kinds of experience."
+    references:
+      - source: woods-yoga-system-patanjali
+        locator: "Yoga-sutra 2.12-13"
+  - tradition: advaita-vedanta
+    explanation: "Shankara speaks of a causal potentiality of nescience in which transmigrating souls lie as if in deep sleep, resting on the highest Lord. Because perfect knowledge destroys that potentiality, he says, released souls do not enter new courses of existence."
+    references:
+      - source: thibaut-vedanta-sutras-shankara
+        locator: "SBE 34, Vedanta-Sutras 1.4.3"
+  - tradition: vishishtadvaita
+    explanation: "Ramanuja treats souls as real and as part of Brahman's body; embodied souls, covered by nescience that takes the form of good and evil works, do not recognise their own nature and so continue in worldly existence."
+    references:
+      - source: thibaut-vedanta-sutras-ramanuja
+        locator: "SBE 48, Vedanta-Sutras 1.1.1 (pp. 88-89)"
+related:
+  - karma
+  - moksha
+  - atman
+  - avidya

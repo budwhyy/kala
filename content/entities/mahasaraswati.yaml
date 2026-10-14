@@ -1,0 +1,21 @@
+slug: mahasaraswati
+names:
+  - text: Mahasaraswati
+    lang: en
+    script: Latn
+  - text: महासरस्वती
+    lang: sa
+    script: Deva
+    iast: Mahāsarasvatī
+kinds: [deity]
+traditions: [shakta, puranic]
+summary_beginner: >-
+  "Great Sarasvati", the form of the Devi's power that the Devi Bhagavata says the Goddess gave to Brahma as his
+  companion. The Goddess calls her her own manifestation of power and tells Brahma to treat her with respect.
+references:
+  - source: vijnanananda-devi-bhagavata
+    locator: "3.6"
+    note: "The Devi gives Mahasarasvati, wearing white, to Brahma and calls her her own manifestation of power (bibhuti)."
+  - source: vijnanananda-devi-bhagavata
+    locator: "1.2"
+    note: "Sarasvati as the rajasic Shakti of the Devi."

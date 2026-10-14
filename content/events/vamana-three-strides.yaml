@@ -1,0 +1,46 @@
+slug: vamana-three-strides
+names:
+  - text: Vamana takes the three worlds in three strides
+    lang: en
+    script: Latn
+  - text: वामन के तीन पग
+    lang: sa
+    script: Deva
+    iast: Vāmanatrivikrama
+participants:
+  - entity: vamana
+    role: The dwarf form of Vishnu
+  - entity: bali
+    role: The Daitya king who held the three worlds
+  - entity: indra
+    role: The king of the gods, who receives the worlds back
+  - entity: kashyapa
+    role: Father of Vamana in the Vishnu Purana and the Mahabharata
+  - entity: aditi
+    role: Mother of Vamana in the Vishnu Purana and the Mahabharata
+cosmic_time:
+  variant: vishnu-purana-account
+  manvantara: 7
+  note: "The Vishnu Purana places this birth of Vishnu in the present (Vaivasvata, seventh) manvantara."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "3.1"
+traditions: [vaishnava, puranic]
+summary_beginner: >-
+  The Daitya king Bali has taken the three worlds from Indra. Vishnu is born as the dwarf Vamana to Kashyapa and Aditi,
+  asks Bali for three paces of land at his sacrifice, and then covers the worlds in three steps and gives them back to
+  Indra. In the Mahabharata, Narayana says he will then send Bali to the nether regions.
+summary_scholar: >-
+  The Vishnu Purana (3.1) mentions the event in one sentence within its list of Vishnu's births in each manvantara;
+  Wilson notes that the Bhagavata, Kurma, Matsya and Vamana Puranas tell it in full. The Harivamsha has a short
+  version with the sun and moon lying on his chest, navel and knees at the three steps, and the Bhagavata calls Vamana the
+  youngest of the twelve Adityas.
+references:
+  - source: wilson-vishnu-purana
+    locator: "3.1"
+  - source: dutt-harivamsha
+    locator: "41"
+  - source: ganguli-mahabharata
+    locator: "12.340"
+  - source: dutt-bhagavata-purana
+    locator: "2.7"

@@ -1,0 +1,16 @@
+slug: advaita-vedanta
+names:
+  - text: Advaita Vedanta
+    lang: en
+    script: Latn
+  - text: अद्वैतवेदान्त
+    lang: sa
+    script: Deva
+    iast: Advaitavedānta
+family: hindu
+parent: vedanta
+summary_beginner: The non-dualist school of Vedanta, associated with the commentator Shankara, which teaches that the individual Self and Brahman are not different.
+references:
+  - source: thibaut-vedanta-sutras-shankara
+    locator: SBE 34, Introduction
+    note: Thibaut's introduction summarises Shankara's system.

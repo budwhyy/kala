@@ -1,0 +1,47 @@
+slug: krishna
+names:
+  - text: Krishna
+    lang: en
+    script: Latn
+  - text: कृष्ण
+    lang: sa
+    script: Deva
+    iast: Kṛṣṇa
+epithets:
+  - text: Vasudeva
+    lang: en
+    script: Latn
+  - text: Govinda
+    lang: en
+    script: Latn
+kinds: [deity, human]
+traditions: [vaishnava, puranic, itihasa]
+summary_beginner: >-
+  The Yadava prince raised among cowherds who is central to the Mahabharata and to the fifth book of the Vishnu Purana.
+  Vaishnavas worship him as Vishnu born on earth to lighten Earth's burden. Texts describe the relation differently: the
+  Vishnu Purana speaks of a portion of Vishnu descending, while the Bhagavata Purana says the other forms are portions
+  but Krishna is the Lord himself.
+summary_scholar: >-
+  The Vishnu Purana (5.1) has Vishnu pluck a black hair and a white one and promise that his hair will be born in
+  Devaki's eighth conception. Wilson notes that the Mahabharata describes Krishna in inconsistent ways, sometimes as a
+  portion of Vishnu and sometimes as Vishnu or Narayana himself. In the Bhagavata list (1.3) he is the twentieth form,
+  with Rama (Balarama) the nineteenth, and the text adds that he is the Lord himself. The Santi Parva list and the
+  Harivamsha list both include him.
+references:
+  - source: wilson-vishnu-purana
+    locator: "5.1"
+    note: "Vishnu promises to be born in Devaki's eighth conception to relieve Earth's burden."
+  - source: wilson-vishnu-purana
+    locator: "5.3"
+    note: "The birth of Krishna."
+  - source: dutt-harivamsha
+    locator: "41"
+    note: "The Krishna incarnation in the Mathura kalpa, with the demons he slays."
+  - source: ganguli-mahabharata
+    locator: "12.340"
+    note: "'Krishna the scion of the Sattwata race'."
+  - source: dutt-bhagavata-purana
+    locator: "1.3"
+    note: "Twentieth form; 'Krishna is the Lord Himself.'"
+  - source: dutt-bhagavata-purana
+    locator: "2.7"

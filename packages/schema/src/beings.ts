@@ -183,6 +183,8 @@ export const Event = z.strictObject({
     })
     .optional(),
   variant: Slug.optional(),
+  /** Other events that are retellings of the same story in other accounts. */
+  same_story_as: z.array(Slug).default([]),
   traditions: z.array(Slug).default([]),
   summary_beginner: Summary,
   summary_scholar: Summary.optional(),
@@ -221,6 +223,7 @@ export const Concept = z.strictObject({
   slug: Slug,
   names: Names,
   summary_beginner: Summary,
+  summary_scholar: Summary.optional(),
   interpretations: z
     .array(
       z.strictObject({

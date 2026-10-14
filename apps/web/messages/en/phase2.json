@@ -1,0 +1,97 @@
+{
+  "nav2": {
+    "avatar": "Avatars",
+    "philosophy": "Philosophy",
+    "pilgrimage": "Pilgrimage"
+  },
+  "avatar": {
+    "title": "Avatars and manifestations",
+    "intro": "How one being appears as, or is understood through, another. Texts and traditions use different words for this, and KĀLA keeps them apart.",
+    "glossaryTitle": "Four different ideas",
+    "types": {
+      "avatar_of": {
+        "name": "Avatar",
+        "definition": "A descent of a deity into the world for a purpose, as the texts describe it (often called an incarnation in English)."
+      },
+      "manifestation_of": {
+        "name": "Manifestation",
+        "definition": "A form in which a deity appears or acts, without the idea of a descent into a birth."
+      },
+      "aspect_of": {
+        "name": "Aspect",
+        "definition": "One side or power of a deity, sometimes personified as a separate figure."
+      },
+      "identified_with": {
+        "name": "Identification",
+        "definition": "A text or tradition says that two names refer to the same being."
+      }
+    },
+    "listsTitle": "{name}: ordered lists",
+    "listsIntro": "Different texts give different lists, in different orders. Each list is shown as that text gives it.",
+    "compareTitle": "Where the lists differ",
+    "compareIntro": "A dash means the list does not include that figure. Highlighted rows are not in every list.",
+    "compareCaption": "Comparison of the lists of {name}",
+    "figure": "Figure",
+    "differs": "not in every list",
+    "notIncluded": "not in this list",
+    "position": "No. {n}",
+    "formsTitle": "Other forms, aspects and identifications",
+    "formsIntro": "These are not entries of an ordered list. Each kind of relationship is shown separately and carries its own source.",
+    "empty": "No lists are available yet."
+  },
+  "philosophy": {
+    "title": "Philosophy",
+    "intro": "Ideas such as dharma, karma, moksha, atman and Brahman, and how different schools of thought understand them.",
+    "differNote": "The schools do not always agree. Each concept page shows every view side by side, with its own texts. Buddhist and Jain understandings are distinct and will be added in a later phase.",
+    "conceptsTitle": "Concepts ({count})",
+    "empty": "No concepts are available yet.",
+    "schoolsTitle": "Schools of thought",
+    "schoolsIntro": "Each school’s explanation of a concept rests on its own texts.",
+    "schoolConcepts": "{count} concepts"
+  },
+  "pilgrimage": {
+    "title": "Pilgrimage and sacred geography",
+    "intro": "The great circuits of pilgrimage and their sacred places, each tradition in its own place.",
+    "respectNote": "These are living places of worship. Lists differ between texts and traditions, and each is shown as its source gives it.",
+    "empty": "No pilgrimage networks are available yet.",
+    "families": {
+      "hindu": "Hindu traditions",
+      "vedic": "Vedic",
+      "buddhist": "Buddhist",
+      "jain": "Jain",
+      "indigenous": "Indigenous and local traditions",
+      "cross_cultural": "Across cultures"
+    },
+    "places": "{count} places",
+    "lists": "{count} lists",
+    "viewMap": "See these places on the map →"
+  },
+  "journey": {
+    "label": "Guided journey",
+    "progress": "Journey progress",
+    "stepOf": "Step {current} of {total}",
+    "moreDetail": "More detail",
+    "exploreFurther": "Explore further",
+    "sources": "Sources",
+    "wheelCaption": "The wheel, according to the {account}",
+    "notHistorical": "Traditional chronology, not historical dating.",
+    "back": "Back",
+    "next": "Next",
+    "finished": "You have reached the end of this journey.",
+    "toWheel": "Open the cosmic wheel",
+    "toGenealogy": "Explore the families",
+    "restart": "Start again",
+    "cosmicLink": "Take the guided introduction to the yugas →"
+  },
+  "geography2": {
+    "networkFilter": "Pilgrimage network",
+    "allNetworks": "All places",
+    "showing": "Showing {count} places in {name}"
+  },
+  "sections2": {
+    "retellingsTitle": "Other accounts of this story",
+    "retellingsNote": "The same story is told differently in other texts. Each telling is its own record, so none reads as the standard version.",
+    "eventsTitle": "Events",
+    "networksTitle": "Pilgrimage networks"
+  }
+}

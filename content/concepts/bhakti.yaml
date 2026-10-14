@@ -1,0 +1,33 @@
+slug: bhakti
+names:
+  - text: "Bhakti (devotion)"
+    lang: en
+    script: Latn
+  - text: "भक्ति"
+    lang: sa
+    script: Deva
+    iast: "Bhakti"
+summary_beginner: "Bhakti is loving devotion to God as a path to the highest good. Its place in the Upanishads is small, but the Gita and the commentator Ramanuja make it central."
+interpretations:
+  - tradition: vedanta
+    explanation: "Müller points out that the Svetasvatara Upanishad uses the word bhakti only once, in its last verse, where it speaks of the highest devotion to God and to one's teacher as to God. He cautions that this does not show bhakti in its later sense."
+    references:
+      - source: muller-upanishads
+        locator: "Svetasvatara Upanishad 6.23 (SBE 15)"
+        note: "Müller discusses the verse in his introduction."
+  - tradition: itihasa
+    explanation: "Krishna says he accepts a leaf, flower, fruit or water offered with devotion, and asks that all actions, gifts and austerities be done as offerings to him. He declares that those who fix their minds on him with exclusive devotion are the most devoted, and that he will rescue them from the ocean of death."
+    references:
+      - source: telang-bhagavadgita
+        locator: "9.26-29"
+      - source: telang-bhagavadgita
+        locator: "12.1-7"
+  - tradition: vishishtadvaita
+    explanation: "Ramanuja identifies bhakti with steady loving remembrance, which he treats as the same as meditation, and holds that it is the means to gain the highest Self. He quotes the Gita and the 'chosen by the Self' Upanishad text to say that the Lord favours the devotee."
+    references:
+      - source: thibaut-vedanta-sutras-ramanuja
+        locator: "SBE 48, Vedanta-Sutras 1.1.1 (p. 16)"
+related:
+  - jnana
+  - moksha
+  - ishvara

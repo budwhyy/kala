@@ -50,3 +50,25 @@ references:
     locator: "489"
   - source: raychaudhuri-phai-1923
     locator: "75"
+pilgrimage_networks:
+  - network: jyotirlingas
+    variant: pilgrimage-jyotirlinga-wilson-nandi-upapurana
+    references:
+      - source: wilson-religious-sects-1861
+        locator: "223"
+        note: "Item 3: Mahakala in Ujjain; item 5 Amareshwara is also placed in or near Ujjain by Wilson"
+  - network: sapta-puri
+    variant: pilgrimage-sapta-puri-sacred-cities-gazetteer
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "24:113-114"
+        note: "Ujjain is one of the seven sacred cities of India"
+      - source: dutt-garuda-purana
+        locator: "81"
+        note: "Ujjayani with its god Mahakala, p. 210"
+  - network: shakti-peethas
+    variant: pilgrimage-shakti-tantras-gazetteer
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "24:113-114"
+        note: "According to the Tantras, the elbow of Sati fell here"

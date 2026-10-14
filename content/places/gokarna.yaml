@@ -1,0 +1,63 @@
+slug: gokarna
+names:
+  - text: "Gokarna"
+    lang: en
+    script: Latn
+  - text: "Gokarn"
+    lang: en
+    script: Latn
+  - text: "गोकर्ण"
+    lang: sa
+    script: Deva
+    iast: "Gokarṇa"
+  - text: "गोकर्ण"
+    lang: hi
+    script: Deva
+realm: terrestrial
+kind: tirtha
+confidence: traditional
+geometry:
+  type: Point
+  coordinates:
+    - 74.32
+    - 14.55
+modern_admin:
+  country: "India"
+  region: "Karnataka"
+  district: "Uttara Kannada"
+evidence:
+  - type: historical
+    summary: "The Imperial Gazetteer describes Gokarn in North Kanara as a place of pilgrimage frequented by devotees from all parts of India, with the Dravidian-style Mahabaleshwar temple famed as holding a fragment of the original linga given to Ravana by Siva, and counted as one of the twelve famous lingams of all India. It adds that Gokarn is mentioned in the Ramayana and Mahabharata and has twenty smaller shrines and thirty holy bathing places."
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "12:307"
+  - type: textual
+    summary: "Dutt's Garuda Purana (chapter 81) names Gokarna among sacred hills and cities. The Devi Bhagavata gives the Devi's name at Gokarna as Bhadrakarnika (7.30)."
+    references:
+      - source: dutt-garuda-purana
+        locator: "81"
+        note: "p. 211"
+      - source: vijnanananda-devi-bhagavata
+        locator: "7.30"
+traditions:
+  - shaiva
+  - shakta
+  - hindu
+summary_beginner: "A coastal town in Karnataka with the Mahabaleshwar temple, where tradition says a part of the linga that Shiva gave to Ravana came to rest. The Gazetteer counts its linga among the twelve famous ones."
+summary_scholar: "Gokarna does not appear in Wilson's list of twelve nor, to KALA's knowledge, in the list used in India today; it is recorded only because the Imperial Gazetteer says so."
+references:
+  - source: imperial-gazetteer-1909
+    locator: "12:307"
+pilgrimage_networks:
+  - network: jyotirlingas
+    variant: pilgrimage-jyotirlinga-gazetteer-entries
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "12:307"
+        note: "Mahabaleshwar: one of the twelve famous lingams of all India"
+  - network: shakti-peethas
+    variant: pilgrimage-shakti-devi-bhagavata-108
+    references:
+      - source: vijnanananda-devi-bhagavata
+        locator: "7.30"
+        note: "Bhadrakarnika in Gokarna"

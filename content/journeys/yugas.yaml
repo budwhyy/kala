@@ -1,0 +1,205 @@
+slug: yugas
+names:
+  - { text: "Yuga introduction journey", lang: en, script: Latn }
+summary_beginner: >-
+  A gentle walk through how Indian texts count time in great cycles: the four ages, the long
+  period of a Manu, a day of Brahma, and the dissolutions that close them. Everything here is the
+  traditional reckoning of the Vishnu Purana and the Laws of Manu, not a calendar of history.
+steps:
+  - id: why-cycles
+    title: Why count time in cycles?
+    body: >-
+      Some Indian texts measure the world's story in huge repeating cycles instead of one straight
+      line. Creation is followed by a long span of ages, then a dissolution, then creation again.
+      This is the tradition's own way of reckoning, so the numbers below are measures inside the
+      texts, not dates in our calendar.
+    detail: >-
+      KALA never turns these figures into years BCE or CE. Some modern books attach a numeral to the
+      start of the Kali age; the passages used in this journey do not give one, and the Vishnu Purana
+      instead ties the start of that age to an event in its own story (see step 9).
+    references:
+      - {
+          source: wilson-vishnu-purana,
+          locator: "1.3",
+          note: "The Purana's account of how time is measured, from twinklings of the eye up to the life of Brahma.",
+        }
+      - {
+          source: buhler-manu,
+          locator: "Manu 1.67",
+          note: "Manu's scale also begins with human time measured against the gods' day and night.",
+        }
+    links:
+      - { collection: texts, slug: vishnu-purana }
+      - { collection: texts, slug: manusmriti }
+  - id: four-yugas
+    title: The four ages
+    body: >-
+      Both the Vishnu Purana and the Laws of Manu name four ages in a fixed order: Krita (also
+      called Satya), Treta, Dvapara and Kali. Each is shorter than the one before. According to the
+      Purana the first is the age created by Brahma at the start of a round, and the Kali age is the
+      last one.
+    references:
+      - {
+          source: wilson-vishnu-purana,
+          locator: "6.1",
+          note: "Names the four ages and says the first is always Krita and the last Kali.",
+        }
+      - { source: buhler-manu, locator: "Manu 1.81" }
+    cosmic_model: vishnu-purana-cycle
+    links:
+      - { collection: cosmic, slug: vishnu-purana-cycle }
+  - id: dharma-feet
+    title: Dharma on four feet, then fewer
+    body: >-
+      The Laws of Manu pictures dharma, righteous order, as standing on four feet in the Krita age,
+      complete and joined by truth. In each later age it loses one foot, as theft, falsehood and
+      fraud grow. Manu also says people's lifespans shrink by a quarter each time, and that the
+      main virtue changes from age to age.
+    detail: >-
+      In this text the leading virtue is austerity in Krita, knowledge in Treta, sacrifice in
+      Dvapara and giving in Kali. Commentators read the four feet in different ways, for example as
+      the four priests of a sacrifice or as four means of gaining merit; the verses do not decide.
+    references:
+      - { source: buhler-manu, locator: "Manu 1.81" }
+      - { source: buhler-manu, locator: "Manu 1.82" }
+      - { source: buhler-manu, locator: "Manu 1.83" }
+      - { source: buhler-manu, locator: "Manu 1.85" }
+      - { source: buhler-manu, locator: "Manu 1.86" }
+    cosmic_model: manusmriti-cycle
+    focus_yuga: satya
+    links:
+      - { collection: cosmic, slug: manusmriti-cycle }
+      - { collection: variants, slug: cosmic-manusmriti }
+  - id: lengths
+    title: How long is each age?
+    body: >-
+      In the Vishnu Purana the ages are measured in divine years: 4,000 for Krita, 3,000 for Treta,
+      2,000 for Dvapara and 1,000 for Kali. Before and after each age comes a twilight of as many
+      hundreds of years as the age has thousands. The four together are said to total 12,000 divine
+      years, one round of the ages.
+    detail: >-
+      Adding the twilights gives 4,800, 3,600, 2,400 and 1,200 divine years for the four ages in this
+      text; the sum is still the stated 12,000. The Purana says the sun's northern half-year is a day
+      of the gods and the southern a night. Manu gives the same figures and says a human year is a day
+      and night of the gods. How many human years a divine year holds is a further step of arithmetic
+      that neither passage spells out.
+    references:
+      - { source: wilson-vishnu-purana, locator: "1.3" }
+      - { source: buhler-manu, locator: "Manu 1.67" }
+      - { source: buhler-manu, locator: "Manu 1.69" }
+      - { source: buhler-manu, locator: "Manu 1.70" }
+      - { source: buhler-manu, locator: "Manu 1.71" }
+    cosmic_model: vishnu-purana-cycle
+    links:
+      - { collection: cosmic, slug: vishnu-purana-cycle }
+      - { collection: cosmic, slug: manusmriti-cycle }
+  - id: mahayuga
+    title: A great age
+    body: >-
+      The Vishnu Purana calls the four ages taken together a great age (mahayuga). A thousand great
+      ages then make a day of Brahma. The great age is the basic building block from which the longer
+      periods are counted.
+    references:
+      - { source: wilson-vishnu-purana, locator: "1.3" }
+      - { source: buhler-manu, locator: "Manu 1.71" }
+    cosmic_model: vishnu-purana-cycle
+    links:
+      - { collection: cosmic, slug: vishnu-purana-cycle }
+  - id: manvantara
+    title: A Manu and his period
+    body: >-
+      The Vishnu Purana says each Manu rules over a manvantara, a span of seventy-one great ages with
+      some additional years. The seven rishis, the gods of that period and Indra change with each Manu.
+      The Purana lists fourteen Manus within one day of Brahma, the first being Svayambhuva and the
+      seventh Vaivasvata.
+    detail: >-
+      Manu 1.79 also gives seventy-one great ages for a Manu, but the Laws of Manu name only seven
+      Manus and call the Manu-periods numberless, without saying how many fill a day of Brahma.
+    references:
+      - { source: wilson-vishnu-purana, locator: "1.3" }
+      - { source: wilson-vishnu-purana, locator: "3.1" }
+      - { source: wilson-vishnu-purana, locator: "3.2" }
+      - { source: buhler-manu, locator: "Manu 1.79" }
+      - { source: buhler-manu, locator: "Manu 1.80" }
+    cosmic_model: vishnu-purana-cycle
+    links:
+      - { collection: entities, slug: svayambhuva-manu }
+      - { collection: entities, slug: vaivasvata-manu }
+      - { collection: cosmic, slug: vishnu-purana-cycle }
+  - id: day-of-brahma
+    title: A day and a life of Brahma
+    body: >-
+      A thousand great ages make one day of Brahma (a kalpa), and his night is as long. The Vishnu
+      Purana adds that a year of Brahma is made of such days and nights, and that a hundred such years
+      are his whole life. In this text half of that life has already passed, and the day called Varaha
+      is the first of the second half.
+    references:
+      - { source: wilson-vishnu-purana, locator: "1.3" }
+      - { source: buhler-manu, locator: "Manu 1.72" }
+    cosmic_model: vishnu-purana-cycle
+    links:
+      - { collection: entities, slug: brahma }
+      - { collection: cosmic, slug: vishnu-purana-cycle }
+  - id: pralaya
+    title: Dissolution (pralaya)
+    body: >-
+      The Vishnu Purana describes the world being drawn back in. At the end of Brahma's day the three
+      worlds are consumed by fire and become one ocean, and Brahma sleeps through his night before
+      creating again. At the end of his whole life the elements themselves are absorbed into their
+      source.
+    detail: >-
+      Book 1 lists four kinds of dissolution: occasional (naimittika), elemental (prakritika),
+      absolute (atyantika, a person's final release) and perpetual (nitya, the ceaseless passing of
+      all that is born). The Book 6 account counts only three. Manu describes Brahma's sleeping and
+      waking but gives no list of kinds of dissolution.
+    references:
+      - { source: wilson-vishnu-purana, locator: "1.7" }
+      - { source: wilson-vishnu-purana, locator: "6.3" }
+      - { source: wilson-vishnu-purana, locator: "6.4" }
+      - { source: wilson-vishnu-purana, locator: "6.5" }
+    cosmic_model: vishnu-purana-cycle
+    links:
+      - { collection: entities, slug: vishnu }
+      - { collection: cosmic, slug: vishnu-purana-cycle }
+  - id: present-age
+    title: Where the texts place the present
+    body: >-
+      According to the Vishnu Purana, the seventh Manu, Vaivasvata, presides over the present
+      manvantara, and the Kali age began on the day Krishna departed from the earth. In its words, Kali
+      has twelve hundred divine years, after which the Krita age returns. The Purana speaks of the Kali
+      age as close at hand, so this is the text's own self-description.
+    detail: >-
+      Believers and scholars treat these claims in different ways. KALA reports what the text says and
+      does not translate it into a modern date.
+    references:
+      - { source: wilson-vishnu-purana, locator: "3.1" }
+      - { source: wilson-vishnu-purana, locator: "4.24" }
+      - { source: wilson-vishnu-purana, locator: "6.1" }
+    cosmic_model: vishnu-purana-cycle
+    focus_yuga: kali
+    links:
+      - { collection: entities, slug: vaivasvata-manu }
+      - { collection: cosmic, slug: vishnu-purana-cycle }
+  - id: compare-and-onward
+    title: Two accounts side by side
+    body: >-
+      The two texts agree on the four ages, their twilights, the 12,000-year round and the thousand
+      rounds in a day of Brahma. They differ on details. The Purana adds extra years to the Manu's
+      period, names fourteen Manus and describes several kinds of dissolution, while Manu gives exactly
+      seventy-one great ages, names seven Manus and has no list of dissolutions. KALA keeps the two
+      accounts as separate models so you can switch between them on the wheel.
+    detail: >-
+      To go further, open the Vishnu Purana and Manusmriti text records, or the two cycle models, to
+      compare them on the wheel.
+    references:
+      - { source: wilson-vishnu-purana, locator: "1.3" }
+      - { source: buhler-manu, locator: "Manu 1.79" }
+      - { source: buhler-manu, locator: "Manu 1.80" }
+    cosmic_model: manusmriti-cycle
+    links:
+      - { collection: cosmic, slug: vishnu-purana-cycle }
+      - { collection: cosmic, slug: manusmriti-cycle }
+      - { collection: variants, slug: cosmic-vishnu-purana }
+      - { collection: variants, slug: cosmic-manusmriti }
+      - { collection: texts, slug: vishnu-purana }
+      - { collection: texts, slug: manusmriti }

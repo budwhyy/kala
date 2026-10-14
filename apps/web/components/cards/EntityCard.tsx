@@ -1,11 +1,18 @@
+import { Link } from "@/i18n/navigation";
+import { useTranslations } from "next-intl";
 import type { Kala, RelationView } from "@/lib/graph/kala";
 import { hrefFor } from "@/lib/graph/kala";
-import { RELATION_HEADINGS, RELATION_ORDER } from "@/lib/graph/labels";
+import { RELATION_ORDER } from "@/lib/graph/labels";
+import { enumLabel } from "@/lib/i18n-helpers";
 import { Badge, Cite, NameBlock, RecordLink, Section, Summaries, TimeRails } from "./ui";
 import { VariantPanel } from "./VariantPanel";
+import { EventsSection } from "./Phase2Sections";
 import { VariantTag } from "./ui";
 
 export function EntityCard({ kala, slug }: { kala: Kala; slug: string }) {
+  const t = useTranslations("entity");
+  const tr = useTranslations("relations");
+  const te = useTranslations("enums");
   const e = kala.get("entities", slug)!;
   const relations = kala.relationsOf(slug);
 
@@ -24,18 +31,21 @@ export function EntityCard({ kala, slug }: { kala: Kala; slug: string }) {
       <NameBlock names={e.names} />
       <div className="mt-3 flex flex-wrap gap-2">
         {e.kinds.map((k) => (
-          <Badge key={k}>{k.replace(/_/g, " ")}</Badge>
+          <Badge key={k}>{enumLabel(te, "kind", k)}</Badge>
         ))}
         {e.traditions.map((t) => (
-          <a key={t} href={`/tradition/${t}`}>
+          <Link key={t} href={`/tradition/${t}`}>
             <Badge tone="celestial">{kala.nameOf("traditions", t)}</Badge>
-          </a>
+          </Link>
         ))}
       </div>
       {e.epithets.length > 0 && (
         <p className="mt-2 text-sm text-muted">
-          Also called:{" "}
-          {e.epithets.map((n) => n.text + (n.meaning ? ` (“${n.meaning}”)` : "")).join(", ")}
+          {t("alsoCalled", {
+            names: e.epithets
+              .map((n) => n.text + (n.meaning ? ` (“${n.meaning}”)` : ""))
+              .join(", "),
+          })}
         </p>
       )}
       <Summaries beginner={e.summary_beginner} scholar={e.summary_scholar} />
@@ -46,9 +56,9 @@ export function EntityCard({ kala, slug }: { kala: Kala; slug: string }) {
       <VariantPanel kala={kala} relations={relations} />
 
       {ordered.map(([key, views]) => {
-        const [type, dir] = key.split(":") as [keyof typeof RELATION_HEADINGS, "out" | "in"];
+        const [type, dir] = key.split(":") as [string, "out" | "in"];
         return (
-          <Section key={key} title={RELATION_HEADINGS[type][dir]}>
+          <Section key={key} title={tr(`${type}.${dir}`)}>
             <ul className="space-y-3">
               {views.map((v) => (
                 <li key={v.relationship.id} className="rounded-lg border border-white/10 p-3">
@@ -57,7 +67,7 @@ export function EntityCard({ kala, slug }: { kala: Kala; slug: string }) {
                   </RecordLink>
                   {v.relationship.mode && v.relationship.mode !== "biological" && (
                     <span className="ml-2 text-xs text-muted">
-                      ({v.relationship.mode.replace(/_/g, " ")})
+                      ({enumLabel(te, "mode", v.relationship.mode)})
                     </span>
                   )}
                   <VariantTag kala={kala} variant={v.relationship.variant} />
@@ -71,15 +81,16 @@ export function EntityCard({ kala, slug }: { kala: Kala; slug: string }) {
       })}
 
       {dynasties.length > 0 && (
-        <Section title="Dynasties">
+        <Section title={t("dynasties")}>
           <LinkList kala={kala} type="dynasties" slugs={dynasties} />
         </Section>
       )}
       {places.length > 0 && (
-        <Section title="Places">
+        <Section title={t("places")}>
           <LinkList kala={kala} type="places" slugs={places} />
         </Section>
       )}
+      <EventsSection kala={kala} slugs={kala.neighbours("entities", slug, "events")} />
       <TimeRails kala={kala} cosmic={e.cosmic_time} historical={e.historical_time} />
     </article>
   );

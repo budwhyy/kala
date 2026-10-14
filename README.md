@@ -7,22 +7,28 @@ Live: **https://kalacircle.netlify.app**
 KĀLA lets someone with no background explore the cycles of cosmic time, the families of gods,
 sages and kings, and the places of the epics and Puranas — always showing _which text says this_,
 _where texts disagree_, and _how confident an identification is_. The full product brief is
-[KALA_BUILD_BRIEF.md](KALA_BUILD_BRIEF.md); Phase 1 is complete.
+[KALA_BUILD_BRIEF.md](KALA_BUILD_BRIEF.md); Phases 1 and 2 are complete.
 
-## What is in Phase 1
+## What is in the site (Phases 1 and 2)
 
-| Mode                         | What it does                                                                                                                     |
-| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| **Opening** (`/`)            | The opening question, then nine creation accounts offered side by side as starting paths                                         |
-| **Cosmic time** (`/cosmic`)  | A wheel of yugas → mahayuga → manvantara → kalpa for each text's figures (Vishnu Purana, Manusmriti), never placed on a calendar |
-| **Genealogy** (`/genealogy`) | A 3D constellation of 70 figures; trace any two and see every step with its source; hide claims from one account                 |
-| **Geography** (`/geography`) | A globe that zooms into a map of 32 places, coloured by confidence class; cosmological realms listed but never mapped            |
-| **Record pages**             | Every figure, place, kingdom, dynasty, text, source edition, account and tradition, all cross-linked                             |
-| **Search**                   | English, Devanagari or IAST, diacritics optional                                                                                 |
+| Mode                           | What it does                                                                                                                                                                   |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Opening** (`/`)              | The opening question, then nine creation accounts offered side by side as starting paths                                                                                       |
+| **Cosmic time** (`/cosmic`)    | A wheel of yugas → mahayuga → manvantara → kalpa for each text's figures (Vishnu Purana, Manusmriti), never placed on a calendar; a **guided Yuga journey** (`/journey/yugas`) |
+| **Genealogy** (`/genealogy`)   | A 3D constellation of 122 figures; trace any two and see every step with its source; hide claims from one account                                                              |
+| **Geography** (`/geography`)   | A globe that zooms into a map of 69 places, coloured by confidence class; filter by pilgrimage network; cosmological realms listed but never mapped                            |
+| **Avatars** (`/avatar`)        | Avatar lists from four texts compared side by side (where they differ is highlighted), plus manifestations, aspects and identifications, each kind explained and kept separate |
+| **Philosophy** (`/philosophy`) | 16 concepts (dharma, karma, moksha, atman, Brahman…) with each school's own explanation and sources, side by side                                                              |
+| **Pilgrimage** (`/pilgrimage`) | Hindu, Buddhist and Jain sacred sites and circuits in their own right; lists that differ between texts are shown as separate lists                                             |
+| **Record pages**               | Every figure, place, kingdom, dynasty, event, concept, pilgrimage network, text, source edition, account and tradition, all cross-linked                                       |
+| **Search**                     | English, Devanagari or IAST, diacritics optional                                                                                                                               |
 
-Every 3D view has a **List view** (also used automatically without WebGL), and the site honours
-`prefers-reduced-motion`. The current selection travels in the URL (`?entity=kashyapa`), so
-switching modes keeps it.
+**Languages.** The interface is available in English and Hindi (`/hi/…`); names show in Devanagari on the
+Hindi site. Descriptions and source passages stay in English for now.
+
+Every 3D view has a **List view** (also used automatically without WebGL, and by default on narrow
+screens for the heavier scenes), and the site honours `prefers-reduced-motion`. The current selection
+travels in the URL (`?entity=kashyapa`), so switching modes keeps it.
 
 ## How it is built
 

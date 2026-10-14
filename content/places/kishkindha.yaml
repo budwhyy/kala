@@ -55,3 +55,10 @@ references:
     locator: "4.13"
   - source: imperial-gazetteer-1909
     locator: "24:313"
+pilgrimage_networks:
+  - network: shakti-peethas
+    variant: pilgrimage-shakti-devi-bhagavata-108
+    references:
+      - source: vijnanananda-devi-bhagavata
+        locator: "7.30"
+        note: "Tara in the Kishkindhya mountain"

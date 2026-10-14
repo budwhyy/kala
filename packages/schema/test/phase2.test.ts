@@ -144,3 +144,28 @@ describe("journeys", () => {
     expect(messages).toContain("steps.a.cosmic_model → unknown cosmic 'no-model'");
   });
 });
+
+describe("same_story_as (retellings)", () => {
+  const event = (slug: string, same: string[]) => ({
+    slug,
+    names: en(slug),
+    participants: [{ entity: "fixture-parent" }],
+    same_story_as: same,
+    summary_beginner: "x",
+    references: ref,
+  });
+  it("must resolve and link back both ways", () => {
+    const ok = { ...baseRecords(), events: [event("ev-a", ["ev-b"]), event("ev-b", ["ev-a"])] };
+    expect(validateDataset(dataset(ok))).toEqual([]);
+
+    const oneWay = { ...baseRecords(), events: [event("ev-a", ["ev-b"]), event("ev-b", [])] };
+    expect(validateDataset(dataset(oneWay)).map((i) => i.message)).toContain(
+      "same_story_as 'ev-b' must link back to 'ev-a'",
+    );
+
+    const missing = { ...baseRecords(), events: [event("ev-a", ["ev-z"])] };
+    expect(validateDataset(dataset(missing)).map((i) => i.message)).toContain(
+      "same_story_as → unknown events 'ev-z'",
+    );
+  });
+});

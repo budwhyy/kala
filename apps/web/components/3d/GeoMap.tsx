@@ -5,6 +5,7 @@
 // drawn here — they have no coordinates.
 import maplibregl, { type GeoJSONSource, type Map as MLMap } from "maplibre-gl";
 import "maplibre-gl/dist/maplibre-gl.css";
+import { useTranslations } from "next-intl";
 import { useEffect, useRef } from "react";
 import type { MapPlace } from "@/lib/geo/features";
 import { cssVar } from "./colors";
@@ -66,6 +67,7 @@ function applyModern(map: MLMap, modern: number) {
 }
 
 export default function GeoMap({ places, selected, onSelect, modern, reducedMotion }: GeoMapProps) {
+  const label = useTranslations("geography")("mapLabel");
   const container = useRef<HTMLDivElement>(null);
   const mapRef = useRef<MLMap | null>(null);
   const ready = useRef(false);
@@ -216,5 +218,5 @@ export default function GeoMap({ places, selected, onSelect, modern, reducedMoti
     else map.once("idle", go);
   }, [selected, places, reducedMotion]);
 
-  return <div ref={container} className="size-full" aria-label="Map of places" role="region" />;
+  return <div ref={container} className="size-full" aria-label={label} role="region" />;
 }

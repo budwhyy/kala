@@ -1,0 +1,145 @@
+- id: angiras-father-of-brihaspati
+  from: angiras
+  to: brihaspati
+  type: parent
+  role: father
+  mode: biological
+  explanation: The Mahabharata names Brihaspati, Utathya and Samvarta as the three sons of Angiras.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.66"
+- id: brihaspati-father-of-kacha
+  from: brihaspati
+  to: kacha
+  type: parent
+  role: father
+  mode: biological
+  explanation: Kacha is Brihaspati's eldest son and the grandson of Angiras.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.76"
+    - source: ganguli-mahabharata
+      locator: "1.77"
+- id: bhrigu-father-of-shukra
+  from: bhrigu
+  to: shukra
+  type: parent
+  role: father
+  mode: biological
+  explanation: In the Mahabharata, Shukra is the son of Bhrigu (Kavya and Bhargava are other names for him).
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.66"
+    - source: ganguli-mahabharata
+      locator: "1.80"
+- id: shukra-father-of-devayani
+  from: shukra
+  to: devayani
+  type: parent
+  role: father
+  mode: biological
+  explanation: Devayani is Shukra's favourite daughter.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.76"
+    - source: ganguli-mahabharata
+      locator: "1.78"
+    - source: ganguli-mahabharata
+      locator: "1.81"
+- id: shukra-teacher-of-kacha
+  from: shukra
+  to: kacha
+  type: teacher
+  explanation: Kacha serves Shukra for a thousand years as a pupil and receives from him the science of reviving the dead.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.76"
+- id: brihaspati-ally-of-indra
+  from: brihaspati
+  to: indra
+  type: ally
+  explanation: The gods install Brihaspati as their priest, and Shukra says elsewhere that Brihaspati always seeks Indra's good.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.76"
+    - source: ganguli-mahabharata
+      locator: "1.80"
+- id: shukra-ally-of-daityas
+  from: shukra
+  to: daityas
+  type: ally
+  explanation: Shukra is the chief priest of the Asuras in the Mahabharata's genealogy and acts as guide of the Daityas.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.65"
+    - source: ganguli-mahabharata
+      locator: "1.66"
+- id: shukra-ally-of-danavas
+  from: shukra
+  to: danavas
+  type: ally
+  explanation: In the story of Kacha, the Danavas install Ushanas (Shukra) as their priest and he revives those the gods have killed.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.76"
+- id: shukra-ally-of-vrishaparvan
+  from: shukra
+  to: vrishaparvan
+  type: ally
+  explanation: Shukra lives at the Danava king Vrishaparvan's court and protects the Danavas, though he threatens to leave after the wrongs done to Kacha and Devayani.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.76"
+    - source: ganguli-mahabharata
+      locator: "1.80"
+- id: devayani-curse-kacha
+  from: devayani
+  to: kacha
+  type: curse
+  explanation: When Kacha refuses to marry her, Devayani declares that his knowledge will bear no fruit for him.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.77"
+- id: kacha-curse-devayani
+  from: kacha
+  to: devayani
+  type: curse
+  explanation: Kacha answers that no rishi's son will ever marry her, though the knowledge will work for those he teaches.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.77"
+- id: shukra-curse-yayati
+  from: shukra
+  to: yayati
+  type: curse
+  explanation: Angry that Yayati has fathered sons by Sharmishtha, Shukra afflicts him with old age, which he may pass to a son.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.83"
+- id: brihaspati-member-of-adityas
+  from: brihaspati
+  to: adityas
+  type: member_of
+  variant: mahabharata-adi-parva
+  explanation: Ganguli's rendering of the Mahabharata says that Garuda, Aruna and Brihaspati are reckoned among the Adityas. The Vishnu Purana's list of the Adityas does not include them.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.66"
+- id: garuda-member-of-adityas
+  from: garuda
+  to: adityas
+  type: member_of
+  variant: mahabharata-adi-parva
+  explanation: Ganguli's rendering of the Mahabharata counts Garuda, Aruna and Brihaspati among the Adityas, a classification rather than parentage.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.66"
+- id: aruna-member-of-adityas
+  from: aruna
+  to: adityas
+  type: member_of
+  variant: mahabharata-adi-parva
+  explanation: Ganguli's rendering of the Mahabharata counts Garuda, Aruna and Brihaspati among the Adityas, a classification rather than parentage.
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.66"

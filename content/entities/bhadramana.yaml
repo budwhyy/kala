@@ -1,0 +1,17 @@
+slug: bhadramana
+names:
+  - text: Bhadramana
+    lang: en
+    script: Latn
+  - text: भद्रमना
+    lang: sa
+    script: Deva
+    iast: Bhadramanā
+kinds:
+  - other
+traditions:
+  - itihasa
+summary_beginner: One of the nine daughters of Krodha in the Mahabharata's account of the origin of animals; the text makes her the mother of the celestial elephant Airavata.
+references:
+  - source: ganguli-mahabharata
+    locator: "1.66"

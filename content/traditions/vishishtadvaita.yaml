@@ -1,0 +1,16 @@
+slug: vishishtadvaita
+names:
+  - text: Vishishtadvaita
+    lang: en
+    script: Latn
+  - text: विशिष्टाद्वैत
+    lang: sa
+    script: Deva
+    iast: Viśiṣṭādvaita
+family: hindu
+parent: vedanta
+summary_beginner: The school of Vedanta associated with the commentator Ramanuja, which teaches that Brahman is one but has souls and matter as real parts or attributes, so that Brahman and the soul are related but not identical.
+references:
+  - source: thibaut-vedanta-sutras-ramanuja
+    locator: SBE 48, Vedanta-Sutras 1.1.1
+    note: Ramanuja's own statement of the doctrine in the commentary on the first sutra.

@@ -1,0 +1,27 @@
+slug: shakti-peethas
+names:
+  - text: "Shakti Peethas"
+    lang: en
+    script: Latn
+  - text: "शक्तिपीठ"
+    lang: sa
+    script: Deva
+    iast: "Śaktipīṭha"
+  - text: "शक्तिपीठ"
+    lang: hi
+    script: Deva
+kind: shakti_peetha
+traditions:
+  - shakta
+variants:
+  - pilgrimage-shakti-devi-bhagavata-108
+  - pilgrimage-shakti-tantras-gazetteer
+summary_beginner: "Seats of the Goddess (Devi) across the subcontinent, traditionally linked to the places where parts of Sati's body fell. Different texts count different numbers of seats: the Devi Bhagavata Purana gives 108."
+summary_scholar: "Each list is kept as its own variant and never merged. The Devi Bhagavata (7.30) gives 108 seats with the Devi's name at each; KALA enters here the seats that can be matched, from the text's own place names, to places already in the atlas or to places whose Imperial Gazetteer article was read. Lists of 51 seats from tantric works are not included because KALA has no public-domain English source for them; the Imperial Gazetteer mentions the 'pithasthana' idea only for a few places, of which Ujjain is entered."
+references:
+  - source: vijnanananda-devi-bhagavata
+    locator: "7.30"
+    note: "Verses 53-102 list the 108 seats"
+  - source: imperial-gazetteer-1909
+    locator: "24:113-114"
+    note: "Ujjain article mentions the elbow of Sati"

@@ -1,9 +1,11 @@
 "use client";
 // A soft generated drone (Web Audio), off by default and started only by the visitor.
 // Synthesised in the browser: no recordings, nothing to license.
+import { useTranslations } from "next-intl";
 import { useEffect, useRef, useState } from "react";
 
 export function SoundToggle() {
+  const t = useTranslations("opening");
   const [on, setOn] = useState(false);
   const audio = useRef<{ ctx: AudioContext; gain: GainNode } | null>(null);
 
@@ -50,7 +52,7 @@ export function SoundToggle() {
       aria-pressed={on}
       className="rounded-full border border-white/20 px-3 py-1 text-xs text-ink/80 hover:text-ink"
     >
-      {on ? "Sound on" : "Sound off"}
+      {on ? t("soundOn") : t("soundOff")}
     </button>
   );
 }

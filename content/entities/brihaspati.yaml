@@ -1,0 +1,33 @@
+slug: brihaspati
+names:
+  - text: Brihaspati
+    lang: en
+    script: Latn
+  - text: बृहस्पति
+    lang: sa
+    script: Deva
+    iast: Bṛhaspati
+epithets:
+  - text: Vrihaspati
+    lang: en
+    script: Latn
+  - text: Vachaspati
+    lang: en
+    script: Latn
+kinds:
+  - rishi
+traditions:
+  - vedic
+  - itihasa
+  - puranic
+summary_beginner: The priest of the gods. In the Mahabharata he is a son of Angiras, the father of Kacha and the brother of the woman who bears Vishvakarma; the Vishnu Purana shows him joining the gods' prayer to Vishnu.
+summary_scholar: MBh 1.66 gives Angiras three sons, Brihaspati, Utathya and Samvarta, and also counts Brihaspati, with Garuda and Aruna, among the Adityas. MBh 1.76 says the gods installed him as their priest, as the Asuras installed Ushanas, and that he lacked the Sanjivani science. VP 1.9 shows him praying to Vishnu with the gods, and VP 1.15 speaks of his sister, under the name Vachaspati.
+references:
+  - source: ganguli-mahabharata
+    locator: "1.66"
+  - source: ganguli-mahabharata
+    locator: "1.76"
+  - source: wilson-vishnu-purana
+    locator: "1.9"
+  - source: wilson-vishnu-purana
+    locator: "1.15"

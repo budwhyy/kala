@@ -1,0 +1,70 @@
+slug: vaishali
+names:
+  - text: Vaishali
+    lang: en
+    script: Latn
+  - text: वैशाली
+    lang: sa
+    script: Deva
+    iast: Vaiśālī
+  - text: Vesali
+    lang: pi
+    script: Latn
+    iast: Vesālī
+  - text: Basarh
+    lang: en
+    script: Latn
+realm: terrestrial
+kind: city
+confidence: verified
+geometry:
+  type: Point
+  coordinates:
+    - 85.13
+    - 25.99
+modern_admin:
+  country: India
+  region: Bihar
+  district: Vaishali
+evidence:
+  - type: historical
+    summary: Cunningham identified the village of Besarh, with its ruined fort called the fort of
+      Raja Bisal, as Vaisali from Xuanzang's distances and directions and from the size of the old
+      fort, which fits the circuit given for the royal palace.
+    references:
+      - source: cunningham-ancient-geography
+        locator: "443"
+  - type: historical
+    summary: Fa-hien describes the city of Vaisali, the garden of Ambapali and the double-galleried
+      vihara, and Xuanzang gives the kingdom of Fei-she-li.
+    references:
+      - source: legge-fa-hien
+        locator: "25"
+      - source: beal-si-yu-ki
+        locator: "2:66"
+traditions:
+  - buddhist
+  - jain
+pilgrimage_networks:
+  - network: buddhist-fa-hien-sacred-places
+    variant: buddhist-places-fa-hien-record
+    references:
+      - source: legge-fa-hien
+        locator: "25"
+  - network: jain-mahavira-rainy-season-places
+    variant: jain-mahavira-rainy-seasons-kalpa-sutra
+    references:
+      - source: jacobi-jaina-sutras-1
+        locator: Kalpa Sutra, section 122, p. 264
+        note: Twelve rainy seasons are listed for Vaishali and Vanijyagrama together.
+summary_beginner: An ancient city of north Bihar remembered in Buddhist tradition for the Buddha's
+  visits, the garden of Ambapali, and a council of monks. Jains remember it as a place where
+  Mahavira spent many rainy seasons.
+summary_scholar: The identification with Besarh is made by name, position and the size of the fort
+  (Cunningham 443). The Buddhist and Jain traditions concern the same city but are kept in
+  separate networks; the Jain list pairs Vaishali with Vanijyagrama.
+references:
+  - source: cunningham-ancient-geography
+    locator: "443"
+  - source: legge-fa-hien
+    locator: "25"

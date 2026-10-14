@@ -52,3 +52,31 @@ references:
     locator: "4.1"
   - source: ganguli-mahabharata
     locator: "2.14"
+pilgrimage_networks:
+  - network: char-dham
+    variant: pilgrimage-char-dham-four-dhams
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "11:387"
+        note: "Temple of Dwarkanath"
+  - network: char-dham
+    variant: pilgrimage-four-maths-gazetteer
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "11:387"
+        note: "Dwarka listed as the western math"
+  - network: sapta-puri
+    variant: pilgrimage-sapta-puri-sacred-cities-gazetteer
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "11:387"
+        note: "One of the most holy places in India"
+      - source: dutt-garuda-purana
+        locator: "81"
+        note: "Dvaraka, p. 209"
+  - network: shakti-peethas
+    variant: pilgrimage-shakti-devi-bhagavata-108
+    references:
+      - source: vijnanananda-devi-bhagavata
+        locator: "7.30"
+        note: "Rukmini in Dvaravati"

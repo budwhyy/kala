@@ -2,6 +2,7 @@
 import type { PlaceConfidence } from "@kala/schema";
 import type { Kala } from "../graph/kala";
 import { displayName } from "../graph/kala";
+import { subName } from "../i18n-helpers";
 
 export type MapPlace = {
   slug: string;
@@ -16,6 +17,8 @@ export type MapPlace = {
   kingdoms: { slug: string; label: string; legendary: boolean }[];
   modern?: string | undefined;
   /** Linked to the epics/Puranas (legendary kingdoms, cosmic time, figures). */
+  /** Pilgrimage networks this place belongs to. */
+  networks: string[];
   mythological: boolean;
   /** Has archaeological/historical evidence, historical dates or a historical polity. */
   historical: boolean;
@@ -38,15 +41,15 @@ export function mapPlaces(kala: Kala): { onMap: MapPlace[]; cosmological: MapPla
       label: kala.nameOf("kingdoms", k),
       legendary: kala.get("kingdoms", k)?.kind === "epic_legendary",
     }));
-    const deva = p.names.find((n) => n.script === "Deva");
     return {
       slug: p.slug,
-      label: displayName(p.names),
-      sub: deva ? `${deva.text}${deva.iast ? ` · ${deva.iast}` : ""}` : undefined,
+      label: displayName(p.names, kala.locale),
+      sub: subName(p.names, kala.locale),
       confidence: p.confidence,
       kind: p.kind,
       summary: p.summary_beginner,
       point: anchor(p.geometry),
+      networks: [...new Set(p.pilgrimage_networks.map((n) => n.network))],
       alternatives: p.alternative_identifications.flatMap((a) => {
         const pt = anchor(a.geometry);
         return pt ? [{ label: a.label, confidence: a.confidence, point: pt }] : [];

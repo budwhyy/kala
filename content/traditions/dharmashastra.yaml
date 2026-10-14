@@ -1,0 +1,15 @@
+slug: dharmashastra
+names:
+  - text: Dharmashastra
+    lang: en
+    script: Latn
+  - text: धर्मशास्त्र
+    lang: sa
+    script: Deva
+    iast: Dharmaśāstra
+family: hindu
+parent: hindu
+summary_beginner: The tradition of law and conduct texts, such as the Laws of Manu, that set out duty, social order and the results of action.
+references:
+  - source: buhler-manu
+    locator: Manu 2.12

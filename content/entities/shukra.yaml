@@ -1,0 +1,36 @@
+slug: shukra
+names:
+  - text: Shukra
+    lang: en
+    script: Latn
+  - text: शुक्र
+    lang: sa
+    script: Deva
+    iast: Śukra
+epithets:
+  - text: Usanas
+    lang: en
+    script: Latn
+  - text: Kavya
+    lang: en
+    script: Latn
+  - text: Bhargava
+    lang: en
+    script: Latn
+kinds:
+  - rishi
+traditions:
+  - itihasa
+  - puranic
+summary_beginner: A seer of the Bhrigu line who is the priest and teacher of the Asuras and holds the science that revives the dead. In the Mahabharata he is also said to become the planet that bears his name and to guide both gods and Daityas.
+summary_scholar: In MBh 1.65 he is the chief priest of the Asuras and has four priestly sons; in 1.66 he is Bhrigu's son who, by his austerities, divided himself to guide both the Daityas and the gods; in 1.76 to 1.83 he appears as Usanas or Kavya, Devayani's father and Kacha's teacher. The Vishnu Purana text does not narrate these episodes; Wilson's note to VP 1.9 mentions that the Matsya Purana gives his revival of slain Daityas as a motive for the gods' churning of the ocean.
+references:
+  - source: ganguli-mahabharata
+    locator: "1.65"
+  - source: ganguli-mahabharata
+    locator: "1.66"
+  - source: ganguli-mahabharata
+    locator: "1.76"
+  - source: wilson-vishnu-purana
+    locator: "1.9"
+    note: Wilson's footnote 8 on the churning mentions Shukra's revival of the Daityas in the Matsya Purana.

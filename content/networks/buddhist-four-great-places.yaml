@@ -1,0 +1,27 @@
+slug: buddhist-four-great-places
+names:
+  - text: The four great places of Buddhist pilgrimage
+    lang: en
+    script: Latn
+kind: buddhist
+traditions:
+  - buddhist
+variants:
+  - buddhist-four-places-mahaparinibbana
+summary_beginner: Four places that the Mahaparinibbana Sutta says a faithful person may visit with
+  reverence, each marking one event of the Buddha's life - birth, enlightenment, the first
+  teaching, and passing away. Buddhists today know them as Lumbini, Bodh Gaya, Sarnath and
+  Kushinagar.
+summary_scholar: In the translation used here the sutta names the four events but not the
+  places; the matching with Lumbini, Bodh Gaya, Sarnath (Isipatana) and Kushinagar (Kusinara) rests
+  on the Chinese pilgrims, on inscriptions and on later scholarship, cited on each place. The
+  Buddha's life events are traditional accounts; the sites are well attested historically, which
+  does not verify the accounts themselves. This network is Buddhist and is kept separate from
+  Hindu pilgrimage networks, although some of the sites also hold meaning for other traditions.
+references:
+  - source: rhys-davids-buddhist-suttas
+    locator: "5.16-20"
+  - source: cunningham-mahabodhi
+    locator: vii
+    note: Cunningham reads Fa-hien as implying that temples then stood at the four famous sites
+      (birthplace, Bodhi tree, Deer-park, place of death).

@@ -1,0 +1,22 @@
+slug: virochana
+names:
+  - text: Virochana
+    lang: en
+    script: Latn
+  - text: विरोचन
+    lang: sa
+    script: Deva
+    iast: Virocana
+kinds:
+  - daitya
+  - asura
+traditions:
+  - itihasa
+  - puranic
+summary_beginner: A Daitya, son of Prahlada and father of Bali. The Mahabharata and the Vishnu Purana give the same descent.
+summary_scholar: MBh 1.65 gives him two brothers, Kumbha and Nikumbha. VP 1.21 passes directly from Prahlada to Virochana to Bali.
+references:
+  - source: ganguli-mahabharata
+    locator: "1.65"
+  - source: wilson-vishnu-purana
+    locator: "1.21"

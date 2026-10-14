@@ -1,0 +1,23 @@
+slug: devayani
+names:
+  - text: Devayani
+    lang: en
+    script: Latn
+  - text: देवयानी
+    lang: sa
+    script: Deva
+    iast: Devayānī
+kinds:
+  - other
+traditions:
+  - itihasa
+summary_beginner: Daughter of the sage Shukra. She loves Kacha and is refused, quarrels with Sharmishtha, and marries King Yayati; she is the mother of Yadu and Turvasu.
+references:
+  - source: ganguli-mahabharata
+    locator: "1.76"
+  - source: ganguli-mahabharata
+    locator: "1.77"
+  - source: ganguli-mahabharata
+    locator: "1.81"
+  - source: ganguli-mahabharata
+    locator: "1.83"

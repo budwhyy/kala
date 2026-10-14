@@ -1,0 +1,560 @@
+# Ordered lists of Vishnu's descents. One relationship per member per list; `position` is the member's place in that list.
+
+# --- Bhagavata Purana 1.3 (Dutt) -------------------------------------------------
+- id: av-bhag13-dattatreya
+  from: dattatreya
+  to: vishnu
+  type: avatar_of
+  position: 6
+  variant: avatars-list-bhagavata-1-3
+  explanation: "In the list in Bhagavata Purana 1.3 the sixth form is the son of Atri and Anasuya, whom the Purana's other chapters call Datta (Dattatreya)."
+  references:
+    - source: dutt-bhagavata-purana
+      locator: "1.3"
+      note: "'Sixthly' the Lord assumes sonship to Anasuya, wife of Atri; the name Datta is given in 2.7."
+- id: av-bhag13-varaha
+  from: varaha
+  to: vishnu
+  type: avatar_of
+  position: 2
+  variant: avatars-list-bhagavata-1-3
+  explanation: "The second form in the list is the boar, taken to lift the earth that had sunk in the waters."
+  references:
+    - source: dutt-bhagavata-purana
+      locator: "1.3"
+- id: av-bhag13-matsya
+  from: matsya
+  to: vishnu
+  type: avatar_of
+  position: 10
+  variant: avatars-list-bhagavata-1-3
+  explanation: "The fish saves Vaivasvata Manu at the deluge ending the Chakshusha cycle. The text does not say 'tenth', but the fish stands between the ninth form (Prithu) and the eleventh (the tortoise)."
+  references:
+    - source: dutt-bhagavata-purana
+      locator: "1.3"
+- id: av-bhag13-kurma
+  from: kurma
+  to: vishnu
+  type: avatar_of
+  position: 11
+  variant: avatars-list-bhagavata-1-3
+  explanation: "The eleventh form is the tortoise that supports the mountain Mandara while the gods and the Daityas churn the ocean."
+  references:
+    - source: dutt-bhagavata-purana
+      locator: "1.3"
+- id: av-bhag13-dhanvantari
+  from: dhanvantari
+  to: vishnu
+  type: avatar_of
+  position: 12
+  variant: avatars-list-bhagavata-1-3
+  explanation: "The twelfth form is Dhanvantari, who with the thirteenth form gives the gods the nectar."
+  references:
+    - source: dutt-bhagavata-purana
+      locator: "1.3"
+- id: av-bhag13-mohini
+  from: mohini
+  to: vishnu
+  type: avatar_of
+  position: 13
+  variant: avatars-list-bhagavata-1-3
+  explanation: "The thirteenth form is Mohini, the female form that bewilders the rivals of the gods."
+  references:
+    - source: dutt-bhagavata-purana
+      locator: "1.3"
+- id: av-bhag13-narasimha
+  from: narasimha
+  to: vishnu
+  type: avatar_of
+  position: 14
+  variant: avatars-list-bhagavata-1-3
+  explanation: "The fourteenth form is the man-lion who tears the lord of the Daityas with his nails."
+  references:
+    - source: dutt-bhagavata-purana
+      locator: "1.3"
+- id: av-bhag13-vamana
+  from: vamana
+  to: vishnu
+  type: avatar_of
+  position: 15
+  variant: avatars-list-bhagavata-1-3
+  explanation: "The fifteenth form is the dwarf who begs three paces of land at the sacrifice of Bali."
+  references:
+    - source: dutt-bhagavata-purana
+      locator: "1.3"
+- id: av-bhag13-parashurama
+  from: parashurama
+  to: vishnu
+  type: avatar_of
+  position: 16
+  variant: avatars-list-bhagavata-1-3
+  explanation: "The sixteenth form clears the earth of Kshatriyas three times seven times, in anger at their warring on the priestly class. The text does not name him; he is Parashurama."
+  references:
+    - source: dutt-bhagavata-purana
+      locator: "1.3"
+- id: av-bhag13-rama
+  from: rama
+  to: vishnu
+  type: avatar_of
+  position: 18
+  variant: avatars-list-bhagavata-1-3
+  explanation: "The eighteenth form is a human king ('Naradeva') whose deeds include the taming of the sea. Dutt's text does not name him here; the sea-taming identifies him as Rama of Ayodhya, as the same chapter's parallel in 2.7 confirms."
+  references:
+    - source: dutt-bhagavata-purana
+      locator: "1.3"
+    - source: dutt-bhagavata-purana
+      locator: "2.7"
+      note: "The sea offers Rama a path."
+- id: av-bhag13-balarama
+  from: balarama
+  to: vishnu
+  type: avatar_of
+  position: 19
+  variant: avatars-list-bhagavata-1-3
+  explanation: "The nineteenth and twentieth forms are born among the Vrishnis as Rama and Krishna; the first of these is Balarama."
+  references:
+    - source: dutt-bhagavata-purana
+      locator: "1.3"
+- id: av-bhag13-krishna
+  from: krishna
+  to: vishnu
+  type: avatar_of
+  position: 20
+  variant: avatars-list-bhagavata-1-3
+  explanation: "The twentieth form is Krishna. The same chapter adds that the other forms are portions or emanations of the Person, but that Krishna is the Lord himself."
+  references:
+    - source: dutt-bhagavata-purana
+      locator: "1.3"
+- id: av-bhag13-buddha
+  from: buddha-avatar
+  to: vishnu
+  type: avatar_of
+  position: 21
+  variant: avatars-list-bhagavata-1-3
+  explanation: "In the Bhagavata list the next form after Rama and Krishna is Buddha, son of Anjana, born among the Kikatas when Kali sets in, to bewilder the enemies of the gods. This is the Vaishnava Puranic figure, not the historical Buddha."
+  references:
+    - source: dutt-bhagavata-purana
+      locator: "1.3"
+- id: av-bhag13-kalki
+  from: kalki
+  to: vishnu
+  type: avatar_of
+  position: 22
+  variant: avatars-list-bhagavata-1-3
+  explanation: "The last form is Kalki, born of Vishnuyashas in the twilight of Kali when kings have become robbers."
+  references:
+    - source: dutt-bhagavata-purana
+      locator: "1.3"
+
+# --- Bhagavata Purana 2.7 (Dutt): Brahma's recital, order of narration -------------
+- id: av-bhag27-varaha
+  from: varaha
+  to: vishnu
+  type: avatar_of
+  position: 1
+  variant: avatars-list-bhagavata-2-7
+  explanation: "Brahma's recital begins with the boar, who raised the earth from beneath the ocean and pierced the Daitya Hiranyaksha with his teeth."
+  references:
+    - source: dutt-bhagavata-purana
+      locator: "2.7"
+- id: av-bhag27-dattatreya
+  from: dattatreya
+  to: vishnu
+  type: avatar_of
+  position: 4
+  variant: avatars-list-bhagavata-2-7
+  explanation: "Atri asked for offspring and the Lord said he had given himself; he was therefore called Datta."
+  references:
+    - source: dutt-bhagavata-purana
+      locator: "2.7"
+- id: av-bhag27-matsya
+  from: matsya
+  to: vishnu
+  type: avatar_of
+  position: 10
+  variant: avatars-list-bhagavata-2-7
+  explanation: "At the time of dissolution Vaivasvata Manu saw the Lord as a fish that sheltered the earth and all beings; the fish also retrieved the Vedas that fell from Brahma's mouth."
+  references:
+    - source: dutt-bhagavata-purana
+      locator: "2.7"
+- id: av-bhag27-kurma
+  from: kurma
+  to: vishnu
+  type: avatar_of
+  position: 11
+  variant: avatars-list-bhagavata-2-7
+  explanation: "As a tortoise the Lord held Mount Mandara on his back during the churning of the ocean."
+  references:
+    - source: dutt-bhagavata-purana
+      locator: "2.7"
+- id: av-bhag27-narasimha
+  from: narasimha
+  to: vishnu
+  type: avatar_of
+  position: 12
+  variant: avatars-list-bhagavata-2-7
+  explanation: "As the man-lion the Lord removed the fear of the gods by piercing the lord of the Daityas with his nails."
+  references:
+    - source: dutt-bhagavata-purana
+      locator: "2.7"
+- id: av-bhag27-vamana
+  from: vamana
+  to: vishnu
+  type: avatar_of
+  position: 13
+  variant: avatars-list-bhagavata-2-7
+  explanation: "Youngest of Aditi's twelve sons by age but the eldest by his deeds, he takes the earth from Bali in the shape of a dwarf, with three strides."
+  references:
+    - source: dutt-bhagavata-purana
+      locator: "2.7"
+- id: av-bhag27-dhanvantari
+  from: dhanvantari
+  to: vishnu
+  type: avatar_of
+  position: 14
+  variant: avatars-list-bhagavata-2-7
+  explanation: "The Lord descends as Dhanvantari, who removes human ills, takes the sacrificial portion obstructed by the demons, and first teaches the science of Ayurveda."
+  references:
+    - source: dutt-bhagavata-purana
+      locator: "2.7"
+- id: av-bhag27-parashurama
+  from: parashurama
+  to: vishnu
+  type: avatar_of
+  position: 15
+  variant: avatars-list-bhagavata-2-7
+  explanation: "With his axe the Lord exterminates the Kshatriyas three times seven times; Dutt's note names this form Parashurama."
+  references:
+    - source: dutt-bhagavata-purana
+      locator: "2.7"
+- id: av-bhag27-rama
+  from: rama
+  to: vishnu
+  type: avatar_of
+  position: 16
+  variant: avatars-list-bhagavata-2-7
+  explanation: "Born in the race of Ikshvaku, he goes to the forest at his father's command with his brother and wife, and kills Ravana."
+  references:
+    - source: dutt-bhagavata-purana
+      locator: "2.7"
+- id: av-bhag27-krishna
+  from: krishna
+  to: vishnu
+  type: avatar_of
+  position: 17
+  variant: avatars-list-bhagavata-2-7
+  explanation: "Hari becomes incarnate as Krishna, with Balarama as another portion, to relieve the earth of the armies of Asura kings."
+  references:
+    - source: dutt-bhagavata-purana
+      locator: "2.7"
+- id: av-bhag27-buddha
+  from: buddha-avatar
+  to: vishnu
+  type: avatar_of
+  position: 19
+  variant: avatars-list-bhagavata-2-7
+  explanation: "Hari takes the form of Buddha to confuse the opponents of the gods who had mastered the Vedas and raised flying cities; position counts every form named in Brahma's recital, including the unnamed ones."
+  references:
+    - source: dutt-bhagavata-purana
+      locator: "2.7"
+- id: av-bhag27-kalki
+  from: kalki
+  to: vishnu
+  type: avatar_of
+  position: 20
+  variant: avatars-list-bhagavata-2-7
+  explanation: "The Great God will take birth at the end of the yuga to punish the wicked when sacrificial words are no longer heard and Shudra kings rule."
+  references:
+    - source: dutt-bhagavata-purana
+      locator: "2.7"
+      note: "The name Kalki is given in 1.3; in 2.7 the future form is described without the name."
+
+# --- Harivamsha chapter 41 (Dutt) ---------------------------------------------
+- id: av-hv41-varaha
+  from: varaha
+  to: vishnu
+  type: avatar_of
+  position: 2
+  variant: avatars-list-harivamsha-41
+  explanation: "The second form in the chapter, after the lotus form, is the boar who raises the earth from the ocean."
+  references:
+    - source: dutt-harivamsha
+      locator: "41"
+- id: av-hv41-narasimha
+  from: narasimha
+  to: vishnu
+  type: avatar_of
+  position: 3
+  variant: avatars-list-harivamsha-41
+  explanation: "The third form is the half-lion, half-man who kills Hiranyakashipu."
+  references:
+    - source: dutt-harivamsha
+      locator: "41"
+- id: av-hv41-vamana
+  from: vamana
+  to: vishnu
+  type: avatar_of
+  position: 4
+  variant: avatars-list-harivamsha-41
+  explanation: "The fourth form is the dwarf who takes the worlds in three footsteps at Bali's sacrifice."
+  references:
+    - source: dutt-harivamsha
+      locator: "41"
+- id: av-hv41-dattatreya
+  from: dattatreya
+  to: vishnu
+  type: avatar_of
+  position: 5
+  variant: avatars-list-harivamsha-41
+  explanation: "The fifth form is Dattatreya, who restores the Vedas, sacrifices and the four castes and gives Kartavirya a thousand arms."
+  references:
+    - source: dutt-harivamsha
+      locator: "41"
+- id: av-hv41-parashurama
+  from: parashurama
+  to: vishnu
+  type: avatar_of
+  position: 6
+  variant: avatars-list-harivamsha-41
+  explanation: "The sixth form is Rama, Jamadagni's son, who defeats Kartavirya Arjuna and clears the earth of Kshatriyas."
+  references:
+    - source: dutt-harivamsha
+      locator: "41"
+- id: av-hv41-rama
+  from: rama
+  to: vishnu
+  type: avatar_of
+  position: 7
+  variant: avatars-list-harivamsha-41
+  explanation: "In the twenty-fourth yuga the Lord divides himself into four and is born as Dasharatha's son Rama."
+  references:
+    - source: dutt-harivamsha
+      locator: "41"
+- id: av-hv41-krishna
+  from: krishna
+  to: vishnu
+  type: avatar_of
+  position: 8
+  variant: avatars-list-harivamsha-41
+  explanation: "In the Mathura kalpa the Lord goes through the incarnation as Krishna, slaying Kansa and the other demons named in the chapter."
+  references:
+    - source: dutt-harivamsha
+      locator: "41"
+- id: av-hv41-kalki
+  from: kalki
+  to: vishnu
+  type: avatar_of
+  position: 10
+  variant: avatars-list-harivamsha-41
+  explanation: "The tenth and future form is Kalki, born in the house of the Brahmin Vishnuyashas at Sambhala. In the chapter he debates followers of Buddhism; the Buddha is not one of the forms in this list."
+  references:
+    - source: dutt-harivamsha
+      locator: "41"
+
+# --- Mahabharata, Santi Parva 340 (Ganguli) --------------------------------------
+- id: av-mbh12340-kurma
+  from: kurma
+  to: vishnu
+  type: avatar_of
+  position: 2
+  variant: avatars-list-mahabharata-santi-340
+  explanation: "Narayana tells Narada he will appear as a swan, then a tortoise, then a fish."
+  references:
+    - source: ganguli-mahabharata
+      locator: "12.340"
+- id: av-mbh12340-matsya
+  from: matsya
+  to: vishnu
+  type: avatar_of
+  position: 3
+  variant: avatars-list-mahabharata-santi-340
+  explanation: "The fish is the third in Narayana's list."
+  references:
+    - source: ganguli-mahabharata
+      locator: "12.340"
+- id: av-mbh12340-varaha
+  from: varaha
+  to: vishnu
+  type: avatar_of
+  position: 4
+  variant: avatars-list-mahabharata-santi-340
+  explanation: "Narayana says he will take the boar form to bring back the submerged earth and slay Hiranyaksha."
+  references:
+    - source: ganguli-mahabharata
+      locator: "12.340"
+- id: av-mbh12340-narasimha
+  from: narasimha
+  to: vishnu
+  type: avatar_of
+  position: 5
+  variant: avatars-list-mahabharata-santi-340
+  explanation: "As the man-lion he will slay Hiranyakashipu, son of Diti, who destroys sacrifices."
+  references:
+    - source: ganguli-mahabharata
+      locator: "12.340"
+- id: av-mbh12340-vamana
+  from: vamana
+  to: vishnu
+  type: avatar_of
+  position: 6
+  variant: avatars-list-mahabharata-santi-340
+  explanation: "He will be born to Kashyapa and Aditi as the twelfth Aditya and restore the three worlds to Indra after Bali has seized them."
+  references:
+    - source: ganguli-mahabharata
+      locator: "12.340"
+- id: av-mbh12340-parashurama
+  from: parashurama
+  to: vishnu
+  type: avatar_of
+  position: 7
+  variant: avatars-list-mahabharata-santi-340
+  explanation: "In the Treta age he will be born as Rama in Bhrigu's race and destroy the proud Kshatriyas."
+  references:
+    - source: ganguli-mahabharata
+      locator: "12.340"
+- id: av-mbh12340-rama
+  from: rama
+  to: vishnu
+  type: avatar_of
+  position: 8
+  variant: avatars-list-mahabharata-santi-340
+  explanation: "At the close of Treta he will be Rama, son of Dasaratha, in Ikshvaku's line, and kill Ravana."
+  references:
+    - source: ganguli-mahabharata
+      locator: "12.340"
+- id: av-mbh12340-krishna
+  from: krishna
+  to: vishnu
+  type: avatar_of
+  position: 9
+  variant: avatars-list-mahabharata-santi-340
+  explanation: "At the end of Dvapara and the start of Kali he will be born at Mathura as Krishna of the Sattwata race."
+  references:
+    - source: ganguli-mahabharata
+      locator: "12.340"
+- id: av-mbh12340-kalki
+  from: kalki
+  to: vishnu
+  type: avatar_of
+  position: 10
+  variant: avatars-list-mahabharata-santi-340
+  explanation: "Kalki is named last in Narayana's list of forms."
+  references:
+    - source: ganguli-mahabharata
+      locator: "12.340"
+
+# --- Vishnu Purana: statements not tied to a numbered list ---------------------------
+- id: av-vp-varaha
+  from: varaha
+  to: vishnu
+  type: avatar_of
+  variant: vishnu-purana-account
+  explanation: "At the start of the present kalpa Narayana takes the boar form to raise the earth from the waters."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.4"
+- id: av-vp-matsya
+  from: matsya
+  to: vishnu
+  type: avatar_of
+  variant: vishnu-purana-account
+  explanation: "The Vishnu Purana mentions only in passing that in earlier kalpas Narayana had taken the shape of a fish."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.4"
+- id: av-vp-kurma
+  from: kurma
+  to: vishnu
+  type: avatar_of
+  variant: vishnu-purana-account
+  explanation: "At the churning of the ocean Hari, in the form of a tortoise, is the pivot for the mountain. The text also mentions the tortoise form among Narayana's earlier forms."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.9"
+    - source: wilson-vishnu-purana
+      locator: "1.4"
+- id: av-vp-narasimha
+  from: narasimha
+  to: vishnu
+  type: avatar_of
+  variant: vishnu-purana-account
+  explanation: "The Vishnu Purana says Hiranyakashipu was put to death by Vishnu in the form of the man-lion."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.20"
+- id: av-vp-vamana
+  from: vamana
+  to: vishnu
+  type: avatar_of
+  variant: vishnu-purana-account
+  explanation: "In the present manvantara Vishnu is born as Vamana, son of Kashyapa by Aditi, and with three paces gives the worlds to Indra."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "3.1"
+- id: av-vp-parashurama
+  from: parashurama
+  to: vishnu
+  type: avatar_of
+  variant: vishnu-purana-account
+  explanation: "Parashurama, the destroyer of the Kshatriya race, is called a portion of Narayana."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "4.7"
+- id: av-vp-krishna
+  from: krishna
+  to: vishnu
+  type: avatar_of
+  variant: vishnu-purana-account
+  explanation: "Vishnu promises the gods that his hair will be born in Devaki's eighth conception, and the text then narrates the birth of Krishna."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "5.1"
+    - source: wilson-vishnu-purana
+      locator: "5.3"
+- id: av-vp-kalki
+  from: kalki
+  to: vishnu
+  type: avatar_of
+  variant: vishnu-purana-account
+  explanation: "Near the end of Kali a portion of the divine being will be born in Sambhala as Kalki and restore righteousness."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "4.24"
+- id: av-vp-dattatreya
+  from: dattatreya
+  to: vishnu
+  type: avatar_of
+  variant: vishnu-purana-account
+  explanation: "The sage Dattatreya, of Atri's line, is called a portion of Vishnu."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "4.11"
+- id: av-vp-buddha-manifestation
+  from: buddha-avatar
+  to: vishnu
+  type: manifestation_of
+  variant: vishnu-purana-account
+  explanation: "When the gods are beaten by the Daityas, Vishnu emits an illusory form from his body to lead the Daityas away from the Vedas. The text does not call this an avatar; Wilson's chapter heading names the figure Buddha. This is a Vaishnava Puranic story, not an account of the historical Buddha."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "3.17"
+    - source: wilson-vishnu-purana
+      locator: "3.18"
+- id: av-vp-mohini-manifestation
+  from: mohini
+  to: vishnu
+  type: manifestation_of
+  variant: vishnu-purana-account
+  explanation: "At the churning of the ocean Vishnu assumes a female form to bewilder the Daityas and recover the amrita. The Vishnu Purana does not name the form; the Bhagavata's list gives the name Mohini."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.9"
+- id: av-vp-balarama-manifestation-of-shesha
+  from: balarama
+  to: shesha
+  type: manifestation_of
+  variant: vishnu-purana-account
+  explanation: "In the Vishnu Purana the seventh conception of Devaki is formed of a portion of Shesha, who is himself a part of Vishnu, and is moved into Rohini's womb. The child is named Sankarshana. Here Balarama is not directly an avatar of Vishnu."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "5.1"

@@ -1,0 +1,33 @@
+slug: uchchaihshravas
+names:
+  - text: Uchchaihshravas
+    lang: en
+    script: Latn
+  - text: उच्चैःश्रवस्
+    lang: sa
+    script: Deva
+    iast: Uccaiḥśravas
+epithets:
+  - text: Uchchaihsravas
+    lang: en
+    script: Latn
+  - text: Uchchaiśśravas
+    lang: en
+    script: Latn
+kinds:
+  - other
+traditions:
+  - itihasa
+  - puranic
+summary_beginner: The divine white horse that rises from the ocean when the gods and asuras churn it. In the Mahabharata the sisters Kadru and Vinata argue over the colour of its tail, which starts the wager that binds Vinata to slavery.
+summary_scholar: MBh 1.17 and 1.20 name the steed as the one produced by the churning; MBh 1.18 calls it only the white steed. The Ramayana (1.45) and Wilson's note to VP 1.9 both say Indra's horse is Uchchaihshravas; the main text of the Vishnu Purana does not list the horse among the churning's products.
+references:
+  - source: ganguli-mahabharata
+    locator: "1.17"
+  - source: ganguli-mahabharata
+    locator: "1.20"
+  - source: griffith-ramayana
+    locator: "1.45"
+  - source: wilson-vishnu-purana
+    locator: "1.9"
+    note: Wilson's footnote 8 lists the horse Uchchaiśśravas as taken by Indra.

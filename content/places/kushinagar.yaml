@@ -1,0 +1,88 @@
+slug: kushinagar
+names:
+  - text: Kushinagar
+    lang: en
+    script: Latn
+  - text: कुशीनगर
+    lang: hi
+    script: Deva
+  - text: Kusinara
+    lang: pi
+    script: Latn
+    iast: Kusinārā
+  - text: Kasia
+    lang: en
+    script: Latn
+realm: terrestrial
+kind: site
+confidence: debated
+geometry:
+  type: Point
+  coordinates:
+    - 83.89
+    - 26.74
+modern_admin:
+  country: India
+  region: Uttar Pradesh
+  nearest_city: Gorakhpur
+alternative_identifications:
+  - label: Kasia, Gorakhpur district
+    confidence: debated
+    geometry:
+      type: Point
+      coordinates:
+        - 83.89
+        - 26.74
+    modern_admin:
+      country: India
+      region: Uttar Pradesh
+    argument: Wilson proposed and Cunningham argued for Kasia from the pilgrims' distances and
+      from a local name for the ruins ("Dead Prince"), and from a recumbent Buddha statue there.
+      The Imperial Gazetteer records that the identification was long held but that the buildings
+      do not agree with the description of Kusanagara given by the Chinese pilgrims.
+    references:
+      - source: cunningham-ancient-geography
+        locator: "430"
+      - source: cunningham-ancient-geography
+        locator: "432"
+      - source: imperial-gazetteer-1909
+        locator: "15:148"
+evidence:
+  - type: historical
+    summary: Fa-hien and Xuanzang describe Kusinagara, the place of the Buddha's passing away,
+      by direction and distance from other sites; Cunningham matched the description to the
+      ruins at Kasia.
+    references:
+      - source: legge-fa-hien
+        locator: "24"
+      - source: beal-si-yu-ki
+        locator: "2:30"
+      - source: cunningham-ancient-geography
+        locator: "431"
+traditions:
+  - buddhist
+pilgrimage_networks:
+  - network: buddhist-four-great-places
+    variant: buddhist-four-places-mahaparinibbana
+    references:
+      - source: rhys-davids-buddhist-suttas
+        locator: "5.20"
+        note: The fourth place is where the Tathagata passed away into final nibbana.
+      - source: cunningham-mahabodhi
+        locator: vii
+  - network: buddhist-fa-hien-sacred-places
+    variant: buddhist-places-fa-hien-record
+    references:
+      - source: legge-fa-hien
+        locator: "24"
+summary_beginner: The place in north India where Buddhist tradition says the Buddha passed away.
+  Pilgrims today visit it at Kushinagar, near Kasia in Uttar Pradesh.
+summary_scholar: The pilgrim records and Cunningham's 1871 identification with Kasia are the
+  basis here, and the 1908 Gazetteer noted a mismatch with the Chinese descriptions; sources not
+  read here may have settled the question since, so this record is held at debated. The Buddha's
+  passing is a traditional account and is not verified by the site.
+references:
+  - source: cunningham-ancient-geography
+    locator: "430"
+  - source: imperial-gazetteer-1909
+    locator: "15:148"

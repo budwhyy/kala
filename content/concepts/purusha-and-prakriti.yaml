@@ -1,0 +1,56 @@
+slug: purusha-and-prakriti
+names:
+  - text: "Purusha and Prakriti"
+    lang: en
+    script: Latn
+  - text: "पुरुष"
+    lang: sa
+    script: Deva
+    iast: "Puruṣa"
+  - text: "प्रकृति"
+    lang: sa
+    script: Deva
+    iast: "Prakṛti"
+summary_beginner: "Purusha (the conscious person or spirit) and Prakriti (nature or matter) are two principles used in Samkhya and in several other texts. Schools disagree on whether they are two independent realities, with many separate purushas, or aspects of one Lord."
+interpretations:
+  - tradition: samkhya
+    explanation: "The Samkhya Karika argues that there is a soul distinct from nature: a witness, solitary and inactive, existing because the products of nature are for another's use. It holds that souls are many, and that nature, though unintelligent, evolves to free the soul, as milk flows to nourish a calf."
+    references:
+      - source: colebrooke-sankhya-karika
+        locator: "karika 17-19"
+      - source: colebrooke-sankhya-karika
+        locator: "karika 56-58"
+  - tradition: itihasa
+    explanation: "The Gita speaks of Krishna's lower nature, divided eightfold, and a higher, living nature that upholds the world. It also says spirit joined to nature enjoys the qualities of nature, and that one who knows spirit, nature and the qualities is not reborn."
+    references:
+      - source: telang-bhagavadgita
+        locator: "7.4-6"
+      - source: telang-bhagavadgita
+        locator: "13.21-23"
+  - tradition: vedanta
+    explanation: "The Katha Upanishad lists a series of higher levels: beyond the senses, objects, mind and intellect lies the Great Self, then the Undeveloped, and beyond the Undeveloped the Person (purusha), beyond whom there is nothing. The Svetasvatara Upanishad calls nature maya and the great Lord its maker."
+    references:
+      - source: muller-upanishads
+        locator: "Katha Upanishad 1.3.10-11 (SBE 15)"
+      - source: muller-upanishads
+        locator: "Svetasvatara Upanishad 4.10 (SBE 15)"
+  - tradition: yoga
+    explanation: "The Yoga Sutras adopt the pair of Seer and seen: the seen exists for the sake of the Seer's experience and liberation, and their linkage is the cause of what is to be escaped."
+    references:
+      - source: woods-yoga-system-patanjali
+        locator: "Yoga-sutra 2.17-21"
+  - tradition: advaita-vedanta
+    explanation: "Shankara rejects an independent primal nature, saying that if the previous causal state of the world were independent he would be conceding the Samkhya pradhana. He allows only a seed-state that depends on the highest Lord."
+    references:
+      - source: thibaut-vedanta-sutras-shankara
+        locator: "SBE 34, Vedanta-Sutras 1.4.3"
+  - tradition: vishishtadvaita
+    explanation: "Ramanuja holds that the highest Brahman has both souls and matter as its body, and that both are real. Matter is thus Brahman's, not a rival principle, and souls are Brahman's manifestations, not separate sovereign selves."
+    references:
+      - source: thibaut-vedanta-sutras-ramanuja
+        locator: "SBE 48, Vedanta-Sutras 1.1.1 (pp. 88-89)"
+related:
+  - guna
+  - atman
+  - maya
+  - brahman

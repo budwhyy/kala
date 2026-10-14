@@ -1,0 +1,58 @@
+slug: amarkantak
+names:
+  - text: "Amarkantak"
+    lang: en
+    script: Latn
+  - text: "अमरकण्टक"
+    lang: sa
+    script: Deva
+    iast: "Amarakaṇṭaka"
+  - text: "अमरकंटक"
+    lang: hi
+    script: Deva
+realm: terrestrial
+kind: tirtha
+confidence: traditional
+geometry:
+  type: Point
+  coordinates:
+    - 81.76
+    - 22.68
+modern_admin:
+  country: "India"
+  region: "Madhya Pradesh"
+  district: "Anuppur"
+evidence:
+  - type: historical
+    summary: "The Imperial Gazetteer describes Amarkantak in Rewah State as famous for the source of the Narbada and one of the most sacred spots in India, with eleven places in the neighbourhood regularly visited by pilgrims, including the Narbada's source tank, the falls of Kapildhara and Son Munda where the Son rises. It records a temple of three sanctuaries arranged like a trefoil, said to have been built by a Chedi ruler named Kama or Karna Deo in 1040-70 (the scan reads 'Kama') and about fourteen other temples near it."
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "5:274"
+  - type: textual
+    summary: "The Devi Bhagavata gives the Devi's name at Amarakantaka as Chandika (7.30). The identification of that place with this hill is traditional."
+    references:
+      - source: vijnanananda-devi-bhagavata
+        locator: "7.30"
+related_places:
+  - to: narmada
+    relation: near
+    note: "The Narmada rises from a tank at Amarkantak."
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "5:274"
+traditions:
+  - hindu
+  - shakta
+  - shaiva
+summary_beginner: "A plateau in central India where the Narmada and Son rivers rise, a pilgrimage place with a cluster of old temples."
+summary_scholar: "The date 1040-70 for the principal temple is the Gazetteer's attribution, quoting Cunningham's survey report; the Narmada-Bai temple is thought older but could not be examined."
+references:
+  - source: imperial-gazetteer-1909
+    locator: "5:274"
+pilgrimage_networks:
+  - network: shakti-peethas
+    variant: pilgrimage-shakti-devi-bhagavata-108
+    references:
+      - source: vijnanananda-devi-bhagavata
+        locator: "7.30"
+        note: "Chandika in Amarakantaka"

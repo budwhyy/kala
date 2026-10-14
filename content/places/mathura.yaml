@@ -55,3 +55,19 @@ references:
     locator: "373"
   - source: wilson-vishnu-purana
     locator: "4.4"
+pilgrimage_networks:
+  - network: sapta-puri
+    variant: pilgrimage-sapta-puri-sacred-cities-gazetteer
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "18:72-74"
+        note: "Muttra City: one of the great centres of Hindu religious life, birthplace of Krishna"
+      - source: dutt-garuda-purana
+        locator: "81"
+        note: "Mathura, p. 210"
+  - network: shakti-peethas
+    variant: pilgrimage-shakti-devi-bhagavata-108
+    references:
+      - source: vijnanananda-devi-bhagavata
+        locator: "7.30"
+        note: "Devaki in Mathura"

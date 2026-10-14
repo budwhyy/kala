@@ -1,0 +1,23 @@
+slug: airavata
+names:
+  - text: Airavata
+    lang: en
+    script: Latn
+  - text: ऐरावत
+    lang: sa
+    script: Deva
+    iast: Airāvata
+kinds:
+  - other
+traditions:
+  - itihasa
+  - puranic
+summary_beginner: The great white elephant who carries Indra. In the Mahabharata's account of the churning he rises from the ocean and Indra takes him.
+summary_scholar: The origin of Airavata is told two ways in the Adi Parva itself. MBh 1.18 has him arise at the churning; MBh 1.66 lists him among the offspring of Bhadramana, a daughter of Krodha. The Vishnu Purana shows him as Indra's mount in the story of Durvasas's garland (1.9) but does not list him among the products of the churning in its main text, although Wilson's note includes him in the longer lists of other Puranas. A naga named Airavata is a different figure (Wilson's note to VP 1.21).
+references:
+  - source: ganguli-mahabharata
+    locator: "1.18"
+  - source: ganguli-mahabharata
+    locator: "1.66"
+  - source: wilson-vishnu-purana
+    locator: "1.9"

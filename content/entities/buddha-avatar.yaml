@@ -1,0 +1,33 @@
+slug: buddha-avatar
+names:
+  - text: Buddha (Puranic avatar)
+    lang: en
+    script: Latn
+  - text: बुद्ध
+    lang: sa
+    script: Deva
+    iast: Buddha
+kinds: [deity]
+traditions: [vaishnava, puranic]
+summary_beginner: >-
+  A figure in Vaishnava Puranic tradition: in the Bhagavata Purana's lists, Hari takes birth as Buddha, son of Anjana,
+  at the start of Kali to bewilder the enemies of the gods. This Puranic figure is a separate record from the historical
+  Buddha and is not part of Buddhism; Buddhists do not regard the Buddha as an avatar of Vishnu.
+summary_scholar: >-
+  The Bhagavata lists (1.3 and 2.7) place a Buddha among the descents of Hari. The Vishnu Purana tells a related story in
+  3.17-3.18 without a list: Vishnu emits an illusory form that leads the Daityas away from the Vedic path, and Wilson's
+  chapter heading calls the figure Buddha. The text itself plays on the word for "know" and mentions Jain and Buddhist
+  teachings, which Wilson reads as evidence about the date of the work. The Santi Parva list and the Harivamsha list have
+  no Buddha among Vishnu's forms. These are Vaishnava Puranic claims about the Buddha; nothing in KALA's Buddhist records
+  depends on them.
+references:
+  - source: dutt-bhagavata-purana
+    locator: "1.3"
+    note: "Born among the Kikatas as Buddha, son of Anjana, to delude the foes of the gods."
+  - source: dutt-bhagavata-purana
+    locator: "2.7"
+  - source: wilson-vishnu-purana
+    locator: "3.17"
+    note: "Vishnu emits an illusory form to mislead the Daityas."
+  - source: wilson-vishnu-purana
+    locator: "3.18"

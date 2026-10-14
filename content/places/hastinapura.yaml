@@ -65,3 +65,10 @@ references:
     locator: "67"
   - source: cunningham-ancient-geography
     locator: "392"
+pilgrimage_networks:
+  - network: shakti-peethas
+    variant: pilgrimage-shakti-devi-bhagavata-108
+    references:
+      - source: vijnanananda-devi-bhagavata
+        locator: "7.30"
+        note: "Jayanti in Hastinapura"

@@ -1,0 +1,64 @@
+slug: kedarnath
+names:
+  - text: "Kedarnath"
+    lang: en
+    script: Latn
+  - text: "केदारनाथ"
+    lang: sa
+    script: Deva
+    iast: "Kedāranātha"
+  - text: "केदारनाथ"
+    lang: hi
+    script: Deva
+realm: terrestrial
+kind: tirtha
+confidence: traditional
+geometry:
+  type: Point
+  coordinates:
+    - 79.07
+    - 30.73
+modern_admin:
+  country: "India"
+  region: "Uttarakhand"
+  district: "Rudraprayag"
+evidence:
+  - type: historical
+    summary: "The Imperial Gazetteer describes Kedarnath as a famous temple and place of pilgrimage in Garhwal, at about 11,753 feet below the snow peak Mahapanth. It reports the local tradition that Sadasiva, a form of Siva, fleeing the Pandavas in the form of a buffalo, left his hind quarters on the surface here, and that other parts of his body are revered at Tungnath, Rudranath, Madhyamaheshwar and Kalpeshwar."
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "15:196"
+  - type: textual
+    summary: "Wilson's list of twelve lingas from the Nandi Upapurana ends with Kedaresa, or Kedaranath, in the Himalaya, whose deity is a shapeless mass of rock."
+    references:
+      - source: wilson-religious-sects-1861
+        locator: "224"
+  - type: textual
+    summary: "Dutt's translation of the Garuda Purana (chapter 81) says the sanctuary at Kedara absolves a pilgrim of all sins. The identification of that Kedara with this valley is traditional."
+    references:
+      - source: dutt-garuda-purana
+        locator: "81"
+        note: "p. 209"
+traditions:
+  - shaiva
+  - hindu
+summary_beginner: "A Shiva temple among the snow peaks of Garhwal, one of the twelve jyotirlingas in the list Wilson reports and the third shrine of the Chota Char Dham. Local tradition, as the Gazetteer records, links it to the Pandavas and to the body of Shiva in the form of a buffalo."
+summary_scholar: "The Pandava buffalo story is attributed by the Gazetteer to local tradition and is not dated here. Wilson's 'Kedaresa' is placed only vaguely ('in the Himalaya'), so the equation with this temple is his and later tradition's, not the text's."
+references:
+  - source: imperial-gazetteer-1909
+    locator: "15:196"
+  - source: wilson-religious-sects-1861
+    locator: "224"
+pilgrimage_networks:
+  - network: chota-char-dham
+    variant: pilgrimage-chota-char-dham-himalayan
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "15:196"
+        note: "Famous temple and pilgrimage place in Garhwal"
+  - network: jyotirlingas
+    variant: pilgrimage-jyotirlinga-wilson-nandi-upapurana
+    references:
+      - source: wilson-religious-sects-1861
+        locator: "224"
+        note: "Item 12: Kedaresa, or Kedaranath, in the Himalaya"

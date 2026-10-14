@@ -1,0 +1,62 @@
+slug: samudra-manthana-vishnu-purana
+same_story_as:
+  - samudra-manthana-mahabharata
+  - samudra-manthana-ramayana
+names:
+  - text: Samudra manthana (Churning of the Ocean), Vishnu Purana account
+    lang: en
+    script: Latn
+  - text: समुद्रमन्थन
+    lang: sa
+    script: Deva
+    iast: Samudramanthana
+participants:
+  - entity: vishnu
+    role: instructs the gods, serves as the churning's pivot in tortoise form and as the enchantress who recovers the amrita
+  - entity: kurma
+    role: Vishnu's tortoise form that supports the mountain
+  - entity: mohini
+    role: the female form Vishnu takes to recover the amrita
+  - entity: brahma
+    role: leads the gods to Vishnu's presence
+  - entity: indra
+    role: king of the gods, cursed by Durvasas, restored to rule and praises Shri
+  - entity: vasuki
+    role: the serpent used as the cord
+  - entity: daityas
+    role: hold the serpent's head and neck, then seize the cup
+  - entity: danavas
+    role: pull at the serpent's head side with the Daityas
+  - entity: agni
+    role: goes with Indra and the gods to Brahma
+  - entity: lakshmi
+    role: Shri, who rises from the ocean and grants Indra boons
+  - entity: chandra
+    role: the Moon, taken by Mahadeva
+  - entity: dhanvantari
+    role: rises with the cup of amrita
+  - entity: varuni
+    role: the goddess of wine who rises
+  - entity: apsarases
+    role: the nymphs produced from the ocean
+  - entity: kalakuta
+    role: the poison that the Nagas take
+  - entity: airavata
+    role: Indra's elephant, from which the garland falls
+  - entity: vishvakarma
+    role: adorns the goddess with heavenly ornaments
+places:
+  - kshira-sagara
+  - mandara
+  - patala
+narrative_order:
+  text: vishnu-purana
+  position: 9
+variant: vishnu-purana-account
+traditions:
+  - puranic
+summary_beginner: In the Vishnu Purana the sage Durvasas gives Indra a garland; Indra's elephant Airavata throws it down, and Durvasas curses Indra to lose his power. The Daityas overthrow the weakened gods, who go to Vishnu. He tells them to make peace with the Daityas and churn the sea of milk with Mandara and Vasuki, while he himself bears the mountain as a tortoise. Many things rise, among them the goddess Shri, Dhanvantari with the cup of amrita, and Vishnu in a female form recovers the amrita and gives it to the gods, who regain heaven.
+summary_scholar: Vishnu Purana 1.9, told by Parashara to Maitreya as the story of Lakshmi. The Durvasas episode is not in the Mahabharata or Ramayana accounts; Wilson's footnote 8 calls it an embellishment, observes that the churning is absent or brief in several Puranas, and lists the products of the ocean as the sources give them. In this account Vishnu promises the Daityas an equal share but plans that they will only toil, and the Nagas take the poison instead of Shiva. Its sequence of products is stored as the Vishnu Purana list variant. Shri is also Bhrigu's daughter in the same chapter, and the text says her ocean birth was a later one. No yuga or manvantara is given. The 'position' in narrative_order is the Book 1 chapter number.
+references:
+  - source: wilson-vishnu-purana
+    locator: "1.9"

@@ -53,3 +53,10 @@ references:
     locator: "2.3"
   - source: cunningham-ancient-geography
     locator: "388"
+pilgrimage_networks:
+  - network: river-tirthas
+    variant: pilgrimage-river-tirthas-gazetteer
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "12:132-136"
+        note: "Ganges: the river is especially sacred; Prayag, Gangotri and Benares among its bathing resorts"

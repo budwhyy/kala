@@ -1,0 +1,30 @@
+slug: kalki
+names:
+  - text: Kalki
+    lang: en
+    script: Latn
+  - text: कल्कि
+    lang: sa
+    script: Deva
+    iast: Kalki
+kinds: [deity]
+traditions: [vaishnava, puranic, itihasa]
+summary_beginner: >-
+  The future form of Vishnu. The Vishnu Purana says that near the end of the Kali age he will be born in the village of
+  Sambhala to a Brahmin named Vishnuyashas, overthrow the unrighteous, and so prepare the return of the Krita (golden)
+  age.
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.24"
+    note: "Born in the family of Vishnuyashas at Sambhala; destroys the wicked and restores righteousness."
+  - source: wilson-vishnu-purana
+    locator: "3.2"
+    note: "In each of the four ages Vishnu has a role; at the end of Kali he appears as Kalki."
+  - source: dutt-harivamsha
+    locator: "41"
+    note: "Appears in the house of the Brahmin Vishnuyashas at Sambhala; the tenth in the chapter's count."
+  - source: ganguli-mahabharata
+    locator: "12.340"
+    note: "Named last in Narayana's list."
+  - source: dutt-bhagavata-purana
+    locator: "1.3"

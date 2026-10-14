@@ -1,11 +1,14 @@
 "use client";
 import dynamic from "next/dynamic";
-import Link from "next/link";
-import { usePathname, useRouter, useSearchParams } from "next/navigation";
+import { useLocale, useTranslations } from "next-intl";
+import { Link } from "@/i18n/navigation";
+import { useSearchParams } from "next/navigation";
+import { usePathname, useRouter } from "@/i18n/navigation";
 import { useEffect, useMemo, useState, type ReactNode } from "react";
 import { GROUP_STYLE, type CEdge, type CNode } from "@/lib/graph/constellation";
 import { layoutInWorker, type Positions } from "@/lib/graph/force";
-import { tracePaths, VERB } from "@/lib/graph/trace";
+import { subLang } from "@/lib/i18n-helpers";
+import { tracePaths } from "@/lib/graph/trace";
 import { useReducedMotion, useViewMode } from "@/lib/state/view";
 import { ViewToggle } from "./ViewToggle";
 
@@ -15,9 +18,8 @@ const Constellation = dynamic(() => import("@/components/3d/GenealogyConstellati
 });
 
 function Loading() {
-  return (
-    <div className="grid h-full place-items-center text-muted">Arranging the constellation…</div>
-  );
+  const t = useTranslations("genealogy");
+  return <div className="grid h-full place-items-center text-muted">{t("loading")}</div>;
 }
 
 export function GenealogyExplorer({
@@ -32,7 +34,11 @@ export function GenealogyExplorer({
   /** Server-rendered list view (the 2D equivalent). */
   list: ReactNode;
 }) {
-  const [view, setView, webgl] = useViewMode();
+  const t = useTranslations("genealogy");
+  const tv = useTranslations("verbs");
+  const tc = useTranslations("common");
+  const locale = useLocale();
+  const [view, setView, webgl, ready] = useViewMode({ heavy: true });
   const reducedMotion = useReducedMotion();
   const params = useSearchParams();
   const router = useRouter();
@@ -53,7 +59,7 @@ export function GenealogyExplorer({
   );
 
   useEffect(() => {
-    if (view !== "3d") return;
+    if (view !== "3d" || !ready) return;
     let live = true;
     layoutInWorker({
       nodes: nodes.map((n) => n.slug),
@@ -62,7 +68,7 @@ export function GenealogyExplorer({
     return () => {
       live = false;
     };
-  }, [view, nodes, edges]);
+  }, [view, ready, nodes, edges]);
 
   const setParam = (key: string, value: string | null) => {
     const next = new URLSearchParams(params.toString());
@@ -105,7 +111,7 @@ export function GenealogyExplorer({
         <div>
           {view === "3d" ? (
             <div className="h-[24rem] rounded-xl border border-white/10 bg-gradient-to-b from-indigo/30 to-void sm:h-[34rem]">
-              {positions ? (
+              {ready && positions ? (
                 <Constellation
                   nodes={nodes}
                   edges={visibleEdges}
@@ -124,11 +130,8 @@ export function GenealogyExplorer({
           )}
           {variants.length > 0 && (
             <fieldset className="mt-4 rounded-lg border border-celestial/30 p-3 text-sm">
-              <legend className="px-1 text-celestial">Accounts shown</legend>
-              <p className="mb-2 text-muted">
-                Claims that belong to one text can be hidden. Claims shared across the sources are
-                always shown.
-              </p>
+              <legend className="px-1 text-celestial">{t("accountsShown")}</legend>
+              <p className="mb-2 text-muted">{t("accountsNote")}</p>
               <div className="flex flex-wrap gap-x-4 gap-y-1">
                 {variants.map((v) => (
                   <label key={v} className="inline-flex items-center gap-1.5">
@@ -154,56 +157,60 @@ export function GenealogyExplorer({
           <div className="rounded-xl border border-white/10 p-4">
             {node ? (
               <>
-                <p className="text-xs tracking-[0.2em] text-muted uppercase">Selected</p>
+                <p className="text-xs tracking-[0.2em] text-muted uppercase">{t("selected")}</p>
                 <h2 className="text-2xl text-gold">{node.label}</h2>
-                {node.sub && <p className="text-ink/75">{node.sub}</p>}
+                {node.sub && (
+                  <p lang={subLang(locale)} className="text-ink/75">
+                    {node.sub}
+                  </p>
+                )}
                 <p className="mt-2 text-sm">{node.summary}</p>
                 <Link
                   href={`/entity/${node.slug}`}
                   className="mt-2 inline-block text-sm text-celestial underline decoration-celestial/40 underline-offset-2 hover:decoration-celestial"
                 >
-                  Open full card →
+                  {tc("openCard")}
                 </Link>
               </>
             ) : (
-              <p className="text-sm text-muted">
-                Select a figure — click a star, use the list, or search — to see its card and trace
-                its connections.
-              </p>
+              <p className="text-sm text-muted">{t("prompt")}</p>
             )}
           </div>
 
           <div className="rounded-xl border border-white/10 p-4">
-            <h2 className="text-lg text-gold">Trace a connection</h2>
+            <h2 className="text-lg text-gold">{t("traceHeading")}</h2>
             <PickFigure
-              label="From"
+              id="pick-from"
+              label={t("from")}
               nodes={nodes}
               value={selected}
               onChange={(s) => setParam("entity", s)}
             />
             <PickFigure
-              label="To"
+              id="pick-to"
+              label={t("to")}
               nodes={nodes}
               value={target}
               onChange={(s) => setParam("trace", s)}
             />
             <div aria-live="polite" className="mt-3">
               {selected && target && paths.length === 0 && (
-                <p className="text-sm text-muted">
-                  No connection found in the accounts shown. KĀLA only links figures where a source
-                  makes the connection.
-                </p>
+                <p className="text-sm text-muted">{t("none")}</p>
               )}
               {paths.map((p, i) => (
                 <ol key={i} className="mt-3 space-y-2 border-l border-gold/40 pl-3">
-                  {paths.length > 1 && <p className="text-xs text-muted">Route {i + 1}</p>}
+                  {paths.length > 1 && (
+                    <p className="text-xs text-muted">{t("route", { n: i + 1 })}</p>
+                  )}
                   {p.map((s) => {
                     const r = s.relationship;
                     return (
                       <li key={r.id} className="text-sm">
-                        <span className="text-ink">{bySlug.get(r.from)?.label}</span>{" "}
-                        <span className="text-muted">{VERB[r.type]}</span>{" "}
-                        <span className="text-ink">{bySlug.get(r.to)?.label}</span>
+                        {tv.rich(r.type, {
+                          from: () => <span className="text-ink">{bySlug.get(r.from)?.label}</span>,
+                          to: () => <span className="text-ink">{bySlug.get(r.to)?.label}</span>,
+                          m: (chunks) => <span className="text-muted">{chunks}</span>,
+                        })}
                         {r.variant && (
                           <span className="ml-1.5 rounded border border-celestial/40 px-1 text-[11px] text-celestial">
                             {variantNames[r.variant] ?? r.variant}
@@ -234,17 +241,20 @@ export function GenealogyExplorer({
 }
 
 function PickFigure({
+  id,
   label,
   nodes,
   value,
   onChange,
 }: {
+  id: string;
   label: string;
   nodes: CNode[];
   value: string | null;
   onChange: (slug: string | null) => void;
 }) {
-  const id = `pick-${label.toLowerCase()}`;
+  const t = useTranslations("genealogy");
+  const locale = useLocale();
   return (
     <label htmlFor={id} className="mt-2 flex items-center gap-2 text-sm">
       <span className="w-10 text-muted">{label}</span>
@@ -254,9 +264,9 @@ function PickFigure({
         onChange={(e) => onChange(e.target.value || null)}
         className="w-full rounded border border-white/15 bg-void px-2 py-1"
       >
-        <option value="">Choose a figure…</option>
+        <option value="">{t("choose")}</option>
         {[...nodes]
-          .sort((a, b) => a.label.localeCompare(b.label))
+          .sort((a, b) => a.label.localeCompare(b.label, locale))
           .map((n) => (
             <option key={n.slug} value={n.slug}>
               {n.label}
@@ -268,25 +278,27 @@ function PickFigure({
 }
 
 function Legend() {
+  const t = useTranslations("genealogy");
+  const tg = useTranslations("enums.group");
   return (
-    <ul aria-label="Legend" className="flex flex-wrap gap-x-4 gap-y-1 text-xs text-ink/80">
-      {Object.values(GROUP_STYLE).map((g) => (
-        <li key={g.label} className="inline-flex items-center gap-1.5">
+    <ul aria-label={t("legend")} className="flex flex-wrap gap-x-4 gap-y-1 text-xs text-ink/80">
+      {Object.entries(GROUP_STYLE).map(([group, g]) => (
+        <li key={group} className="inline-flex items-center gap-1.5">
           <span
             className="inline-block size-2.5 rounded-full"
             style={{ background: `var(${g.token})` }}
           />
-          {g.label}
+          {tg(group)}
         </li>
       ))}
       <li className="inline-flex items-center gap-1.5">
-        <span className="inline-block h-0.5 w-4 bg-gold" /> family
+        <span className="inline-block h-0.5 w-4 bg-gold" /> {t("family")}
       </li>
       <li className="inline-flex items-center gap-1.5">
-        <span className="inline-block h-0.5 w-4 bg-copper" /> story
+        <span className="inline-block h-0.5 w-4 bg-copper" /> {t("story")}
       </li>
       <li className="inline-flex items-center gap-1.5">
-        <span className="inline-block h-0.5 w-4 bg-celestial" /> spiritual
+        <span className="inline-block h-0.5 w-4 bg-celestial" /> {t("spiritual")}
       </li>
     </ul>
   );

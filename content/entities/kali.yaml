@@ -1,0 +1,37 @@
+slug: kali
+names:
+  - text: Kali
+    lang: en
+    script: Latn
+  - text: काली
+    lang: sa
+    script: Deva
+    iast: Kālī
+epithets:
+  - text: Chamunda
+    lang: en
+    script: Latn
+kinds: [deity]
+traditions: [shakta, puranic]
+summary_beginner: >-
+  The fierce dark goddess who, in the Devi Mahatmya, springs from the furious brow of Ambika (Durga) in the battle with
+  the demons Chanda and Munda and later drinks the blood of the demon Raktabija so that it cannot spread. Ambika gives her
+  the name Chamunda for killing Chanda and Munda.
+summary_scholar: >-
+  In the Devi Mahatmya Kali is an emanation from Ambika's forehead, not Ambika herself; the same text also says that Parvati
+  turned dark after Ambika left her body and became known as Kalika. The Mahabharata's hymns to Durga use the names Kali
+  and Mahakali for the goddess herself. KALA keeps the Devi Mahatmya's Kali, the Mahabharata's name for Durga and the
+  Devi Bhagavata's Mahakali as separate records linked by the relationships the sources state.
+references:
+  - source: pargiter-markandeya-purana
+    locator: "87"
+    note: "Kali issues from the frowning forehead of Ambika, kills the host and Chanda and Munda, and is named Chamunda."
+  - source: pargiter-markandeya-purana
+    locator: "88"
+    note: "Kali, as Chamunda, swallows the blood of Raktabija."
+  - source: pargiter-markandeya-purana
+    locator: "85"
+    note: "After Ambika issues from Parvati's body, Parvati becomes dark and is called Kalika."
+  - source: ganguli-mahabharata
+    locator: "4.6"
+    note: "Yudhishthira's hymn addresses Durga as Kali, 'the great Kali'."

@@ -18,6 +18,21 @@ const PAGES = [
   "/genealogy?view=list&entity=kashyapa&trace=garuda",
   "/geography?view=list&place=hastinapura",
   "/search?q=kashyapa",
+  // Hindi UI
+  "/hi",
+  "/hi/entity/kashyapa",
+  "/hi/cosmic?view=list",
+  "/hi/geography?view=list&place=hastinapura",
+  "/avatar",
+  "/philosophy",
+  "/pilgrimage",
+  "/concept/atman",
+  "/network/char-dham",
+  "/event/samudra-manthana-vishnu-purana",
+  "/journey/yugas",
+  "/hi/avatar",
+  "/hi/pilgrimage",
+  "/hi/journey/yugas",
 ];
 
 for (const path of PAGES) {

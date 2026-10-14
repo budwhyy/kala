@@ -1,0 +1,28 @@
+slug: chota-char-dham
+names:
+  - text: "Chota Char Dham"
+    lang: en
+    script: Latn
+  - text: "छोटा चार धाम"
+    lang: hi
+    script: Deva
+kind: himalayan
+traditions:
+  - hindu
+variants:
+  - pilgrimage-chota-char-dham-himalayan
+summary_beginner: "A pilgrimage circuit of four mountain shrines in Garhwal, in the Himalaya: Yamunotri (source of the Yamuna), Gangotri (source of the Ganga), Kedarnath (Shiva) and Badrinath (Vishnu). It is kept separate from the Char Dham of the four directions, although Badrinath belongs to both."
+summary_scholar: "No public-domain English text that defines this circuit has been found. The four shrines are entered on the Imperial Gazetteer's articles on Jamnotri, Gangotri, Kedarnath and Badrinath, which describe them as mountain shrines visited by many pilgrims in the summer months."
+references:
+  - source: imperial-gazetteer-1909
+    locator: "14:51"
+    note: "Jamnotri"
+  - source: imperial-gazetteer-1909
+    locator: "12:140"
+    note: "Gangotri"
+  - source: imperial-gazetteer-1909
+    locator: "15:196"
+    note: "Kedarnath"
+  - source: imperial-gazetteer-1909
+    locator: "6:179-180"
+    note: "Badrinath"

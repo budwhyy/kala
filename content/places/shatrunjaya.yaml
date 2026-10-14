@@ -1,0 +1,52 @@
+slug: shatrunjaya
+names:
+  - text: Shatrunjaya (Palitana)
+    lang: en
+    script: Latn
+  - text: शत्रुंजय
+    lang: sa
+    script: Deva
+    iast: Śatruñjaya
+  - text: Palitana
+    lang: en
+    script: Latn
+  - text: Shetrunja
+    lang: en
+    script: Latn
+realm: terrestrial
+kind: mountain
+confidence: verified
+geometry:
+  type: Point
+  coordinates:
+    - 71.8
+    - 21.48
+modern_admin:
+  country: India
+  region: Gujarat
+  district: Bhavnagar
+  nearest_city: Palitana
+evidence:
+  - type: historical
+    summary: The Imperial Gazetteer describes the hill of Shetrunja (Satrunjaya) at the foot of
+      which lies Palitana, its summit covered with Jain temples, the most famous being those of
+      Adinath, Kumar Pal, Vimalasah, Sampriti Raja and the Chaumukh, and quotes Burgess on the
+      steps, shrines and footprint cells along the ascent.
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "19:361"
+      - source: imperial-gazetteer-1909
+        locator: "19:362"
+traditions:
+  - jain
+summary_beginner: A hill in Gujarat covered with Jain temples, the most sacred of the five holy
+  hills of the Jains according to the Imperial Gazetteer. It is dedicated chiefly to Adinath
+  (Rishabha), the first Tirthankara, and Jains hold it a duty to make a pilgrimage there.
+summary_scholar: The Gazetteer reports the hill's sanctity and the custom of building temples
+  there, and gives no founding dates in the passages read; the dates of individual temples were
+  not confirmed. The pilgrimage is described as of living Jain practice. The Gazetteer does not
+  list the other four of the five hills, so no list network is entered for them. Hindu and Muslim
+  shrines on the path are also noted there.
+references:
+  - source: imperial-gazetteer-1909
+    locator: "19:361"

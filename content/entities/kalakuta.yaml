@@ -1,0 +1,27 @@
+slug: kalakuta
+names:
+  - text: Kalakuta
+    lang: en
+    script: Latn
+  - text: कालकूट
+    lang: sa
+    script: Deva
+    iast: Kālakūṭa
+epithets:
+  - text: Halahala
+    lang: en
+    script: Latn
+kinds:
+  - other
+traditions:
+  - itihasa
+  - puranic
+summary_beginner: The deadly poison that rises during the churning. In the Mahabharata and the Ramayana, Shiva swallows it to save the worlds, and is called Nilakantha, the blue-throated one, from then on.
+summary_scholar: "The Vishnu Purana (1.9) says only that poison appeared and was taken by the Nagas; Wilson's note identifies it with Halahala or Kalakuta. The Mahabharata and the Ramayana disagree on the circumstances: in the Mahabharata it appears late and Brahma asks Shiva to swallow it, in the Ramayana it comes first, from the serpent's venom, and Vishnu invites Shiva to take it as the eldest god's first share."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.18"
+  - source: griffith-ramayana
+    locator: "1.45"
+  - source: wilson-vishnu-purana
+    locator: "1.9"

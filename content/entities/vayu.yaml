@@ -1,0 +1,32 @@
+slug: vayu
+names:
+  - text: Vayu
+    lang: en
+    script: Latn
+  - text: वायु
+    lang: sa
+    script: Deva
+    iast: Vāyu
+epithets:
+  - text: Anila
+    lang: en
+    script: Latn
+  - text: Swasana
+    lang: en
+    script: Latn
+kinds:
+  - deity
+  - deva
+traditions:
+  - vedic
+  - itihasa
+  - puranic
+summary_beginner: The god of wind. The translators of the Mahabharata and the Vishnu Purana gloss the Vasu Anila as the wind, and the Vishnu Purana lists the winds among the gods who bow to Vishnu.
+summary_scholar: The identification with the Vasu Anila rests on the translators' glosses (Swasana in Ganguli; wind in Wilson) of the Sanskrit name Anila, not on a passage that says 'Vayu is Anila'. In VP 1.9 Vayu appears among the gods Brahma and the divinities invoke.
+references:
+  - source: ganguli-mahabharata
+    locator: "1.66"
+  - source: wilson-vishnu-purana
+    locator: "1.15"
+  - source: wilson-vishnu-purana
+    locator: "1.9"

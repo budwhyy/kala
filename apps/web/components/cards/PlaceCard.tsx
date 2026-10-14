@@ -1,9 +1,12 @@
+import { Link } from "@/i18n/navigation";
+import { useTranslations } from "next-intl";
 import type { Kala } from "@/lib/graph/kala";
 import { hrefFor } from "@/lib/graph/kala";
+import { enumLabel } from "@/lib/i18n-helpers";
 import { LinkList } from "./EntityCard";
+import { EventsSection, NetworksSection } from "./Phase2Sections";
 import {
   Badge,
-  CONFIDENCE,
   Cite,
   ConfidenceBadge,
   NameBlock,
@@ -14,6 +17,9 @@ import {
 } from "./ui";
 
 export function PlaceCard({ kala, slug }: { kala: Kala; slug: string }) {
+  const t = useTranslations("place");
+  const tc = useTranslations("confidence");
+  const te = useTranslations("enums");
   const p = kala.get("places", slug)!;
   const kingdoms = kala.neighbours("places", slug, "kingdoms");
   const entities = kala.neighbours("places", slug, "entities");
@@ -24,14 +30,14 @@ export function PlaceCard({ kala, slug }: { kala: Kala; slug: string }) {
       <NameBlock names={p.names} />
       <div className="mt-3 flex flex-wrap items-center gap-2">
         <ConfidenceBadge confidence={p.confidence} />
-        <Badge>{p.kind}</Badge>
+        <Badge>{enumLabel(te, "placeKind", p.kind)}</Badge>
         {p.traditions.map((t) => (
-          <a key={t} href={`/tradition/${t}`}>
+          <Link key={t} href={`/tradition/${t}`}>
             <Badge tone="celestial">{kala.nameOf("traditions", t)}</Badge>
-          </a>
+          </Link>
         ))}
       </div>
-      <p className="mt-2 text-sm text-muted">{CONFIDENCE[p.confidence].explain}</p>
+      <p className="mt-2 text-sm text-muted">{tc(`${p.confidence}.explain`)}</p>
 
       <Summaries beginner={p.summary_beginner} scholar={p.summary_scholar} />
       <p className="mt-2">
@@ -39,7 +45,7 @@ export function PlaceCard({ kala, slug }: { kala: Kala; slug: string }) {
       </p>
 
       {p.realm === "terrestrial" && p.modern_admin && (
-        <Section title="Modern location (for orientation only)">
+        <Section title={t("modernLocation")}>
           <p>
             {[
               p.modern_admin.nearest_city,
@@ -52,22 +58,22 @@ export function PlaceCard({ kala, slug }: { kala: Kala; slug: string }) {
           </p>
           {p.geometry?.type === "Point" && (
             <p className="mt-1 text-sm text-muted">
-              {p.geometry.coordinates[1].toFixed(2)}° N, {p.geometry.coordinates[0].toFixed(2)}° E
+              {t("coordinates", {
+                lat: p.geometry.coordinates[1].toFixed(2),
+                lon: p.geometry.coordinates[0].toFixed(2),
+              })}
             </p>
           )}
-          <p className="mt-1 text-xs text-muted">
-            Modern borders are shown for orientation. They do not mean the ancient place belonged to
-            a modern country.
-          </p>
+          <p className="mt-1 text-xs text-muted">{t("modernBorders")}</p>
         </Section>
       )}
 
       {p.evidence.length > 0 && (
-        <Section title="Evidence">
+        <Section title={t("evidence")}>
           <ul className="space-y-3">
             {p.evidence.map((ev, i) => (
               <li key={i} className="rounded-lg border border-white/10 p-3">
-                <Badge>{ev.type}</Badge>
+                <Badge>{enumLabel(te, "evidence", ev.type)}</Badge>
                 <p className="mt-1 text-sm">{ev.summary}</p>
                 <Cite refs={ev.references} kala={kala} />
               </li>
@@ -77,7 +83,7 @@ export function PlaceCard({ kala, slug }: { kala: Kala; slug: string }) {
       )}
 
       {p.alternative_identifications.length > 0 && (
-        <Section title="Proposed identifications">
+        <Section title={t("proposed")}>
           <ul className="space-y-3">
             {p.alternative_identifications.map((a, i) => (
               <li key={i} className="rounded-lg border border-white/10 p-3">
@@ -92,7 +98,7 @@ export function PlaceCard({ kala, slug }: { kala: Kala; slug: string }) {
       )}
 
       {kingdoms.length > 0 && (
-        <Section title="Kingdoms">
+        <Section title={t("kingdoms")}>
           <ul className="space-y-2">
             {kingdoms.map((k) => (
               <li key={k}>
@@ -105,14 +111,16 @@ export function PlaceCard({ kala, slug }: { kala: Kala; slug: string }) {
       )}
 
       {p.related_places.length > 0 && (
-        <Section title="Related places">
+        <Section title={t("related")}>
           <ul className="space-y-2">
             {p.related_places.map((r) => (
               <li key={r.to}>
                 <RecordLink href={hrefFor("places", r.to)}>
                   {kala.nameOf("places", r.to)}
                 </RecordLink>
-                <span className="ml-2 text-xs text-muted">{r.relation.replace(/_/g, " ")}</span>
+                <span className="ml-2 text-xs text-muted">
+                  {enumLabel(te, "placeRelation", r.relation)}
+                </span>
                 <p className="text-sm text-ink/85">{r.note}</p>
                 <Cite refs={r.references} kala={kala} />
               </li>
@@ -121,7 +129,7 @@ export function PlaceCard({ kala, slug }: { kala: Kala; slug: string }) {
         </Section>
       )}
       {related.length > p.related_places.length && (
-        <Section title="Linked from">
+        <Section title={t("linkedFrom")}>
           <LinkList
             kala={kala}
             type="places"
@@ -131,25 +139,28 @@ export function PlaceCard({ kala, slug }: { kala: Kala; slug: string }) {
       )}
 
       {entities.length > 0 && (
-        <Section title="Figures associated with this place">
+        <Section title={t("figures")}>
           <LinkList kala={kala} type="entities" slugs={entities} />
         </Section>
       )}
 
+      <NetworksSection kala={kala} memberships={p.pilgrimage_networks} />
+      <EventsSection kala={kala} slugs={kala.neighbours("places", slug, "events")} />
       <TimeRails kala={kala} cosmic={p.cosmic_time} historical={p.historical_time} />
     </article>
   );
 }
 
 export function KingdomKind({ kala, slug }: { kala: Kala; slug: string }) {
+  const te = useTranslations("enums.kingdomKindShort");
   const k = kala.get("kingdoms", slug);
   if (!k) return null;
   return (
     <span className="ml-2">
       {k.kind === "epic_legendary" ? (
-        <Badge tone="celestial">Epic / legendary</Badge>
+        <Badge tone="celestial">{te("epic_legendary")}</Badge>
       ) : (
-        <Badge tone="copper">Historical</Badge>
+        <Badge tone="copper">{te("historical")}</Badge>
       )}
     </span>
   );

@@ -1,0 +1,49 @@
+slug: sringeri
+names:
+  - text: "Sringeri"
+    lang: en
+    script: Latn
+  - text: "शृङ्गेरी"
+    lang: sa
+    script: Deva
+    iast: "Śṛṅgerī"
+  - text: "शृंगेरी"
+    lang: hi
+    script: Deva
+realm: terrestrial
+kind: tirtha
+confidence: traditional
+geometry:
+  type: Point
+  coordinates:
+    - 75.25
+    - 13.42
+modern_admin:
+  country: "India"
+  region: "Karnataka"
+  district: "Chikkamagaluru"
+evidence:
+  - type: historical
+    summary: "The Imperial Gazetteer describes Sringeri town on the Tunga river in Mysore, whose dominant institution is the math said to have been established in the eighth century by Sankaracharya, seat of the Jagad Guru of the Smarta Brahmans. It records an inscription granting the tract to the math by Harihara of Vijayanagar in 1346, and the later role of its head Madhava or Vidyaranya in founding Vijayanagar in 1336."
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "23:105-106"
+  - type: traditional
+    summary: "The Gazetteer's Dwarka article names Sringeri in Mysore as the southern of the four maths founded by Sankaracharya."
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "11:387"
+traditions:
+  - hindu
+summary_beginner: "A town on the Tunga river in Karnataka known for the math traditionally founded by Adi Shankara, the southern seat among the four maths."
+summary_scholar: "The Gazetteer attributes the math to the eighth century on tradition; its own documented dates in the article are the Vijayanagar-era inscription of 1346 and the mention of 1336."
+references:
+  - source: imperial-gazetteer-1909
+    locator: "23:105-106"
+pilgrimage_networks:
+  - network: char-dham
+    variant: pilgrimage-four-maths-gazetteer
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "11:387"
+        note: "Sringeri named as the southern math"

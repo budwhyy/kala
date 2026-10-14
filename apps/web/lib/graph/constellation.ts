@@ -48,11 +48,12 @@ export function groupOf(kinds: EntityKind[]): NodeGroup {
   return "deity";
 }
 
-export const GROUP_STYLE: Record<NodeGroup, { label: string; token: string }> = {
-  deity: { label: "Deities and devas", token: "--kala-gold" },
-  asura: { label: "Asuras", token: "--kala-deep-red" },
-  creature: { label: "Serpents, birds and other beings", token: "--kala-celestial" },
-  sage: { label: "Sages and progenitors", token: "--kala-copper" },
-  human: { label: "Manus and kings", token: "--kala-ink" },
-  principle: { label: "Cosmic principles", token: "--kala-muted" },
+/** Palette token per node group. Legend labels are in messages under `enums.group.<group>`. */
+export const GROUP_STYLE: Record<NodeGroup, { token: string }> = {
+  deity: { token: "--kala-gold" },
+  asura: { token: "--kala-deep-red" },
+  creature: { token: "--kala-celestial" },
+  sage: { token: "--kala-copper" },
+  human: { token: "--kala-ink" },
+  principle: { token: "--kala-muted" },
 };

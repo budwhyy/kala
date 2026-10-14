@@ -1,0 +1,67 @@
+slug: deoghar-baidyanath
+names:
+  - text: "Deoghar"
+    lang: en
+    script: Latn
+  - text: "Baidyanath"
+    lang: en
+    script: Latn
+  - text: "Deogarh"
+    lang: en
+    script: Latn
+  - text: "देवघर"
+    lang: hi
+    script: Deva
+  - text: "वैद्यनाथ"
+    lang: sa
+    script: Deva
+    iast: "Vaidyanātha"
+realm: terrestrial
+kind: tirtha
+confidence: traditional
+geometry:
+  type: Point
+  coordinates:
+    - 86.7
+    - 24.49
+modern_admin:
+  country: "India"
+  region: "Jharkhand"
+  district: "Deoghar"
+evidence:
+  - type: historical
+    summary: "The Imperial Gazetteer's article on Deogarh town describes a group of twenty-two temples of Siva, forming a pilgrimage centre for Hindus from all over India. The oldest is called Baidyanath, or Baijnath, and is said to contain one of the twelve oldest lingas of Siva in India. The group is surrounded by a high wall enclosing a courtyard paved with Chunar stone."
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "11:244-245"
+  - type: textual
+    summary: "Wilson lists Vaidyanatha, at Deogarh in Bengal, sixth among the twelve lingas of the Nandi Upapurana and calls the temple a celebrated place of pilgrimage."
+    references:
+      - source: wilson-religious-sects-1861
+        locator: "223"
+traditions:
+  - shaiva
+  - hindu
+summary_beginner: "A temple town in eastern India where Shiva is worshipped as Baidyanath, 'Lord of Healers'. It is the main claim in Bengal and Jharkhand to a jyotirlinga, though another Vaidyanatha shrine at Parli in Maharashtra is also claimed in later lists."
+summary_scholar: "Other places also lay claim to the name Vaidyanatha in the jyotirlinga list (the Gazetteer notes the Baijnath temple at Parli). Wilson and the Gazetteer both name Deogarh, and this record follows them."
+references:
+  - source: imperial-gazetteer-1909
+    locator: "11:244-245"
+  - source: wilson-religious-sects-1861
+    locator: "223"
+  - source: imperial-gazetteer-1909
+    locator: "20:5-6"
+    note: "Parli Town: temple of Baijnath, an important pilgrimage place"
+pilgrimage_networks:
+  - network: jyotirlingas
+    variant: pilgrimage-jyotirlinga-gazetteer-entries
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "11:244-245"
+        note: "Baidyanath: one of the twelve oldest lingas of Siva in India"
+  - network: jyotirlingas
+    variant: pilgrimage-jyotirlinga-wilson-nandi-upapurana
+    references:
+      - source: wilson-religious-sects-1861
+        locator: "223"
+        note: "Item 6: Vaidyanath at Deogarh in Bengal"

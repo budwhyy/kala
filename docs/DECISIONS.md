@@ -142,3 +142,49 @@ Architectural decisions, newest last. Each entry: timestamp (UTC), decision, why
 - **Decision:** All links in running text carry a subtle underline.
 - **Why:** Accessibility gate 5 (axe `link-in-text-block`): colour alone does not distinguish links
   for colour-blind visitors.
+
+## 2026-10-14 — Phase 2 scope and approach
+
+- **Decision:** Phase 2 delivers the brief's list (§9): Avatars mode, Philosophy mode (light), sacred
+  geography and pilgrimage, the Yuga introduction journey, expanded Deva/Asura/Vishnu/Shiva/Shakti
+  content, and the Hindi interface. Content was researched by sourced agents reading the public-domain
+  editions; the app code was built against the data model, not the content.
+- **Owner approval:** the owner approved Phase 2 scope and said to finish it.
+
+## 2026-10-14 — Hindi: next-intl with `localePrefix: "as-needed"`
+
+- **Decision:** English keeps its URLs; Hindi lives under `/hi/…`. No Accept-Language redirect; the
+  visitor chooses in the header. Messages are split `core.json` / `phase2.json` per language and a
+  test enforces identical keys and placeholders, and label coverage for every schema enum.
+- **Why:** English URLs, links and tests keep working; Hindi is additive. Content (summaries,
+  citations) stays English; names follow the locale (Hindi shows Hindi or Devanagari first).
+
+## 2026-10-14 — `next.config.mjs` sets the next-intl alias itself
+
+- **Decision:** The next-intl Next plugin is not imported. `next.config.mjs` sets the single alias the
+  plugin sets (`next-intl/config` → `i18n/request.ts`) for webpack and Turbopack.
+- **Why:** Importing `next-intl/plugin` loads a native SWC addon (used for message extraction, which
+  KĀLA does not use) that refuses to start on this Windows setup because of folder permissions, which
+  broke `next build` locally. The alias is all KĀLA needs. Do not weaken folder permissions to work around it.
+
+## 2026-10-14 — Heavy 3D scenes start as lists on narrow screens
+
+- **Decision:** `useViewMode({ heavy: true })` defaults the genealogy constellation and the map to the
+  list view below 768 px; the 3D code loads only when asked (`?view=3d`) and never before the browser
+  has been inspected (`ready`). Resolves part of OQ-020.
+
+## 2026-10-14 — No prefetching on header and opening links
+
+- **Decision:** Header, language-switcher, opening and a few hub links use `prefetch={false}`.
+- **Why:** With six mode links, Next prefetched every mode's data (genealogy alone is ~47 KB) in the
+  background while the first page was loading, which pushed interactive time over the 4 s gate.
+
+## 2026-10-14 — Event retellings via `same_story_as`
+
+- **Decision:** Accounts of the same story are separate event records, each named for its account,
+  linked both ways by `same_story_as` (validated). None is "the" version.
+
+## 2026-10-14 — Pilgrimage membership lives on places
+
+- **Decision:** A network lists the list variants that define it; each place records its membership
+  with the list it comes from. Lists without a public-domain source are not stated as lists (OQ-030).

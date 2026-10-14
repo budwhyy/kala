@@ -1,0 +1,36 @@
+slug: tapas
+names:
+  - text: "Tapas (austerity)"
+    lang: en
+    script: Latn
+  - text: "तपस्"
+    lang: sa
+    script: Deva
+    iast: "Tapas"
+summary_beginner: "Tapas is austerity or self-discipline: voluntary restraint practised for spiritual benefit. Texts disagree on its place relative to knowledge and on which kinds are sound. Buddhist and Jain traditions also use this term, with meanings of their own that this page does not cover."
+interpretations:
+  - tradition: vedanta
+    explanation: "The Chandogya Upanishad lists austerity as the second of three branches of the law, tied in Müller's note to the forest-dwelling stage of life. It says all three branches win the worlds of the blessed, but only the person grounded in Brahman gains immortality."
+    references:
+      - source: muller-upanishads
+        locator: "Chandogya Upanishad 2.23.1 (SBE 1)"
+  - tradition: itihasa
+    explanation: "Krishna divides austerity into bodily, spoken and mental kinds, with examples such as purity and harmlessness, true and kind speech, and calm and self-restraint of mind. He calls it good when done with faith and no wish for reward, and passionate when done for honour and show. He also lists 'sacrifice of penance' among the forms of sacrifice."
+    references:
+      - source: telang-bhagavadgita
+        locator: "17.14-19"
+      - source: telang-bhagavadgita
+        locator: "4.28"
+  - tradition: yoga
+    explanation: "The Yoga Sutras count self-castigation (tapas in Woods's rendering) among the observances and among the elements of the yoga of action. They say it removes impurity and brings perfection of body and organs."
+    references:
+      - source: woods-yoga-system-patanjali
+        locator: "Yoga-sutra 2.1"
+      - source: woods-yoga-system-patanjali
+        locator: "Yoga-sutra 2.32"
+      - source: woods-yoga-system-patanjali
+        locator: "Yoga-sutra 2.43"
+related:
+  - yoga
+  - dharma
+  - ahimsa

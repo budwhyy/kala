@@ -1,0 +1,59 @@
+slug: karma
+names:
+  - text: "Karma"
+    lang: en
+    script: Latn
+  - text: "कर्म"
+    lang: sa
+    script: Deva
+    iast: "Karma"
+summary_beginner: "Karma means action and, in philosophy, the lasting effect of action on a person's future. Schools disagree on who or what carries that effect and how it can be ended. Buddhist and Jain traditions also use this term, with meanings of their own that this page does not cover."
+interpretations:
+  - tradition: vedanta
+    explanation: "In the Brihadaranyaka Upanishad the sage Yajnavalkya discusses what survives a person's death in private and concludes that people become good by good action and bad by bad action. A later passage says the self becomes what its acts and conduct make it, and that it follows its desires into the next body."
+    references:
+      - source: muller-upanishads
+        locator: "Brihadaranyaka Upanishad 3.2.13 (SBE 15)"
+      - source: muller-upanishads
+        locator: "Brihadaranyaka Upanishad 4.4.5 (SBE 15)"
+  - tradition: itihasa
+    explanation: "The Gita teaches that action done for any purpose other than sacrifice binds the world, but that someone who acts without attachment, offering actions to Brahman, is no more stained than a lotus leaf by water. It adds that what counts as action and inaction is hard to see and has to be learned."
+    references:
+      - source: telang-bhagavadgita
+        locator: "3.9"
+      - source: telang-bhagavadgita
+        locator: "5.10"
+      - source: telang-bhagavadgita
+        locator: "4.16-18"
+  - tradition: dharmashastra
+    explanation: "Manu says that action of mind, speech and body bears good or bad fruit and fixes whether a person's condition is high, middling or low. He sorts wrongdoing into three kinds for each of mind, speech and body, with different rebirths following from each."
+    references:
+      - source: buhler-manu
+        locator: "Manu 12.3-9"
+  - tradition: samkhya
+    explanation: "The Samkhya Karika holds that virtue lifts the subtle body to higher states and vice drops it to lower ones, but that it is Prakriti (nature), not the soul, that is bound, released and migrates. Nature binds itself in seven ways, among them virtue and vice, and releases itself in one, knowledge."
+    references:
+      - source: colebrooke-sankhya-karika
+        locator: "karika 44"
+      - source: colebrooke-sankhya-karika
+        locator: "karika 62-63"
+  - tradition: yoga
+    explanation: "The Yoga Sutras say that the stored deposit of karma is rooted in the five hindrances and is felt in this or a later birth. As long as the root remains, it ripens as a birth, a length of life and kinds of experience, bringing pleasure or pain according to merit or demerit."
+    references:
+      - source: woods-yoga-system-patanjali
+        locator: "Yoga-sutra 2.12-14"
+  - tradition: advaita-vedanta
+    explanation: "In Shankara's commentary the person who knows Brahman sees that the true Self is not an agent, and by that knowledge past works are dissolved and future works do not cling. Release would be impossible, he argues, if the chain of works running from beginningless time could not be cut by knowledge."
+    references:
+      - source: thibaut-vedanta-sutras-shankara
+        locator: "SBE 38, Vedanta-Sutras 4.1.13-14"
+  - tradition: vishishtadvaita
+    explanation: "Ramanuja describes embodied souls as caught in nescience in the form of good and evil works, so that they fail to see their own nature as knowledge and take themselves for material things. He supports this with a Vishnu Purana verse that names a third power, called karma or nescience, which keeps the embodied soul in worldly suffering."
+    references:
+      - source: thibaut-vedanta-sutras-ramanuja
+        locator: "SBE 48, Vedanta-Sutras 1.1.1 (pp. 88-89)"
+related:
+  - samsara
+  - moksha
+  - dharma
+  - avidya

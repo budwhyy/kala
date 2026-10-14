@@ -75,3 +75,13 @@ references:
     locator: "1.5"
   - source: cunningham-ancient-geography
     locator: "400"
+pilgrimage_networks:
+  - network: sapta-puri
+    variant: pilgrimage-sapta-puri-sacred-cities-gazetteer
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "5:175-176"
+        note: "Ajodhya Town: ancient Kosala capital and a place of Rama's cult"
+      - source: dutt-garuda-purana
+        locator: "81"
+        note: "Ayodhya, p. 210"

@@ -51,3 +51,10 @@ references:
     locator: "2.56"
   - source: imperial-gazetteer-1909
     locator: "10:300"
+pilgrimage_networks:
+  - network: shakti-peethas
+    variant: pilgrimage-shakti-devi-bhagavata-108
+    references:
+      - source: vijnanananda-devi-bhagavata
+        locator: "7.30"
+        note: "Sita in Chitrakuta"

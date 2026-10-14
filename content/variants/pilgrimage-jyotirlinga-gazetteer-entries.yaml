@@ -1,0 +1,21 @@
+slug: pilgrimage-jyotirlinga-gazetteer-entries
+names:
+  - text: "Shrines the Imperial Gazetteer calls one of the twelve great lingas"
+    lang: en
+    script: Latn
+kind: list
+tradition: shaiva
+description: "The Imperial Gazetteer never prints a full list of the twelve jyotirlingas, but its articles on four shrines describe each as holding one of the twelve celebrated lingas of Shiva: Mandhata (Omkar), Deogarh (Baidyanath), Bhimashankar and Gokarn. This variant records only those four statements. It is not a list of twelve, and it overlaps only in part with Wilson's list and with the list used in India today."
+references:
+  - source: imperial-gazetteer-1909
+    locator: "17:152"
+    note: "Mandhata: one of the twelve celebrated lingas"
+  - source: imperial-gazetteer-1909
+    locator: "11:244-245"
+    note: "Deogarh: Baidyanath"
+  - source: imperial-gazetteer-1909
+    locator: "8:108"
+    note: "Bhimashankar"
+  - source: imperial-gazetteer-1909
+    locator: "12:307"
+    note: "Gokarn: Mahabaleshwar"

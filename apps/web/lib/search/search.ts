@@ -34,6 +34,10 @@ const SEARCHABLE: CollectionName[] = [
   "texts",
   "traditions",
   "variants",
+  "events",
+  "concepts",
+  "networks",
+  "journeys",
 ];
 
 export function buildSearchIndex(kala: Kala): SearchItem[] {
@@ -58,8 +62,12 @@ export function buildSearchIndex(kala: Kala): SearchItem[] {
         type,
         slug: record.slug,
         href,
-        label: displayName(record.names),
-        ...(deva ? { sub: deva.iast ? `${deva.text} · ${deva.iast}` : deva.text } : {}),
+        label: kala.nameOf(type, record.slug),
+        ...(kala.locale === "hi"
+          ? { sub: displayName(record.names, "en") }
+          : deva
+            ? { sub: deva.iast ? `${deva.text} · ${deva.iast}` : deva.text }
+            : {}),
         keys: [...keys],
       });
     }

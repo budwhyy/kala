@@ -1,0 +1,15 @@
+slug: pilgrimage-four-maths-gazetteer
+names:
+  - text: "The four maths of Sankaracharya (Imperial Gazetteer)"
+    lang: en
+    script: Latn
+kind: list
+tradition: hindu
+description: "The four monasteries (maths) that the Imperial Gazetteer's article on Dwarka says were founded by Sri Sankaracharya: Dwarka in the west, Sringeri in the south, Jagannath (Puri) in the east and Badrinath in the north. This list is stated in the Gazetteer itself, so it is attested in a public-domain source; it differs from the Char Dham list, which has Rameswaram, not Sringeri, in the south."
+references:
+  - source: imperial-gazetteer-1909
+    locator: "11:387"
+    note: "Dwarka article names the four maths and their places"
+  - source: imperial-gazetteer-1909
+    locator: "23:105-106"
+    note: "Sringeri article: math established by Sankaracharya"

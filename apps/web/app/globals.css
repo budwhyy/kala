@@ -57,3 +57,9 @@ body {
   transform-box: fill-box;
   transform-origin: center;
 }
+
+/* Devanagari has no letter case and wide tracking breaks its conjuncts: keep spacing natural
+   everywhere the page language is Hindi (the brand mark carries lang="en" and keeps its tracking). */
+:lang(hi) {
+  letter-spacing: normal !important;
+}

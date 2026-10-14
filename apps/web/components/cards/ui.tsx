@@ -1,9 +1,11 @@
 // Small presentational building blocks shared by every card. No content data lives here:
 // everything rendered is passed in from the data layer.
 import type { CosmicTime, HistoricalTime, Name, PlaceConfidence, Reference } from "@kala/schema";
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
+import { useLocale, useTranslations } from "next-intl";
 import type { ReactNode } from "react";
 import type { Kala } from "@/lib/graph/kala";
+import { enumLabel, headingName } from "@/lib/i18n-helpers";
 
 export function Section({ title, children }: { title: string; children: ReactNode }) {
   return (
@@ -43,25 +45,41 @@ const TONES: Record<Tone, string> = {
   indigo: "border-indigo bg-indigo/40 text-ink",
 };
 
-/** English display name, then Sanskrit in Devanagari with IAST, then any other names. */
+/**
+ * Heading name for the locale (English in English; Devanagari first in Hindi), then the other
+ * names: Sanskrit in Devanagari with IAST, English, epithets. Fragments carry their own `lang`.
+ */
 export function NameBlock({ names, level = 1 }: { names: Name[]; level?: 1 | 2 }) {
-  const en = names.find((n) => n.lang === "en");
-  const others = names.filter((n) => n !== en);
+  const locale = useLocale();
+  const main = headingName(names, locale);
+  const others = names.filter((n) => n !== main);
   const Heading = level === 1 ? "h1" : "h2";
+  const mainIast = main.iast && main.iast !== main.text ? main.iast : undefined;
   return (
     <div>
       <Heading className={level === 1 ? "text-4xl text-gold" : "text-2xl text-gold"}>
-        {en?.text ?? names[0]?.text}
+        <span lang={main.lang}>{main.text}</span>
       </Heading>
-      {others.length > 0 && (
+      {(others.length > 0 || mainIast) && (
         <p className="mt-1 text-lg text-ink/80">
+          {mainIast && (
+            <span lang={`${main.lang}-Latn`} className="mr-3 italic text-muted">
+              {mainIast}
+            </span>
+          )}
           {others.map((n, i) => (
             <span key={i} lang={n.lang} className="mr-3">
               {n.text}
               {n.iast && n.iast !== n.text && (
-                <span className="ml-1.5 italic text-muted">{n.iast}</span>
+                <span lang={`${n.lang}-Latn`} className="ml-1.5 italic text-muted">
+                  {n.iast}
+                </span>
               )}
-              {n.meaning && <span className="ml-1.5 text-sm text-muted">“{n.meaning}”</span>}
+              {n.meaning && (
+                <span lang="en" className="ml-1.5 text-sm text-muted">
+                  “{n.meaning}”
+                </span>
+              )}
             </span>
           ))}
         </p>
@@ -110,46 +128,31 @@ export function RecordLink({ href, children }: { href: string | null; children: 
 
 // ---------------------------------------------------------------- Confidence
 
-export const CONFIDENCE: Record<PlaceConfidence, { label: string; tone: Tone; explain: string }> = {
-  verified: {
-    label: "Historically verified",
-    tone: "gold",
-    explain:
-      "Supported by archaeological or historical evidence. This does not verify the stories set here.",
-  },
-  traditional: {
-    label: "Traditionally identified",
-    tone: "copper",
-    explain: "Located here by living tradition; not independently verified.",
-  },
-  debated: {
-    label: "Debated",
-    tone: "red",
-    explain: "Scholars and traditions propose different locations.",
-  },
-  mythical: {
-    label: "Cosmological",
-    tone: "indigo",
-    explain: "A realm of the cosmos, not a place on Earth. It has no map position.",
-  },
+/** Badge tone per place-confidence class. Labels and explanations live in messages (`confidence.*`). */
+export const CONFIDENCE_TONE: Record<PlaceConfidence, Tone> = {
+  verified: "gold",
+  traditional: "copper",
+  debated: "red",
+  mythical: "indigo",
 };
 
 export function ConfidenceBadge({ confidence }: { confidence: PlaceConfidence }) {
-  const c = CONFIDENCE[confidence];
+  const t = useTranslations("confidence");
   return (
-    <Badge tone={c.tone} title={c.explain}>
-      {c.label}
+    <Badge tone={CONFIDENCE_TONE[confidence]} title={t(`${confidence}.explain`)}>
+      {t(`${confidence}.label`)}
     </Badge>
   );
 }
 
 export function VariantTag({ kala, variant }: { kala: Kala; variant?: string | undefined }) {
+  const t = useTranslations("variantTag");
   if (!variant) return null;
   return (
     <Link
       href={`/variant/${variant}`}
       className="ml-2 inline-block rounded border border-celestial/40 px-1.5 text-[11px] text-celestial hover:bg-celestial/10"
-      title="This claim belongs to one account; other accounts may differ."
+      title={t("title")}
     >
       {kala.nameOf("variants", variant)}
     </Link>
@@ -168,25 +171,36 @@ export function TimeRails({
   cosmic: CosmicTime[];
   historical: HistoricalTime[];
 }) {
+  const t = useTranslations("time");
+  const te = useTranslations("enums");
+  const tc = useTranslations("common");
   if (cosmic.length === 0 && historical.length === 0) return null;
+  const year = (y: number) => (y < 0 ? t("bce", { year: -y }) : t("ce", { year: y }));
+  const describeCosmic = (c: CosmicTime): string => {
+    const parts: string[] = [];
+    if (c.phase !== "within_cycle") parts.push(enumLabel(te, "phase", c.phase));
+    if (c.kalpa) parts.push(t("kalpa", { name: c.kalpa.replace(/-/g, " ") }));
+    if (c.manvantara) parts.push(t("manvantara", { n: c.manvantara }));
+    if (c.mahayuga) parts.push(t("mahayuga", { n: c.mahayuga }));
+    if (c.yuga) parts.push(enumLabel(te, "yuga", c.yuga));
+    return parts.join(" · ");
+  };
   return (
-    <Section title="Time">
+    <Section title={t("title")}>
       <div className="grid gap-4 md:grid-cols-2">
         <div className="rounded-lg border border-indigo/60 bg-indigo/15 p-4">
-          <h3 className="text-sm text-celestial">Traditional (cosmic) chronology</h3>
-          <p className="mb-2 text-xs text-muted">
-            Positions inside a tradition’s cycle of ages. Not years.
-          </p>
+          <h3 className="text-sm text-celestial">{t("cosmicHeading")}</h3>
+          <p className="mb-2 text-xs text-muted">{t("cosmicNote")}</p>
           {cosmic.length === 0 ? (
-            <p className="text-sm text-muted">None recorded.</p>
+            <p className="text-sm text-muted">{tc("noneRecorded")}</p>
           ) : (
             <ul className="space-y-2 text-sm">
-              {cosmic.map((t, i) => (
+              {cosmic.map((c, i) => (
                 <li key={i}>
-                  {describeCosmic(t)}
-                  <VariantTag kala={kala} variant={t.variant} />
+                  {describeCosmic(c)}
+                  <VariantTag kala={kala} variant={c.variant} />
                   <div>
-                    <Cite refs={t.references} kala={kala} />
+                    <Cite refs={c.references} kala={kala} />
                   </div>
                 </li>
               ))}
@@ -194,23 +208,24 @@ export function TimeRails({
           )}
         </div>
         <div className="rounded-lg border border-copper/40 bg-copper/5 p-4">
-          <h3 className="text-sm text-copper">Historical dating</h3>
-          <p className="mb-2 text-xs text-muted">
-            Academic dates from evidence. A different system: not comparable.
-          </p>
+          <h3 className="text-sm text-copper">{t("historicalHeading")}</h3>
+          <p className="mb-2 text-xs text-muted">{t("historicalNote")}</p>
           {historical.length === 0 ? (
-            <p className="text-sm text-muted">None recorded.</p>
+            <p className="text-sm text-muted">{tc("noneRecorded")}</p>
           ) : (
             <ul className="space-y-2 text-sm">
-              {historical.map((t, i) => (
+              {historical.map((h, i) => (
                 <li key={i}>
-                  {formatYear(t.start)} – {formatYear(t.end)}{" "}
+                  {year(h.start)} – {year(h.end)}{" "}
                   <span className="text-muted">
-                    ({t.precision}, {t.confidence} confidence)
+                    {t("historicalDetail", {
+                      precision: enumLabel(te, "precision", h.precision),
+                      confidence: enumLabel(te, "timeConfidence", h.confidence),
+                    })}
                   </span>
-                  {t.note && <p className="text-xs text-muted">{t.note}</p>}
+                  {h.note && <p className="text-xs text-muted">{h.note}</p>}
                   <div>
-                    <Cite refs={t.references} kala={kala} />
+                    <Cite refs={h.references} kala={kala} />
                   </div>
                 </li>
               ))}
@@ -222,20 +237,6 @@ export function TimeRails({
   );
 }
 
-export function formatYear(y: number): string {
-  return y < 0 ? `${-y} BCE` : `${y} CE`;
-}
-
-function describeCosmic(t: CosmicTime): string {
-  const parts: string[] = [];
-  if (t.phase !== "within_cycle") parts.push(t.phase.replace(/_/g, " "));
-  if (t.kalpa) parts.push(`kalpa: ${t.kalpa.replace(/-/g, " ")}`);
-  if (t.manvantara) parts.push(`manvantara ${t.manvantara}`);
-  if (t.mahayuga) parts.push(`mahayuga ${t.mahayuga}`);
-  if (t.yuga) parts.push(`${t.yuga[0]!.toUpperCase()}${t.yuga.slice(1)} Yuga`);
-  return parts.join(" · ");
-}
-
 export function Summaries({
   beginner,
   scholar,
@@ -243,12 +244,13 @@ export function Summaries({
   beginner: string;
   scholar?: string | undefined;
 }) {
+  const t = useTranslations("common");
   return (
     <div className="mt-5 max-w-3xl">
       <p className="text-lg leading-relaxed">{beginner}</p>
       {scholar && (
         <details className="mt-3 rounded border border-white/10 p-3">
-          <summary className="cursor-pointer text-sm text-muted">Scholarly detail</summary>
+          <summary className="cursor-pointer text-sm text-muted">{t("scholarly")}</summary>
           <p className="mt-2 leading-relaxed text-ink/90">{scholar}</p>
         </details>
       )}

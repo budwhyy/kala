@@ -1,0 +1,40 @@
+slug: sanchi
+names:
+  - text: Sanchi
+    lang: en
+    script: Latn
+  - text: साँची
+    lang: hi
+    script: Deva
+realm: terrestrial
+kind: site
+confidence: verified
+geometry:
+  type: Point
+  coordinates:
+    - 77.75
+    - 23.48
+modern_admin:
+  country: India
+  region: Madhya Pradesh
+evidence:
+  - type: archaeological
+    summary: The Imperial Gazetteer describes Sanchi and the country towards Bhilsa as the site of
+      the most extensive Buddhist remains then known in India, with a great stupa enclosed by a
+      railing and four carved gateways, a smaller stupa, a chaitya hall and ruined shrines. It
+      adds that two monoliths may have borne edicts of Asoka.
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "22:27"
+      - source: imperial-gazetteer-1909
+        locator: "22:28"
+traditions:
+  - buddhist
+summary_beginner: A hilltop in central India crowned by a great Buddhist stupa and other
+  monuments, among the best-preserved Buddhist remains in the country.
+summary_scholar: Sanchi is not one of the sites of the Buddha's life in the sources read here and
+  belongs to no network in this atlas. The Gazetteer notes, after Fergusson, that its
+  survival may reflect its remote setting rather than a greater importance in Buddhist times.
+references:
+  - source: imperial-gazetteer-1909
+    locator: "22:27"

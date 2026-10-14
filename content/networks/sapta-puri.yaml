@@ -1,0 +1,29 @@
+slug: sapta-puri
+names:
+  - text: "Sapta Puri: the Seven Sacred Cities"
+    lang: en
+    script: Latn
+  - text: "सप्तपुरी"
+    lang: sa
+    script: Deva
+    iast: "Saptapurī"
+  - text: "सप्तपुरी"
+    lang: hi
+    script: Deva
+kind: sacred_cities
+traditions:
+  - hindu
+variants:
+  - pilgrimage-sapta-puri-sacred-cities-gazetteer
+summary_beginner: "Seven cities that Hindus regard as especially holy, associated with liberation: Ayodhya, Mathura, Haridwar (Maya), Kashi, Kanchi, Ujjain (Avantika) and Dwarka."
+summary_scholar: "KALA has found no usable public-domain English translation of a scripture that enumerates the seven cities. The Imperial Gazetteer itself calls Ujjain and Conjeeveram 'one of the seven sacred cities of India' and describes the other five as great sacred centres, and Dutt's translation of the Garuda Purana (chapter 81) names all seven among sacred places without calling them a set of seven. Membership is therefore recorded on the Gazetteer's descriptions of each city. The identification of Maya with Haridwar rests on the Gazetteer's remark that Abul Fazl called Haridwar by the name Maya."
+references:
+  - source: imperial-gazetteer-1909
+    locator: "24:113-114"
+    note: "Ujjain"
+  - source: imperial-gazetteer-1909
+    locator: "10:377-378"
+    note: "Conjeeveram"
+  - source: dutt-garuda-purana
+    locator: "81"
+    note: "Garuda Purana chapter on sacred places (pp. 209-212)"

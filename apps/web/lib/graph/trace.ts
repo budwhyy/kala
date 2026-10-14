@@ -68,24 +68,7 @@ export function tracePaths<R extends Edge>(
   return paths;
 }
 
-/** Plain-English verb for a relationship, read from its `from` to its `to`. */
-export const VERB: Record<Relationship["type"], string> = {
-  parent: "parent of",
-  partner: "partner of",
-  sibling: "sibling of",
-  teacher: "teacher of",
-  ally: "ally of",
-  enemy: "enemy of",
-  curse: "cursed",
-  blessing: "blessed",
-  avatar_of: "avatar of",
-  manifestation_of: "manifestation of",
-  aspect_of: "aspect of",
-  identified_with: "identified with",
-  vahana_of: "mount of",
-  descendant_of: "descendant of",
-  member_of: "member of",
-};
+// The wording of each relationship ("parent of"…) is in messages/*/core.json under `verbs.<type>`.
 
 export type EdgeFamily = "family" | "narrative" | "spiritual";
 export const EDGE_FAMILY: Record<Relationship["type"], EdgeFamily> = {

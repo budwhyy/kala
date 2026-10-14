@@ -60,3 +60,16 @@ references:
     locator: "3.82"
   - source: cunningham-ancient-geography
     locator: "331"
+pilgrimage_networks:
+  - network: river-tirthas
+    variant: pilgrimage-river-tirthas-gazetteer
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "22:97"
+        note: "Saraswati: the river disappears in the sand; Adh Badri, where it reaches the plains, is held sacred by all Hindus"
+  - network: shakti-peethas
+    variant: pilgrimage-shakti-devi-bhagavata-108
+    references:
+      - source: vijnanananda-devi-bhagavata
+        locator: "7.30"
+        note: "Devamata in Sarasvati"

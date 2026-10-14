@@ -1,0 +1,53 @@
+slug: pushkar
+names:
+  - text: "Pushkar"
+    lang: en
+    script: Latn
+  - text: "पुष्कर"
+    lang: sa
+    script: Deva
+    iast: "Puṣkara"
+  - text: "पुष्कर"
+    lang: hi
+    script: Deva
+realm: terrestrial
+kind: tirtha
+confidence: traditional
+geometry:
+  type: Point
+  coordinates:
+    - 74.55
+    - 26.49
+modern_admin:
+  country: "India"
+  region: "Rajasthan"
+  district: "Ajmer"
+evidence:
+  - type: historical
+    summary: "The Imperial Gazetteer describes Pushkar as a town, lake and place of pilgrimage in Ajmer District, popularly held to be the place where Brahma performed a sacrifice that made the lake so holy that bathing in it brings the greatest sinner to paradise. It lists five principal temples (to Brahma, Savitri, Badri Narayan, Varaha and Siva Atmateswara), all of modern construction because earlier buildings suffered under Aurangzeb, and a great fair in October-November."
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "21:1"
+  - type: textual
+    summary: "Dutt's Garuda Purana (chapter 81) names Pushkara among sacred places; the Devi Bhagavata gives the Devi's name at Pushkara as Puruhuta (7.30)."
+    references:
+      - source: dutt-garuda-purana
+        locator: "81"
+        note: "p. 210"
+      - source: vijnanananda-devi-bhagavata
+        locator: "7.30"
+traditions:
+  - hindu
+  - shakta
+summary_beginner: "A sacred lake and temple town in Rajasthan, linked to Brahma, with a famous temple to him. Pilgrims bathe in the lake, especially at the autumn fair."
+summary_scholar: "The Gazetteer notes the common but, in its view, mistaken belief that this is the only Brahma temple in India."
+references:
+  - source: imperial-gazetteer-1909
+    locator: "21:1"
+pilgrimage_networks:
+  - network: shakti-peethas
+    variant: pilgrimage-shakti-devi-bhagavata-108
+    references:
+      - source: vijnanananda-devi-bhagavata
+        locator: "7.30"
+        note: "Puruhuta in Pushkara"

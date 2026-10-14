@@ -1,0 +1,45 @@
+slug: shravanabelagola
+names:
+  - text: Shravanabelagola
+    lang: en
+    script: Latn
+  - text: ಶ್ರವಣಬೆಳಗೊಳ
+    lang: kn
+    script: Knda
+  - text: Sravana Belgola
+    lang: en
+    script: Latn
+realm: terrestrial
+kind: site
+confidence: verified
+geometry:
+  type: Point
+  coordinates:
+    - 76.48
+    - 12.85
+modern_admin:
+  country: India
+  region: Karnataka
+  district: Hassan
+evidence:
+  - type: historical
+    summary: The Imperial Gazetteer describes the colossal statue of Gomata, 57 feet high, on the
+      hill above the village, whose foot inscriptions in several scripts name Chamundaraya as the
+      builder, and temples on a second hill. It also reports rock inscriptions of great antiquity
+      and a Jain tradition about Bhadrabahu.
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "23:96"
+      - source: imperial-gazetteer-1909
+        locator: "23:97"
+traditions:
+  - jain
+summary_beginner: A village in Karnataka, the chief seat of Jainism in south India, with a
+  colossal statue of Gomata on a hill and many temples.
+summary_scholar: The Gazetteer reports a Jain tradition that Bhadrabahu died here on a migration
+  south and was attended by the Maurya emperor Chandragupta, and says rock inscriptions bear this
+  out without a date; this record attributes the account to that tradition and does not treat the
+  identification of the emperor as established.
+references:
+  - source: imperial-gazetteer-1909
+    locator: "23:96"

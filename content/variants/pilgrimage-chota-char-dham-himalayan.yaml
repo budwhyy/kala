@@ -1,0 +1,21 @@
+slug: pilgrimage-chota-char-dham-himalayan
+names:
+  - text: "The Himalayan Chota Char Dham: Yamunotri, Gangotri, Kedarnath, Badrinath"
+    lang: en
+    script: Latn
+kind: list
+tradition: hindu
+description: "The four mountain shrines of Garhwal that pilgrims visit together as the Chota Char Dham ('small four abodes'), usually travelled from west to east: Yamunotri, Gangotri, Kedarnath and Badrinath. KALA has not found a public-domain English text that enumerates the circuit as such, so it is recorded as the present-day reckoning; each shrine is entered on the strength of its own Imperial Gazetteer article. It is a separate list from the Char Dham of the four directions."
+references:
+  - source: imperial-gazetteer-1909
+    locator: "14:51"
+    note: "Jamnotri"
+  - source: imperial-gazetteer-1909
+    locator: "12:140"
+    note: "Gangotri"
+  - source: imperial-gazetteer-1909
+    locator: "15:196"
+    note: "Kedarnath"
+  - source: imperial-gazetteer-1909
+    locator: "6:179-180"
+    note: "Badrinath"

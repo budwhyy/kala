@@ -1,0 +1,64 @@
+slug: pavapuri
+names:
+  - text: Pavapuri
+    lang: en
+    script: Latn
+  - text: पावापुरी
+    lang: hi
+    script: Deva
+  - text: Papa
+    lang: pra
+    script: Deva
+    iast: Pāpā
+realm: terrestrial
+kind: tirtha
+confidence: traditional
+geometry:
+  type: Point
+  coordinates:
+    - 85.53
+    - 25.08
+modern_admin:
+  country: India
+  region: Bihar
+  district: Nalanda
+evidence:
+  - type: textual
+    summary: The Kalpa Sutra says Mahavira passed away in the town of Papa, in the office of the
+      scribes of King Hastipala, during his last rainy season there.
+    references:
+      - source: jacobi-jaina-sutras-1
+        locator: Kalpa Sutra, section 122, p. 264
+      - source: jacobi-jaina-sutras-1
+        locator: Kalpa Sutra, section 123, p. 265
+  - type: traditional
+    summary: The Imperial Gazetteer records Pawapuri in Patna district as a village with three
+      Jain temples and a great place of Jain pilgrimage, where Mahavira is said to have been
+      buried.
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "20:81"
+traditions:
+  - jain
+pilgrimage_networks:
+  - network: jain-tirthankara-nirvana-places
+    variant: jain-nirvana-places-kalpa-sutra
+    references:
+      - source: jacobi-jaina-sutras-1
+        locator: Kalpa Sutra, section 147, p. 269
+        note: Mahavira's liberation at the town of Papa.
+  - network: jain-mahavira-rainy-season-places
+    variant: jain-mahavira-rainy-seasons-kalpa-sutra
+    references:
+      - source: jacobi-jaina-sutras-1
+        locator: Kalpa Sutra, section 122, p. 264
+summary_beginner: A village in Bihar that Jains hold to be the Papa where Mahavira, the last
+  Tirthankara of this age, attained liberation. It is a place of Jain pilgrimage with temples.
+summary_scholar: The Kalpa Sutra names the town of Papa; the identification with the present
+  village is the Jain tradition recorded in the Gazetteer and is not independently verified
+  here. The Gazetteer's "buried" reflects its own wording and not the Jain account of liberation.
+references:
+  - source: jacobi-jaina-sutras-1
+    locator: Kalpa Sutra, section 122, p. 264
+  - source: imperial-gazetteer-1909
+    locator: "20:81"

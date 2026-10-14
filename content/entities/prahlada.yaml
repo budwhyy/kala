@@ -1,0 +1,27 @@
+slug: prahlada
+names:
+  - text: Prahlada
+    lang: en
+    script: Latn
+  - text: प्रह्लाद
+    lang: sa
+    script: Deva
+    iast: Prahlāda
+kinds:
+  - daitya
+  - asura
+  - king
+traditions:
+  - itihasa
+  - puranic
+summary_beginner: A Daitya prince, son of Hiranyakashipu, remembered in the Vishnu Purana for his unshakable devotion to Vishnu. His father tries again and again to destroy him and fails; Vishnu then appears and grants him a boon, and he later rules the Daityas.
+summary_scholar: The Mahabharata (1.65) names him as the eldest of five sons of Hiranyakashipu and father of Virochana, Kumbha and Nikumbha. The Vishnu Purana (1.15) lists four sons (Anuhlada, Hlada, Prahlada, Sanhlada) and tells his story at length in 1.17 to 1.20. The two texts agree that Prahlada is Hiranyakashipu's son and Virochana's father.
+references:
+  - source: ganguli-mahabharata
+    locator: "1.65"
+  - source: wilson-vishnu-purana
+    locator: "1.15"
+  - source: wilson-vishnu-purana
+    locator: "1.17"
+  - source: wilson-vishnu-purana
+    locator: "1.20"

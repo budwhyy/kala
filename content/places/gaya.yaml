@@ -1,0 +1,53 @@
+slug: gaya
+names:
+  - text: "Gaya"
+    lang: en
+    script: Latn
+  - text: "गया"
+    lang: sa
+    script: Deva
+    iast: "Gayā"
+  - text: "गया"
+    lang: hi
+    script: Deva
+realm: terrestrial
+kind: tirtha
+confidence: traditional
+geometry:
+  type: Point
+  coordinates:
+    - 85.0
+    - 24.8
+modern_admin:
+  country: "India"
+  region: "Bihar"
+  district: "Gaya"
+evidence:
+  - type: historical
+    summary: "The Imperial Gazetteer describes Gaya on the Phalgu river as a town whose old quarter holds the Vishnupada temple built over a footprint of Vishnu on the rock, and says pilgrims come from every part of India to offer funeral cakes (pindas) at forty-five places in the Gaya-kshettra, though most now visit seven or three. It notes the temple was built in the eighteenth century on an older site, and also that Buddhism flourished around Gaya for centuries."
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "12:208-210"
+  - type: textual
+    summary: "The Gazetteer relays the legend (from the Vayu Purana) of the demon Gaya, whose body became the holy ground. The Devi Bhagavata gives the Devi's name in Gaya Kshetra as Mangala (7.30)."
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "12:208-210"
+      - source: vijnanananda-devi-bhagavata
+        locator: "7.30"
+traditions:
+  - vaishnava
+  - shakta
+  - hindu
+summary_beginner: "A town in Bihar where Hindus perform rites for their ancestors beside the Vishnupada temple. It lies next to Bodh Gaya, which is sacred to Buddhists and is recorded separately."
+summary_scholar: "Gaya is also a major Buddhist site; this record concerns only its Hindu pilgrimage. The Gazetteer's legend of the demon Gaya is told from the Vayu Purana, for which KALA has no public-domain English translation, so the story is not retold beyond the Gazetteer."
+references:
+  - source: imperial-gazetteer-1909
+    locator: "12:208-210"
+pilgrimage_networks:
+  - network: shakti-peethas
+    variant: pilgrimage-shakti-devi-bhagavata-108
+    references:
+      - source: vijnanananda-devi-bhagavata
+        locator: "7.30"
+        note: "Mangala in Gaya Kshetra"

@@ -1,0 +1,43 @@
+slug: avidya
+names:
+  - text: "Avidya (ignorance)"
+    lang: en
+    script: Latn
+  - text: "अविद्या"
+    lang: sa
+    script: Deva
+    iast: "Avidyā"
+summary_beginner: "Avidya is ignorance, especially mistaking what one is: seeing the Self in what is not the Self. Schools disagree on whether it is the root of the whole world's appearance or only the cause of an individual's bondage. Buddhist and Jain traditions also speak of ignorance in ways of their own that this page does not cover."
+interpretations:
+  - tradition: vedanta
+    explanation: "In the Katha Upanishad Death tells Nachiketas that ignorance and wisdom lead in opposite directions. People who live in ignorance but think themselves wise go round and round like the blind led by the blind."
+    references:
+      - source: muller-upanishads
+        locator: "Katha Upanishad 1.2.4-5 (SBE 15)"
+  - tradition: itihasa
+    explanation: "The Gita says knowledge is covered by ignorance and so creatures are deluded, and that knowledge of the self removes the ignorance as the sun reveals what was dark."
+    references:
+      - source: telang-bhagavadgita
+        locator: "5.15-16"
+  - tradition: yoga
+    explanation: "The Yoga Sutras list avidya (in Woods's rendering, undifferentiated consciousness) as the first of five hindrances and the soil of the rest. It takes the impermanent, impure, painful and not-self for permanent, pure, pleasant and self, and it is the reason the Seer is linked to what it sees."
+    references:
+      - source: woods-yoga-system-patanjali
+        locator: "Yoga-sutra 2.3-5"
+      - source: woods-yoga-system-patanjali
+        locator: "Yoga-sutra 2.24"
+  - tradition: advaita-vedanta
+    explanation: "Shankara defines superimposition, the mutual mix-up of Self and non-Self, as what learned people call nescience (avidya), and the careful ascertaining of the Self's true nature as knowledge (vidya). He says all ordinary practice, including scriptural injunctions, rests on this superimposition."
+    references:
+      - source: thibaut-vedanta-sutras-shankara
+        locator: "SBE 34, Shankara's Introduction (superimposition)"
+  - tradition: vishishtadvaita
+    explanation: "Ramanuja quotes the Vishnu Purana's mention of a power called karma or nescience, by which the embodied soul's knowledge is covered, and treats it as tied to good and evil works."
+    references:
+      - source: thibaut-vedanta-sutras-ramanuja
+        locator: "SBE 48, Vedanta-Sutras 1.1.1 (pp. 88-89)"
+related:
+  - maya
+  - karma
+  - jnana
+  - atman

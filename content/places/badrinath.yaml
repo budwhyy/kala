@@ -1,0 +1,75 @@
+slug: badrinath
+names:
+  - text: "Badrinath"
+    lang: en
+    script: Latn
+  - text: "बदरीनाथ"
+    lang: sa
+    script: Deva
+    iast: "Badarīnātha"
+  - text: "बद्रीनाथ"
+    lang: hi
+    script: Deva
+  - text: "Badarinath"
+    lang: en
+    script: Latn
+realm: terrestrial
+kind: tirtha
+confidence: traditional
+geometry:
+  type: Point
+  coordinates:
+    - 79.49
+    - 30.74
+modern_admin:
+  country: "India"
+  region: "Uttarakhand"
+  district: "Chamoli"
+evidence:
+  - type: historical
+    summary: "The Imperial Gazetteer describes Badrinath as a peak in Garhwal and, on one of its shoulders at about 10,400 feet, a shrine of Vishnu of the same name on the road from Srinagar to the Mana Pass. It says the original temple is said to have been built by Sankaracharya, that avalanches swept away several buildings, and that the present structure is modern; its chief priest is a Namburi Brahman from the south."
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "6:179-180"
+  - type: textual
+    summary: "Dutt's translation of the Garuda Purana (chapter 81) says that a pilgrimage to the holy forest of Vadarika leads to the emancipation of the self. Tradition connects Badarika with the Badrinath region; the translation does not itself name Badrinath."
+    references:
+      - source: dutt-garuda-purana
+        locator: "81"
+        note: "pp. 209-210; the identification with Badrinath is traditional, not made by the text"
+  - type: traditional
+    summary: "Wilson names Badarinath in the Himalaya among the temples of the Vaishnavas that are celebrated as objects of pilgrimage. The Gazetteer's Dwarka article lists Badrinath, in the north, as one of the four maths founded by Sankaracharya."
+    references:
+      - source: wilson-religious-sects-1861
+        locator: "39"
+      - source: imperial-gazetteer-1909
+        locator: "11:387"
+traditions:
+  - vaishnava
+  - hindu
+summary_beginner: "A temple of Vishnu high in the Garhwal Himalaya, in the same name as the peak above it, reached on foot by pilgrims for many centuries. It is the northern of the four dhams and also the last shrine of the Himalayan Chota Char Dham."
+summary_scholar: "The Gazetteer's date for the first temple (Sankaracharya, i.e. the traditional eighth-century reformer) is a tradition, not a documented foundation, and it records that the present building is modern. The Garuda Purana's 'Vadarika' is a place name that Hindu tradition links with this valley; KALA keeps that link as tradition."
+references:
+  - source: imperial-gazetteer-1909
+    locator: "6:179-180"
+  - source: wilson-religious-sects-1861
+    locator: "39"
+pilgrimage_networks:
+  - network: char-dham
+    variant: pilgrimage-char-dham-four-dhams
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "6:179-180"
+        note: "Shrine of Vishnu in Garhwal"
+  - network: char-dham
+    variant: pilgrimage-four-maths-gazetteer
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "11:387"
+        note: "Badrinath listed as the northern math"
+  - network: chota-char-dham
+    variant: pilgrimage-chota-char-dham-himalayan
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "6:179-180"
+        note: "Shrine of Vishnu in Garhwal"

@@ -1,0 +1,17 @@
+slug: vishvarupa
+names:
+  - text: Vishvarupa
+    lang: en
+    script: Latn
+  - text: विश्वरूप
+    lang: sa
+    script: Deva
+    iast: Viśvarūpa
+kinds:
+  - other
+traditions:
+  - puranic
+summary_beginner: A son of Tvashtri, named briefly in the Vishnu Purana's list of the gods' births.
+references:
+  - source: wilson-vishnu-purana
+    locator: "1.15"

@@ -1,0 +1,92 @@
+slug: shravasti
+names:
+  - text: Shravasti
+    lang: en
+    script: Latn
+  - text: श्रावस्ती
+    lang: sa
+    script: Deva
+    iast: Śrāvastī
+  - text: Savatthi
+    lang: pi
+    script: Latn
+    iast: Sāvatthi
+  - text: Sahet-Mahet
+    lang: en
+    script: Latn
+realm: terrestrial
+kind: city
+confidence: debated
+geometry:
+  type: Point
+  coordinates:
+    - 82.02
+    - 27.52
+modern_admin:
+  country: India
+  region: Uttar Pradesh
+  district: Shravasti
+alternative_identifications:
+  - label: Set-Mahet, on the Rapti (Gonda and Bahraich districts)
+    confidence: debated
+    geometry:
+      type: Point
+      coordinates:
+        - 82.02
+        - 27.52
+    argument: Cunningham identified the ruined city of Sahet-Mahet with Sravasti from its distance
+      from Ayodhya and from a colossal Buddha statue there bearing an inscription with the name
+      Sravasti. The Gazetteer notes excavation by Hoey in 1884-5 but says the word on the pedestal
+      is not conclusive.
+    references:
+      - source: cunningham-ancient-geography
+        locator: "409"
+      - source: imperial-gazetteer-1909
+        locator: "22:181"
+  - label: Upper course of the Rapti, within Nepal
+    confidence: debated
+    modern_admin:
+      country: Nepal
+    argument: After the approximate site of Kapilavastu was discovered, doubts about Set-Mahet grew
+      and it was suggested that Sravasti be sought on the upper Rapti in Nepal; no site is fixed.
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "22:181"
+      - source: imperial-gazetteer-1909
+        locator: "23:97"
+evidence:
+  - type: historical
+    summary: Fa-hien found Shravasti with only a couple of hundred families, and the Gazetteer
+      adds that Xuanzang found it deserted. Fa-hien lists the Jetavana vihara and the place of
+      Angulimala's passing among the memorials there.
+    references:
+      - source: legge-fa-hien
+        locator: "20"
+      - source: imperial-gazetteer-1909
+        locator: "22:181"
+traditions:
+  - buddhist
+  - jain
+pilgrimage_networks:
+  - network: buddhist-fa-hien-sacred-places
+    variant: buddhist-places-fa-hien-record
+    references:
+      - source: legge-fa-hien
+        locator: "20"
+  - network: jain-mahavira-rainy-season-places
+    variant: jain-mahavira-rainy-seasons-kalpa-sutra
+    references:
+      - source: jacobi-jaina-sutras-1
+        locator: Kalpa Sutra, section 122, p. 264
+        note: Mahavira is said to have spent one rainy season at Shravasti.
+summary_beginner:
+  An ancient city of the kingdom of Kosala in north India where the Buddha is said to
+  have spent many rainy seasons at the Jetavana garden. Where exactly it stood is still debated.
+summary_scholar: The sources held here do not fix the site. Set-Mahet was long accepted, but the
+  1908 Gazetteer records the doubts and calls the site uncertain. Buddhist and Jain traditions
+  both remember Shravasti, in separate accounts that are not merged.
+references:
+  - source: imperial-gazetteer-1909
+    locator: "22:181"
+  - source: cunningham-ancient-geography
+    locator: "409"

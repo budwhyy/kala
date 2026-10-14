@@ -13,7 +13,17 @@ export async function ModePage({
   children: ReactNode;
 }) {
   const { searchIndex } = await getContent();
-  const lookup = Object.fromEntries(searchIndex.map((i) => [`${i.type}:${i.slug}`, i]));
+  // Only what the "Currently exploring" box needs: the five selectable record types, without the
+  // search keys (which are the bulk of the index and would otherwise ship with every mode page).
+  const SELECTABLE = new Set(["entities", "places", "kingdoms", "dynasties", "texts"]);
+  const lookup = Object.fromEntries(
+    searchIndex
+      .filter((i) => SELECTABLE.has(i.type))
+      .map((i) => [
+        `${i.type}:${i.slug}`,
+        { type: i.type, slug: i.slug, href: i.href, label: i.label, sub: i.sub },
+      ]),
+  );
   return (
     <Page>
       <Suspense fallback={null}>

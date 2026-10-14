@@ -38,7 +38,15 @@ export function hrefFor(collection: CollectionName, slug: string): string | null
   return base ? `${base}/${slug}` : null;
 }
 
-export function displayName(names: Name[]): string {
+/**
+ * Display name for a locale. Hindi shows a Hindi name if the record has one, else the Sanskrit
+ * Devanagari name, else English. Every other locale shows the English name.
+ */
+export function displayName(names: Name[], locale = "en"): string {
+  if (locale === "hi") {
+    const hi = names.find((n) => n.lang === "hi") ?? names.find((n) => n.script === "Deva");
+    if (hi) return hi.text;
+  }
   return names.find((n) => n.lang === "en")?.text ?? names[0]?.text ?? "";
 }
 
@@ -50,7 +58,7 @@ export type RelationView = {
   other: string;
 };
 
-export function buildKala(ds: Dataset) {
+export function buildKala(ds: Dataset, locale = "en") {
   const maps = Object.fromEntries(
     (Object.keys(ds) as CollectionName[]).map((c) => [
       c,
@@ -79,6 +87,7 @@ export function buildKala(ds: Dataset) {
 
   return {
     dataset: ds,
+    locale,
     get<K extends CollectionName>(collection: K, slug: string): Dataset[K][number] | undefined {
       return maps[collection].get(slug) as Dataset[K][number] | undefined;
     },
@@ -86,7 +95,7 @@ export function buildKala(ds: Dataset) {
     nameOf(collection: CollectionName, slug: string): string {
       const r = maps[collection].get(slug) as { names?: Name[]; title?: string } | undefined;
       if (!r) return slug;
-      return r.names ? displayName(r.names) : (r.title ?? slug);
+      return r.names ? displayName(r.names, locale) : (r.title ?? slug);
     },
     /** Links authored on this record (e.g. a place's kingdoms). */
     linksFrom(collection: CollectionName, slug: string): Link[] {

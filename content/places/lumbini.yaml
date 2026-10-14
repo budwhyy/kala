@@ -1,0 +1,77 @@
+slug: lumbini
+names:
+  - text: Lumbini
+    lang: en
+    script: Latn
+  - text: लुम्बिनी
+    lang: pi
+    script: Deva
+    iast: Lumbinī
+  - text: Rummindei
+    lang: en
+    script: Latn
+realm: terrestrial
+kind: site
+confidence: verified
+geometry:
+  type: Point
+  coordinates:
+    - 83.28
+    - 27.47
+modern_admin:
+  country: Nepal
+  region: Lumbini Province
+  district: Rupandehi
+evidence:
+  - type: archaeological
+    summary: A pillar inscribed to show that Asoka raised it at the Lumbini garden to mark the
+      Buddha's birthplace was found in 1896 north of Paderia in Nepal. The Imperial Gazetteer
+      notes that the place is still called Rummin-dei and that the pillar is split, as Xuanzang
+      described.
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "14:407"
+  - type: historical
+    summary: Fa-hien places the garden of Lumbini fifty li east of Kapilavastu, and Xuanzang
+      describes a stone pillar topped by a horse beside the stupas of the birth, damaged in the
+      middle.
+    references:
+      - source: legge-fa-hien
+        locator: "22"
+      - source: beal-si-yu-ki
+        locator: "2:25"
+  - type: textual
+    summary: The Mahaparinibbana Sutta speaks of the place where the Tathagata was born as the
+      first of four places a faithful person may visit; the sutta gives the event, not the name.
+    references:
+      - source: rhys-davids-buddhist-suttas
+        locator: "5.17"
+traditions:
+  - buddhist
+pilgrimage_networks:
+  - network: buddhist-four-great-places
+    variant: buddhist-four-places-mahaparinibbana
+    references:
+      - source: rhys-davids-buddhist-suttas
+        locator: "5.17"
+        note: The first of the four places is the birthplace; the Gazetteer ties it to Lumbini.
+      - source: imperial-gazetteer-1909
+        locator: "14:407"
+  - network: buddhist-fa-hien-sacred-places
+    variant: buddhist-places-fa-hien-record
+    references:
+      - source: legge-fa-hien
+        locator: "22"
+summary_beginner: The garden in present-day Nepal that Buddhist tradition names as the Buddha's
+  birthplace. An inscribed pillar of Asoka found there marks it as a place of pilgrimage from the
+  earliest historical records.
+summary_scholar: The location is historically well attested by the inscribed pillar, and the
+  account of the Buddha's birth is a traditional one that this record does not verify. Cunningham,
+  writing in 1871 before the pillar was found, proposed a site near Nagar in India for the
+  garden; the 1896 discovery superseded that proposal (Cunningham 416-417; Imperial Gazetteer
+  14:407).
+references:
+  - source: imperial-gazetteer-1909
+    locator: "14:407"
+  - source: legge-fa-hien
+    locator: "22"

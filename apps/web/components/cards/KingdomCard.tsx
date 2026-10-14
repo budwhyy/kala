@@ -1,5 +1,7 @@
+import { useTranslations } from "next-intl";
 import type { Kala } from "@/lib/graph/kala";
 import { hrefFor } from "@/lib/graph/kala";
+import { enumLabel } from "@/lib/i18n-helpers";
 import { KingdomKind } from "./PlaceCard";
 import {
   Badge,
@@ -12,14 +14,9 @@ import {
   VariantTag,
 } from "./ui";
 
-const KIND_LABEL: Record<string, string> = {
-  epic_legendary: "Kingdom of the epics and Puranas",
-  historical_mahajanapada: "Historical state (mahajanapada)",
-  historical_empire: "Historical empire",
-  historical_regional: "Historical regional kingdom",
-};
-
 export function KingdomCard({ kala, slug }: { kala: Kala; slug: string }) {
+  const t = useTranslations("kingdom");
+  const te = useTranslations("enums");
   const k = kala.get("kingdoms", slug)!;
   const legendary = k.kind === "epic_legendary";
   const dynasties = kala.neighbours("kingdoms", slug, "dynasties");
@@ -29,7 +26,9 @@ export function KingdomCard({ kala, slug }: { kala: Kala; slug: string }) {
     <article>
       <NameBlock names={k.names} />
       <div className="mt-3 flex flex-wrap gap-2">
-        <Badge tone={legendary ? "celestial" : "copper"}>{KIND_LABEL[k.kind]}</Badge>
+        <Badge tone={legendary ? "celestial" : "copper"}>
+          {enumLabel(te, "kingdomKind", k.kind)}
+        </Badge>
       </div>
       <Summaries beginner={k.summary_beginner} scholar={k.summary_scholar} />
       <p className="mt-2">
@@ -38,11 +37,9 @@ export function KingdomCard({ kala, slug }: { kala: Kala; slug: string }) {
 
       {k.same_name_as.length > 0 && (
         <aside className="mt-6 rounded-lg border border-gold/30 bg-gold/5 p-4 text-sm">
-          <h2 className="text-gold">Same name, separate record</h2>
+          <h2 className="text-gold">{t("sameNameHeading")}</h2>
           <p className="mt-1 text-muted">
-            {legendary
-              ? "A historical state of the same name is documented separately. Sharing a name does not make the epic account historical."
-              : "The epics and Puranas describe a kingdom of the same name. That account is kept separately and is not confirmed by this historical record."}
+            {legendary ? t("sameNameLegendary") : t("sameNameHistorical")}
           </p>
           <ul className="mt-2">
             {k.same_name_as.map((s) => (
@@ -56,7 +53,7 @@ export function KingdomCard({ kala, slug }: { kala: Kala; slug: string }) {
       )}
 
       {k.capitals.length > 0 && (
-        <Section title="Capitals">
+        <Section title={t("capitals")}>
           <ul className="space-y-2">
             {k.capitals.map((c) => (
               <li key={c.to}>
@@ -72,7 +69,7 @@ export function KingdomCard({ kala, slug }: { kala: Kala; slug: string }) {
       )}
 
       {places.length > k.capitals.length && (
-        <Section title="Places in this kingdom">
+        <Section title={t("placesIn")}>
           <ul className="flex flex-wrap gap-x-4">
             {places
               .filter((p) => !k.capitals.some((c) => c.to === p))
@@ -86,7 +83,7 @@ export function KingdomCard({ kala, slug }: { kala: Kala; slug: string }) {
       )}
 
       {dynasties.length > 0 && (
-        <Section title="Dynasties">
+        <Section title={t("dynasties")}>
           <ul className="flex flex-wrap gap-x-4">
             {dynasties.map((d) => (
               <li key={d}>
@@ -100,7 +97,7 @@ export function KingdomCard({ kala, slug }: { kala: Kala; slug: string }) {
       )}
 
       {k.rulers.length > 0 && (
-        <Section title="Rulers">
+        <Section title={t("rulers")}>
           <ul className="space-y-2">
             {k.rulers.map((r, i) => (
               <li key={i}>
@@ -112,7 +109,7 @@ export function KingdomCard({ kala, slug }: { kala: Kala; slug: string }) {
                   r.name?.text
                 )}{" "}
                 <Badge tone={r.attested ? "gold" : "plain"}>
-                  {r.attested ? "historically attested" : "legendary"}
+                  {r.attested ? t("attested") : t("legendary")}
                 </Badge>
                 {r.note && <p className="text-sm text-ink/85">{r.note}</p>}
                 <Cite refs={r.references} kala={kala} />
@@ -123,11 +120,11 @@ export function KingdomCard({ kala, slug }: { kala: Kala; slug: string }) {
       )}
 
       {k.relations.length > 0 && (
-        <Section title="Relations with other kingdoms">
+        <Section title={t("relations")}>
           <ul className="space-y-2">
             {k.relations.map((r, i) => (
               <li key={i}>
-                <Badge>{r.type}</Badge>{" "}
+                <Badge>{enumLabel(te, "kingdomRelation", r.type)}</Badge>{" "}
                 <RecordLink href={hrefFor("kingdoms", r.kingdom)}>
                   {kala.nameOf("kingdoms", r.kingdom)}
                 </RecordLink>

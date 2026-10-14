@@ -178,6 +178,15 @@ export function validateDataset(ds: Dataset): Issue[] {
     );
     needAll("events", e.slug, "places", e.places, "places");
     needAll("events", e.slug, "traditions", e.traditions, "traditions");
+    needAll("events", e.slug, "events", e.same_story_as, "same_story_as");
+    for (const other of e.same_story_as.map((x) => index.events.get(x))) {
+      if (other && !other.same_story_as.includes(e.slug))
+        issues.push({
+          collection: "events",
+          id: e.slug,
+          message: `same_story_as '${other.slug}' must link back to '${e.slug}'`,
+        });
+    }
     need("events", e.slug, "variants", e.variant, "variant");
     if (e.narrative_order) {
       need("events", e.slug, "texts", e.narrative_order.text, "narrative_order.text");
