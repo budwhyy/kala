@@ -116,3 +116,14 @@ Architectural decisions, newest last. Each entry: timestamp (UTC), decision, why
 - **Decision:** d3-force-3d runs in `workers/layout.worker.ts` (main-thread fallback). Output is
   centred and scaled so 85% of figures fall within a fixed radius; the camera frames the selected
   figure with drei CameraControls (instant under reduced motion).
+
+## 2026-10-14 — Globe and local map are one MapLibre view
+
+- **Decision:** The 3D Earth is MapLibre's globe projection, which zooms continuously into the local
+  map, instead of a separate React Three Fiber globe handing off to MapLibre. Basemap: OpenFreeMap
+  "dark" style (no API key). Relief: hillshade from the public AWS Terrarium elevation tiles.
+- **Why:** The brief (§6.4) asks for a smooth globe → local-map zoom; one engine does it without a
+  hand-off seam, ships far less JavaScript, and keeps the brief's MapLibre choice. Both tile services
+  are free and keyless; if either becomes unavailable, the list view still works.
+- **Note:** Places with a geometry are drawn as markers at their first vertex in Phase 1; kingdom
+  extents are not drawn because no extent has a citable source yet (brief §10: no crisp borders).

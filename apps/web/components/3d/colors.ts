@@ -22,3 +22,11 @@ export const YUGA_TONE = {
   dvapara: "--kala-celestial",
   kali: "--kala-deep-red",
 } as const;
+
+/** Map/legend colours per place confidence class (labels match the cards' ConfidenceBadge). */
+export const CONFIDENCE_STYLE = {
+  verified: { label: "Historically verified", color: "var(--kala-gold)" },
+  traditional: { label: "Traditionally identified", color: "var(--kala-copper)" },
+  debated: { label: "Debated", color: "#e07a7f" },
+  mythical: { label: "Cosmological", color: "var(--kala-celestial)" },
+} as const;
