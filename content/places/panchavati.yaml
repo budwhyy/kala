@@ -27,9 +27,11 @@ alternative_identifications:
       region: Maharashtra
       district: Nashik
     argument:
-      The best-known living tradition places Panchavati on the Godavari at Nashik. Our sources
-      do not document this identification.
+      The best-known living tradition places Panchavati on the Godavari at Nashik; the Imperial Gazetteer (18:410) records
+      this belief without historical support.
     references:
+      - source: imperial-gazetteer-1909
+        locator: "18:410"
       - source: griffith-ramayana
         locator: "3.15"
         note: textual setting only
@@ -65,11 +67,19 @@ evidence:
     references:
       - source: ganguli-mahabharata
         locator: "3.83"
+  - type: traditional
+    summary: "The Imperial Gazetteer's article on Nasik town says Hindus hold Nasik sacred partly from the belief that Rama lived there with Sita and Lakshmana, and describes Panchvati as the quarter of the town on the left bank of the Godavari."
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "18:410"
 traditions:
   - itihasa
   - vaishnava
 summary_beginner: The forest where Rama, Sita and Lakshmana lived before Sita was taken. Nashik is
   the most famous traditional site, but others are claimed.
+summary_scholar: The Nashik tradition is now documented by the Imperial Gazetteer (18:410), which reports the belief that Rama lived at Nasik; it gives no historical support, and the Bhadrachalam tradition remains undocumented in our sources.
 references:
   - source: griffith-ramayana
     locator: "3.15"
+  - source: imperial-gazetteer-1909
+    locator: "18:410"

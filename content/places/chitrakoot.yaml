@@ -36,6 +36,11 @@ evidence:
       - source: griffith-ramayana
         locator: "2.56"
         note: textual setting only; modern identification is living tradition
+  - type: traditional
+    summary: "The Imperial Gazetteer's article on Chitrakut hill in Banda District says the hill's sanctity is held to date from Rama and Sita's visit during their wanderings, and that it was formerly the most frequented place of pilgrimage in Bundelkhand."
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "10:300"
 traditions:
   - itihasa
   - vaishnava
@@ -44,3 +49,5 @@ summary_beginner: A hill and pilgrimage town on the Uttar Pradesh-Madhya Pradesh
 references:
   - source: griffith-ramayana
     locator: "2.56"
+  - source: imperial-gazetteer-1909
+    locator: "10:300"

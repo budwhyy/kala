@@ -26,9 +26,11 @@ alternative_identifications:
       country: India
       region: Karnataka
     argument: Local tradition around Hampi and Anegundi identifies the hills there with the vanara
-      kingdom. None of our cited sources makes this identification; the text itself gives only a
+      kingdom; the Imperial Gazetteer (24:313) records this tradition. The Ramayana itself describes only a
       hilly city with caves.
     references:
+      - source: imperial-gazetteer-1909
+        locator: "24:313"
       - source: griffith-ramayana
         locator: "4.13"
         note: textual description only; the modern identification is local tradition
@@ -38,12 +40,18 @@ evidence:
     references:
       - source: griffith-ramayana
         locator: "4.13"
+  - type: traditional
+    summary: "The Imperial Gazetteer's article on Vijayanagar reports that local Brahmans assert the Ramayana's Kishkindha was close to Hampi, and that the place is held holy for this reason; it presents this as local tradition, not as evidence."
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "24:313"
 traditions:
   - itihasa
 summary_beginner: The city of the monkey-kings Bali and Sugriva in the Ramayana. Tradition places it
   near Hampi in Karnataka, but this is not established.
-summary_scholar: Kept 'debated' because the only located candidate rests on local tradition, which
-  no source in our collection documents.
+summary_scholar: Kept 'debated'. The Imperial Gazetteer (24:313) documents the Hampi identification, but only as an assertion of local Brahmans, so it records the tradition without giving historical or archaeological support for it.
 references:
   - source: griffith-ramayana
     locator: "4.13"
+  - source: imperial-gazetteer-1909
+    locator: "24:313"

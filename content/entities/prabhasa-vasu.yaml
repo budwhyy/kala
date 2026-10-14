@@ -1,0 +1,13 @@
+slug: prabhasa-vasu
+names:
+  - text: "Prabhasa (Vasu)"
+    lang: en
+    script: Latn
+kinds: [deva]
+traditions: [itihasa, puranic]
+summary_beginner: "One of the eight Vasus in both the Mahabharata and Vishnu Purana lists (light; father of Vishvakarman)."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.66"
+  - source: wilson-vishnu-purana
+    locator: "1.15"

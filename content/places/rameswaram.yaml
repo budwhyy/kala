@@ -32,6 +32,11 @@ evidence:
       - source: wilson-vishnu-purana
         locator: "4.5"
         note: Wilson's note citing the Kasi Khanda
+  - type: traditional
+    summary: "The Imperial Gazetteer's article on Rameswaram says its temple was, according to tradition, founded by Rama himself as a thank-offering for his success against Ravana, and has long drawn pilgrims from all over India."
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "21:173"
 traditions:
   - shaiva
   - vaishnava
@@ -42,3 +47,5 @@ references:
     locator: "4.5"
   - source: griffith-ramayana
     locator: "6.22"
+  - source: imperial-gazetteer-1909
+    locator: "21:173"

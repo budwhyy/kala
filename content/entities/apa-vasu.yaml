@@ -1,0 +1,11 @@
+slug: apa-vasu
+names:
+  - text: "Apa (Vasu)"
+    lang: en
+    script: Latn
+kinds: [deva]
+traditions: [puranic]
+summary_beginner: "One of the eight Vasus in the Vishnu Purana's list, where the Mahabharata has Dhara instead."
+references:
+  - source: wilson-vishnu-purana
+    locator: "1.15"

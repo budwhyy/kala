@@ -1,0 +1,153 @@
+- id: dhruva-vasu-member-of-vasus
+  from: dhruva-vasu
+  to: vasus
+  type: member_of
+  explanation: "Both the Mahabharata and the Vishnu Purana name Dhruva among the eight Vasus."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.66"
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+
+- id: soma-vasu-member-of-vasus
+  from: soma-vasu
+  to: vasus
+  type: member_of
+  explanation: "Both the Mahabharata and the Vishnu Purana name Soma among the eight Vasus."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.66"
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+
+- id: anila-vasu-member-of-vasus
+  from: anila-vasu
+  to: vasus
+  type: member_of
+  explanation: "Both the Mahabharata and the Vishnu Purana name Anila among the eight Vasus."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.66"
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+
+- id: anala-vasu-member-of-vasus
+  from: anala-vasu
+  to: vasus
+  type: member_of
+  explanation: "Both the Mahabharata and the Vishnu Purana name Anala among the eight Vasus."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.66"
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+
+- id: pratyusha-vasu-member-of-vasus
+  from: pratyusha-vasu
+  to: vasus
+  type: member_of
+  explanation: "Both the Mahabharata and the Vishnu Purana name Pratyusha among the eight Vasus."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.66"
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+
+- id: prabhasa-vasu-member-of-vasus
+  from: prabhasa-vasu
+  to: vasus
+  type: member_of
+  explanation: "Both the Mahabharata and the Vishnu Purana name Prabhasa among the eight Vasus."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.66"
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+
+- id: dhara-vasu-member-of-vasus
+  from: dhara-vasu
+  to: vasus
+  type: member_of
+  variant: groups-vasus-mahabharata
+  explanation: "The Mahabharata names Dhara first among the eight Vasus."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.66"
+
+- id: aha-vasu-member-of-vasus
+  from: aha-vasu
+  to: vasus
+  type: member_of
+  variant: groups-vasus-mahabharata
+  explanation: "The Mahabharata names Aha among the eight Vasus."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.66"
+
+- id: apa-vasu-member-of-vasus
+  from: apa-vasu
+  to: vasus
+  type: member_of
+  variant: groups-vasus-vishnu-purana
+  explanation: "The Vishnu Purana names Apa first among the eight Vasus."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+
+- id: dhava-vasu-member-of-vasus
+  from: dhava-vasu
+  to: vasus
+  type: member_of
+  variant: groups-vasus-vishnu-purana
+  explanation: "The Vishnu Purana names Dhava among the eight Vasus."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+
+- id: dharma-father-of-vasus
+  from: dharma
+  to: vasus
+  type: parent
+  role: father
+  mode: biological
+  variant: groups-vasus-vishnu-purana
+  explanation: "In the Vishnu Purana the Vasus are the children of Dharma's wife Vasu, one of the ten daughters of Daksha given to Dharma. (The Mahabharata instead makes them sons of Prajapati, a son of Manu, who has no record yet.)"
+  references:
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+
+- id: brahma-father-of-dharma
+  from: brahma
+  to: dharma
+  type: parent
+  role: father
+  mode: other
+  variant: mahabharata-adi-parva
+  explanation: "In the Mahabharata Dharma, in human form, comes out of Brahma's right breast."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.66"
+
+- id: brahma-father-of-sthanu
+  from: brahma
+  to: sthanu
+  type: parent
+  role: father
+  mode: mind_born
+  variant: mahabharata-adi-parva
+  explanation: "The Mahabharata names Sthanu as a further spiritual son of Brahma, besides the six great rishis."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.66"
+
+- id: sthanu-father-of-rudras
+  from: sthanu
+  to: rudras
+  type: parent
+  role: father
+  mode: other
+  variant: mahabharata-adi-parva
+  explanation: "In the Mahabharata the eleven Rudras are the sons of Sthanu. The Vishnu Purana lists eleven Rudras but does not name their father."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.66"

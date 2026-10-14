@@ -1,0 +1,12 @@
+slug: groups-vasus-mahabharata
+names:
+  - text: "The eight Vasus (Mahabharata)"
+    lang: en
+    script: Latn
+kind: list
+tradition: itihasa
+text: mahabharata
+description: "The Mahabharata's list of the eight Vasus (Adi Parva): Dhara, Dhruva, Soma, Aha, Anila, Anala, Pratyusha and Prabhasa, sons of Prajapati, a son of Manu, by several mothers."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.66"

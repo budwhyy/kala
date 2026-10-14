@@ -1,0 +1,12 @@
+slug: groups-vasus-vishnu-purana
+names:
+  - text: "The eight Vasus (Vishnu Purana)"
+    lang: en
+    script: Latn
+kind: list
+tradition: puranic
+text: vishnu-purana
+description: "The Vishnu Purana's list of the eight Vasus: Apa, Dhruva, Soma, Dhava, Anila, Anala, Pratyusha and Prabhasa, children of Dharma by Vasu, a daughter of Daksha."
+references:
+  - source: wilson-vishnu-purana
+    locator: "1.15"

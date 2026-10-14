@@ -1,0 +1,22 @@
+slug: imperial-gazetteer-1909
+title: The Imperial Gazetteer of India, new edition
+kind: reference_work
+creators:
+  - W. S. Meyer (editor for India)
+  - R. Burn (editor for India)
+  - J. S. Cotton (editor in England)
+  - H. H. Risley (planning)
+language: en
+published:
+  year: 1907
+  end_year: 1909
+  publisher: Clarendon Press
+  place: Oxford
+licence: public_domain
+licence_note: "Verified. Published 1907-1909 under the authority of the Secretary of State for India
+  in Council (26 vols; vols 1-4 The Indian Empire, 5-24 gazetteer A-Z, 25 index, 26 atlas). US:
+  published before 1931, public domain. UK: Crown copyright in published works lasts 50 years from
+  publication (CDPA 1988 s.163), so expired by 1960. India: government work, 60 years from
+  publication, expired. Editors named in the General Preface, vol. 1 p. vi. Locator format:
+  volume:page. Only the 1909 atlas belongs to this edition; the revised 1931 atlas is excluded."
+url: https://dsal.uchicago.edu/reference/gazetteer/

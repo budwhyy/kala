@@ -1,0 +1,17 @@
+slug: rudras
+names:
+  - text: "Rudras"
+    lang: en
+    script: Latn
+  - text: रुद्र
+    lang: sa
+    script: Deva
+    iast: Rudra
+kinds: [deva]
+traditions: [itihasa, puranic]
+summary_beginner: "A group of eleven gods counted, with the Vasus and Adityas, among the thirty-three gods. The Mahabharata names them as the eleven sons of Sthanu; the Vishnu Purana gives a different list of eleven names and does not say whose sons they are."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.66"
+  - source: wilson-vishnu-purana
+    locator: "1.15"

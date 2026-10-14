@@ -35,6 +35,13 @@ evidence:
       - source: griffith-ramayana
         locator: "4.43"
         note: textual mention only; identification is living tradition
+  - type: traditional
+    summary: "The Imperial Gazetteer describes the Kailas mountain in western Tibet, where the Sutlej rises, as the Shiva's paradise of Sanskrit literature, and elsewhere notes it as a sacred place visited by Hindu pilgrims."
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "1:31"
+      - source: imperial-gazetteer-1909
+        locator: "5:250"
 related_places:
   - to: kailasa-cosmological
     relation: cosmological_counterpart
@@ -52,3 +59,7 @@ summary_beginner: A peak in western Tibet, sacred to Hindus, Buddhists and Jains
 references:
   - source: griffith-ramayana
     locator: "4.43"
+  - source: imperial-gazetteer-1909
+    locator: "1:31"
+  - source: imperial-gazetteer-1909
+    locator: "5:250"

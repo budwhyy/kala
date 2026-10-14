@@ -1,0 +1,17 @@
+slug: vasus
+names:
+  - text: "Vasus"
+    lang: en
+    script: Latn
+  - text: वसु
+    lang: sa
+    script: Deva
+    iast: Vasu
+kinds: [deva]
+traditions: [itihasa, puranic]
+summary_beginner: "A group of eight gods counted, with the Rudras and Adityas, among the thirty-three gods. The Mahabharata makes them sons of Prajapati, a son of Manu; the Vishnu Purana makes them children of Dharma by his wife Vasu. The two lists of names differ slightly."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.66"
+  - source: wilson-vishnu-purana
+    locator: "1.15"

@@ -1,0 +1,11 @@
+slug: dhara-vasu
+names:
+  - text: "Dhara (Vasu)"
+    lang: en
+    script: Latn
+kinds: [deva]
+traditions: [itihasa]
+summary_beginner: "One of the eight Vasus in the Mahabharata's list, where the Vishnu Purana has Apa instead."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.66"

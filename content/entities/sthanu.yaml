@@ -1,0 +1,15 @@
+slug: sthanu
+names:
+  - text: "Sthanu"
+    lang: en
+    script: Latn
+  - text: स्थाणु
+    lang: sa
+    script: Deva
+    iast: Sthāṇu
+kinds: [other]
+traditions: [itihasa]
+summary_beginner: "In the Mahabharata's Adi Parva, a spiritual son of Brahma named alongside the six great rishis, and the father of the eleven Rudras."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.66"

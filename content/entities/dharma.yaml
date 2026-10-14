@@ -1,0 +1,17 @@
+slug: dharma
+names:
+  - text: "Dharma"
+    lang: en
+    script: Latn
+  - text: धर्म
+    lang: sa
+    script: Deva
+    iast: Dharma
+kinds: [deity]
+traditions: [itihasa, puranic]
+summary_beginner: "Dharma personified as a god. In the Mahabharata he comes out of Brahma's right breast and marries ten daughters of Daksha; in the Vishnu Purana he also marries ten of Daksha's daughters, one of whom, Vasu, is the mother of the Vasus."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.66"
+  - source: wilson-vishnu-purana
+    locator: "1.15"

@@ -1,0 +1,29 @@
+- id: vasishtha-member-of-saptarishis-vp-vaivasvata
+  from: vasishtha
+  to: saptarishis
+  type: member_of
+  variant: deities-saptarishis-vishnu-purana-vaivasvata
+  explanation: "The Vishnu Purana names Vasishtha among the seven rishis of the present age, that of Vaivasvata Manu."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "3.1"
+
+- id: kashyapa-member-of-saptarishis-vp-vaivasvata
+  from: kashyapa
+  to: saptarishis
+  type: member_of
+  variant: deities-saptarishis-vishnu-purana-vaivasvata
+  explanation: "The Vishnu Purana names Kashyapa among the seven rishis of the present age, that of Vaivasvata Manu."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "3.1"
+
+- id: atri-member-of-saptarishis-vp-vaivasvata
+  from: atri
+  to: saptarishis
+  type: member_of
+  variant: deities-saptarishis-vishnu-purana-vaivasvata
+  explanation: "The Vishnu Purana names Atri among the seven rishis of the present age, that of Vaivasvata Manu."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "3.1"

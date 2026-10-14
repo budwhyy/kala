@@ -1,0 +1,13 @@
+slug: pratyusha-vasu
+names:
+  - text: "Pratyusha (Vasu)"
+    lang: en
+    script: Latn
+kinds: [deva]
+traditions: [itihasa, puranic]
+summary_beginner: "One of the eight Vasus in both the Mahabharata and Vishnu Purana lists (daybreak; father of the sage Devala)."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.66"
+  - source: wilson-vishnu-purana
+    locator: "1.15"

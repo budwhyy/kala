@@ -1,0 +1,76 @@
+- id: indra-member-of-adityas
+  from: indra
+  to: adityas
+  type: member_of
+  explanation: "Both the Mahabharata and the Vishnu Purana name Shakra (Indra) among the twelve Adityas, the sons of Aditi."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.65"
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+
+- id: surya-member-of-adityas
+  from: surya
+  to: adityas
+  type: member_of
+  explanation: "Both the Mahabharata and the Vishnu Purana name Vivasvat (the Sun) among the twelve Adityas, the sons of Aditi."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.65"
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+
+- id: varuna-member-of-adityas
+  from: varuna
+  to: adityas
+  type: member_of
+  explanation: "Both the Mahabharata and the Vishnu Purana name Varuna among the twelve Adityas, the sons of Aditi."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.65"
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+
+- id: vishnu-member-of-adityas
+  from: vishnu
+  to: adityas
+  type: member_of
+  explanation: "Both the Mahabharata and the Vishnu Purana name Vishnu among the twelve Adityas, the sons of Aditi. The Mahabharata calls him the youngest and greatest of them."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.65"
+    - source: wilson-vishnu-purana
+      locator: "1.15"
+
+- id: shesha-member-of-nagas
+  from: shesha
+  to: nagas
+  type: member_of
+  explanation: "In the Mahabharata's list of the chief snakes born of Kadru, Shesha is named among the first."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.35"
+    - source: ganguli-mahabharata
+      locator: "1.65"
+
+- id: vasuki-member-of-nagas
+  from: vasuki
+  to: nagas
+  type: member_of
+  explanation: "In the Mahabharata's list of the chief snakes born of Kadru, Vasuki is named among the first."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.35"
+    - source: ganguli-mahabharata
+      locator: "1.65"
+
+- id: takshaka-member-of-nagas
+  from: takshaka
+  to: nagas
+  type: member_of
+  explanation: "In the Mahabharata's list of the chief snakes born of Kadru, Takshaka is named among the first."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.35"
+    - source: ganguli-mahabharata
+      locator: "1.65"

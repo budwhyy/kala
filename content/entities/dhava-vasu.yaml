@@ -1,0 +1,11 @@
+slug: dhava-vasu
+names:
+  - text: "Dhava (Vasu)"
+    lang: en
+    script: Latn
+kinds: [deva]
+traditions: [puranic]
+summary_beginner: "One of the eight Vasus in the Vishnu Purana's list (Dhava, 'fire'), where the Mahabharata has Aha instead."
+references:
+  - source: wilson-vishnu-purana
+    locator: "1.15"

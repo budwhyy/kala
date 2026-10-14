@@ -36,6 +36,11 @@ evidence:
         locator: "68"
       - source: cunningham-ancient-geography
         locator: "51"
+  - type: historical
+    summary: "The Imperial Gazetteer's article on Indarpat places the ancient Indraprastha at the village of Indarpat and the Purana Qila by Delhi, judging the modern name a corruption of the old one; it adds that scarcely any of the ancient city survives and that the Pandava founding is the Mahabharata's account."
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "13:331"
 kingdoms:
   - to: kuru-kingdom-epic
     note: The Pandavas' capital in the Mahabharata.
@@ -58,3 +63,5 @@ references:
     locator: "1.209"
   - source: raychaudhuri-phai-1923
     locator: "68"
+  - source: imperial-gazetteer-1909
+    locator: "13:331"
