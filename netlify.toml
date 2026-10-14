@@ -1,0 +1,9 @@
+# Netlify builds the Next.js app from the monorepo root.
+# The Next.js runtime (OpenNext adapter) is applied automatically by Netlify.
+# Deploy previews for pull requests are enabled by default once the repo is linked.
+[build]
+  command = "pnpm --filter @kala/web build"
+  publish = "apps/web/.next"
+
+[build.environment]
+  NODE_VERSION = "22"

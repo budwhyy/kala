@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+/* KĀLA palette (§7): gold, indigo, copper, deep red, celestial blue on near-black. */
+:root {
+  --kala-void: #07060b;
+  --kala-ink: #ece6d6;
+  --kala-muted: #9a937f;
+  --kala-gold: #d4a64a;
+  --kala-indigo: #2b2a6b;
+  --kala-copper: #b8693a;
+  --kala-deep-red: #8a1f24;
+  --kala-celestial: #5fa8d3;
+}
+
+@theme inline {
+  --color-void: var(--kala-void);
+  --color-ink: var(--kala-ink);
+  --color-muted: var(--kala-muted);
+  --color-gold: var(--kala-gold);
+  --color-indigo: var(--kala-indigo);
+  --color-copper: var(--kala-copper);
+  --color-deep-red: var(--kala-deep-red);
+  --color-celestial: var(--kala-celestial);
+  --font-serif: var(--font-latin-serif), var(--font-devanagari), serif;
+}
+
+html {
+  color-scheme: dark;
+}
+
+body {
+  background: var(--kala-void);
+  color: var(--kala-ink);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
