@@ -1,0 +1,28 @@
+slug: kunti
+names:
+  - text: "Kunti"
+    lang: en
+    script: Latn
+  - text: "कुन्ती"
+    lang: sa
+    script: Deva
+    iast: "Kuntī"
+epithets:
+  - text: "Pritha"
+    lang: en
+    script: Latn
+kinds: [human]
+traditions: [itihasa, puranic]
+summary_beginner: "Pritha, daughter of the Yadava chief Shura and sister of Vasudeva, was given as a child to her father's cousin Kuntibhoja, hence the name Kunti. With a mantra from the sage Durvasa she bore Karna by the Sun before her marriage and, as Pandu's wife, Yudhishthira, Bhima and Arjuna by the gods Dharma, Vayu and Indra."
+summary_scholar: "Because Vasudeva is her brother, his son Krishna is the Pandavas' cousin. The Vishnu Purana gives the same parentage and the same divine fathers (4.14). The Adi Parva says she was born of a portion of the goddess Siddhi (1.67)."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.67"
+  - source: ganguli-mahabharata
+    locator: "1.111"
+  - source: ganguli-mahabharata
+    locator: "1.112"
+  - source: ganguli-mahabharata
+    locator: "1.123"
+  - source: wilson-vishnu-purana
+    locator: "4.14"

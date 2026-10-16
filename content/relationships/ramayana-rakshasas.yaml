@@ -1,0 +1,377 @@
+- id: pulastya-father-of-vishravas
+  from: pulastya
+  to: vishravas
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Vishravas is the son of the sage Pulastya."
+  references:
+    - source: griffith-ramayana
+      locator: "5.23"
+    - source: dutt-ramayana
+      locator: "7.2"
+- id: vishravas-father-of-ravana
+  from: vishravas
+  to: ravana
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Ravana is the son of the sage Vishravas."
+  references:
+    - source: griffith-ramayana
+      locator: "1.22"
+    - source: griffith-ramayana
+      locator: "3.69"
+    - source: griffith-ramayana
+      locator: "5.23"
+    - source: dutt-ramayana
+      locator: "7.9"
+- id: vishravas-father-of-kumbhakarna
+  from: vishravas
+  to: kumbhakarna
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Vibhishana names Kumbhakarna as the son of Vishravas."
+  references:
+    - source: griffith-ramayana
+      locator: "6.61"
+    - source: dutt-ramayana
+      locator: "7.9"
+- id: vishravas-father-of-vibhishana
+  from: vishravas
+  to: vibhishana
+  type: parent
+  role: father
+  mode: biological
+  variant: ramayana-story-valmiki-uttara-kanda
+  explanation: "In the Uttara Kanda Vibhishana is the youngest of Vishravas's four children by Kaikasi."
+  references:
+    - source: dutt-ramayana
+      locator: "7.9"
+- id: vishravas-father-of-shurpanakha
+  from: vishravas
+  to: shurpanakha
+  type: parent
+  role: father
+  mode: biological
+  variant: ramayana-story-valmiki-uttara-kanda
+  explanation: "In the Uttara Kanda Shurpanakha is born to Vishravas and Kaikasi after Ravana and Kumbhakarna."
+  references:
+    - source: dutt-ramayana
+      locator: "7.9"
+- id: kaikasi-mother-of-ravana
+  from: kaikasi
+  to: ravana
+  type: parent
+  role: mother
+  mode: biological
+  variant: ramayana-story-valmiki-uttara-kanda
+  explanation: "In the Uttara Kanda Kaikasi bears four children to Vishravas: Ravana, Kumbhakarna, Shurpanakha and, last, the righteous Vibhishana."
+  references:
+    - source: dutt-ramayana
+      locator: "7.9"
+- id: kaikasi-mother-of-kumbhakarna
+  from: kaikasi
+  to: kumbhakarna
+  type: parent
+  role: mother
+  mode: biological
+  variant: ramayana-story-valmiki-uttara-kanda
+  explanation: "In the Uttara Kanda Kaikasi bears four children to Vishravas: Ravana, Kumbhakarna, Shurpanakha and, last, the righteous Vibhishana."
+  references:
+    - source: dutt-ramayana
+      locator: "7.9"
+- id: kaikasi-mother-of-shurpanakha
+  from: kaikasi
+  to: shurpanakha
+  type: parent
+  role: mother
+  mode: biological
+  variant: ramayana-story-valmiki-uttara-kanda
+  explanation: "In the Uttara Kanda Kaikasi bears four children to Vishravas: Ravana, Kumbhakarna, Shurpanakha and, last, the righteous Vibhishana."
+  references:
+    - source: dutt-ramayana
+      locator: "7.9"
+- id: kaikasi-mother-of-vibhishana
+  from: kaikasi
+  to: vibhishana
+  type: parent
+  role: mother
+  mode: biological
+  variant: ramayana-story-valmiki-uttara-kanda
+  explanation: "In the Uttara Kanda Kaikasi bears four children to Vishravas: Ravana, Kumbhakarna, Shurpanakha and, last, the righteous Vibhishana."
+  references:
+    - source: dutt-ramayana
+      locator: "7.9"
+- id: sumali-father-of-kaikasi
+  from: sumali
+  to: kaikasi
+  type: parent
+  role: father
+  mode: biological
+  variant: ramayana-story-valmiki-uttara-kanda
+  explanation: "In the Uttara Kanda Kaikasi is one of the children of Sumali and his wife Ketumati."
+  references:
+    - source: dutt-ramayana
+      locator: "7.5"
+    - source: dutt-ramayana
+      locator: "7.9"
+- id: vishravas-partner-of-kaikasi
+  from: vishravas
+  to: kaikasi
+  type: partner
+  variant: ramayana-story-valmiki-uttara-kanda
+  explanation: "In the Uttara Kanda Kaikasi goes to Vishravas at her father's bidding and bears his children."
+  references:
+    - source: dutt-ramayana
+      locator: "7.9"
+- id: ravana-sibling-of-kumbhakarna
+  from: ravana
+  to: kumbhakarna
+  type: sibling
+  explanation: "Kumbhakarna is Ravana's brother; Ravana rouses him from sleep to fight Rama."
+  references:
+    - source: griffith-ramayana
+      locator: "3.17"
+    - source: griffith-ramayana
+      locator: "6.62"
+- id: ravana-sibling-of-vibhishana
+  from: ravana
+  to: vibhishana
+  type: sibling
+  explanation: "Vibhishana is Ravana's brother, who leaves him for Rama."
+  references:
+    - source: griffith-ramayana
+      locator: "3.17"
+    - source: griffith-ramayana
+      locator: "6.17"
+    - source: griffith-ramayana
+      locator: "6.19"
+- id: ravana-sibling-of-shurpanakha
+  from: ravana
+  to: shurpanakha
+  type: sibling
+  explanation: "Shurpanakha names Ravana, Kumbhakarna, Vibhishana, Khara and Dushana as her brothers."
+  references:
+    - source: griffith-ramayana
+      locator: "3.17"
+- id: kumbhakarna-sibling-of-vibhishana
+  from: kumbhakarna
+  to: vibhishana
+  type: sibling
+  explanation: "Shurpanakha names Ravana, Kumbhakarna, Vibhishana, Khara and Dushana as her brothers."
+  references:
+    - source: griffith-ramayana
+      locator: "3.17"
+- id: kumbhakarna-sibling-of-shurpanakha
+  from: kumbhakarna
+  to: shurpanakha
+  type: sibling
+  explanation: "Shurpanakha names Ravana, Kumbhakarna, Vibhishana, Khara and Dushana as her brothers."
+  references:
+    - source: griffith-ramayana
+      locator: "3.17"
+- id: vibhishana-sibling-of-shurpanakha
+  from: vibhishana
+  to: shurpanakha
+  type: sibling
+  explanation: "Shurpanakha names Ravana, Kumbhakarna, Vibhishana, Khara and Dushana as her brothers."
+  references:
+    - source: griffith-ramayana
+      locator: "3.17"
+- id: khara-sibling-of-shurpanakha
+  from: khara
+  to: shurpanakha
+  type: sibling
+  explanation: "Shurpanakha names Khara and Dushana among her brothers. In the Uttara Kanda's list, Kaikasi's children are only Ravana, Kumbhakarna, Shurpanakha and Vibhishana."
+  references:
+    - source: griffith-ramayana
+      locator: "3.17"
+- id: dushana-sibling-of-shurpanakha
+  from: dushana
+  to: shurpanakha
+  type: sibling
+  explanation: "Shurpanakha names Khara and Dushana among her brothers. In the Uttara Kanda's list, Kaikasi's children are only Ravana, Kumbhakarna, Shurpanakha and Vibhishana."
+  references:
+    - source: griffith-ramayana
+      locator: "3.17"
+- id: ravana-sibling-of-kubera
+  from: ravana
+  to: kubera
+  type: sibling
+  explanation: "Kubera (Vaishravana), the lord of wealth, is Ravana's brother; Ravana boasts of having defeated him. In the Uttara Kanda they share a father, Vishravas, but have different mothers."
+  references:
+    - source: griffith-ramayana
+      locator: "1.22"
+    - source: griffith-ramayana
+      locator: "3.48"
+    - source: griffith-ramayana
+      locator: "3.69"
+    - source: dutt-ramayana
+      locator: "7.9"
+- id: ravana-partner-of-mandodari
+  from: ravana
+  to: mandodari
+  type: partner
+  explanation: "Mandodari is Ravana's chief queen; in the Uttara Kanda her father Maya gives her to Ravana in marriage."
+  references:
+    - source: griffith-ramayana
+      locator: "6.113"
+    - source: dutt-ramayana
+      locator: "7.12"
+- id: ravana-father-of-indrajit
+  from: ravana
+  to: indrajit
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Indrajit is Ravana's son, whose death Ravana laments."
+  references:
+    - source: griffith-ramayana
+      locator: "6.93"
+    - source: dutt-ramayana
+      locator: "7.12"
+- id: mandodari-mother-of-indrajit
+  from: mandodari
+  to: indrajit
+  type: parent
+  role: mother
+  mode: biological
+  variant: ramayana-story-valmiki-uttara-kanda
+  explanation: "In the Uttara Kanda Mandodari gives birth to Meghanada, who is called Indrajit."
+  references:
+    - source: dutt-ramayana
+      locator: "7.12"
+- id: tataka-mother-of-maricha
+  from: tataka
+  to: maricha
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Maricha is Tataka's son by her husband Sunda."
+  references:
+    - source: griffith-ramayana
+      locator: "1.26"
+    - source: griffith-ramayana
+      locator: "1.27"
+- id: maricha-ally-of-ravana
+  from: maricha
+  to: ravana
+  type: ally
+  explanation: "Ravana sends Maricha to disturb Vishvamitra's rites, and later forces him, against his advice, to lure Rama away as a golden deer."
+  references:
+    - source: griffith-ramayana
+      locator: "1.22"
+    - source: griffith-ramayana
+      locator: "3.40"
+    - source: griffith-ramayana
+      locator: "3.42"
+- id: subahu-ally-of-ravana
+  from: subahu
+  to: ravana
+  type: ally
+  explanation: "Subahu disturbs Vishvamitra's sacrifice at Ravana's prompting."
+  references:
+    - source: griffith-ramayana
+      locator: "1.22"
+- id: maricha-ally-of-subahu
+  from: maricha
+  to: subahu
+  type: ally
+  explanation: "Maricha and Subahu attack Vishvamitra's sacrifice together."
+  references:
+    - source: griffith-ramayana
+      locator: "1.22"
+    - source: griffith-ramayana
+      locator: "1.32"
+- id: ravana-member-of-rakshasas
+  from: ravana
+  to: rakshasas
+  type: member_of
+  explanation: "Counted among the rakshasas."
+  references:
+    - source: griffith-ramayana
+      locator: "1.22"
+- id: kumbhakarna-member-of-rakshasas
+  from: kumbhakarna
+  to: rakshasas
+  type: member_of
+  explanation: "Counted among the rakshasas."
+  references:
+    - source: griffith-ramayana
+      locator: "6.61"
+- id: vibhishana-member-of-rakshasas
+  from: vibhishana
+  to: rakshasas
+  type: member_of
+  explanation: "Counted among the rakshasas."
+  references:
+    - source: griffith-ramayana
+      locator: "6.17"
+- id: shurpanakha-member-of-rakshasas
+  from: shurpanakha
+  to: rakshasas
+  type: member_of
+  explanation: "Counted among the rakshasas."
+  references:
+    - source: griffith-ramayana
+      locator: "3.17"
+- id: indrajit-member-of-rakshasas
+  from: indrajit
+  to: rakshasas
+  type: member_of
+  explanation: "Counted among the rakshasas."
+  references:
+    - source: griffith-ramayana
+      locator: "6.93"
+- id: maricha-member-of-rakshasas
+  from: maricha
+  to: rakshasas
+  type: member_of
+  explanation: "Counted among the rakshasas."
+  references:
+    - source: griffith-ramayana
+      locator: "1.27"
+- id: subahu-member-of-rakshasas
+  from: subahu
+  to: rakshasas
+  type: member_of
+  explanation: "Counted among the rakshasas."
+  references:
+    - source: griffith-ramayana
+      locator: "1.22"
+- id: khara-member-of-rakshasas
+  from: khara
+  to: rakshasas
+  type: member_of
+  explanation: "Counted among the rakshasas."
+  references:
+    - source: griffith-ramayana
+      locator: "3.19"
+- id: dushana-member-of-rakshasas
+  from: dushana
+  to: rakshasas
+  type: member_of
+  explanation: "Counted among the rakshasas."
+  references:
+    - source: griffith-ramayana
+      locator: "3.26"
+- id: kaikasi-member-of-rakshasas
+  from: kaikasi
+  to: rakshasas
+  type: member_of
+  variant: ramayana-story-valmiki-uttara-kanda
+  explanation: "Counted among the rakshasas."
+  references:
+    - source: dutt-ramayana
+      locator: "7.9"
+- id: sumali-member-of-rakshasas
+  from: sumali
+  to: rakshasas
+  type: member_of
+  variant: ramayana-story-valmiki-uttara-kanda
+  explanation: "Counted among the rakshasas."
+  references:
+    - source: dutt-ramayana
+      locator: "7.5"

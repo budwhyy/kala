@@ -1,0 +1,15 @@
+slug: ramcharitmanas-account
+names:
+  - text: Ramcharitmanas account
+    lang: en
+    script: Latn
+kind: account
+tradition: vaishnava
+text: ramcharitmanas
+description: >-
+  Tulsidas's Awadhi retelling of the Rama story (begun 1575), cited from F. S. Growse's translation.
+  Where it differs from Valmiki's Ramayana (the illusory Sita, the fire ordeal, the birth of Lava and
+  Kusha in Ayodhya) its claims carry this variant.
+references:
+  - source: growse-ramayana-tulsi-das
+    locator: "1.42"

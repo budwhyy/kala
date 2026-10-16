@@ -1,0 +1,17 @@
+slug: adhiratha
+names:
+  - text: "Adhiratha"
+    lang: en
+    script: Latn
+  - text: "अधिरथ"
+    lang: sa
+    script: Deva
+    iast: "Adhiratha"
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "A charioteer (suta) and friend of Dhritarashtra who found the infant Karna floating in a box on the river and raised him with his wife Radha."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.139"
+  - source: ganguli-mahabharata
+    locator: "3.307"

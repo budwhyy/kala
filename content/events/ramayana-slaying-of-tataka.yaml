@@ -1,0 +1,27 @@
+slug: ramayana-slaying-of-tataka
+names:
+  - text: "The slaying of Tataka"
+    lang: en
+    script: Latn
+participants:
+  - entity: tataka
+    role: "the demoness who lays waste the forest"
+  - entity: rama
+    role: "kills her with his arrows"
+  - entity: lakshmana
+    role: "fights beside Rama"
+  - entity: vishvamitra
+    role: "leads the princes and urges Rama on"
+narrative_order:
+  text: valmiki-ramayana
+  position: 28
+  section: bala-kanda
+variant: valmiki-ramayana-account
+traditions:
+  - itihasa
+summary_beginner: "On the way to Vishvamitra's hermitage the princes come to a wild forest haunted by the demoness Tataka. At the sage's urging Rama fights her and kills her with his arrows."
+references:
+  - source: griffith-ramayana
+    locator: "1.26"
+  - source: griffith-ramayana
+    locator: "1.28"

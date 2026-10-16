@@ -1,0 +1,34 @@
+slug: "mahabharata-karna-learns-of-his-birth"
+names:
+  - text: "Karna learns of his birth"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "krishna"
+    role: "tells Karna he is Kunti's eldest son"
+  - entity: "karna"
+    role: "refuses to change sides"
+  - entity: "kunti"
+    role: "asks Karna to join his brothers"
+  - entity: "surya"
+    role: "his voice from the sun's disc supports Kunti's words"
+narrative_order:
+  text: "mahabharata"
+  position: 5140
+  section: "udyoga-parva"
+variant: "mahabharata-story-ganguli-account"
+traditions:
+  - "itihasa"
+summary_beginner: "Leaving Hastinapura, Krishna takes Karna in his chariot and tells him that he is the son of Kunti, born before Yudhishthira, and so by right the eldest of the Pandavas; he offers him the kingship. Karna refuses to abandon Duryodhana. Kunti then goes to him herself, and a voice from the Sun confirms her words. Karna still will not change sides, but promises her that he will spare four of her sons and fight only Arjuna."
+summary_scholar: "Udyoga Parva, Ganguli 5.140-5.143 (Krishna and Karna) and 5.144-5.146 (Kunti and Karna). The 'position' in narrative_order is parva x 1000 + Ganguli's section number of the main passage, so events sort in the order the epic tells them."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "5.140"
+  - source: "ganguli-mahabharata"
+    locator: "5.141"
+  - source: "ganguli-mahabharata"
+    locator: "5.144"
+  - source: "ganguli-mahabharata"
+    locator: "5.145"
+  - source: "ganguli-mahabharata"
+    locator: "5.146"

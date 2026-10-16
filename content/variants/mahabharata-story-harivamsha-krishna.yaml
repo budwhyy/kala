@@ -1,0 +1,16 @@
+slug: "mahabharata-story-harivamsha-krishna"
+names:
+  - text: "Harivamsha account of Krishna's life"
+    lang: "en"
+    script: "Latn"
+kind: "account"
+tradition: "vaishnava"
+text: "harivamsha"
+description: "Krishna's birth, childhood among the cowherds, return to Mathura and the founding of Dwaraka as told in the Harivamsha Parva of the Harivamsha (M. N. Dutt's translation, cited by Dutt's chapter numbers). Where the Vishnu Purana tells the same episode differently, each telling is a separate event linked by same_story_as."
+references:
+  - source: "dutt-harivamsha"
+    locator: "59"
+    note: "Harivamsha Parva"
+  - source: "dutt-harivamsha"
+    locator: "115"
+    note: "Harivamsha Parva"

@@ -1,0 +1,30 @@
+slug: "krishna-slays-kamsa-vishnu-purana"
+names:
+  - text: "Krishna kills Kamsa (Vishnu Purana)"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "krishna"
+    role: "kills Kamsa"
+  - entity: "balarama"
+  - entity: "kamsa"
+  - entity: "ugrasena"
+    role: "placed on the throne"
+places:
+  - "mathura"
+narrative_order:
+  text: "vishnu-purana"
+  position: 5020
+variant: "mahabharata-story-vishnu-purana-krishna"
+same_story_as:
+  - "krishna-slays-kamsa-harivamsha"
+traditions:
+  - "vaishnava"
+  - "puranic"
+summary_beginner: "In the Vishnu Purana, after Krishna and Balarama kill Kamsa's wrestlers, Krishna springs up to the king's seat, seizes Kamsa by the hair, throws him to the ground and crushes him with his weight. He then places Ugrasena on the throne."
+summary_scholar: "Wilson VP 5.20 (the arena and Kamsa's death) and 5.21 (Ugrasena enthroned). The 'position' in narrative_order is book x 1000 + chapter."
+references:
+  - source: "wilson-vishnu-purana"
+    locator: "5.20"
+  - source: "wilson-vishnu-purana"
+    locator: "5.21"

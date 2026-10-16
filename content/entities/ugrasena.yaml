@@ -1,0 +1,29 @@
+slug: ugrasena
+names:
+  - text: "Ugrasena"
+    lang: en
+    script: Latn
+  - text: "उग्रसेन"
+    lang: sa
+    script: Deva
+    iast: "Ugrasena"
+kinds: [human, king]
+traditions: [itihasa, puranic]
+dynasties:
+  - to: yadava-dynasty
+    note: "Son of Ahuka, of the Andhaka branch of the Yadavas."
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.14"
+      - source: dutt-harivamsha
+        locator: "37"
+summary_beginner: "A Yadava king of Mathura and father of Kamsa, who kept him confined. After Kamsa's death Krishna freed him and restored him to the throne."
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.14"
+  - source: wilson-vishnu-purana
+    locator: "5.21"
+  - source: ganguli-mahabharata
+    locator: "1.67"
+  - source: dutt-harivamsha
+    locator: "37"

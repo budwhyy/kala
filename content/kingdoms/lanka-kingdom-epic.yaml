@@ -1,0 +1,44 @@
+slug: lanka-kingdom-epic
+names:
+  - text: Lanka (Ramayana)
+    lang: en
+    script: Latn
+  - text: लङ्का
+    lang: sa
+    script: Deva
+    iast: Laṅkā
+kind: epic_legendary
+capitals:
+  - to: lanka-ramayana
+    note: Ravana's golden, fortified city across the southern sea.
+    references:
+      - source: griffith-ramayana
+        locator: "5.2"
+      - source: griffith-ramayana
+        locator: "6.125"
+rulers:
+  - entity: ravana
+    attested: false
+    note: King of the rakshasas, reigning at Lanka until Rama kills him.
+    references:
+      - source: griffith-ramayana
+        locator: "1.1"
+      - source: griffith-ramayana
+        locator: "6.110"
+  - entity: vibhishana
+    attested: false
+    note: Ravana's brother, who goes over to Rama; Rama has him anointed king of the rakshasas when he joins, and he is consecrated in Lanka after Ravana's death.
+    references:
+      - source: griffith-ramayana
+        locator: "6.19"
+      - source: griffith-ramayana
+        locator: "6.114"
+traditions:
+  - itihasa
+summary_beginner: Ravana's kingdom of the rakshasas in the Ramayana, ruled from the city of Lanka across the sea. After Ravana's death his brother Vibhishana becomes king.
+summary_scholar: An epic kingdom, kept separate from the modern island and state of Sri Lanka. Its rulers are figures of the epic, not attested kings. The Uttara Kanda's account of earlier rulers of Lanka (including Kubera) is not entered here.
+references:
+  - source: griffith-ramayana
+    locator: "5.2"
+  - source: griffith-ramayana
+    locator: "6.114"

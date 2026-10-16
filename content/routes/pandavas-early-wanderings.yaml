@@ -1,0 +1,69 @@
+slug: "pandavas-early-wanderings"
+names:
+  - text: "The Pandavas' early wanderings"
+    lang: "en"
+    script: "Latn"
+text: "mahabharata"
+variant: "mahabharata-story-ganguli-account"
+literary_reconstruction: true
+travellers:
+  - "yudhishthira"
+  - "bhima"
+  - "arjuna"
+  - "nakula"
+  - "sahadeva"
+  - "kunti"
+  - "draupadi"
+stops:
+  - order: 1
+    place: "hastinapura"
+    note: "Dhritarashtra sends the Pandavas and Kunti to the festival at Varanavata."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "1.143"
+  - order: 2
+    place: "varanavata"
+    event: "mahabharata-house-of-lac"
+    note: "The house of lac burns; the family escapes by a tunnel."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "1.148"
+      - source: "ganguli-mahabharata"
+        locator: "1.150"
+  - order: 3
+    place: "ganga"
+    note: "A boat sent by Vidura carries them across the Ganga into the forest, where Bhima kills Hidimba."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "1.151"
+  - order: 4
+    place: "ekachakra"
+    event: "mahabharata-bakasura-at-ekachakra"
+    note: "Vyasa leads them to Ekachakra; they live disguised as Brahmanas."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "1.158"
+  - order: 5
+    place: "kampilya"
+    event: "mahabharata-draupadis-svayamvara"
+    note: "They go from Ekachakra to Drupada's city in Panchala, where Arjuna wins Draupadi; she travels with them from here."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "1.186"
+      - source: "ganguli-mahabharata"
+        locator: "1.140"
+        note: "Kampilya named as Drupada's city"
+  - order: 6
+    place: "hastinapura"
+    note: "Recalled by Dhritarashtra, they return to Hastinapura."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "1.209"
+  - order: 7
+    place: "indraprastha"
+    event: "mahabharata-founding-of-indraprastha"
+    note: "Given half the kingdom, they settle at Khandavaprastha and build Indraprastha."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "1.209"
+summary_beginner: "From Hastinapura to Varanavata, where the house of lac is burnt; across the Ganga and through the forest to Ekachakra; on to Drupada's city in Panchala, where Arjuna wins Draupadi; and back to Hastinapura before the founding of Indraprastha (Adi Parva). Kunti travels with her sons throughout; Draupadi joins them in Panchala. This is a literary reconstruction: the route follows the order of places named in the text, not a verified itinerary, and each stop's place record carries its own confidence class."

@@ -1,0 +1,17 @@
+slug: ahalya
+names:
+  - text: "Ahalya"
+    lang: en
+    script: Latn
+  - text: अहल्या
+    lang: sa
+    script: Deva
+    iast: "Ahalyā"
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "The wife of the sage Gautama. In Valmiki's Bala Kanda, Indra seduces her in her husband's form; Gautama condemns her to a hidden life of penance until Rama's visit, after which she is reunited with him."
+references:
+  - source: griffith-ramayana
+    locator: "1.48"
+  - source: griffith-ramayana
+    locator: "1.49"

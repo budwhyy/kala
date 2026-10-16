@@ -1,0 +1,29 @@
+slug: ramayana-ahalya-freed
+names:
+  - text: "Ahalya freed"
+    lang: en
+    script: Latn
+participants:
+  - entity: ahalya
+    role: "wife of the sage Gautama, hidden from sight by his curse"
+  - entity: indra
+    role: "the god whose seduction of Ahalya led to the curse"
+  - entity: rama
+    role: "his arrival ends the curse"
+  - entity: lakshmana
+    role: "with Rama"
+  - entity: vishvamitra
+    role: "tells the story and leads them to the hermitage"
+narrative_order:
+  text: valmiki-ramayana
+  position: 49
+  section: bala-kanda
+variant: valmiki-ramayana-account
+traditions:
+  - itihasa
+summary_beginner: "Vishvamitra tells the princes how the sage Gautama cursed his wife Ahalya after Indra came to her in disguise: she would live unseen in the hermitage until Rama came. When Rama enters the grove she is freed, the gods praise her, and Gautama takes her back."
+references:
+  - source: griffith-ramayana
+    locator: "1.48"
+  - source: griffith-ramayana
+    locator: "1.49"

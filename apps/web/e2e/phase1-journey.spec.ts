@@ -33,7 +33,7 @@ test("Phase 1 acceptance journey", async ({ page }) => {
     .getByRole("link", { name: "Genealogy" })
     .click();
   await expect(page).toHaveURL(/\/genealogy\?entity=kashyapa/);
-  await page.getByLabel("To").selectOption("garuda");
+  await page.locator("#pick-to").selectOption("garuda");
   const trace = page.locator("ol").filter({ hasText: "parent of" }).first();
   await expect(trace).toContainText("Garuda");
   await expect(trace.locator('a[href^="/source/"]').first()).toBeVisible();

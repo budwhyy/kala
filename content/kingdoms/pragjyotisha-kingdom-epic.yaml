@@ -1,0 +1,52 @@
+slug: "pragjyotisha-kingdom-epic"
+names:
+  - text: "Pragjyotisha (Mahabharata)"
+    lang: "en"
+    script: "Latn"
+  - text: "प्राग्ज्योतिष"
+    lang: "sa"
+    script: "Deva"
+    iast: "Prāgjyotiṣa"
+kind: "epic_legendary"
+rulers:
+  - entity: "bhagadatta"
+    attested: false
+    note: "King of Pragjyotisha, an old friend of Pandu."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "2.14"
+      - source: "ganguli-mahabharata"
+        locator: "2.26"
+relations:
+  - kingdom: "magadha-kingdom-epic"
+    type: "vassalage"
+    note: "Krishna says Bhagadatta has bowed his head before Jarasandha in word and deed."
+    variant: "mahabharata-story-ganguli-account"
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "2.14"
+  - kingdom: "kuru-kingdom-epic"
+    type: "vassalage"
+    note: "In his northern campaign Arjuna subdues Bhagadatta, who agrees to do what Yudhishthira asks."
+    variant: "mahabharata-story-ganguli-account"
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "2.25"
+      - source: "ganguli-mahabharata"
+        locator: "2.26"
+  - kingdom: "kuru-kingdom-epic"
+    type: "alliance"
+    note: "Bhagadatta gives Duryodhana an akshauhini, with Chinas and Kiratas."
+    variant: "mahabharata-story-ganguli-account"
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "5.19"
+traditions:
+  - "itihasa"
+summary_beginner: "Bhagadatta's kingdom in the Mahabharata. Arjuna subdued it before the Rajasuya, but in the war it fought for Duryodhana."
+summary_scholar: "Ganguli's 2.14 describes Bhagadatta as king of the Yavanas who rules the west, while 2.26 calls him king of Pragjyotisha and 5.19 has him lead Chinas and Kiratas; the discrepancy is noted, not resolved."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "2.26"
+  - source: "ganguli-mahabharata"
+    locator: "5.19"

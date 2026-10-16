@@ -1,0 +1,45 @@
+slug: "kamyaka-forest"
+names:
+  - text: "Kamyaka forest"
+    lang: "en"
+    script: "Latn"
+  - text: "काम्यकवन"
+    lang: "sa"
+    script: "Deva"
+    iast: "Kāmyakavana"
+realm: "terrestrial"
+kind: "forest"
+confidence: "debated"
+modern_admin:
+  country: "India"
+alternative_identifications:
+  - label: "On the Sarasvati, west of Kurukshetra (the text's own description)"
+    confidence: "debated"
+    argument: "The Mahabharata places Kamyaka on the banks of the Sarasvati by a level, wild plain, reached by travelling west from Kurukshetra. KĀLA holds no scholarly identification of a particular site, so none is drawn."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "3.5"
+evidence:
+  - type: "textual"
+    summary: "The exiled Pandavas cross Kurukshetra and travel west to the Kamyaka forest on the Sarasvati, a favourite haunt of sages, and return there several times during the twelve years."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "3.5"
+      - source: "ganguli-mahabharata"
+        locator: "3.36"
+      - source: "ganguli-mahabharata"
+        locator: "3.309"
+related_places:
+  - to: "sarasvati-river"
+    relation: "near"
+    note: "The text places Kamyaka on the banks of the Sarasvati."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "3.5"
+traditions:
+  - "itihasa"
+summary_beginner: "The forest on the Sarasvati where the Pandavas spent much of their exile. The epic describes it, but its location has not been identified."
+summary_scholar: "Classed as debated because the only location KĀLA can cite is the epic's own description."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "3.5"

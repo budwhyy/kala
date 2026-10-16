@@ -1,0 +1,43 @@
+slug: ramayana-birth-of-the-princes
+names:
+  - text: "Birth of the four princes"
+    lang: en
+    script: Latn
+participants:
+  - entity: dasharatha
+    role: "king of Ayodhya, father of the four princes"
+  - entity: kausalya
+    role: "bears Rama"
+  - entity: kaikeyi
+    role: "bears Bharata"
+  - entity: sumitra
+    role: "bears the twins Lakshmana and Shatrughna"
+  - entity: rama
+    role: "born to Kausalya"
+  - entity: bharata
+    role: "born to Kaikeyi"
+  - entity: lakshmana
+    role: "born to Sumitra"
+  - entity: shatrughna
+    role: "born to Sumitra"
+  - entity: vasishtha
+    role: "names the four boys on the twelfth day"
+  - entity: vishnu
+    role: "the text says each prince shares in Vishnu's essence"
+places:
+  - ayodhya
+narrative_order:
+  text: valmiki-ramayana
+  position: 19
+  section: bala-kanda
+variant: valmiki-ramayana-account
+traditions:
+  - itihasa
+summary_beginner: "In Valmiki's Ramayana, after King Dasharatha's sacrifice for sons, his three queens give birth in Ayodhya: Kausalya to Rama, Kaikeyi to Bharata, and Sumitra to the twins Lakshmana and Shatrughna. The sage Vasishtha names them, and the city celebrates."
+summary_scholar: "Griffith 1.19. The canto says Rama was born from half of Vishnu's vigour and Bharata from a fourth, with Lakshmana and Shatrughna also sharing in Vishnu's essence. Macdonell (p. 304), following Jacobi, regards Book I as a later addition, like Book VII; Book I events are nevertheless kept under the Valmiki account here, as only Book VII is tagged as a later layer."
+references:
+  - source: griffith-ramayana
+    locator: "1.19"
+  - source: macdonell-history-sanskrit-literature
+    locator: "304"
+    note: "Book I also regarded as a later addition"

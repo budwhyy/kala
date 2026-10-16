@@ -1,0 +1,23 @@
+slug: chitrangada-kuru
+names:
+  - text: "Chitrangada (Kuru prince)"
+    lang: en
+    script: Latn
+  - text: "चित्राङ्गद"
+    lang: sa
+    script: Deva
+    iast: "Citrāṅgada"
+kinds: [human, king]
+traditions: [itihasa]
+dynasties:
+  - to: kuru-dynasty
+    note: "King of the Kurus after Shantanu."
+    references:
+      - source: ganguli-mahabharata
+        locator: "1.101"
+summary_beginner: "The elder son of Shantanu and Satyavati. He became king after his father but was killed by a Gandharva of the same name after a three-year combat at Kurukshetra."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.95"
+  - source: ganguli-mahabharata
+    locator: "1.101"

@@ -1,0 +1,32 @@
+slug: "krishna-move-to-vrindavana-harivamsha"
+names:
+  - text: "The cowherds move to Vrindavana (Harivamsha)"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "krishna"
+    role: "conjures wolves to make the cowherds leave"
+  - entity: "balarama"
+  - entity: "nanda"
+    role: "orders the move"
+places:
+  - "gokula"
+  - "vrindavan"
+narrative_order:
+  text: "harivamsha"
+  position: 63
+variant: "mahabharata-story-harivamsha-krishna"
+same_story_as:
+  - "krishna-move-to-vrindavana-vishnu-purana"
+traditions:
+  - "vaishnava"
+  - "itihasa"
+summary_beginner: "In the Harivamsha, Krishna wants to go to the forest of Vrindavana. To force the cowherds to move, he makes hundreds of wolves spring from the hairs of his body; they terrorise Vraja, and the cowherds decide to take their cattle and carts to Vrindavana."
+summary_scholar: "Dutt, Harivamsha Parva ch. 63 (printed as LVIII, a misprint) and ch. 64 (the departure). Wilson, in a note to VP 5.6, observes that the wolves are found only in the Harivamsha; in the Vishnu Purana the cowherds move because of evil omens. The 'position' in narrative_order is the chapter number of Dutt's Harivamsha Parva."
+references:
+  - source: "dutt-harivamsha"
+    locator: "63"
+    note: "Harivamsha Parva; printed LVIII in Dutt"
+  - source: "dutt-harivamsha"
+    locator: "64"
+    note: "Harivamsha Parva"

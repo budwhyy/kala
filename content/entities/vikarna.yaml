@@ -1,0 +1,19 @@
+slug: vikarna
+names:
+  - text: "Vikarna"
+    lang: en
+    script: Latn
+  - text: "विकर्ण"
+    lang: sa
+    script: Deva
+    iast: "Vikarṇa"
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "A son of Dhritarashtra and Gandhari who, in the dice hall, called on the assembled kings to answer Draupadi's question about whether she had been lawfully staked."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.95"
+  - source: ganguli-mahabharata
+    locator: "1.117"
+  - source: ganguli-mahabharata
+    locator: "2.66"

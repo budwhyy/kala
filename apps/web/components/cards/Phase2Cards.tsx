@@ -5,6 +5,7 @@ import { hrefFor } from "@/lib/graph/kala";
 import { enumLabel } from "@/lib/i18n-helpers";
 import { LinkList } from "./EntityCard";
 import { RetellingsSection } from "./Phase2Sections";
+import { ConceptsSection } from "./Phase3Sections";
 import {
   Badge,
   Cite,
@@ -69,6 +70,7 @@ export function EventCard({ kala, slug }: { kala: Kala; slug: string }) {
         </Section>
       )}
       <RetellingsSection kala={kala} slugs={e.same_story_as} />
+      <ConceptsSection kala={kala} slugs={e.concepts} />
       <TimeRails kala={kala} cosmic={e.cosmic_time ? [e.cosmic_time] : []} historical={[]} />
     </article>
   );

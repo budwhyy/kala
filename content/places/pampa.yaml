@@ -1,0 +1,46 @@
+slug: pampa
+names:
+  - text: Pampa (lake)
+    lang: en
+    script: Latn
+  - text: पम्पा
+    lang: sa
+    script: Deva
+    iast: Pampā
+realm: terrestrial
+kind: other
+confidence: debated
+modern_admin:
+  country: India
+  region: Karnataka
+alternative_identifications:
+  - label: Pampa Sarovar near Hampi
+    confidence: traditional
+    argument: At Hampi the Imperial Gazetteer records a great temple of Pampapati on the river bank and the local belief that Kishkindha lay close by. Our sources do not identify the lake itself, so no point is drawn.
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "24:313-314"
+evidence:
+  - type: textual
+    summary: In Valmiki's Ramayana Rama and Lakshmana, sent on by Kabandha, reach Pampa, meet the ascetic Shabari on its western side and then walk by its shores below Rishyamukha.
+    references:
+      - source: griffith-ramayana
+        locator: "3.75"
+      - source: griffith-ramayana
+        locator: "3.76"
+      - source: griffith-ramayana
+        locator: "4.1"
+  - type: textual
+    summary: Griffith's footnote reports the commentator's view that Pampa names both a lake and a brook that flows into it from Rishyamuka.
+    references:
+      - source: griffith-ramayana
+        locator: "4.1"
+        note: footnote 522
+traditions:
+  - itihasa
+summary_beginner: The lake in the Ramayana where Rama meets the devotee Shabari and near which he meets Hanuman and Sugriva. A lake near Hampi carries the name, but the identification is traditional.
+references:
+  - source: griffith-ramayana
+    locator: "3.76"
+  - source: imperial-gazetteer-1909
+    locator: "24:313-314"

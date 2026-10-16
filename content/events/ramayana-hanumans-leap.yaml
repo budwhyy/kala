@@ -1,0 +1,26 @@
+slug: ramayana-hanumans-leap
+names:
+  - text: "Hanuman's leap across the sea"
+    lang: en
+    script: Latn
+participants:
+  - entity: hanuman
+    role: "leaps from Mahendra across the sea to Lanka"
+places:
+  - mahendra-mountain
+  - lanka-ramayana
+narrative_order:
+  text: valmiki-ramayana
+  position: 501
+  section: sundara-kanda
+variant: valmiki-ramayana-account
+traditions:
+  - itihasa
+summary_beginner: "Urged on by the vanara chiefs, Hanuman climbs Mount Mahendra on the shore and, with a tremendous spring that shakes the mountain, leaps across the sea to Lanka."
+references:
+  - source: griffith-ramayana
+    locator: "1.1"
+  - source: griffith-ramayana
+    locator: "4.67"
+  - source: griffith-ramayana
+    locator: "5.1"

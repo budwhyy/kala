@@ -1,0 +1,31 @@
+slug: ramayana-entering-the-dandaka-forest
+names:
+  - text: "Entering the Dandaka forest"
+    lang: en
+    script: Latn
+participants:
+  - entity: rama
+    role: "enters the forest and kills Viradha"
+  - entity: sita
+    role: "with Rama"
+  - entity: lakshmana
+    role: "with Rama"
+places:
+  - dandakaranya
+narrative_order:
+  text: valmiki-ramayana
+  position: 301
+  section: aranya-kanda
+variant: valmiki-ramayana-account
+traditions:
+  - itihasa
+summary_beginner: "Leaving Chitrakuta, the exiles enter the vast Dandaka forest, where the hermits welcome them. The giant Viradha seizes Sita and is killed by the brothers, and the hermits ask Rama to protect them from the demons of the forest."
+references:
+  - source: griffith-ramayana
+    locator: "3.1"
+  - source: griffith-ramayana
+    locator: "3.2"
+  - source: griffith-ramayana
+    locator: "3.4"
+  - source: griffith-ramayana
+    locator: "3.6"

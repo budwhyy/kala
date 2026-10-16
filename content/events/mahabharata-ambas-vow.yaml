@@ -1,0 +1,42 @@
+slug: "mahabharata-ambas-vow"
+names:
+  - text: "Amba's vow and the birth of Shikhandi"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "amba"
+    role: "rejected by Salva, she seeks Bhishma's death"
+  - entity: "bhishma"
+    role: "tells the story"
+  - entity: "parashurama"
+    role: "Bhishma's teacher, who fights him on Amba's behalf"
+  - entity: "shiva"
+    role: "grants Amba that she will be reborn to kill Bhishma"
+  - entity: "drupada"
+    role: "her father in the next birth"
+  - entity: "shikhandi"
+    role: "Amba reborn as Drupada's child, raised as a son"
+places:
+  - "yamuna"
+narrative_order:
+  text: "mahabharata"
+  position: 5175
+  section: "udyoga-parva"
+variant: "mahabharata-story-ganguli-account"
+traditions:
+  - "itihasa"
+summary_beginner: "Rejected by Salva because Bhishma had carried her off, Amba resolves on Bhishma's death. Bhishma's own teacher, Rama of the Bhrigus (Parashurama), fights Bhishma for her, but the battle ends when the gods and ancestors make them stop. Amba turns to austerities; Shiva promises that she will be born to Drupada and become a man able to kill Bhishma. She enters a fire on the banks of the Yamuna. Drupada's child is born a daughter, raised as a son and named Shikhandi."
+summary_scholar: "Udyoga Parva (Ambopakhyana), told by Bhishma to Duryodhana: Ganguli 5.175-5.176 (Salva's refusal), 5.181 and 5.188 (the duel and its ending), 5.190 (Shiva's boon and the pyre) and 5.191 (Shikhandi's birth). It explains why Bhishma will not fight Shikhandi in the war. The 'position' in narrative_order is parva x 1000 + Ganguli's section number of the main passage, so events sort in the order the epic tells them."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "5.175"
+  - source: "ganguli-mahabharata"
+    locator: "5.176"
+  - source: "ganguli-mahabharata"
+    locator: "5.181"
+  - source: "ganguli-mahabharata"
+    locator: "5.188"
+  - source: "ganguli-mahabharata"
+    locator: "5.190"
+  - source: "ganguli-mahabharata"
+    locator: "5.191"

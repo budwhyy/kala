@@ -1,0 +1,35 @@
+slug: ramayana-departure-into-exile
+names:
+  - text: "Rama, Sita and Lakshmana leave for exile"
+    lang: en
+    script: Latn
+participants:
+  - entity: rama
+    role: "accepts exile to keep his father's word"
+  - entity: sita
+    role: "insists on going with him"
+  - entity: lakshmana
+    role: "goes with them"
+  - entity: dasharatha
+    role: "takes leave of his son"
+  - entity: kausalya
+    role: "Rama's mother"
+  - entity: sumitra
+    role: "sends Lakshmana to serve Rama"
+places:
+  - ayodhya
+narrative_order:
+  text: valmiki-ramayana
+  position: 140
+  section: ayodhya-kanda
+variant: valmiki-ramayana-account
+traditions:
+  - itihasa
+summary_beginner: "Rama accepts the exile to keep his father's word. Sita refuses to stay behind and Lakshmana insists on serving him; dressed in bark, the three take leave of the king and the queens and leave Ayodhya in a chariot as the people lament."
+references:
+  - source: griffith-ramayana
+    locator: "2.30"
+  - source: griffith-ramayana
+    locator: "2.37"
+  - source: griffith-ramayana
+    locator: "2.40"

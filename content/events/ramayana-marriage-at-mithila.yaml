@@ -1,0 +1,49 @@
+slug: ramayana-marriage-at-mithila
+names:
+  - text: "The four marriages at Mithila"
+    lang: en
+    script: Latn
+participants:
+  - entity: rama
+    role: "marries Sita"
+  - entity: sita
+    role: "Janaka's daughter"
+  - entity: lakshmana
+    role: "marries Urmila"
+  - entity: urmila
+    role: "Janaka's daughter"
+  - entity: bharata
+    role: "marries Mandavi"
+  - entity: mandavi
+    role: "daughter of Kushadhvaja"
+  - entity: shatrughna
+    role: "marries Shrutakirti"
+  - entity: shrutakirti
+    role: "daughter of Kushadhvaja"
+  - entity: janaka
+    role: "gives the brides"
+  - entity: kushadhvaja
+    role: "Janaka's brother, father of Mandavi and Shrutakirti"
+  - entity: dasharatha
+    role: "comes to Mithila for the weddings"
+  - entity: vasishtha
+    role: "Dasharatha's priest"
+  - entity: vishvamitra
+    role: "proposes the second pair of marriages"
+places:
+  - mithila
+narrative_order:
+  text: valmiki-ramayana
+  position: 73
+  section: bala-kanda
+variant: valmiki-ramayana-account
+traditions:
+  - itihasa
+summary_beginner: "Dasharatha comes to Mithila and all four of his sons are married on the same day: Rama to Sita and Lakshmana to Urmila, daughters of Janaka, and Bharata to Mandavi and Shatrughna to Shrutakirti, daughters of Janaka's brother Kushadhvaja."
+references:
+  - source: griffith-ramayana
+    locator: "1.71"
+  - source: griffith-ramayana
+    locator: "1.72"
+  - source: griffith-ramayana
+    locator: "1.73"

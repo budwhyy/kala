@@ -1,0 +1,19 @@
+slug: vidura
+names:
+  - text: "Vidura"
+    lang: en
+    script: Latn
+  - text: "विदुर"
+    lang: sa
+    script: Deva
+    iast: "Vidura"
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "Son of Vyasa and a maid of Ambika's household, half-brother of Dhritarashtra and Pandu, and a wise counsellor at the Kuru court. The Adi Parva says he was the god Dharma, born as a man under the curse of the sage Mandavya."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.63"
+  - source: ganguli-mahabharata
+    locator: "1.67"
+  - source: ganguli-mahabharata
+    locator: "1.106"

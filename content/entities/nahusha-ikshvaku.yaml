@@ -1,0 +1,25 @@
+slug: nahusha-ikshvaku
+names:
+  - text: "Nahusha (Ikshvaku line)"
+    lang: en
+    script: Latn
+  - text: नहुष
+    lang: sa
+    script: Deva
+    iast: "Nahuṣa"
+kinds: [king, human]
+traditions: [itihasa]
+dynasties:
+  - to: suryavansha
+    note: "A king of Ikshvaku's line, listed in Vasishtha's recital of Rama's ancestry."
+    references:
+      - source: griffith-ramayana
+        locator: "1.70"
+summary_beginner: "A king of Ikshvaku's line at Ayodhya, son of Ambarisha. Vasishtha's recital in the Bala Kanda makes him the father of Yayati; the recital in the Ayodhya Kanda makes him the father of Nabhaga. A king of Ikshvaku's line; the recital does not identify him with the Nahusha of the lunar line."
+references:
+  - source: griffith-ramayana
+    locator: "1.70"
+  - source: dutt-ramayana
+    locator: "1.70"
+  - source: griffith-ramayana
+    locator: "2.110"

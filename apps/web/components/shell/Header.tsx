@@ -8,7 +8,7 @@ import { ModeSwitcher } from "./ModeSwitcher";
 
 export function Header({ context }: { context?: Selection }) {
   return (
-    <header className="sticky top-0 z-20 border-b border-white/10 bg-void/90 backdrop-blur">
+    <header className="z-20 sm:sticky sm:top-0 border-b border-white/10 bg-void/90 backdrop-blur">
       <div className="mx-auto flex max-w-6xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3">
         <Link prefetch={false} href="/" lang="en" className="text-xl tracking-[0.3em] text-gold">
           KĀLA

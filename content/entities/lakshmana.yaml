@@ -1,0 +1,21 @@
+slug: lakshmana
+names:
+  - text: "Lakshmana"
+    lang: en
+    script: Latn
+  - text: लक्ष्मण
+    lang: sa
+    script: Deva
+    iast: "Lakṣmaṇa"
+kinds: [human]
+traditions: [itihasa, vaishnava]
+summary_beginner: "Rama's younger brother, son of Dasharatha and Sumitra, who follows Rama into exile. In Valmiki's Ramayana he marries Urmila and kills Indrajit in the war at Lanka."
+references:
+  - source: griffith-ramayana
+    locator: "1.19"
+  - source: griffith-ramayana
+    locator: "2.31"
+  - source: griffith-ramayana
+    locator: "3.17"
+  - source: griffith-ramayana
+    locator: "6.93"

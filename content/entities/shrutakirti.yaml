@@ -1,0 +1,17 @@
+slug: shrutakirti
+names:
+  - text: "Shrutakirti"
+    lang: en
+    script: Latn
+  - text: श्रुतकीर्ति
+    lang: sa
+    script: Deva
+    iast: "Śrutakīrti"
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "Daughter of Kushadhvaja and wife of Shatrughna."
+references:
+  - source: griffith-ramayana
+    locator: "1.72"
+  - source: griffith-ramayana
+    locator: "1.73"

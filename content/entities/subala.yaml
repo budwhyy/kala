@@ -1,0 +1,21 @@
+slug: subala
+names:
+  - text: "Subala"
+    lang: en
+    script: Latn
+  - text: "सुबल"
+    lang: sa
+    script: Deva
+    iast: "Subala"
+epithets:
+  - text: "Suvala"
+    lang: en
+    script: Latn
+kinds: [human, king]
+traditions: [itihasa]
+summary_beginner: "King of Gandhara, father of Gandhari and Shakuni, who gave his daughter in marriage to the blind Dhritarashtra."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.63"
+  - source: ganguli-mahabharata
+    locator: "1.110"

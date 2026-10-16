@@ -1,0 +1,21 @@
+slug: jayadratha
+names:
+  - text: "Jayadratha"
+    lang: en
+    script: Latn
+  - text: "जयद्रथ"
+    lang: sa
+    script: Deva
+    iast: "Jayadratha"
+kinds: [human, king]
+traditions: [itihasa]
+summary_beginner: "King of the Sindhus and husband of Duhshala. He carried off Draupadi during the Pandavas' exile and was killed by Arjuna in the war."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.117"
+  - source: ganguli-mahabharata
+    locator: "3.267"
+  - source: ganguli-mahabharata
+    locator: "3.271"
+  - source: ganguli-mahabharata
+    locator: "7.145"

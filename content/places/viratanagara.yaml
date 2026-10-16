@@ -1,0 +1,61 @@
+slug: "viratanagara"
+names:
+  - text: "Viratanagara"
+    lang: "en"
+    script: "Latn"
+  - text: "विराटनगर"
+    lang: "sa"
+    script: "Deva"
+    iast: "Virāṭanagara"
+  - text: "Bairat"
+    lang: "en"
+    script: "Latn"
+realm: "terrestrial"
+kind: "city"
+confidence: "traditional"
+geometry:
+  type: "Point"
+  coordinates:
+    - 76.2
+    - 27.45
+modern_admin:
+  country: "India"
+  region: "Rajasthan"
+  district: "Jaipur"
+evidence:
+  - type: "textual"
+    summary: "In the Mahabharata the Pandavas pass their thirteenth year in disguise at the court of Virata, king of the Matsyas, hiding their weapons in a shami tree outside his city."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "4.5"
+      - source: "ganguli-mahabharata"
+        locator: "4.72"
+  - type: "historical"
+    summary: "Cunningham takes Bairat to be the ancient capital of Matsya and the city that Hwen Thsang visited; Raychaudhuri reports that Virata's capital has been identified with Bairat in Jaipur."
+    references:
+      - source: "cunningham-ancient-geography"
+        locator: "338"
+      - source: "raychaudhuri-phai-1923"
+        locator: "29"
+  - type: "archaeological"
+    summary: "The Imperial Gazetteer places Bairat at 27° 27' N, 76° 12' E and reports two inscriptions of Asoka found within a mile of the town, with early coins. These show an old settlement; they do not identify it with the epic city."
+    references:
+      - source: "imperial-gazetteer-1909"
+        locator: "6:217"
+kingdoms:
+  - to: "matsya-kingdom-epic"
+    note: "Virata's capital, as identified by scholars with Bairat."
+    references:
+      - source: "raychaudhuri-phai-1923"
+        locator: "29"
+traditions:
+  - "itihasa"
+summary_beginner: "The capital of King Virata in the Mahabharata, where the Pandavas lived in disguise. Tradition and nineteenth-century scholars identify it with Bairat in Rajasthan."
+summary_scholar: "Bairat's antiquity is well attested (Asokan inscriptions, Hwen Thsang via Cunningham), but its identification with Virata's city rests on the name and tradition, so the record is classed traditional, not verified. The point is the Gazetteer's position for the town."
+references:
+  - source: "imperial-gazetteer-1909"
+    locator: "6:217"
+  - source: "cunningham-ancient-geography"
+    locator: "338"
+  - source: "raychaudhuri-phai-1923"
+    locator: "29"

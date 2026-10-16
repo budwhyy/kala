@@ -1,0 +1,27 @@
+slug: pratipa
+names:
+  - text: "Pratipa"
+    lang: en
+    script: Latn
+  - text: "प्रतीप"
+    lang: sa
+    script: Deva
+    iast: "Pratīpa"
+kinds: [human, king]
+traditions: [itihasa]
+dynasties:
+  - to: kuru-dynasty
+    note: 'Called "that light of the Kuru race" in the Adi Parva.'
+    references:
+      - source: ganguli-mahabharata
+        locator: "1.97"
+summary_beginner: "A Kuru king, father of Devapi, Shantanu and Bahlika. In the Mahabharata the river goddess Ganga first offers herself to him; he accepts her instead as a future wife for his son."
+summary_scholar: "The Adi Parva gives two genealogies between Kuru and Pratipa. Section 94 says only that Pratipa was the most famous grandson of a king Dhritarashtra of Kuru's line, while section 95 names each generation: Kuru, Viduratha, Anashvan, Parikshit, Bhimasena, Pratishravas, Pratipa. Each is stored under its own variant. Both agree on his three sons."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.94"
+  - source: ganguli-mahabharata
+    locator: "1.95"
+  - source: ganguli-mahabharata
+    locator: "1.97"
+    note: "Ganga sits on his right thigh, the seat of a daughter-in-law, and he accepts her for his son."

@@ -1,0 +1,27 @@
+slug: dhritarashtra
+names:
+  - text: "Dhritarashtra"
+    lang: en
+    script: Latn
+  - text: "धृतराष्ट्र"
+    lang: sa
+    script: Deva
+    iast: "Dhṛtarāṣṭra"
+kinds: [human, king]
+traditions: [itihasa]
+dynasties:
+  - to: kuru-dynasty
+    note: "King of the Kurus at Hastinapura, father of the Kauravas."
+    references:
+      - source: ganguli-mahabharata
+        locator: "1.95"
+summary_beginner: "The blind elder son born to Vichitravirya's widow Ambika through the sage Vyasa. He married Gandhari and became the father of the hundred Kaurava brothers, Duryodhana the eldest."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.95"
+  - source: ganguli-mahabharata
+    locator: "1.106"
+  - source: ganguli-mahabharata
+    locator: "1.110"
+  - source: ganguli-mahabharata
+    locator: "1.115"

@@ -1,0 +1,19 @@
+slug: kushadhvaja
+names:
+  - text: "Kushadhvaja"
+    lang: en
+    script: Latn
+  - text: कुशध्वज
+    lang: sa
+    script: Deva
+    iast: "Kuśadhvaja"
+kinds: [king, human]
+traditions: [itihasa]
+summary_beginner: "Janaka's younger brother, whom Janaka made king of Sankashya. His two daughters, Mandavi and Shrutakirti, marry Bharata and Shatrughna."
+references:
+  - source: griffith-ramayana
+    locator: "1.70"
+  - source: griffith-ramayana
+    locator: "1.71"
+  - source: griffith-ramayana
+    locator: "1.72"

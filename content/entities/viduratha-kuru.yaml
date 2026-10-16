@@ -1,0 +1,22 @@
+slug: viduratha-kuru
+names:
+  - text: "Viduratha"
+    lang: en
+    script: Latn
+  - text: "विदूरथ"
+    lang: sa
+    script: Deva
+    iast: "Vidūratha"
+kinds: [human, king]
+traditions: [itihasa]
+dynasties:
+  - to: kuru-dynasty
+    note: "A son of Kuru in the Adi Parva genealogy of section 95."
+    references:
+      - source: ganguli-mahabharata
+        locator: "1.95"
+summary_beginner: "In the second of the two Kuru genealogies in the Adi Parva of the Mahabharata, Viduratha is the son of King Kuru by Subhangi, a princess of the Dasarhas, and an ancestor of Pratipa. The first genealogy does not name him."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.95"
+    note: "Kuru marries Subhangi and has a son, Viduratha."

@@ -49,7 +49,9 @@
     "events": "घटना",
     "concepts": "अवधारणा",
     "networks": "तीर्थ-समूह",
-    "journeys": "यात्रा"
+    "journeys": "यात्रा",
+    "routes": "यात्रा-मार्ग",
+    "battlefields": "युद्धक्षेत्र"
   },
   "common": {
     "scholarly": "विद्वानों के लिए विस्तृत विवरण",

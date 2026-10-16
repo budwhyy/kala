@@ -7,21 +7,22 @@ Live: **https://kalacircle.netlify.app**
 KĀLA lets someone with no background explore the cycles of cosmic time, the families of gods,
 sages and kings, and the places of the epics and Puranas — always showing _which text says this_,
 _where texts disagree_, and _how confident an identification is_. The full product brief is
-[KALA_BUILD_BRIEF.md](KALA_BUILD_BRIEF.md); Phases 1 and 2 are complete.
+[KALA_BUILD_BRIEF.md](KALA_BUILD_BRIEF.md); Phases 1–3 are complete.
 
-## What is in the site (Phases 1 and 2)
+## What is in the site (Phases 1–3)
 
-| Mode                           | What it does                                                                                                                                                                   |
-| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Opening** (`/`)              | The opening question, then nine creation accounts offered side by side as starting paths                                                                                       |
-| **Cosmic time** (`/cosmic`)    | A wheel of yugas → mahayuga → manvantara → kalpa for each text's figures (Vishnu Purana, Manusmriti), never placed on a calendar; a **guided Yuga journey** (`/journey/yugas`) |
-| **Genealogy** (`/genealogy`)   | A 3D constellation of 122 figures; trace any two and see every step with its source; hide claims from one account                                                              |
-| **Geography** (`/geography`)   | A globe that zooms into a map of 69 places, coloured by confidence class; filter by pilgrimage network; cosmological realms listed but never mapped                            |
-| **Avatars** (`/avatar`)        | Avatar lists from four texts compared side by side (where they differ is highlighted), plus manifestations, aspects and identifications, each kind explained and kept separate |
-| **Philosophy** (`/philosophy`) | 16 concepts (dharma, karma, moksha, atman, Brahman…) with each school's own explanation and sources, side by side                                                              |
-| **Pilgrimage** (`/pilgrimage`) | Hindu, Buddhist and Jain sacred sites and circuits in their own right; lists that differ between texts are shown as separate lists                                             |
-| **Record pages**               | Every figure, place, kingdom, dynasty, event, concept, pilgrimage network, text, source edition, account and tradition, all cross-linked                                       |
-| **Search**                     | English, Devanagari or IAST, diacritics optional                                                                                                                               |
+| Mode                           | What it does                                                                                                                                                                                                                                                                 |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Opening** (`/`)              | The opening question, then nine creation accounts offered side by side as starting paths                                                                                                                                                                                     |
+| **Cosmic time** (`/cosmic`)    | A wheel of yugas → mahayuga → manvantara → kalpa for each text's figures (Vishnu Purana, Manusmriti), never placed on a calendar; a **guided Yuga journey** (`/journey/yugas`)                                                                                               |
+| **Genealogy** (`/genealogy`)   | A 3D constellation of 294 figures; trace any two and see every step with its source; hide claims from one account                                                                                                                                                            |
+| **Geography** (`/geography`)   | A globe that zooms into a map of 86 places, coloured by confidence class; filter by pilgrimage network; cosmological realms listed but never mapped                                                                                                                          |
+| **Avatars** (`/avatar`)        | Avatar lists from four texts compared side by side (where they differ is highlighted), plus manifestations, aspects and identifications, each kind explained and kept separate                                                                                               |
+| **Philosophy** (`/philosophy`) | 16 concepts (dharma, karma, moksha, atman, Brahman…) with each school's own explanation and sources, side by side                                                                                                                                                            |
+| **Pilgrimage** (`/pilgrimage`) | Hindu, Buddhist and Jain sacred sites and circuits in their own right; lists that differ between texts are shown as separate lists                                                                                                                                           |
+| **Epics** (`/epic`)            | The Ramayana (Valmiki, with the Ramcharitmanas as another telling) and the Mahabharata: the story book by book, family trees, journeys drawn stage by stage on a map (literary reconstructions), the eighteen days of Kurukshetra day by day, and the kingdoms and alliances |
+| **Record pages**               | Every figure, place, kingdom, dynasty, event, concept, pilgrimage network, text, source edition, account and tradition, all cross-linked                                                                                                                                     |
+| **Search**                     | English, Devanagari or IAST, diacritics optional                                                                                                                                                                                                                             |
 
 **Languages.** The interface is available in English and Hindi (`/hi/…`); names show in Devanagari on the
 Hindi site. Descriptions and source passages stay in English for now.

@@ -1,0 +1,22 @@
+slug: janaka
+names:
+  - text: "Janaka"
+    lang: en
+    script: Latn
+  - text: जनक
+    lang: sa
+    script: Deva
+    iast: "Janaka"
+kinds: [king, human]
+traditions: [itihasa]
+summary_beginner: "King of Videha at Mithila and Sita's father, who found her as a baby in a furrow while ploughing. He offers her to whoever can string Shiva's great bow, and gives her to Rama when Rama breaks it."
+summary_scholar: "Janaka gives his own descent from Nimi in Griffith 1.71; his father is named there as Hrasvaroma. Those ancestors are not entered."
+references:
+  - source: griffith-ramayana
+    locator: "1.66"
+  - source: griffith-ramayana
+    locator: "1.67"
+  - source: griffith-ramayana
+    locator: "1.71"
+  - source: griffith-ramayana
+    locator: "2.118"

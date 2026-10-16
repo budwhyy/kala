@@ -1,0 +1,29 @@
+slug: sagara
+names:
+  - text: "Sagara"
+    lang: en
+    script: Latn
+  - text: सगर
+    lang: sa
+    script: Deva
+    iast: "Sagara"
+kinds: [king, human]
+traditions: [itihasa]
+dynasties:
+  - to: suryavansha
+    note: "A king of Ikshvaku's line, listed in Vasishtha's recital of Rama's ancestry."
+    references:
+      - source: griffith-ramayana
+        locator: "1.70"
+summary_beginner: "A king of Ikshvaku's line at Ayodhya. In Vasishtha's recital of Rama's ancestry in Valmiki's Ramayana he is the son of Asita and the father of Asamanja. His name is explained by the poison (gara) a rival queen gave his mother before his birth; the Bala Kanda tells how his sixty thousand sons dug into the earth searching for his sacrificial horse."
+references:
+  - source: griffith-ramayana
+    locator: "1.70"
+  - source: dutt-ramayana
+    locator: "1.70"
+  - source: griffith-ramayana
+    locator: "2.110"
+  - source: griffith-ramayana
+    locator: "1.39"
+  - source: griffith-ramayana
+    locator: "1.40"

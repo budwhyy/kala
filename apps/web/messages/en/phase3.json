@@ -1,0 +1,83 @@
+{
+  "nav3": {
+    "epic": "Epics"
+  },
+  "epic": {
+    "label": "Epic",
+    "indexTitle": "Epics",
+    "indexIntro": "The great story-worlds told in order: their people and families, journeys, battles and kingdoms, each linked to the passages that tell them.",
+    "empty": "No epics are available yet.",
+    "countEvents": "{count} events",
+    "countPeople": "{count} people",
+    "countRoutes": "{count} journeys",
+    "countBattles": "{count} battlefields",
+    "countDays": "{count} days",
+    "countFallen": "{count} named fallen",
+    "aboutText": "About this text →",
+    "storyNote": "This is the story as the text tells it. Places named in it may be real; that does not make the events historical.",
+    "otherTellings": "Also told in",
+    "contents": "On this page",
+    "story": "The story",
+    "family": "Families",
+    "journeys": "Journeys",
+    "battle": "Battle",
+    "politics": "Kingdoms and alliances",
+    "alsoTold": "Told differently in",
+    "unplaced": "Other events",
+    "familyNote": "{count} people, each shown under the parent the text names (the legal father first). Divine, biological or foster parents, and other accounts’ versions, are noted beside them.",
+    "traceLink": "Trace how any two of them are connected →",
+    "openBattle": "Open the battlefield, day by day →",
+    "politicsNote": "Kingdoms of the story and the alliances, marriages and wars the text records between them. These are legendary kingdoms; historical states of the same name are separate records.",
+    "partOf": "Part of"
+  },
+  "family": {
+    "otherFather": "{mode} father:",
+    "otherMother": "{mode} mother:",
+    "descendants": "Descendants ({count})"
+  },
+  "route": {
+    "telling": "Telling",
+    "literary": "A literary reconstruction from the text, stage by stage — not a verified itinerary. Each stop’s own page shows how confident its identification is.",
+    "account": "Account",
+    "travellers": "Travellers",
+    "mapLabel": "Map of {name}",
+    "controls": "Route controls",
+    "back": "Back",
+    "next": "Next",
+    "play": "Play",
+    "pause": "Pause",
+    "stageOf": "Stage {current} of {total}",
+    "unmapped": "{count} stops have no agreed location and are not drawn on the map.",
+    "stops": "Stops",
+    "notDrawn": "not drawn"
+  },
+  "battle": {
+    "literary": "The battle as the epic tells it: formations, encounters and deaths are literary, not an archaeological or historical record.",
+    "sides": "The armies",
+    "leaders": "Leaders",
+    "kingdoms": "Kingdoms on this side",
+    "days": "Day by day",
+    "chooseDay": "Choose a day",
+    "dayN": "Day {n}",
+    "told": "Told in {section}",
+    "prev": "Previous day",
+    "next": "Next day",
+    "commander": "Commander",
+    "formation": "Formation",
+    "encounters": "Encounters",
+    "fallen": "Fallen",
+    "by": "by",
+    "whoFell": "Who fell, and when",
+    "day": "Day",
+    "warrior": "Warrior",
+    "sideNote": "Sides: {a} and {b}. The table lists everyone the text says fell, in order of days."
+  },
+  "sections3": {
+    "journeysTitle": "Journeys",
+    "battleTitle": "In battle",
+    "fellOn": "falls on day {day}",
+    "commanded": "commands on day {days}",
+    "tookPart": "takes part",
+    "conceptsTitle": "Ideas set out here"
+  }
+}

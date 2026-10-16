@@ -1,0 +1,17 @@
+slug: mandodari
+names:
+  - text: "Mandodari"
+    lang: en
+    script: Latn
+  - text: मन्दोदरी
+    lang: sa
+    script: Deva
+    iast: "Mandodarī"
+kinds: [other]
+traditions: [itihasa]
+summary_beginner: "Ravana's chief queen, who laments over his body at the end of the war. In the Uttara Kanda she is the daughter of the Danava Maya and the apsara Hema, and the mother of Indrajit."
+references:
+  - source: griffith-ramayana
+    locator: "6.113"
+  - source: dutt-ramayana
+    locator: "7.12"

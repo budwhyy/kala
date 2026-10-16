@@ -1,0 +1,17 @@
+slug: ambalika
+names:
+  - text: "Ambalika"
+    lang: en
+    script: Latn
+  - text: "अम्बालिका"
+    lang: sa
+    script: Deva
+    iast: "Ambālikā"
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "Ambika's younger sister and Vichitravirya's second wife. She turned pale at the sight of Vyasa, so her son was born pale and named Pandu."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.102"
+  - source: ganguli-mahabharata
+    locator: "1.106"

@@ -1,0 +1,19 @@
+slug: jatayu
+names:
+  - text: "Jatayu"
+    lang: en
+    script: Latn
+  - text: जटायु
+    lang: sa
+    script: Deva
+    iast: "Jaṭāyu"
+kinds: [other]
+traditions: [itihasa]
+summary_beginner: "A great vulture, son of Aruna and an old friend of Dasharatha. He fights Ravana to stop him carrying off Sita and dies of his wounds after telling Rama what happened."
+references:
+  - source: griffith-ramayana
+    locator: "3.14"
+  - source: griffith-ramayana
+    locator: "3.51"
+  - source: griffith-ramayana
+    locator: "3.68"

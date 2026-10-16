@@ -1,0 +1,28 @@
+slug: "mahabharata-birth-of-karna"
+names:
+  - text: "The birth of Karna"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "kunti"
+    role: "as the maiden Pritha, tests a mantra and summons the Sun"
+  - entity: "surya"
+    role: "the Sun, Karna's divine father"
+  - entity: "karna"
+    role: "born with armour and earrings, set adrift and raised by a charioteer"
+places:
+  - "ganga"
+narrative_order:
+  text: "mahabharata"
+  position: 1111
+  section: "adi-parva"
+variant: "mahabharata-story-ganguli-account"
+traditions:
+  - "itihasa"
+summary_beginner: "Pritha (Kunti), daughter of the Yadava chief Shura, is given in childhood to her father's cousin Kuntibhoja. The sage Durvasa teaches her a mantra to call any god; out of curiosity she calls the Sun while still unmarried and bears a son born with armour and earrings. Afraid of her family, she sets the child in the water. A charioteer, the husband of Radha, finds him and raises him as Vasusena; he is later known as Karna."
+summary_scholar: "Adi Parva 1.111 tells it briefly. The Vana Parva retells it in detail (3.306): the basket floats from the river Ashva to the Charmanvati, the Yamuna and the Ganga, and reaches the city of Champa. The Sun is Karna's divine father; his foster-father is the charioteer Adhiratha. The 'position' in narrative_order is parva x 1000 + Ganguli's section number of the main passage, so events sort in the order the epic tells them."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "1.111"
+  - source: "ganguli-mahabharata"
+    locator: "3.306"

@@ -1,0 +1,29 @@
+slug: ravana
+names:
+  - text: "Ravana"
+    lang: en
+    script: Latn
+  - text: रावण
+    lang: sa
+    script: Deva
+    iast: "Rāvaṇa"
+epithets:
+  - text: दशग्रीव
+    lang: sa
+    script: Deva
+    iast: "Daśagrīva"
+kinds: [rakshasa, king]
+traditions: [itihasa]
+summary_beginner: "The ten-headed king of the rakshasas at Lanka, son of the sage Vishravas. Protected by Brahma's boon, he troubles the worlds, carries off Sita, and is killed by Rama in battle."
+summary_scholar: "Books I-VI name Vishravas as his father and Kubera (Vaishravana) as his brother (Griffith 1.22, 3.48, 3.69, 5.23). His mother Kaikasi, his maternal grandfather Sumali and his birth with ten heads are told only in the Uttara Kanda (Dutt 7.5, 7.9)."
+references:
+  - source: griffith-ramayana
+    locator: "1.22"
+  - source: griffith-ramayana
+    locator: "3.49"
+  - source: griffith-ramayana
+    locator: "5.23"
+  - source: griffith-ramayana
+    locator: "6.110"
+  - source: dutt-ramayana
+    locator: "7.9"

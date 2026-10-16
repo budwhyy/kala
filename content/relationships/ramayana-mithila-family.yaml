@@ -1,0 +1,80 @@
+- id: janaka-father-of-sita
+  from: janaka
+  to: sita
+  type: parent
+  role: father
+  mode: adoptive
+  explanation: "Janaka finds the infant Sita in the furrow while ploughing and takes her as his daughter; in Sita's own telling a voice from the sky confirms her as his child and his chief queen raises her. The text names no other parent and says she was not born of a mortal mother."
+  references:
+    - source: griffith-ramayana
+      locator: "1.66"
+    - source: griffith-ramayana
+      locator: "2.118"
+- id: janaka-father-of-urmila
+  from: janaka
+  to: urmila
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Urmila is Janaka's daughter, the younger sister of Sita; the text does not describe her birth."
+  references:
+    - source: griffith-ramayana
+      locator: "1.70"
+    - source: griffith-ramayana
+      locator: "1.71"
+    - source: griffith-ramayana
+      locator: "2.118"
+- id: janaka-sibling-of-kushadhvaja
+  from: janaka
+  to: kushadhvaja
+  type: sibling
+  explanation: "Janaka and Kushadhvaja are the two sons of King Hrasvaroma; Janaka is the elder."
+  references:
+    - source: griffith-ramayana
+      locator: "1.70"
+    - source: griffith-ramayana
+      locator: "1.71"
+- id: kushadhvaja-father-of-mandavi
+  from: kushadhvaja
+  to: mandavi
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Mandavi is one of Kushadhvaja's two daughters, whom Janaka gives in marriage as his nieces."
+  references:
+    - source: griffith-ramayana
+      locator: "1.72"
+    - source: griffith-ramayana
+      locator: "1.73"
+    - source: griffith-ramayana
+      locator: "1.77"
+- id: kushadhvaja-father-of-shrutakirti
+  from: kushadhvaja
+  to: shrutakirti
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Shrutakirti is one of Kushadhvaja's two daughters, whom Janaka gives in marriage as his nieces."
+  references:
+    - source: griffith-ramayana
+      locator: "1.72"
+    - source: griffith-ramayana
+      locator: "1.73"
+    - source: griffith-ramayana
+      locator: "1.77"
+- id: sita-sibling-of-urmila
+  from: sita
+  to: urmila
+  type: sibling
+  explanation: "Sita speaks of Urmila as her younger sister, both given away by Janaka."
+  references:
+    - source: griffith-ramayana
+      locator: "2.118"
+- id: mandavi-sibling-of-shrutakirti
+  from: mandavi
+  to: shrutakirti
+  type: sibling
+  explanation: "Mandavi and Shrutakirti are the two daughters of Kushadhvaja."
+  references:
+    - source: griffith-ramayana
+      locator: "1.72"

@@ -11,4 +11,41 @@ genre: itihasa
 original_language: sa
 traditions:
   - itihasa
+sections:
+  - id: adi-parva
+    label: "Book 1: Adi Parva (The Beginning)"
+  - id: sabha-parva
+    label: "Book 2: Sabha Parva (The Assembly Hall)"
+  - id: vana-parva
+    label: "Book 3: Vana Parva (The Forest; also called Aranyaka Parva)"
+  - id: virata-parva
+    label: "Book 4: Virata Parva (At Virata's Court)"
+  - id: udyoga-parva
+    label: "Book 5: Udyoga Parva (The Preparations)"
+  - id: bhishma-parva
+    label: "Book 6: Bhishma Parva (Bhishma; contains the Bhagavad Gita)"
+  - id: drona-parva
+    label: "Book 7: Drona Parva (Drona)"
+  - id: karna-parva
+    label: "Book 8: Karna Parva (Karna)"
+  - id: shalya-parva
+    label: "Book 9: Shalya Parva (Shalya)"
+  - id: sauptika-parva
+    label: "Book 10: Sauptika Parva (The Sleeping Warriors)"
+  - id: stri-parva
+    label: "Book 11: Stri Parva (The Women)"
+  - id: shanti-parva
+    label: "Book 12: Shanti Parva (Peace)"
+  - id: anushasana-parva
+    label: "Book 13: Anushasana Parva (Instruction)"
+  - id: ashvamedhika-parva
+    label: "Book 14: Ashvamedhika Parva (The Horse Sacrifice)"
+  - id: ashramavasika-parva
+    label: "Book 15: Ashramavasika Parva (Life in the Hermitage)"
+  - id: mausala-parva
+    label: "Book 16: Mausala Parva (The Iron Bolt)"
+  - id: mahaprasthanika-parva
+    label: "Book 17: Mahaprasthanika Parva (The Great Departure)"
+  - id: svargarohanika-parva
+    label: "Book 18: Svargarohanika Parva (The Ascent to Heaven)"
 summary_beginner: The great epic of the Kuru dynasty and the war at Kurukshetra, attributed to Vyasa.

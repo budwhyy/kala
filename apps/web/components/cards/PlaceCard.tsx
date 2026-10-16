@@ -5,6 +5,7 @@ import { hrefFor } from "@/lib/graph/kala";
 import { enumLabel } from "@/lib/i18n-helpers";
 import { LinkList } from "./EntityCard";
 import { EventsSection, NetworksSection } from "./Phase2Sections";
+import { JourneysSection } from "./Phase3Sections";
 import {
   Badge,
   Cite,
@@ -146,6 +147,7 @@ export function PlaceCard({ kala, slug }: { kala: Kala; slug: string }) {
 
       <NetworksSection kala={kala} memberships={p.pilgrimage_networks} />
       <EventsSection kala={kala} slugs={kala.neighbours("places", slug, "events")} />
+      <JourneysSection kala={kala} slugs={kala.neighbours("places", slug, "routes")} />
       <TimeRails kala={kala} cosmic={p.cosmic_time} historical={p.historical_time} />
     </article>
   );

@@ -1,0 +1,27 @@
+slug: ramayana-shabari
+names:
+  - text: "Rama and Shabari"
+    lang: en
+    script: Latn
+participants:
+  - entity: shabari
+    role: "the aged woman ascetic who has waited for Rama"
+  - entity: rama
+    role: "visits her hermitage"
+  - entity: lakshmana
+    role: "with Rama"
+places:
+  - pampa
+narrative_order:
+  text: valmiki-ramayana
+  position: 375
+  section: aranya-kanda
+variant: valmiki-ramayana-account
+traditions:
+  - itihasa
+summary_beginner: "Sent on by the freed spirit Kabandha, the brothers reach Lake Pampa, where the aged ascetic Shabari welcomes them at her hermitage. With Rama's leave she gives her body to the fire and rises to heaven."
+references:
+  - source: griffith-ramayana
+    locator: "3.73"
+  - source: griffith-ramayana
+    locator: "3.75"

@@ -1,0 +1,33 @@
+slug: ramayana-burning-of-lanka
+names:
+  - text: "The burning of Lanka"
+    lang: en
+    script: Latn
+participants:
+  - entity: hanuman
+    role: "wrecks the grove, is captured, and burns the city"
+  - entity: indrajit
+    role: "captures Hanuman with a weapon charmed by Brahma"
+  - entity: ravana
+    role: "orders Hanuman's tail to be set on fire"
+  - entity: vibhishana
+    role: "argues that an envoy must not be killed"
+places:
+  - lanka-ramayana
+narrative_order:
+  text: valmiki-ramayana
+  position: 554
+  section: sundara-kanda
+variant: valmiki-ramayana-account
+traditions:
+  - itihasa
+summary_beginner: "Hanuman lays waste Ravana's grove and kills many of his warriors before letting himself be captured by Indrajit. Vibhishana persuades Ravana not to kill an envoy, so Ravana has Hanuman's tail set on fire. Hanuman leaps from roof to roof and sets Lanka ablaze, then returns to Rama with news of Sita."
+references:
+  - source: griffith-ramayana
+    locator: "5.48"
+  - source: griffith-ramayana
+    locator: "5.52"
+  - source: griffith-ramayana
+    locator: "5.53"
+  - source: griffith-ramayana
+    locator: "5.54"

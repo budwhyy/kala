@@ -1,0 +1,21 @@
+slug: dhrishtadyumna
+names:
+  - text: "Dhrishtadyumna"
+    lang: en
+    script: Latn
+  - text: "धृष्टद्युम्न"
+    lang: sa
+    script: Deva
+    iast: "Dhṛṣṭadyumna"
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "Son of Drupada who came out of the sacrificial fire armed and armoured, born to kill Drona. He arrays the Pandava army and does kill Drona; Ashwatthama kills him in the night raid."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.169"
+  - source: ganguli-mahabharata
+    locator: "6.25"
+  - source: ganguli-mahabharata
+    locator: "7.193"
+  - source: ganguli-mahabharata
+    locator: "10.8"

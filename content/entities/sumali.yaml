@@ -1,0 +1,19 @@
+slug: sumali
+names:
+  - text: "Sumali"
+    lang: en
+    script: Latn
+  - text: सुमाली
+    lang: sa
+    script: Deva
+    iast: "Sumālī"
+kinds: [rakshasa]
+traditions: [itihasa]
+summary_beginner: "In the Uttara Kanda, a rakshasa lord, son of Sukesha, who once held Lanka and was driven out by Vishnu. Seeing Kubera's splendour, he sends his daughter Kaikasi to the sage Vishravas."
+references:
+  - source: dutt-ramayana
+    locator: "7.5"
+  - source: dutt-ramayana
+    locator: "7.8"
+  - source: dutt-ramayana
+    locator: "7.9"

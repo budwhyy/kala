@@ -1,0 +1,43 @@
+slug: "mahabharata-cattle-raid-on-matsya"
+names:
+  - text: "The cattle raid on the Matsyas"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "virata"
+    role: "captured by the Trigartas and rescued by Bhima"
+  - entity: "bhima"
+    role: "rescues Virata"
+  - entity: "arjuna"
+    role: "as Vrihannala, drives Prince Uttara's chariot and defeats the Kurus"
+  - entity: "uttara-prince"
+    role: "Virata's son, who goes out against the Kurus"
+  - entity: "duryodhana"
+    role: "leads the Kuru raid"
+  - entity: "bhishma"
+  - entity: "drona"
+  - entity: "karna"
+  - entity: "kripa"
+  - entity: "ashwatthama"
+places:
+  - "viratanagara"
+narrative_order:
+  text: "mahabharata"
+  position: 4030
+  section: "virata-parva"
+variant: "mahabharata-story-ganguli-account"
+traditions:
+  - "itihasa"
+summary_beginner: "Knowing that Kichaka is dead, Susharman, king of the Trigartas, raids Virata's cattle and captures the king, who is rescued by Bhima. While Virata pursues the Trigartas, Duryodhana with Bhishma, Drona, Karna, Kripa, Ashvatthama and others seizes sixty thousand cattle on another side. Virata's young son Uttara goes out with Vrihannala as his charioteer; Arjuna takes his weapons from the shami tree and routs the Kuru host, bringing the cattle back."
+summary_scholar: "Virata Parva, Ganguli 4.30 (Susharman's plan), 4.33 (Virata captured and rescued), 4.35 (the Kuru raid), 4.41 (the weapons in the shami tree) and 4.66 (the cattle recovered). The 'position' in narrative_order is parva x 1000 + Ganguli's section number of the main passage, so events sort in the order the epic tells them."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "4.30"
+  - source: "ganguli-mahabharata"
+    locator: "4.33"
+  - source: "ganguli-mahabharata"
+    locator: "4.35"
+  - source: "ganguli-mahabharata"
+    locator: "4.41"
+  - source: "ganguli-mahabharata"
+    locator: "4.66"

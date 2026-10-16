@@ -1,0 +1,14 @@
+slug: mahabharata-people-amba-udyoga
+names:
+  - text: "Amba's story in the Udyoga Parva"
+    lang: en
+    script: Latn
+kind: account
+tradition: itihasa
+text: mahabharata
+description: "Bhishma's account to Duryodhana, in the Udyoga Parva, of Amba's rejection, her austerities, Shiva's boon and her rebirth as Drupada's child Shikhandi. The Adi Parva's list of incarnations gives Shikhandi a different origin."
+references:
+  - source: ganguli-mahabharata
+    locator: "5.190"
+  - source: ganguli-mahabharata
+    locator: "5.191"

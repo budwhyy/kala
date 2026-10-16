@@ -1,0 +1,22 @@
+slug: valmiki
+names:
+  - text: "Valmiki"
+    lang: en
+    script: Latn
+  - text: वाल्मीकि
+    lang: sa
+    script: Deva
+    iast: "Vālmīki"
+kinds: [rishi]
+traditions: [itihasa]
+summary_beginner: "The sage to whom the Ramayana is attributed. In the opening books he composes the poem and teaches it to Rama's sons Kusha and Lava; in the Uttara Kanda Sita lives in his hermitage, where the twins are born."
+summary_scholar: "In Dutt 7.109 Valmiki calls himself the tenth son of Prachetas; Prachetas is not entered. Macdonell (1900, p. 305) notes that the poet appears as Rama's contemporary only in the first and last books."
+references:
+  - source: griffith-ramayana
+    locator: "1.2"
+  - source: griffith-ramayana
+    locator: "1.4"
+  - source: dutt-ramayana
+    locator: "7.79"
+  - source: dutt-ramayana
+    locator: "7.109"

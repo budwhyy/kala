@@ -1,0 +1,41 @@
+slug: arjuna
+names:
+  - text: "Arjuna"
+    lang: en
+    script: Latn
+  - text: "अर्जुन"
+    lang: sa
+    script: Deva
+    iast: "Arjuna"
+epithets:
+  - text: "Partha"
+    lang: en
+    script: Latn
+  - text: "Dhananjaya"
+    lang: en
+    script: Latn
+  - text: "Phalguna"
+    lang: en
+    script: Latn
+kinds: [human]
+traditions: [itihasa, puranic]
+dynasties:
+  - to: kuru-dynasty
+    note: "A son of Pandu."
+    references:
+      - source: ganguli-mahabharata
+        locator: "1.95"
+summary_beginner: "The third Pandava, son of Kunti by Indra and Drona's finest pupil in archery. Krishna is his cousin, friend and charioteer, and teaches him the Bhagavad Gita on the field of Kurukshetra."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.95"
+  - source: ganguli-mahabharata
+    locator: "1.123"
+  - source: ganguli-mahabharata
+    locator: "1.134"
+  - source: ganguli-mahabharata
+    locator: "5.7"
+  - source: ganguli-mahabharata
+    locator: "6.26"
+  - source: wilson-vishnu-purana
+    locator: "4.14"

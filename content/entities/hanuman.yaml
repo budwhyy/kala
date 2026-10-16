@@ -1,0 +1,25 @@
+slug: hanuman
+names:
+  - text: "Hanuman"
+    lang: en
+    script: Latn
+  - text: हनुमान्
+    lang: sa
+    script: Deva
+    iast: "Hanumān"
+kinds: [vanara]
+traditions: [itihasa, vaishnava]
+summary_beginner: "A vanara chief and Sugriva's counsellor, son of the wind god and of Anjana. In Valmiki's Ramayana he leaps the ocean to Lanka, finds Sita and burns the city, and he is revered in living Vaishnava devotion as Rama's devoted servant."
+references:
+  - source: griffith-ramayana
+    locator: "1.16"
+  - source: griffith-ramayana
+    locator: "4.3"
+  - source: griffith-ramayana
+    locator: "4.29"
+  - source: griffith-ramayana
+    locator: "4.66"
+  - source: griffith-ramayana
+    locator: "5.1"
+  - source: griffith-ramayana
+    locator: "5.54"

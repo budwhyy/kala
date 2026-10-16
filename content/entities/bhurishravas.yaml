@@ -1,0 +1,23 @@
+slug: bhurishravas
+names:
+  - text: "Bhurishravas"
+    lang: en
+    script: Latn
+  - text: "भूरिश्रवस्"
+    lang: sa
+    script: Deva
+    iast: "Bhūriśravas"
+epithets:
+  - text: "Bhurisravas"
+    lang: en
+    script: Latn
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "A Kuru warrior, son of Somadatta, who fought for Duryodhana. Arjuna cut off his arm as he was about to kill Satyaki, and Satyaki then killed him."
+references:
+  - source: ganguli-mahabharata
+    locator: "5.19"
+  - source: ganguli-mahabharata
+    locator: "5.166"
+  - source: ganguli-mahabharata
+    locator: "7.142"

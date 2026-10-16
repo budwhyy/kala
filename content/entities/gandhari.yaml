@@ -1,0 +1,22 @@
+slug: gandhari
+names:
+  - text: "Gandhari"
+    lang: en
+    script: Latn
+  - text: "गान्धारी"
+    lang: sa
+    script: Deva
+    iast: "Gāndhārī"
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "Daughter of King Subala of Gandhara and sister of Shakuni. She married the blind Dhritarashtra, covered her own eyes for life, and became the mother of a hundred sons and one daughter, Duhshala."
+summary_scholar: "The Adi Parva credits her hundred sons both to a boon from Shiva (1.110) and to one from Vyasa (1.115), who divides her ball of flesh into a hundred and one parts. After the war she curses Krishna (11.25)."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.63"
+  - source: ganguli-mahabharata
+    locator: "1.110"
+  - source: ganguli-mahabharata
+    locator: "1.115"
+  - source: ganguli-mahabharata
+    locator: "1.116"

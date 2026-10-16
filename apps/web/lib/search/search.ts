@@ -38,6 +38,8 @@ const SEARCHABLE: CollectionName[] = [
   "concepts",
   "networks",
   "journeys",
+  "routes",
+  "battlefields",
 ];
 
 export function buildSearchIndex(kala: Kala): SearchItem[] {

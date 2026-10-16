@@ -1,0 +1,17 @@
+slug: mandavi
+names:
+  - text: "Mandavi"
+    lang: en
+    script: Latn
+  - text: माण्डवी
+    lang: sa
+    script: Deva
+    iast: "Māṇḍavī"
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "Daughter of Kushadhvaja and wife of Bharata."
+references:
+  - source: griffith-ramayana
+    locator: "1.72"
+  - source: griffith-ramayana
+    locator: "1.73"

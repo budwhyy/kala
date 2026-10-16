@@ -1,0 +1,29 @@
+slug: bahlika
+names:
+  - text: "Bahlika"
+    lang: en
+    script: Latn
+  - text: "बाह्लीक"
+    lang: sa
+    script: Deva
+    iast: "Bāhlīka"
+epithets:
+  - text: "Valhika"
+    lang: en
+    script: Latn
+kinds: [human, king]
+traditions: [itihasa]
+dynasties:
+  - to: kuru-dynasty
+    note: "A son of Pratipa of the Kuru line."
+    references:
+      - source: ganguli-mahabharata
+        locator: "1.94"
+summary_beginner: "A son of King Pratipa and brother of Shantanu, with whom he shared the kingdom. In the Drona Parva Somadatta is called his son. Ganguli's translation spells the name Valhika."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.94"
+  - source: ganguli-mahabharata
+    locator: "1.95"
+  - source: ganguli-mahabharata
+    locator: "7.161"

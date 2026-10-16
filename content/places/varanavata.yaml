@@ -1,0 +1,52 @@
+slug: "varanavata"
+names:
+  - text: "Varanavata"
+    lang: "en"
+    script: "Latn"
+  - text: "वारणावत"
+    lang: "sa"
+    script: "Deva"
+    iast: "Vāraṇāvata"
+realm: "terrestrial"
+kind: "city"
+confidence: "debated"
+modern_admin:
+  country: "India"
+  region: "Uttar Pradesh"
+alternative_identifications:
+  - label: "Barnawa, at the confluence of the Krishni and Hindan rivers"
+    confidence: "debated"
+    modern_admin:
+      country: "India"
+      region: "Uttar Pradesh"
+    argument: "B. B. Lal reports that scholars identify Varanavata with Barnawa, a village at the meeting of the Krishni and Hindan in what was then Meerut District, and lists Barnawa among the sites where Painted Grey Ware occurs. KĀLA holds no citable coordinates for the village, so no point is drawn."
+    references:
+      - source: "lal-hastinapura-1955"
+        locator: "147"
+      - source: "lal-hastinapura-1955"
+        locator: "148"
+      - source: "lal-hastinapura-1955"
+        locator: "149"
+        note: "Provisional conclusions: sites with Painted Grey Ware"
+evidence:
+  - type: "textual"
+    summary: "In the Mahabharata, Dhritarashtra sends the Pandavas to a festival at Varanavata, where Purochana builds the house of lac meant to burn them."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "1.143"
+      - source: "ganguli-mahabharata"
+        locator: "1.146"
+  - type: "textual"
+    summary: "Lal notes that Varanavata appears in some recensions' lists of the five villages the Pandavas later asked for, and that the lists differ between recensions."
+    references:
+      - source: "lal-hastinapura-1955"
+        locator: "147"
+traditions:
+  - "itihasa"
+summary_beginner: "The town where, in the Mahabharata, the Pandavas were sent to stay in a house of lac built to burn them. Scholars have identified it with Barnawa in western Uttar Pradesh, but the identification is not confirmed."
+summary_scholar: "Only one identification (Barnawa) is recorded in the sources KĀLA holds, and it rests on the similarity of the name, as reported by Lal, not on an inscription. It is classed as debated and drawn without coordinates. Painted Grey Ware at Barnawa concerns the site's early occupation, not the epic story."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "1.143"
+  - source: "lal-hastinapura-1955"
+    locator: "148"

@@ -1,0 +1,22 @@
+slug: vali
+names:
+  - text: "Vali"
+    lang: en
+    script: Latn
+  - text: वाली
+    lang: sa
+    script: Deva
+    iast: "Vālī"
+kinds: [vanara, king]
+traditions: [itihasa]
+summary_beginner: "King of the vanaras at Kishkindha, son of Indra and elder brother of Sugriva, whom he drove into exile. Rama shoots him while he fights Sugriva, and as he dies he entrusts his son Angada to Sugriva."
+summary_scholar: "Griffith spells the name Bali. Vali reproaches Rama for shooting him from hiding, and Rama answers that he was punishing wrongdoing as a king's agent (Griffith 4.17-4.18). Because the text frames this as punishment rather than enmity between them, no enemy link between Rama and Vali is stored."
+references:
+  - source: griffith-ramayana
+    locator: "1.16"
+  - source: griffith-ramayana
+    locator: "4.10"
+  - source: griffith-ramayana
+    locator: "4.16"
+  - source: griffith-ramayana
+    locator: "4.22"

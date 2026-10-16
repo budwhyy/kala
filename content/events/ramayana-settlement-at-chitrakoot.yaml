@@ -1,0 +1,31 @@
+slug: ramayana-settlement-at-chitrakoot
+names:
+  - text: "The exiles settle at Chitrakuta"
+    lang: en
+    script: Latn
+participants:
+  - entity: rama
+    role: "builds a home on the hill"
+  - entity: sita
+    role: "with Rama"
+  - entity: lakshmana
+    role: "builds the cottage"
+places:
+  - prayagraj
+  - yamuna
+  - chitrakoot
+narrative_order:
+  text: valmiki-ramayana
+  position: 156
+  section: ayodhya-kanda
+variant: valmiki-ramayana-account
+traditions:
+  - itihasa
+summary_beginner: "The exiles spend a night at the hermitage of the sage Bharadvaja near Prayag, where the Ganga and Yamuna meet. He directs them across the Yamuna to Chitrakuta hill, where Lakshmana builds a cottage and they settle."
+references:
+  - source: griffith-ramayana
+    locator: "2.54"
+  - source: griffith-ramayana
+    locator: "2.55"
+  - source: griffith-ramayana
+    locator: "2.56"

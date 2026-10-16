@@ -1,0 +1,574 @@
+- id: ikshvaku-father-of-kukshi
+  from: ikshvaku
+  to: kukshi
+  type: parent
+  role: father
+  mode: biological
+  variant: ramayana-people-ikshvaku-line-bala-kanda
+  explanation: "In Vasishtha's recital of Rama's ancestry, Kukshi is the son of Ikshvaku."
+  references:
+    - source: griffith-ramayana
+      locator: "1.70"
+    - source: dutt-ramayana
+      locator: "1.70"
+    - source: griffith-ramayana
+      locator: "2.110"
+    - source: dutt-ramayana
+      locator: "2.110"
+- id: kukshi-father-of-vikukshi
+  from: kukshi
+  to: vikukshi
+  type: parent
+  role: father
+  mode: biological
+  variant: ramayana-people-ikshvaku-line-bala-kanda
+  explanation: "In Vasishtha's recital of Rama's ancestry, Vikukshi is the son of Kukshi."
+  references:
+    - source: griffith-ramayana
+      locator: "1.70"
+    - source: dutt-ramayana
+      locator: "1.70"
+    - source: griffith-ramayana
+      locator: "2.110"
+    - source: dutt-ramayana
+      locator: "2.110"
+- id: vikukshi-father-of-bana-ikshvaku
+  from: vikukshi
+  to: bana-ikshvaku
+  type: parent
+  role: father
+  mode: biological
+  variant: ramayana-people-ikshvaku-line-bala-kanda
+  explanation: "In Vasishtha's recital of Rama's ancestry, Bana is the son of Vikukshi."
+  references:
+    - source: griffith-ramayana
+      locator: "1.70"
+    - source: dutt-ramayana
+      locator: "1.70"
+    - source: griffith-ramayana
+      locator: "2.110"
+    - source: dutt-ramayana
+      locator: "2.110"
+- id: bana-ikshvaku-father-of-anaranya
+  from: bana-ikshvaku
+  to: anaranya
+  type: parent
+  role: father
+  mode: biological
+  variant: ramayana-people-ikshvaku-line-bala-kanda
+  explanation: "In Vasishtha's recital of Rama's ancestry, Anaranya is the son of Bana."
+  references:
+    - source: griffith-ramayana
+      locator: "1.70"
+    - source: dutt-ramayana
+      locator: "1.70"
+    - source: griffith-ramayana
+      locator: "2.110"
+    - source: dutt-ramayana
+      locator: "2.110"
+- id: anaranya-father-of-prithu-ikshvaku
+  from: anaranya
+  to: prithu-ikshvaku
+  type: parent
+  role: father
+  mode: biological
+  variant: ramayana-people-ikshvaku-line-bala-kanda
+  explanation: "In Vasishtha's recital of Rama's ancestry, Prithu is the son of Anaranya."
+  references:
+    - source: griffith-ramayana
+      locator: "1.70"
+    - source: dutt-ramayana
+      locator: "1.70"
+    - source: griffith-ramayana
+      locator: "2.110"
+    - source: dutt-ramayana
+      locator: "2.110"
+- id: prithu-ikshvaku-father-of-trishanku
+  from: prithu-ikshvaku
+  to: trishanku
+  type: parent
+  role: father
+  mode: biological
+  variant: ramayana-people-ikshvaku-line-bala-kanda
+  explanation: "In Vasishtha's recital of Rama's ancestry, Trishanku is the son of Prithu."
+  references:
+    - source: griffith-ramayana
+      locator: "1.70"
+    - source: dutt-ramayana
+      locator: "1.70"
+    - source: griffith-ramayana
+      locator: "2.110"
+    - source: dutt-ramayana
+      locator: "2.110"
+- id: trishanku-father-of-dhundhumara
+  from: trishanku
+  to: dhundhumara
+  type: parent
+  role: father
+  mode: biological
+  variant: ramayana-people-ikshvaku-line-bala-kanda
+  explanation: "In Vasishtha's recital of Rama's ancestry, Dhundhumara is the son of Trishanku."
+  references:
+    - source: griffith-ramayana
+      locator: "1.70"
+    - source: dutt-ramayana
+      locator: "1.70"
+    - source: griffith-ramayana
+      locator: "2.110"
+    - source: dutt-ramayana
+      locator: "2.110"
+- id: dhundhumara-father-of-yuvanashva
+  from: dhundhumara
+  to: yuvanashva
+  type: parent
+  role: father
+  mode: biological
+  variant: ramayana-people-ikshvaku-line-bala-kanda
+  explanation: "In Vasishtha's recital of Rama's ancestry, Yuvanashva is the son of Dhundhumara."
+  references:
+    - source: griffith-ramayana
+      locator: "1.70"
+    - source: dutt-ramayana
+      locator: "1.70"
+    - source: griffith-ramayana
+      locator: "2.110"
+    - source: dutt-ramayana
+      locator: "2.110"
+- id: yuvanashva-father-of-mandhata
+  from: yuvanashva
+  to: mandhata
+  type: parent
+  role: father
+  mode: biological
+  variant: ramayana-people-ikshvaku-line-bala-kanda
+  explanation: "In Vasishtha's recital of Rama's ancestry, Mandhata is the son of Yuvanashva."
+  references:
+    - source: griffith-ramayana
+      locator: "1.70"
+    - source: dutt-ramayana
+      locator: "1.70"
+    - source: griffith-ramayana
+      locator: "2.110"
+    - source: dutt-ramayana
+      locator: "2.110"
+- id: mandhata-father-of-susandhi
+  from: mandhata
+  to: susandhi
+  type: parent
+  role: father
+  mode: biological
+  variant: ramayana-people-ikshvaku-line-bala-kanda
+  explanation: "In Vasishtha's recital of Rama's ancestry, Susandhi is the son of Mandhata."
+  references:
+    - source: griffith-ramayana
+      locator: "1.70"
+    - source: dutt-ramayana
+      locator: "1.70"
+    - source: griffith-ramayana
+      locator: "2.110"
+    - source: dutt-ramayana
+      locator: "2.110"
+- id: susandhi-father-of-dhruvasandhi
+  from: susandhi
+  to: dhruvasandhi
+  type: parent
+  role: father
+  mode: biological
+  variant: ramayana-people-ikshvaku-line-bala-kanda
+  explanation: "In Vasishtha's recital of Rama's ancestry, Dhruvasandhi is the son of Susandhi."
+  references:
+    - source: griffith-ramayana
+      locator: "1.70"
+    - source: dutt-ramayana
+      locator: "1.70"
+    - source: griffith-ramayana
+      locator: "2.110"
+    - source: dutt-ramayana
+      locator: "2.110"
+- id: dhruvasandhi-father-of-bharata-son-of-dhruvasandhi
+  from: dhruvasandhi
+  to: bharata-son-of-dhruvasandhi
+  type: parent
+  role: father
+  mode: biological
+  variant: ramayana-people-ikshvaku-line-bala-kanda
+  explanation: "In Vasishtha's recital of Rama's ancestry, Bharata (son of Dhruvasandhi) is the son of Dhruvasandhi."
+  references:
+    - source: griffith-ramayana
+      locator: "1.70"
+    - source: dutt-ramayana
+      locator: "1.70"
+    - source: griffith-ramayana
+      locator: "2.110"
+    - source: dutt-ramayana
+      locator: "2.110"
+- id: bharata-son-of-dhruvasandhi-father-of-asita-ikshvaku
+  from: bharata-son-of-dhruvasandhi
+  to: asita-ikshvaku
+  type: parent
+  role: father
+  mode: biological
+  variant: ramayana-people-ikshvaku-line-bala-kanda
+  explanation: "In Vasishtha's recital of Rama's ancestry, Asita is the son of Bharata (son of Dhruvasandhi)."
+  references:
+    - source: griffith-ramayana
+      locator: "1.70"
+    - source: dutt-ramayana
+      locator: "1.70"
+    - source: griffith-ramayana
+      locator: "2.110"
+    - source: dutt-ramayana
+      locator: "2.110"
+- id: asita-ikshvaku-father-of-sagara
+  from: asita-ikshvaku
+  to: sagara
+  type: parent
+  role: father
+  mode: biological
+  variant: ramayana-people-ikshvaku-line-bala-kanda
+  explanation: "Sagara is the son of Asita, born to Asita's widowed queen after the sage Chyavana promised her a son; a rival queen had poisoned her food, and the child is named for the poison (gara)."
+  references:
+    - source: griffith-ramayana
+      locator: "1.70"
+    - source: dutt-ramayana
+      locator: "1.70"
+    - source: griffith-ramayana
+      locator: "2.110"
+    - source: dutt-ramayana
+      locator: "2.110"
+- id: sagara-father-of-asamanja
+  from: sagara
+  to: asamanja
+  type: parent
+  role: father
+  mode: biological
+  variant: ramayana-people-ikshvaku-line-bala-kanda
+  explanation: "In Vasishtha's recital of Rama's ancestry, Asamanja is the son of Sagara."
+  references:
+    - source: griffith-ramayana
+      locator: "1.70"
+    - source: dutt-ramayana
+      locator: "1.70"
+    - source: griffith-ramayana
+      locator: "2.110"
+    - source: dutt-ramayana
+      locator: "2.110"
+    - source: griffith-ramayana
+      locator: "1.39"
+- id: asamanja-father-of-anshuman
+  from: asamanja
+  to: anshuman
+  type: parent
+  role: father
+  mode: biological
+  variant: ramayana-people-ikshvaku-line-bala-kanda
+  explanation: "In Vasishtha's recital of Rama's ancestry, Anshuman is the son of Asamanja."
+  references:
+    - source: griffith-ramayana
+      locator: "1.70"
+    - source: dutt-ramayana
+      locator: "1.70"
+    - source: griffith-ramayana
+      locator: "2.110"
+    - source: dutt-ramayana
+      locator: "2.110"
+    - source: griffith-ramayana
+      locator: "1.39"
+- id: anshuman-father-of-dilipa
+  from: anshuman
+  to: dilipa
+  type: parent
+  role: father
+  mode: biological
+  variant: ramayana-people-ikshvaku-line-bala-kanda
+  explanation: "In Vasishtha's recital of Rama's ancestry, Dilipa is the son of Anshuman."
+  references:
+    - source: griffith-ramayana
+      locator: "1.70"
+    - source: dutt-ramayana
+      locator: "1.70"
+    - source: griffith-ramayana
+      locator: "2.110"
+    - source: dutt-ramayana
+      locator: "2.110"
+    - source: griffith-ramayana
+      locator: "1.43"
+- id: dilipa-father-of-bhagiratha
+  from: dilipa
+  to: bhagiratha
+  type: parent
+  role: father
+  mode: biological
+  variant: ramayana-people-ikshvaku-line-bala-kanda
+  explanation: "In Vasishtha's recital of Rama's ancestry, Bhagiratha is the son of Dilipa."
+  references:
+    - source: griffith-ramayana
+      locator: "1.70"
+    - source: dutt-ramayana
+      locator: "1.70"
+    - source: griffith-ramayana
+      locator: "2.110"
+    - source: dutt-ramayana
+      locator: "2.110"
+    - source: griffith-ramayana
+      locator: "1.43"
+- id: bhagiratha-father-of-kakutstha
+  from: bhagiratha
+  to: kakutstha
+  type: parent
+  role: father
+  mode: biological
+  variant: ramayana-people-ikshvaku-line-bala-kanda
+  explanation: "In Vasishtha's recital of Rama's ancestry, Kakutstha is the son of Bhagiratha."
+  references:
+    - source: griffith-ramayana
+      locator: "1.70"
+    - source: dutt-ramayana
+      locator: "1.70"
+    - source: griffith-ramayana
+      locator: "2.110"
+    - source: dutt-ramayana
+      locator: "2.110"
+- id: kakutstha-father-of-raghu
+  from: kakutstha
+  to: raghu
+  type: parent
+  role: father
+  mode: biological
+  variant: ramayana-people-ikshvaku-line-bala-kanda
+  explanation: "In Vasishtha's recital of Rama's ancestry, Raghu is the son of Kakutstha."
+  references:
+    - source: griffith-ramayana
+      locator: "1.70"
+    - source: dutt-ramayana
+      locator: "1.70"
+    - source: griffith-ramayana
+      locator: "2.110"
+    - source: dutt-ramayana
+      locator: "2.110"
+- id: raghu-father-of-kalmashapada
+  from: raghu
+  to: kalmashapada
+  type: parent
+  role: father
+  mode: biological
+  variant: ramayana-people-ikshvaku-line-bala-kanda
+  explanation: "In Vasishtha's recital of Rama's ancestry, Kalmashapada is the son of Raghu."
+  references:
+    - source: griffith-ramayana
+      locator: "1.70"
+    - source: dutt-ramayana
+      locator: "1.70"
+    - source: griffith-ramayana
+      locator: "2.110"
+    - source: dutt-ramayana
+      locator: "2.110"
+- id: kalmashapada-father-of-shankhana
+  from: kalmashapada
+  to: shankhana
+  type: parent
+  role: father
+  mode: biological
+  variant: ramayana-people-ikshvaku-line-bala-kanda
+  explanation: "In Vasishtha's recital of Rama's ancestry, Shankhana is the son of Kalmashapada."
+  references:
+    - source: griffith-ramayana
+      locator: "1.70"
+    - source: dutt-ramayana
+      locator: "1.70"
+    - source: griffith-ramayana
+      locator: "2.110"
+    - source: dutt-ramayana
+      locator: "2.110"
+- id: shankhana-father-of-sudarshana-ikshvaku
+  from: shankhana
+  to: sudarshana-ikshvaku
+  type: parent
+  role: father
+  mode: biological
+  variant: ramayana-people-ikshvaku-line-bala-kanda
+  explanation: "In Vasishtha's recital of Rama's ancestry, Sudarshana is the son of Shankhana."
+  references:
+    - source: griffith-ramayana
+      locator: "1.70"
+    - source: dutt-ramayana
+      locator: "1.70"
+    - source: griffith-ramayana
+      locator: "2.110"
+    - source: dutt-ramayana
+      locator: "2.110"
+- id: sudarshana-ikshvaku-father-of-agnivarna
+  from: sudarshana-ikshvaku
+  to: agnivarna
+  type: parent
+  role: father
+  mode: biological
+  variant: ramayana-people-ikshvaku-line-bala-kanda
+  explanation: "In Vasishtha's recital of Rama's ancestry, Agnivarna is the son of Sudarshana."
+  references:
+    - source: griffith-ramayana
+      locator: "1.70"
+    - source: dutt-ramayana
+      locator: "1.70"
+    - source: griffith-ramayana
+      locator: "2.110"
+    - source: dutt-ramayana
+      locator: "2.110"
+- id: agnivarna-father-of-shighraga
+  from: agnivarna
+  to: shighraga
+  type: parent
+  role: father
+  mode: biological
+  variant: ramayana-people-ikshvaku-line-bala-kanda
+  explanation: "In Vasishtha's recital of Rama's ancestry, Shighraga is the son of Agnivarna."
+  references:
+    - source: griffith-ramayana
+      locator: "1.70"
+    - source: dutt-ramayana
+      locator: "1.70"
+    - source: griffith-ramayana
+      locator: "2.110"
+    - source: dutt-ramayana
+      locator: "2.110"
+- id: shighraga-father-of-maru-ikshvaku
+  from: shighraga
+  to: maru-ikshvaku
+  type: parent
+  role: father
+  mode: biological
+  variant: ramayana-people-ikshvaku-line-bala-kanda
+  explanation: "In Vasishtha's recital of Rama's ancestry, Maru is the son of Shighraga."
+  references:
+    - source: griffith-ramayana
+      locator: "1.70"
+    - source: dutt-ramayana
+      locator: "1.70"
+    - source: griffith-ramayana
+      locator: "2.110"
+    - source: dutt-ramayana
+      locator: "2.110"
+- id: maru-ikshvaku-father-of-prashushruka
+  from: maru-ikshvaku
+  to: prashushruka
+  type: parent
+  role: father
+  mode: biological
+  variant: ramayana-people-ikshvaku-line-bala-kanda
+  explanation: "In Vasishtha's recital of Rama's ancestry, Prashushruka is the son of Maru."
+  references:
+    - source: griffith-ramayana
+      locator: "1.70"
+    - source: dutt-ramayana
+      locator: "1.70"
+    - source: griffith-ramayana
+      locator: "2.110"
+    - source: dutt-ramayana
+      locator: "2.110"
+- id: prashushruka-father-of-ambarisha-ikshvaku
+  from: prashushruka
+  to: ambarisha-ikshvaku
+  type: parent
+  role: father
+  mode: biological
+  variant: ramayana-people-ikshvaku-line-bala-kanda
+  explanation: "In Vasishtha's recital of Rama's ancestry, Ambarisha is the son of Prashushruka."
+  references:
+    - source: griffith-ramayana
+      locator: "1.70"
+    - source: dutt-ramayana
+      locator: "1.70"
+    - source: griffith-ramayana
+      locator: "2.110"
+    - source: dutt-ramayana
+      locator: "2.110"
+- id: ambarisha-ikshvaku-father-of-nahusha-ikshvaku
+  from: ambarisha-ikshvaku
+  to: nahusha-ikshvaku
+  type: parent
+  role: father
+  mode: biological
+  variant: ramayana-people-ikshvaku-line-bala-kanda
+  explanation: "In Vasishtha's recital of Rama's ancestry, Nahusha (Ikshvaku line) is the son of Ambarisha."
+  references:
+    - source: griffith-ramayana
+      locator: "1.70"
+    - source: dutt-ramayana
+      locator: "1.70"
+    - source: griffith-ramayana
+      locator: "2.110"
+    - source: dutt-ramayana
+      locator: "2.110"
+- id: nahusha-ikshvaku-father-of-yayati-ikshvaku
+  from: nahusha-ikshvaku
+  to: yayati-ikshvaku
+  type: parent
+  role: father
+  mode: biological
+  variant: ramayana-people-ikshvaku-line-bala-kanda
+  explanation: "In Vasishtha's recital of Rama's ancestry, Yayati (Ikshvaku line) is the son of Nahusha (Ikshvaku line)."
+  references:
+    - source: griffith-ramayana
+      locator: "1.70"
+    - source: dutt-ramayana
+      locator: "1.70"
+- id: yayati-ikshvaku-father-of-nabhaga-ikshvaku
+  from: yayati-ikshvaku
+  to: nabhaga-ikshvaku
+  type: parent
+  role: father
+  mode: biological
+  variant: ramayana-people-ikshvaku-line-bala-kanda
+  explanation: "In the Bala Kanda recital Nabhaga is the son of Yayati, who is the son of Nahusha."
+  references:
+    - source: griffith-ramayana
+      locator: "1.70"
+    - source: dutt-ramayana
+      locator: "1.70"
+- id: nabhaga-ikshvaku-father-of-aja
+  from: nabhaga-ikshvaku
+  to: aja
+  type: parent
+  role: father
+  mode: biological
+  variant: ramayana-people-ikshvaku-line-bala-kanda
+  explanation: "In Vasishtha's recital of Rama's ancestry, Aja is the son of Nabhaga."
+  references:
+    - source: griffith-ramayana
+      locator: "1.70"
+    - source: dutt-ramayana
+      locator: "1.70"
+    - source: griffith-ramayana
+      locator: "2.110"
+    - source: dutt-ramayana
+      locator: "2.110"
+- id: aja-father-of-dasharatha
+  from: aja
+  to: dasharatha
+  type: parent
+  role: father
+  mode: biological
+  variant: ramayana-people-ikshvaku-line-bala-kanda
+  explanation: "Dasharatha is the son of Aja; both of Vasishtha's recitals end the line with him and his sons."
+  references:
+    - source: griffith-ramayana
+      locator: "1.70"
+    - source: dutt-ramayana
+      locator: "1.70"
+    - source: griffith-ramayana
+      locator: "2.110"
+    - source: dutt-ramayana
+      locator: "2.110"
+- id: nahusha-ikshvaku-father-of-nabhaga-ikshvaku-ayodhya
+  from: nahusha-ikshvaku
+  to: nabhaga-ikshvaku
+  type: parent
+  role: father
+  mode: biological
+  variant: ramayana-people-ikshvaku-line-ayodhya-kanda
+  explanation: "In the Ayodhya Kanda recital Nabhaga is the son of Nahusha; Yayati is not named. Griffith and Dutt agree on this reading."
+  references:
+    - source: griffith-ramayana
+      locator: "2.110"
+    - source: dutt-ramayana
+      locator: "2.110"

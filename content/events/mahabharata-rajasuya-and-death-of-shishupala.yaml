@@ -1,0 +1,36 @@
+slug: "mahabharata-rajasuya-and-death-of-shishupala"
+names:
+  - text: "The Rajasuya and the death of Shishupala"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "yudhishthira"
+    role: "performs the Rajasuya"
+  - entity: "bhishma"
+    role: "names Krishna as the first to be honoured"
+  - entity: "sahadeva"
+    role: "offers Krishna the first honour"
+  - entity: "krishna"
+    role: "receives the honour and kills Shishupala"
+  - entity: "shishupala"
+    role: "king of Chedi, who objects and insults Krishna"
+places:
+  - "indraprastha"
+narrative_order:
+  text: "mahabharata"
+  position: 2035
+  section: "sabha-parva"
+variant: "mahabharata-story-ganguli-account"
+traditions:
+  - "itihasa"
+summary_beginner: "After his brothers have brought the kings of every direction under his sway, Yudhishthira performs the Rajasuya. On Bhishma's advice the first guest-offering goes to Krishna. Shishupala, king of Chedi, objects and abuses Krishna and Bhishma. Bhishma tells how Krishna promised Shishupala's mother, his aunt, to pardon a hundred of her son's offences. When the number is full, Krishna cuts off Shishupala's head with his discus."
+summary_scholar: "Sabha Parva, Ganguli 2.25-2.31 (the conquests), 2.35 (the first offering), 2.42 (Shishupala's birth and the boon) and 2.44 (his death). Shishupala had served as Jarasandha's commander (2.14). The 'position' in narrative_order is parva x 1000 + Ganguli's section number of the main passage, so events sort in the order the epic tells them."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "2.25"
+  - source: "ganguli-mahabharata"
+    locator: "2.35"
+  - source: "ganguli-mahabharata"
+    locator: "2.42"
+  - source: "ganguli-mahabharata"
+    locator: "2.44"

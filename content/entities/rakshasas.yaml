@@ -1,0 +1,20 @@
+slug: rakshasas
+names:
+  - text: "Rakshasas"
+    lang: en
+    script: Latn
+  - text: राक्षस
+    lang: sa
+    script: Deva
+    iast: "Rākṣasa"
+kinds: [rakshasa]
+traditions: [itihasa]
+summary_beginner: "The beings ruled by Ravana from Lanka, able to change shape and dangerous to sages and their rites. Griffith's translation calls them giants or fiends."
+summary_scholar: "The Uttara Kanda (Dutt 7.4) gives an origin story: creatures made by Brahma to guard the waters, those who said 'we shall protect' became Rakshasas."
+references:
+  - source: griffith-ramayana
+    locator: "1.22"
+  - source: griffith-ramayana
+    locator: "3.17"
+  - source: dutt-ramayana
+    locator: "7.4"

@@ -1,0 +1,36 @@
+slug: "mahabharata-abduction-of-the-kashi-princesses"
+names:
+  - text: "Bhishma carries off the princesses of Kashi"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "bhishma"
+    role: "wins the three princesses by force at their self-choice ceremony"
+  - entity: "amba"
+    role: "the eldest, who had already chosen the king of the Salvas and is allowed to leave"
+  - entity: "ambika"
+    role: "married to Vichitravirya"
+  - entity: "ambalika"
+    role: "married to Vichitravirya"
+  - entity: "vichitravirya"
+    role: "Shantanu and Satyavati's son, the young king"
+  - entity: "satyavati"
+    role: "at whose command Bhishma goes"
+places:
+  - "kashi"
+narrative_order:
+  text: "mahabharata"
+  position: 1102
+  section: "adi-parva"
+variant: "mahabharata-story-ganguli-account"
+traditions:
+  - "itihasa"
+summary_beginner: "To find wives for the young king Vichitravirya, Bhishma goes to Varanasi, where the three daughters of the king of Kashi are to choose husbands. He carries them off in his chariot and defeats the kings who pursue him. The eldest, Amba, tells him she had already chosen the lord of Saubha (Salva), so he lets her go; the other two, Ambika and Ambalika, marry Vichitravirya."
+summary_scholar: "Adi Parva 1.102 gives the abduction and Amba's release. Bhishma retells it in the Udyoga Parva (5.175-176), adding that Salva refused to take Amba back because Bhishma had won her; that sequel is recorded separately as Amba's vow. The 'position' in narrative_order is parva x 1000 + Ganguli's section number of the main passage, so events sort in the order the epic tells them."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "1.102"
+  - source: "ganguli-mahabharata"
+    locator: "5.175"
+  - source: "ganguli-mahabharata"
+    locator: "5.176"

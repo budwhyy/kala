@@ -1,0 +1,33 @@
+slug: ramayana-the-golden-deer
+names:
+  - text: "The golden deer"
+    lang: en
+    script: Latn
+participants:
+  - entity: ravana
+    role: "plans to carry off Sita"
+  - entity: maricha
+    role: "takes the form of a golden deer to lure Rama away"
+  - entity: sita
+    role: "asks Rama to catch the deer"
+  - entity: rama
+    role: "chases and kills the deer"
+  - entity: lakshmana
+    role: "leaves Sita when she urges him to help Rama"
+places:
+  - panchavati
+narrative_order:
+  text: valmiki-ramayana
+  position: 344
+  section: aranya-kanda
+variant: valmiki-ramayana-account
+traditions:
+  - itihasa
+summary_beginner: "Ravana forces the rakshasa Maricha to help him. Maricha takes the form of a wondrous golden deer near the hermitage; Sita longs for it and Rama chases it far into the forest. Struck by Rama's arrow, Maricha cries out in Rama's voice for Sita and Lakshmana, and Sita drives a reluctant Lakshmana to go to Rama's aid."
+references:
+  - source: griffith-ramayana
+    locator: "3.42"
+  - source: griffith-ramayana
+    locator: "3.44"
+  - source: griffith-ramayana
+    locator: "3.45"

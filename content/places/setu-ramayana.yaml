@@ -1,0 +1,77 @@
+slug: setu-ramayana
+names:
+  - text: Rama's bridge (Setu)
+    lang: en
+    script: Latn
+  - text: सेतु
+    lang: sa
+    script: Deva
+    iast: Setu
+  - text: Adam's Bridge
+    lang: en
+    script: Latn
+realm: terrestrial
+kind: site
+confidence: debated
+modern_admin:
+  country: India and Sri Lanka (Palk Strait)
+alternative_identifications:
+  - label: Adam's Bridge, the shoals between Pamban (Rameswaram) Island and Mannar
+    confidence: traditional
+    geometry:
+      type: Point
+      coordinates:
+        - 79.52
+        - 9.12
+    modern_admin:
+      country: India and Sri Lanka
+      region: Tamil Nadu (India) and Northern Province (Sri Lanka)
+    argument: The Imperial Gazetteer reports the tradition that Rama crossed to Pamban Island from Ceylon by way of Adam's Bridge and founded the Rameswaram temple. The point marks the present-day chain of shoals; it does not verify the epic bridge.
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "21:178"
+        note: Ramnad Estate article (page read from the OCR running heads)
+  - label: An unlocated literary bridge
+    confidence: debated
+    argument: The Ramayana says the bridge crossed the sea to Lanka but names no landing points, and the location of Lanka itself is debated.
+    references:
+      - source: griffith-ramayana
+        locator: "6.22"
+evidence:
+  - type: textual
+    summary: In Valmiki's Ramayana the Ocean tells Rama that Nala, son of Vishvakarma, can build a bridge; the monkeys build it across the sea and the army crosses to Lanka.
+    references:
+      - source: griffith-ramayana
+        locator: "6.22"
+  - type: textual
+    summary: On the flight home Rama shows Sita the bridge and says the worlds will revere it for ever.
+    references:
+      - source: griffith-ramayana
+        locator: "6.125"
+  - type: traditional
+    summary: The Imperial Gazetteer records the tradition linking Rama's crossing with Adam's Bridge and the founding of the Rameswaram temple.
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "21:178"
+related_places:
+  - to: rameswaram
+    relation: near
+    note: Tradition links the bridge to Pamban Island, where the Rameswaram temple stands.
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "21:178"
+  - to: lanka-ramayana
+    relation: near
+    note: In the epic the bridge ends at Lanka.
+    references:
+      - source: griffith-ramayana
+        locator: "6.22"
+traditions:
+  - itihasa
+summary_beginner: The bridge across the sea to Lanka that Nala and the monkey army build for Rama in the Ramayana. Tradition identifies it with the chain of shoals called Adam's Bridge; this is a matter of tradition, not established fact.
+summary_scholar: Kept 'debated'. Our only source for the Adam's Bridge identification is the Imperial Gazetteer's report of tradition; the text names no landing points.
+references:
+  - source: griffith-ramayana
+    locator: "6.22"
+  - source: imperial-gazetteer-1909
+    locator: "21:178"

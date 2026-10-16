@@ -1,0 +1,29 @@
+slug: trishanku
+names:
+  - text: "Trishanku"
+    lang: en
+    script: Latn
+  - text: त्रिशङ्कु
+    lang: sa
+    script: Deva
+    iast: "Triśaṅku"
+kinds: [king, human]
+traditions: [itihasa]
+dynasties:
+  - to: suryavansha
+    note: "A king of Ikshvaku's line, listed in Vasishtha's recital of Rama's ancestry."
+    references:
+      - source: griffith-ramayana
+        locator: "1.70"
+summary_beginner: "A king of Ikshvaku's line at Ayodhya. In Vasishtha's recital of Rama's ancestry in Valmiki's Ramayana he is the son of Prithu and the father of Dhundhumara. The Bala Kanda tells how the sage Vishvamitra, by the power of his austerities, sent him bodily towards heaven and made new stars for him when the gods cast him down."
+references:
+  - source: griffith-ramayana
+    locator: "1.70"
+  - source: dutt-ramayana
+    locator: "1.70"
+  - source: griffith-ramayana
+    locator: "2.110"
+  - source: griffith-ramayana
+    locator: "1.57"
+  - source: griffith-ramayana
+    locator: "1.60"

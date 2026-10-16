@@ -28,8 +28,8 @@ export const ROUTES: Record<CollectionName, string | null> = {
   concepts: "/concept",
   networks: "/network",
   journeys: "/journey",
-  routes: null,
-  battlefields: null,
+  routes: "/route",
+  battlefields: "/battlefield",
   cosmic: null,
 };
 

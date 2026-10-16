@@ -1,0 +1,33 @@
+slug: "krishna-slays-kamsa-harivamsha"
+names:
+  - text: "Krishna kills Kamsa (Harivamsha)"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "krishna"
+    role: "kills Kamsa in the arena"
+  - entity: "balarama"
+  - entity: "kamsa"
+  - entity: "ugrasena"
+    role: "Kamsa's father, whom Krishna asks to rule"
+  - entity: "vasudeva-shura"
+places:
+  - "mathura"
+narrative_order:
+  text: "harivamsha"
+  position: 85
+variant: "mahabharata-story-harivamsha-krishna"
+same_story_as:
+  - "krishna-slays-kamsa-vishnu-purana"
+traditions:
+  - "vaishnava"
+  - "itihasa"
+summary_beginner: "In the Harivamsha, Kamsa invites the brothers to a contest of arms at Mathura. In the arena Krishna leaps up to Kamsa, drags him down by the hair and kills him; the text notes that Kamsa died without the honour of a warrior's death. Krishna refuses the throne, saying he did not kill Kamsa for a kingdom, and asks Kamsa's father Ugrasena to rule the Yadavas."
+summary_scholar: "Dutt, Harivamsha Parva chs. 77-85 (the invitation, the journey and the contest), 86 (the widows' lament) and 87 (Krishna's words to Ugrasena). The 'position' in narrative_order is the chapter number of Dutt's Harivamsha Parva."
+references:
+  - source: "dutt-harivamsha"
+    locator: "85"
+    note: "Harivamsha Parva"
+  - source: "dutt-harivamsha"
+    locator: "87"
+    note: "Harivamsha Parva"

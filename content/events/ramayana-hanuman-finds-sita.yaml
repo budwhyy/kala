@@ -1,0 +1,33 @@
+slug: ramayana-hanuman-finds-sita
+names:
+  - text: "Hanuman finds Sita in the Ashoka grove"
+    lang: en
+    script: Latn
+participants:
+  - entity: hanuman
+    role: "searches Lanka and finds Sita"
+  - entity: sita
+    role: "held captive in Ravana's grove"
+  - entity: ravana
+    role: "threatens and woos Sita while Hanuman watches"
+places:
+  - lanka-ramayana
+narrative_order:
+  text: valmiki-ramayana
+  position: 515
+  section: sundara-kanda
+variant: valmiki-ramayana-account
+traditions:
+  - itihasa
+summary_beginner: "Hanuman searches Ravana's city by night and finds Sita, pale and guarded by rakshasis, in the Ashoka grove. He watches Ravana try to win her, then speaks to her, gives her Rama's ring, and receives a jewel from her as a token for Rama."
+references:
+  - source: griffith-ramayana
+    locator: "5.14"
+  - source: griffith-ramayana
+    locator: "5.15"
+  - source: griffith-ramayana
+    locator: "5.20"
+  - source: griffith-ramayana
+    locator: "5.36"
+  - source: griffith-ramayana
+    locator: "5.38"

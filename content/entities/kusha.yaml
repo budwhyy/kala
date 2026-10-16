@@ -1,0 +1,19 @@
+slug: kusha
+names:
+  - text: "Kusha"
+    lang: en
+    script: Latn
+  - text: कुश
+    lang: sa
+    script: Deva
+    iast: "Kuśa"
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "The elder of Rama's twin sons, raised with Lava in Valmiki's hermitage, where the two learn to sing the Ramayana. In the Uttara Kanda Rama later gives him the kingdom of Kosala."
+references:
+  - source: griffith-ramayana
+    locator: "1.4"
+  - source: dutt-ramayana
+    locator: "7.79"
+  - source: dutt-ramayana
+    locator: "7.120"

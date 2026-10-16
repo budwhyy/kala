@@ -1,0 +1,32 @@
+slug: ramcharitmanas-birth-of-lava-and-kusha
+names:
+  - text: "Birth of Lava and Kusha (Ramcharitmanas)"
+    lang: en
+    script: Latn
+participants:
+  - entity: sita
+    role: "bears two sons in Ayodhya"
+  - entity: lava
+    role: "one of the sons"
+  - entity: kusha
+    role: "one of the sons"
+  - entity: rama
+    role: "reigning in Ayodhya"
+places:
+  - ayodhya
+narrative_order:
+  text: ramcharitmanas
+  position: 7025
+  section: uttar-kand
+variant: ramcharitmanas-account
+same_story_as:
+  - ramayana-birth-of-lava-and-kusha
+traditions:
+  - vaishnava
+summary_beginner: "In the Ramcharitmanas there is no exile of Sita. During Rama's reign Sita serves the household in Ayodhya and bears two sons, Lava and Kusha; Rama's brothers also each have two sons."
+summary_scholar: "Growse 7.25-7.26 (p. 511). Contrast the Uttara Kanda of Valmiki's Ramayana, where the twins are born at Valmiki's hermitage after Sita is sent away."
+references:
+  - source: growse-ramayana-tulsi-das
+    locator: "7.25"
+  - source: growse-ramayana-tulsi-das
+    locator: "7.26"

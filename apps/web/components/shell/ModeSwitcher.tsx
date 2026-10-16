@@ -15,6 +15,7 @@ const MODES = [
   { href: "/avatar", key: "avatar", ns: "nav2" },
   { href: "/philosophy", key: "philosophy", ns: "nav2" },
   { href: "/pilgrimage", key: "pilgrimage", ns: "nav2" },
+  { href: "/epic", key: "epic", ns: "nav3" },
 ] as const;
 
 /**
@@ -24,6 +25,7 @@ const MODES = [
 export function ModeSwitcher({ context }: { context?: Selection }) {
   const t = useTranslations("nav");
   const t2 = useTranslations("nav2");
+  const t3 = useTranslations("nav3");
   const pathname = usePathname();
   const params = useSearchParams();
   const { selection, setSelection } = useSelection();
@@ -51,7 +53,7 @@ export function ModeSwitcher({ context }: { context?: Selection }) {
               active ? "bg-gold text-void" : "text-ink/80 hover:bg-white/10 hover:text-ink"
             }`}
           >
-            {m.ns === "nav" ? t(m.key) : t2(m.key)}
+            {m.ns === "nav" ? t(m.key) : m.ns === "nav2" ? t2(m.key) : t3(m.key)}
           </Link>
         );
       })}

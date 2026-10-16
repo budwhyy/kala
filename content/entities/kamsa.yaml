@@ -1,0 +1,36 @@
+slug: kamsa
+names:
+  - text: "Kamsa"
+    lang: en
+    script: Latn
+  - text: "कंस"
+    lang: sa
+    script: Deva
+    iast: "Kaṃsa"
+epithets:
+  - text: "Kansa"
+    lang: en
+    script: Latn
+kinds: [human, king]
+traditions: [itihasa, puranic]
+dynasties:
+  - to: yadava-dynasty
+    note: "Eldest son of Ugrasena, of the Andhaka branch of the Yadavas."
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.14"
+      - source: dutt-harivamsha
+        locator: "37"
+summary_beginner: "King of Mathura, son of Ugrasena and cousin of Devaki. Warned that Devaki's eighth child would kill him, he imprisoned her and Vasudeva and killed their children; Krishna kills him in the wrestling arena."
+summary_scholar: "Devaki's father Devaka and Kamsa's father Ugrasena are brothers in both the Vishnu Purana (4.14) and the Harivamsha (37), which makes Kamsa her paternal cousin. Both the Mahabharata (1.67) and the Vishnu Purana (5.1) say he was the asura Kalanemi born again."
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.14"
+  - source: wilson-vishnu-purana
+    locator: "5.1"
+  - source: wilson-vishnu-purana
+    locator: "5.20"
+  - source: ganguli-mahabharata
+    locator: "1.67"
+  - source: dutt-harivamsha
+    locator: "37"

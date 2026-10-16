@@ -1,0 +1,31 @@
+slug: ramayana-death-of-ravana
+names:
+  - text: "The death of Ravana"
+    lang: en
+    script: Latn
+participants:
+  - entity: ravana
+    role: "killed in single combat"
+  - entity: rama
+    role: "kills him with the arrow made by Brahma"
+  - entity: mandodari
+    role: "Ravana's queen, who mourns him"
+  - entity: vibhishana
+    role: "consecrated king of Lanka afterwards"
+places:
+  - lanka-ramayana
+narrative_order:
+  text: valmiki-ramayana
+  position: 710
+  section: yuddha-kanda
+variant: valmiki-ramayana-account
+traditions:
+  - itihasa
+summary_beginner: "In the final duel Rama shoots the arrow that the sage Agastya had given him, made by Brahma for Indra, and it pierces Ravana's heart. Ravana falls, his army scatters and flowers fall from heaven. His queens mourn him, and Vibhishana is consecrated king of Lanka."
+references:
+  - source: griffith-ramayana
+    locator: "6.110"
+  - source: griffith-ramayana
+    locator: "6.113"
+  - source: griffith-ramayana
+    locator: "6.114"

@@ -1,0 +1,19 @@
+slug: sutasoma
+names:
+  - text: "Sutasoma"
+    lang: en
+    script: Latn
+  - text: "सुतसोम"
+    lang: sa
+    script: Deva
+    iast: "Sutasoma"
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "Son of Bhima and Draupadi, named after the thousand Soma sacrifices his father had performed. He is killed in Ashwatthama's night raid."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.63"
+  - source: ganguli-mahabharata
+    locator: "1.223"
+  - source: ganguli-mahabharata
+    locator: "10.8"

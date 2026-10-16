@@ -1,0 +1,20 @@
+slug: upapandavas
+names:
+  - text: "Upapandavas"
+    lang: en
+    script: Latn
+  - text: "उपपाण्डव"
+    lang: sa
+    script: Deva
+    iast: "Upapāṇḍava"
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "The five sons of Draupadi, one by each Pandava: Prativindhya, Sutasoma, Shrutakirti, Shatanika and Shrutasena. The Adi Parva says they were celestials called the Vishvas, born on earth; Ashwatthama kills all five in his night raid."
+summary_scholar: "The name Upapandavas (the lesser Pandavas) is a conventional collective term; the Adi Parva itself speaks of the sons of Draupadi. Their names vary between the Adi Parva's lists (1.63, 1.67, 1.95, 1.223)."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.67"
+  - source: ganguli-mahabharata
+    locator: "1.223"
+  - source: ganguli-mahabharata
+    locator: "10.8"

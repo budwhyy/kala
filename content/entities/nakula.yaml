@@ -1,0 +1,25 @@
+slug: nakula
+names:
+  - text: "Nakula"
+    lang: en
+    script: Latn
+  - text: "नकुल"
+    lang: sa
+    script: Deva
+    iast: "Nakula"
+kinds: [human]
+traditions: [itihasa, puranic]
+dynasties:
+  - to: kuru-dynasty
+    note: "A son of Pandu."
+    references:
+      - source: ganguli-mahabharata
+        locator: "1.95"
+summary_beginner: "One of the twin sons of Madri by the divine twins, the Ashvins, and so the fourth of the five Pandavas."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.95"
+  - source: ganguli-mahabharata
+    locator: "1.124"
+  - source: wilson-vishnu-purana
+    locator: "4.14"

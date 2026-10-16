@@ -1,0 +1,22 @@
+slug: jarasandha
+names:
+  - text: "Jarasandha"
+    lang: en
+    script: Latn
+  - text: "जरासंध"
+    lang: sa
+    script: Deva
+    iast: "Jarāsaṃdha"
+kinds: [human, king]
+traditions: [itihasa, puranic]
+summary_beginner: "King of Magadha, whose two daughters, Asti and Prapti, married Kamsa. After Kamsa's death he attacked Mathura again and again; in the Mahabharata Bhima kills him in single combat, with Krishna and Arjuna present."
+summary_scholar: "The Adi Parva says he was the Danava Viprachitti born as a man (1.67). The Magadha kingdom of the epic has its own record."
+references:
+  - source: wilson-vishnu-purana
+    locator: "5.22"
+  - source: ganguli-mahabharata
+    locator: "1.67"
+  - source: ganguli-mahabharata
+    locator: "2.14"
+  - source: ganguli-mahabharata
+    locator: "2.24"

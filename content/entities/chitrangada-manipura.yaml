@@ -1,0 +1,17 @@
+slug: chitrangada-manipura
+names:
+  - text: "Chitrangada (princess of Manipura)"
+    lang: en
+    script: Latn
+  - text: "चित्राङ्गदा"
+    lang: sa
+    script: Deva
+    iast: "Citrāṅgadā"
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "Princess of Manipura, daughter of King Chitravahana. Arjuna married her on a condition set by her father, that her son would continue her father's line; their son was Babruvahana."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.217"
+  - source: ganguli-mahabharata
+    locator: "1.219"

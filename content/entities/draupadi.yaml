@@ -1,0 +1,29 @@
+slug: draupadi
+names:
+  - text: "Draupadi"
+    lang: en
+    script: Latn
+  - text: "द्रौपदी"
+    lang: sa
+    script: Deva
+    iast: "Draupadī"
+epithets:
+  - text: "Panchali"
+    lang: en
+    script: Latn
+  - text: "Yajnaseni"
+    lang: en
+    script: Latn
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "Daughter of King Drupada of Panchala, who rose from the altar of his sacrifice. Won by Arjuna, she became the wife of all five Pandavas; her humiliation in the dice hall is a turning point of the epic."
+summary_scholar: "She is named Krishna (the dark one) at her birth (1.169); Ganguli's translation often calls her Krishna or Panchali. The Adi Parva says she was born of a portion of Sachi, Indra's queen (1.67). Each Pandava weds her on a successive day (1.200)."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.63"
+  - source: ganguli-mahabharata
+    locator: "1.169"
+  - source: ganguli-mahabharata
+    locator: "1.200"
+  - source: ganguli-mahabharata
+    locator: "2.66"

@@ -20,7 +20,7 @@ function flatten(tree: Tree, prefix = ""): Record<string, string> {
 }
 const placeholders = (s: string) => [...s.matchAll(/\{(\w+)[,}]/g)].map((m) => m[1]!).sort();
 
-for (const file of ["core", "phase2"]) {
+for (const file of ["core", "phase2", "phase3"]) {
   describe(`messages/${file}.json`, () => {
     const en = flatten(load("en", file));
     const hi = flatten(load("hi", file));

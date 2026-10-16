@@ -1,0 +1,41 @@
+slug: "mahabharata-ascent-to-heaven"
+names:
+  - text: "Yudhishthira's ascent to heaven"
+    lang: "en"
+    script: "Latn"
+  - text: "स्वर्गारोहण"
+    lang: "sa"
+    script: "Deva"
+    iast: "Svargārohaṇa"
+participants:
+  - entity: "yudhishthira"
+    role: "refuses heaven without his brothers"
+  - entity: "indra"
+    role: "explains the illusion"
+  - entity: "dharma"
+    role: "goes with him after the bath in the heavenly Ganga"
+  - entity: "duryodhana"
+    role: "seen in heaven in glory"
+  - entity: "karna"
+  - entity: "krishna"
+    role: "seen in his divine form"
+places:
+  - "svarga"
+narrative_order:
+  text: "mahabharata"
+  position: 18001
+  section: "svargarohanika-parva"
+variant: "mahabharata-story-ganguli-account"
+traditions:
+  - "itihasa"
+summary_beginner: "In heaven Yudhishthira finds Duryodhana seated in glory and his own brothers absent. He insists on going where they are and is led to a dark, terrible place where he hears their voices crying out, and chooses to stay with them. The scene vanishes: Indra tells him that every king must see hell, and it was an illusion. He bathes in the heavenly Ganga, leaves his human body and joins his kin."
+summary_scholar: "Svargarohanika Parva, Ganguli 18.1-18.4; 18.5 tells where each hero goes after death. Svarga is a cosmological place with no coordinates. The 'position' in narrative_order is parva x 1000 + Ganguli's section number of the main passage, so events sort in the order the epic tells them."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "18.1"
+  - source: "ganguli-mahabharata"
+    locator: "18.2"
+  - source: "ganguli-mahabharata"
+    locator: "18.3"
+  - source: "ganguli-mahabharata"
+    locator: "18.4"

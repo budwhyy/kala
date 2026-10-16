@@ -1,0 +1,32 @@
+slug: duryodhana
+names:
+  - text: "Duryodhana"
+    lang: en
+    script: Latn
+  - text: "दुर्योधन"
+    lang: sa
+    script: Deva
+    iast: "Duryodhana"
+epithets:
+  - text: "Suyodhana"
+    lang: en
+    script: Latn
+kinds: [human, king]
+traditions: [itihasa]
+dynasties:
+  - to: kuru-dynasty
+    note: "Dhritarashtra's eldest son, who rules at Hastinapura."
+    references:
+      - source: ganguli-mahabharata
+        locator: "1.95"
+summary_beginner: "Eldest son of Dhritarashtra and Gandhari and leader of the Kauravas. His rivalry with the Pandavas, which starts with an attempt to poison Bhima, leads to the dice game and the war, in which Bhima breaks his thighs."
+summary_scholar: "The Adi Parva says he was born of a portion of Kali, here the spirit of the age of strife and not the goddess Kali (1.67). He makes Karna king of Anga to win his friendship (1.138)."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.67"
+  - source: ganguli-mahabharata
+    locator: "1.115"
+  - source: ganguli-mahabharata
+    locator: "1.128"
+  - source: ganguli-mahabharata
+    locator: "9.58"

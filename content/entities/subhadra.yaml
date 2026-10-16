@@ -1,0 +1,31 @@
+slug: subhadra
+names:
+  - text: "Subhadra"
+    lang: en
+    script: Latn
+  - text: "सुभद्रा"
+    lang: sa
+    script: Deva
+    iast: "Subhadrā"
+epithets:
+  - text: "Bhadra"
+    lang: en
+    script: Latn
+  - text: "Chitra"
+    lang: en
+    script: Latn
+kinds: [human]
+traditions: [itihasa, puranic]
+summary_beginner: "Daughter of Vasudeva and sister of Krishna and Balarama. With Krishna's encouragement Arjuna carried her off from Dwaraka and married her; their son was Abhimanyu."
+summary_scholar: "The Harivamsha says her name was Chitra and that she was Rohini's daughter (35); in the Mahabharata Krishna calls her the full sister of Sarana (1.221), whom the Vishnu Purana lists among Rohini's sons (4.15)."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.95"
+  - source: ganguli-mahabharata
+    locator: "1.221"
+  - source: ganguli-mahabharata
+    locator: "1.222"
+  - source: ganguli-mahabharata
+    locator: "1.223"
+  - source: dutt-harivamsha
+    locator: "35"

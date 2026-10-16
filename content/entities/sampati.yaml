@@ -1,0 +1,19 @@
+slug: sampati
+names:
+  - text: "Sampati"
+    lang: en
+    script: Latn
+  - text: सम्पाति
+    lang: sa
+    script: Deva
+    iast: "Sampāti"
+kinds: [other]
+traditions: [itihasa]
+summary_beginner: "The elder brother of the vulture Jatayu. Wingless and old, he meets the vanaras searching for Sita and tells them she is held in Lanka."
+references:
+  - source: griffith-ramayana
+    locator: "3.14"
+  - source: griffith-ramayana
+    locator: "4.56"
+  - source: griffith-ramayana
+    locator: "4.58"

@@ -1,0 +1,33 @@
+slug: satyaki
+names:
+  - text: "Satyaki"
+    lang: en
+    script: Latn
+  - text: "सात्यकि"
+    lang: sa
+    script: Deva
+    iast: "Sātyaki"
+epithets:
+  - text: "Yuyudhana"
+    lang: en
+    script: Latn
+kinds: [human]
+traditions: [itihasa, puranic]
+dynasties:
+  - to: yadava-dynasty
+    note: "Son of Satyaka and grandson of Shini, of the Yadava line."
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.14"
+summary_beginner: "A Yadava warrior of the line of Shini, also called Yuyudhana, who learned arms from Arjuna and fought for the Pandavas. In the war he kills Bhurishravas and Somadatta."
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.14"
+  - source: ganguli-mahabharata
+    locator: "1.63"
+  - source: ganguli-mahabharata
+    locator: "2.4"
+  - source: ganguli-mahabharata
+    locator: "7.142"
+  - source: ganguli-mahabharata
+    locator: "7.161"

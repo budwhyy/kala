@@ -1,0 +1,25 @@
+slug: pratishravas
+names:
+  - text: "Pratishravas"
+    lang: en
+    script: Latn
+  - text: "प्रतिश्रवस्"
+    lang: sa
+    script: Deva
+    iast: "Pratiśravas"
+epithets:
+  - text: "Pratisravas"
+    lang: en
+    script: Latn
+kinds: [human, king]
+traditions: [itihasa]
+dynasties:
+  - to: kuru-dynasty
+    note: "A Kuru king in the Adi Parva genealogy of section 95."
+    references:
+      - source: ganguli-mahabharata
+        locator: "1.95"
+summary_beginner: "In the Adi Parva's second Kuru genealogy, Pratishravas is the son of Bhimasena by Kumari, a princess of Kekaya, and the father of King Pratipa."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.95"

@@ -1,0 +1,30 @@
+slug: "krishna-death-vishnu-purana"
+names:
+  - text: "The destruction of the Yadavas and Krishna's death (Vishnu Purana)"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "krishna"
+    role: "shot by the hunter Jara"
+  - entity: "balarama"
+    role: "a great serpent leaves his mouth"
+  - entity: "samba"
+    role: "bears the iron pestle of the curse"
+  - entity: "yadavas"
+places:
+  - "dwarka"
+  - "somnath"
+narrative_order:
+  text: "vishnu-purana"
+  position: 5037
+variant: "mahabharata-story-vishnu-purana-krishna"
+same_story_as:
+  - "mahabharata-destruction-of-the-yadavas"
+traditions:
+  - "vaishnava"
+  - "puranic"
+summary_beginner: "In the Vishnu Purana, Samba and other youths mock the sages and Samba is cursed to bear an iron pestle, which is broken and thrown into the sea. Seeing evil omens at Dwaraka, Krishna takes the Yadavas to Prabhasa, where they quarrel and all perish. The great serpent Shesha issues from Balarama's mouth. A hunter named Jara, whose arrow is tipped with iron from the pestle, shoots Krishna, who becomes one again with the universal spirit."
+summary_scholar: "Wilson VP 5.37; 5.38 continues with Arjuna's arrival at Dwaraka and the beginning of the Kali age. Compare the Mahabharata's Mausala Parva (16.1-16.7), recorded as a separate event. The 'position' in narrative_order is book x 1000 + chapter."
+references:
+  - source: "wilson-vishnu-purana"
+    locator: "5.37"

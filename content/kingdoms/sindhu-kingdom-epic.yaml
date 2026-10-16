@@ -1,0 +1,43 @@
+slug: "sindhu-kingdom-epic"
+names:
+  - text: "Sindhu (Mahabharata)"
+    lang: "en"
+    script: "Latn"
+  - text: "सिन्धु"
+    lang: "sa"
+    script: "Deva"
+    iast: "Sindhu"
+kind: "epic_legendary"
+rulers:
+  - entity: "jayadratha"
+    attested: false
+    note: "King of Sindhu, married to Duhshala."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "1.117"
+      - source: "ganguli-mahabharata"
+        locator: "3.269"
+relations:
+  - kingdom: "kuru-kingdom-epic"
+    type: "marriage"
+    note: "Dhritarashtra gives his daughter Duhshala to Jayadratha, king of Sindhu."
+    variant: "mahabharata-story-ganguli-account"
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "1.117"
+  - kingdom: "kuru-kingdom-epic"
+    type: "alliance"
+    note: "Jayadratha leads the people of Sindhu-Sauvira to Duryodhana with an akshauhini."
+    variant: "mahabharata-story-ganguli-account"
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "5.19"
+traditions:
+  - "itihasa"
+summary_beginner: "Jayadratha's kingdom in the Mahabharata, linked to the Kauravas by his marriage to their sister Duhshala."
+summary_scholar: "When Jayadratha tries to carry off Draupadi in the forest, Yudhishthira asks that he be spared for the sake of Duhshala and Gandhari (Vana Parva 3.269)."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "1.117"
+  - source: "ganguli-mahabharata"
+    locator: "5.19"

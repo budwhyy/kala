@@ -1,0 +1,169 @@
+- id: rama-ally-of-guha
+  from: rama
+  to: guha
+  type: ally
+  explanation: "Guha, king of the Nishadas, is Rama's dear friend and shelters the exiles."
+  references:
+    - source: griffith-ramayana
+      locator: "2.50"
+- id: rama-blessing-shabari
+  from: rama
+  to: shabari
+  type: blessing
+  explanation: "Shabari says that meeting Rama completes her penance and that by his grace she will reach bliss; with his leave she enters the fire and rises to the heaven of her teachers."
+  references:
+    - source: griffith-ramayana
+      locator: "3.75"
+- id: aruna-father-of-jatayu
+  from: aruna
+  to: jatayu
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Jatayu names himself the younger of Aruna's two sons; his mother is Shyeni."
+  references:
+    - source: griffith-ramayana
+      locator: "3.14"
+- id: aruna-father-of-sampati
+  from: aruna
+  to: sampati
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Jatayu says that Sampati was the first son born to Aruna."
+  references:
+    - source: griffith-ramayana
+      locator: "3.14"
+- id: jatayu-sibling-of-sampati
+  from: jatayu
+  to: sampati
+  type: sibling
+  explanation: "Sampati is Jatayu's elder brother and mourns him when he hears of his death."
+  references:
+    - source: griffith-ramayana
+      locator: "3.14"
+    - source: griffith-ramayana
+      locator: "4.56"
+    - source: griffith-ramayana
+      locator: "4.58"
+- id: jatayu-ally-of-dasharatha
+  from: jatayu
+  to: dasharatha
+  type: ally
+  explanation: "Jatayu greets the princes as the friend their father loved."
+  references:
+    - source: griffith-ramayana
+      locator: "3.14"
+- id: jatayu-ally-of-rama
+  from: jatayu
+  to: rama
+  type: ally
+  explanation: "Jatayu offers to guard Sita while the brothers are away, and later fights Ravana for her."
+  references:
+    - source: griffith-ramayana
+      locator: "3.14"
+    - source: griffith-ramayana
+      locator: "3.50"
+- id: jatayu-enemy-of-ravana
+  from: jatayu
+  to: ravana
+  type: enemy
+  explanation: "Jatayu attacks Ravana as he carries Sita away and is mortally wounded."
+  references:
+    - source: griffith-ramayana
+      locator: "3.50"
+    - source: griffith-ramayana
+      locator: "3.51"
+    - source: griffith-ramayana
+      locator: "3.68"
+- id: rama-enemy-of-ravana
+  from: rama
+  to: ravana
+  type: enemy
+  explanation: "Ravana abducts Sita; Rama makes war on Lanka and kills him."
+  references:
+    - source: griffith-ramayana
+      locator: "3.49"
+    - source: griffith-ramayana
+      locator: "6.110"
+- id: rama-enemy-of-kumbhakarna
+  from: rama
+  to: kumbhakarna
+  type: enemy
+  explanation: "Rama kills Kumbhakarna in the war at Lanka."
+  references:
+    - source: griffith-ramayana
+      locator: "6.67"
+- id: rama-enemy-of-tataka
+  from: rama
+  to: tataka
+  type: enemy
+  explanation: "At Vishvamitra's bidding Rama kills Tataka."
+  references:
+    - source: griffith-ramayana
+      locator: "1.28"
+- id: rama-enemy-of-subahu
+  from: rama
+  to: subahu
+  type: enemy
+  explanation: "Rama kills Subahu when he attacks Vishvamitra's sacrifice."
+  references:
+    - source: griffith-ramayana
+      locator: "1.32"
+- id: rama-enemy-of-maricha
+  from: rama
+  to: maricha
+  type: enemy
+  explanation: "Rama's arrow hurls Maricha far away at Vishvamitra's sacrifice; later Rama kills him when he comes as the golden deer."
+  references:
+    - source: griffith-ramayana
+      locator: "1.32"
+    - source: griffith-ramayana
+      locator: "3.44"
+- id: rama-enemy-of-khara
+  from: rama
+  to: khara
+  type: enemy
+  explanation: "Khara attacks Rama in Janasthana and is killed by him."
+  references:
+    - source: griffith-ramayana
+      locator: "3.30"
+- id: rama-enemy-of-dushana
+  from: rama
+  to: dushana
+  type: enemy
+  explanation: "Dushana attacks Rama in Janasthana and is killed by him."
+  references:
+    - source: griffith-ramayana
+      locator: "3.26"
+- id: lakshmana-enemy-of-indrajit
+  from: lakshmana
+  to: indrajit
+  type: enemy
+  explanation: "Lakshmana kills Indrajit in the war at Lanka."
+  references:
+    - source: griffith-ramayana
+      locator: "6.75"
+      note: "Griffith summarises the final duel in a prose note at the end of the canto."
+    - source: griffith-ramayana
+      locator: "6.93"
+- id: lakshmana-enemy-of-shurpanakha
+  from: lakshmana
+  to: shurpanakha
+  type: enemy
+  explanation: "Lakshmana cuts off Shurpanakha's nose and ears when she attacks Sita."
+  references:
+    - source: griffith-ramayana
+      locator: "3.18"
+- id: rama-ally-of-vibhishana
+  from: rama
+  to: vibhishana
+  type: ally
+  explanation: "Rama accepts Vibhishana's allegiance and consecrates him king of Lanka."
+  references:
+    - source: griffith-ramayana
+      locator: "6.17"
+    - source: griffith-ramayana
+      locator: "6.19"
+    - source: griffith-ramayana
+      locator: "6.114"

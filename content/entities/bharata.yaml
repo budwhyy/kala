@@ -1,0 +1,21 @@
+slug: bharata
+names:
+  - text: "Bharata"
+    lang: en
+    script: Latn
+  - text: भरत
+    lang: sa
+    script: Deva
+    iast: "Bharata"
+kinds: [human]
+traditions: [itihasa, vaishnava]
+summary_beginner: "Son of Dasharatha and Kaikeyi. He refuses the throne his mother won for him, goes to the forest to bring Rama back, and rules from Nandigrama in Rama's name with Rama's sandals on the throne."
+references:
+  - source: griffith-ramayana
+    locator: "1.19"
+  - source: griffith-ramayana
+    locator: "2.73"
+  - source: griffith-ramayana
+    locator: "2.112"
+  - source: griffith-ramayana
+    locator: "2.115"

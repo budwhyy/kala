@@ -1,0 +1,34 @@
+slug: "mahabharata-bhishmas-teaching-and-death"
+names:
+  - text: "Bhishma's teaching and death"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "bhishma"
+    role: "teaches from his bed of arrows, then gives up his life"
+  - entity: "yudhishthira"
+    role: "asks him about the duties of kings and all of dharma"
+  - entity: "krishna"
+    role: "brings Yudhishthira to Bhishma"
+  - entity: "vidura"
+  - entity: "yuyutsu"
+places:
+  - "kurukshetra"
+narrative_order:
+  text: "mahabharata"
+  position: 12054
+  section: "shanti-parva"
+variant: "mahabharata-story-ganguli-account"
+traditions:
+  - "itihasa"
+summary_beginner: "Bhishma still lies on his bed of arrows where he fell. Kings, sages, Krishna and the Pandavas gather round him, and at Yudhishthira's request he teaches at length on the duties of kings and on right conduct, filling most of the Shanti and Anushasana Parvas. When the sun turns north, he gives up his life by his own will and the Pandavas perform his funeral."
+summary_scholar: "Ganguli 12.54-12.56 (the gathering and the start of the teaching) and 13.167-13.168 (the departure at the sun's northward turn and the funeral). Bhishma's fall on the battlefield is told at 6.120. Ganguli prints two Anushasana sections numbered CLXVIII; the death is in the last of them. The 'position' in narrative_order is parva x 1000 + Ganguli's section number of the main passage, so events sort in the order the epic tells them."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "12.54"
+  - source: "ganguli-mahabharata"
+    locator: "12.56"
+  - source: "ganguli-mahabharata"
+    locator: "13.167"
+  - source: "ganguli-mahabharata"
+    locator: "13.168"

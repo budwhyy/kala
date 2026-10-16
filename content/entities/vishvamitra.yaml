@@ -1,0 +1,21 @@
+slug: vishvamitra
+names:
+  - text: "Vishvamitra"
+    lang: en
+    script: Latn
+  - text: विश्वामित्र
+    lang: sa
+    script: Deva
+    iast: "Viśvāmitra"
+kinds: [rishi, king]
+traditions: [itihasa]
+summary_beginner: "A king, son of Gadhi, who through long austerities became a brahmin sage. He takes the young Rama and Lakshmana to protect his sacrifice, gives Rama divine weapons, and leads them to Mithila."
+references:
+  - source: griffith-ramayana
+    locator: "1.20"
+  - source: griffith-ramayana
+    locator: "1.29"
+  - source: griffith-ramayana
+    locator: "1.51"
+  - source: griffith-ramayana
+    locator: "1.65"

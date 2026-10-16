@@ -1,0 +1,39 @@
+slug: "kekaya-kingdom-epic"
+names:
+  - text: "Kekaya (Mahabharata)"
+    lang: "en"
+    script: "Latn"
+  - text: "केकय"
+    lang: "sa"
+    script: "Deva"
+    iast: "Kekaya"
+kind: "epic_legendary"
+rulers:
+  - name:
+      text: "Satayupa"
+      lang: "en"
+      script: "Latn"
+    attested: false
+    note: "A former king of the Kekayas, living as a forest sage near Kurukshetra."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "15.19"
+relations:
+  - kingdom: "kuru-kingdom-epic"
+    type: "alliance"
+    note: "Ganguli 5.19 says the five royal brothers of Kekaya brought an akshauhini to Duryodhana; 5.57 instead has the five Kekaya brothers with the Pandavas, facing Kekaya warriors on Duryodhana's side."
+    variant: "mahabharata-story-ganguli-account"
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "5.19"
+      - source: "ganguli-mahabharata"
+        locator: "5.57"
+traditions:
+  - "itihasa"
+summary_beginner: "A kingdom in the Mahabharata whose princes fought in the great war."
+summary_scholar: "Ganguli's text is not consistent about the five Kekaya princes (5.19 and 5.57 put them on opposite sides); the battlefield record follows the text day by day."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "5.19"
+  - source: "ganguli-mahabharata"
+    locator: "5.57"

@@ -1,0 +1,53 @@
+slug: "govardhana"
+names:
+  - text: "Govardhana"
+    lang: "en"
+    script: "Latn"
+  - text: "गोवर्धन"
+    lang: "sa"
+    script: "Deva"
+    iast: "Govardhana"
+  - text: "Gobardhan"
+    lang: "en"
+    script: "Latn"
+realm: "terrestrial"
+kind: "mountain"
+confidence: "traditional"
+geometry:
+  type: "Point"
+  coordinates:
+    - 77.47
+    - 27.5
+modern_admin:
+  country: "India"
+  region: "Uttar Pradesh"
+  district: "Mathura"
+evidence:
+  - type: "textual"
+    summary: "In the Vishnu Purana and the Harivamsha, Krishna lifts Mount Govardhana to shelter the cowherds and their cattle from the storm Indra sends."
+    references:
+      - source: "wilson-vishnu-purana"
+        locator: "5.11"
+      - source: "dutt-harivamsha"
+        locator: "73"
+        note: "Harivamsha Parva"
+  - type: "traditional"
+    summary: "The Imperial Gazetteer places the town of Gobardhan, Mathura District, at 27° 30' N, 77° 28' E, in a recess of the sacred hill called Giri Raj, and says it is famous in tradition as one of Krishna's favourite residences."
+    references:
+      - source: "imperial-gazetteer-1909"
+        locator: "12:280"
+entities:
+  - to: "krishna"
+    note: "The mountain he lifts."
+    references:
+      - source: "wilson-vishnu-purana"
+        locator: "5.11"
+traditions:
+  - "vaishnava"
+summary_beginner: "A sacred hill near Mathura that Vaishnavas identify with the mountain Krishna lifted to shelter the cowherds from Indra's storm. A town of the same name lies against it."
+summary_scholar: "The point is the Gazetteer's position for Gobardhan town, which lies in a recess of the hill (Giri Raj); the hill's identification with the Puranic mountain is living tradition."
+references:
+  - source: "imperial-gazetteer-1909"
+    locator: "12:280"
+  - source: "wilson-vishnu-purana"
+    locator: "5.11"

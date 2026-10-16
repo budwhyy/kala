@@ -1,0 +1,31 @@
+slug: "krishna-carries-off-rukmini-vishnu-purana"
+names:
+  - text: "Krishna carries off Rukmini (Vishnu Purana)"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "krishna"
+  - entity: "rukmini"
+  - entity: "balarama"
+    role: "repels the kings"
+  - entity: "shishupala"
+    role: "to whom Rukmini was promised"
+  - entity: "jarasandha"
+  - entity: "pradyumna"
+    role: "born of Rukmini"
+places:
+  - "kundina"
+narrative_order:
+  text: "vishnu-purana"
+  position: 5026
+variant: "mahabharata-story-vishnu-purana-krishna"
+same_story_as:
+  - "krishna-carries-off-rukmini-harivamsha"
+traditions:
+  - "vaishnava"
+  - "puranic"
+summary_beginner: "In the Vishnu Purana, Bhishmaka of Vidarbha, who lives at Kundina, promises his daughter Rukmini to Shishupala at Jarasandha's suggestion. Krishna goes to Kundina for the wedding and carries her off on its eve. Balarama and the Yadavas repel the angry kings; her brother Rukmin pursues Krishna, is defeated and is spared at Rukmini's plea. Pradyumna is born to Rukmini."
+summary_scholar: "Wilson VP 5.26. Wilson's note identifies Kundina with Kundapur near Amaravati (see the place record). The 'position' in narrative_order is book x 1000 + chapter."
+references:
+  - source: "wilson-vishnu-purana"
+    locator: "5.26"

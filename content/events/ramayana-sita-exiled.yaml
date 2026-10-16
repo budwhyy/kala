@@ -1,0 +1,39 @@
+slug: ramayana-sita-exiled
+names:
+  - text: "Sita sent away to Valmiki's hermitage"
+    lang: en
+    script: Latn
+participants:
+  - entity: rama
+    role: "hears the people's gossip about Sita and resolves to send her away"
+  - entity: sita
+    role: "pregnant, left near the hermitage"
+  - entity: lakshmana
+    role: "takes her across the Ganga and tells her the truth"
+  - entity: valmiki
+    role: "takes her into his hermitage"
+places:
+  - ganga
+narrative_order:
+  text: valmiki-ramayana
+  position: 857
+  section: uttara-kanda
+variant: ramayana-story-valmiki-uttara-kanda
+traditions:
+  - itihasa
+summary_beginner: "In the Uttara Kanda, Rama learns that the people of Ayodhya gossip about Sita's long captivity in Lanka. Though sure of her purity, he orders Lakshmana to take the pregnant Sita, who has asked to visit the hermitages by the Ganga, and leave her there. Lakshmana tells her the truth across the river, and the sage Valmiki gives her shelter."
+summary_scholar: "Dutt 7.52-7.59 (Dutt's numbering). Tagged with the Uttara Kanda variant: Uttara Kanda (Book VII), which scholars generally regard as a later addition to Valmiki's poem. Tulsidas's Ramcharitmanas has no exile of Sita."
+references:
+  - source: dutt-ramayana
+    locator: "7.52"
+  - source: dutt-ramayana
+    locator: "7.53"
+  - source: dutt-ramayana
+    locator: "7.55"
+  - source: dutt-ramayana
+    locator: "7.57"
+  - source: dutt-ramayana
+    locator: "7.59"
+  - source: griffith-ramayana
+    locator: "Appendix, Uttarakanda"
+    note: "Griffith's summary of Book VII"

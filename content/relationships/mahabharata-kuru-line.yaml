@@ -1,0 +1,387 @@
+# Kuru line from Kuru to the sons of Vichitravirya (Ganguli's Adi Parva).
+# The two genealogies in Adi Parva sections 94 and 95 differ between Kuru and Pratipa; each carries its own variant.
+- id: mbh-pratipa-descendant-of-kuru
+  from: pratipa
+  to: kuru
+  type: descendant_of
+  variant: mahabharata-people-kuru-line-adi-94
+  explanation: "In the Adi Parva's first genealogy Kuru's line runs through his son Avikshit and a king Janamejaya to a king Dhritarashtra, and Pratipa is the most famous of that Dhritarashtra's grandsons. The passage does not name every link or count the generations."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.94"
+- id: mbh-kuru-father-of-viduratha-kuru
+  from: kuru
+  to: viduratha-kuru
+  type: parent
+  role: father
+  mode: biological
+  variant: mahabharata-people-kuru-line-adi-95
+  explanation: "Kuru marries Subhangi, a princess of the Dasarhas, and has a son, Viduratha."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.95"
+- id: mbh-viduratha-kuru-father-of-anashvan
+  from: viduratha-kuru
+  to: anashvan
+  type: parent
+  role: father
+  mode: biological
+  variant: mahabharata-people-kuru-line-adi-95
+  explanation: "Viduratha marries Supriya of the Madhavas; their son is Anashvan."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.95"
+- id: mbh-anashvan-father-of-parikshit-son-of-anashvan
+  from: anashvan
+  to: parikshit-son-of-anashvan
+  type: parent
+  role: father
+  mode: biological
+  variant: mahabharata-people-kuru-line-adi-95
+  explanation: "Anashvan marries Amrita of the Madhavas; their son is Parikshit."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.95"
+- id: mbh-parikshit-son-of-anashvan-father-of-bhimasena-son-of-parikshit
+  from: parikshit-son-of-anashvan
+  to: bhimasena-son-of-parikshit
+  type: parent
+  role: father
+  mode: biological
+  variant: mahabharata-people-kuru-line-adi-95
+  explanation: "Parikshit marries Suvasa, daughter of the Vahudas; their son is Bhimasena."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.95"
+- id: mbh-bhimasena-son-of-parikshit-father-of-pratishravas
+  from: bhimasena-son-of-parikshit
+  to: pratishravas
+  type: parent
+  role: father
+  mode: biological
+  variant: mahabharata-people-kuru-line-adi-95
+  explanation: "Bhimasena marries Kumari, a princess of Kekaya; their son is Pratishravas."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.95"
+- id: mbh-pratishravas-father-of-pratipa
+  from: pratishravas
+  to: pratipa
+  type: parent
+  role: father
+  mode: biological
+  variant: mahabharata-people-kuru-line-adi-95
+  explanation: "In the second Adi Parva genealogy Pratipa is the son of Pratishravas."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.95"
+- id: mbh-pratipa-father-of-shantanu
+  from: pratipa
+  to: shantanu
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Both Adi Parva genealogies name Shantanu as a son of Pratipa; section 97 tells of his birth to Pratipa in old age."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.94"
+    - source: ganguli-mahabharata
+      locator: "1.95"
+    - source: ganguli-mahabharata
+      locator: "1.97"
+- id: mbh-pratipa-father-of-bahlika
+  from: pratipa
+  to: bahlika
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Both Adi Parva genealogies name Valhika (Bahlika) as a son of Pratipa and brother of Shantanu."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.94"
+    - source: ganguli-mahabharata
+      locator: "1.95"
+- id: mbh-shantanu-partner-ganga-goddess
+  from: shantanu
+  to: ganga-goddess
+  type: partner
+  explanation: "Ganga, in human form, becomes Shantanu's wife on condition that he never questions what she does."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.98"
+- id: mbh-shantanu-father-of-bhishma
+  from: shantanu
+  to: bhishma
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Bhishma, first called Devavrata, is the eighth son Shantanu has by Ganga."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.95"
+    - source: ganguli-mahabharata
+      locator: "1.98"
+    - source: ganguli-mahabharata
+      locator: "1.99"
+- id: mbh-ganga-goddess-mother-of-bhishma
+  from: ganga-goddess
+  to: bhishma
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Ganga bears Bhishma, the one of her eight sons she does not drown, and later returns him, grown, to Shantanu."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.98"
+    - source: ganguli-mahabharata
+      locator: "1.100"
+- id: mbh-shantanu-partner-satyavati
+  from: shantanu
+  to: satyavati
+  type: partner
+  explanation: "Shantanu marries Satyavati after Bhishma renounces the throne and vows celibacy."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.95"
+    - source: ganguli-mahabharata
+      locator: "1.100"
+    - source: ganguli-mahabharata
+      locator: "1.101"
+- id: mbh-shantanu-father-of-chitrangada-kuru
+  from: shantanu
+  to: chitrangada-kuru
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Chitrangada is Shantanu's first son by Satyavati."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.95"
+    - source: ganguli-mahabharata
+      locator: "1.101"
+- id: mbh-satyavati-mother-of-chitrangada-kuru
+  from: satyavati
+  to: chitrangada-kuru
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Chitrangada is Satyavati's son by Shantanu."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.95"
+    - source: ganguli-mahabharata
+      locator: "1.101"
+- id: mbh-shantanu-father-of-vichitravirya
+  from: shantanu
+  to: vichitravirya
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Vichitravirya is Shantanu's second son by Satyavati."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.95"
+    - source: ganguli-mahabharata
+      locator: "1.101"
+- id: mbh-satyavati-mother-of-vichitravirya
+  from: satyavati
+  to: vichitravirya
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Vichitravirya is Satyavati's younger son by Shantanu."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.95"
+    - source: ganguli-mahabharata
+      locator: "1.101"
+- id: mbh-parashara-father-of-vyasa
+  from: parashara
+  to: vyasa
+  type: parent
+  role: father
+  mode: biological
+  explanation: "The sage Parashara fathers Vyasa on Satyavati while she is still a maiden."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.63"
+    - source: ganguli-mahabharata
+      locator: "1.95"
+    - source: ganguli-mahabharata
+      locator: "1.105"
+- id: mbh-satyavati-mother-of-vyasa
+  from: satyavati
+  to: vyasa
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Satyavati bears Vyasa to Parashara on an island in the Yamuna before her marriage."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.63"
+    - source: ganguli-mahabharata
+      locator: "1.105"
+- id: mbh-shantanu-father-of-kripa-foster
+  from: shantanu
+  to: kripa
+  type: parent
+  role: father
+  mode: foster
+  explanation: "Shantanu finds the twins Kripa and Kripi abandoned in the forest and brings them up out of pity; their father is the sage Sharadvat."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.130"
+- id: mbh-shantanu-father-of-kripi-foster
+  from: shantanu
+  to: kripi
+  type: parent
+  role: father
+  mode: foster
+  explanation: "Shantanu brings up Kripi with her twin Kripa in his palace."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.130"
+- id: mbh-shantanu-blessing-bhishma
+  from: shantanu
+  to: bhishma
+  type: blessing
+  explanation: "Pleased with Bhishma's vow, Shantanu grants him the boon that death will come to him only when he allows it."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.100"
+- id: mbh-vichitravirya-partner-ambika
+  from: vichitravirya
+  to: ambika
+  type: partner
+  explanation: "Bhishma carries off the daughters of the king of Kashi and gives Ambika to Vichitravirya in marriage."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.102"
+- id: mbh-vichitravirya-partner-ambalika
+  from: vichitravirya
+  to: ambalika
+  type: partner
+  explanation: "Ambalika is Vichitravirya's second wife, sister of Ambika."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.102"
+- id: mbh-amba-sibling-ambika
+  from: amba
+  to: ambika
+  type: sibling
+  explanation: "Amba is the eldest of the three daughters of the king of Kashi whom Bhishma carries off."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.102"
+- id: mbh-amba-sibling-ambalika
+  from: amba
+  to: ambalika
+  type: sibling
+  explanation: "Amba and Ambalika are daughters of the king of Kashi."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.102"
+- id: mbh-ambika-sibling-ambalika
+  from: ambika
+  to: ambalika
+  type: sibling
+  explanation: "Ambika and Ambalika are sisters, the two younger daughters of the king of Kashi."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.102"
+- id: mbh-vyasa-father-of-dhritarashtra
+  from: vyasa
+  to: dhritarashtra
+  type: parent
+  role: father
+  mode: biological
+  explanation: "At Satyavati's request Vyasa fathers a son on Vichitravirya's widow Ambika so that the Kuru line may continue (offspring raised 'in the field' of the dead king)."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.106"
+    - source: ganguli-mahabharata
+      locator: "1.95"
+- id: mbh-vichitravirya-father-of-dhritarashtra-legal
+  from: vichitravirya
+  to: dhritarashtra
+  type: parent
+  role: father
+  mode: legal
+  explanation: "Dhritarashtra is born 'in the field of Vichitravirya': his widow's son, counted as his heir although Vyasa is the begetter."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.106"
+    - source: ganguli-mahabharata
+      locator: "1.63"
+- id: mbh-ambika-mother-of-dhritarashtra
+  from: ambika
+  to: dhritarashtra
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Ambika bears Dhritarashtra; he is born blind because she closed her eyes before Vyasa."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.106"
+- id: mbh-vyasa-father-of-pandu
+  from: vyasa
+  to: pandu
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Vyasa fathers Pandu on Vichitravirya's younger widow Ambalika."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.106"
+    - source: ganguli-mahabharata
+      locator: "1.95"
+- id: mbh-vichitravirya-father-of-pandu-legal
+  from: vichitravirya
+  to: pandu
+  type: parent
+  role: father
+  mode: legal
+  explanation: "Pandu, like Dhritarashtra, is born in Vichitravirya's field and counted as his son."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.106"
+    - source: ganguli-mahabharata
+      locator: "1.63"
+- id: mbh-ambalika-mother-of-pandu
+  from: ambalika
+  to: pandu
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Ambalika bears Pandu, pale because she turned pale at the sight of Vyasa."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.106"
+- id: mbh-vyasa-father-of-vidura
+  from: vyasa
+  to: vidura
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Vyasa fathers Vidura on a maid whom Ambika sent in her place; the mother is not named."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.106"
+    - source: ganguli-mahabharata
+      locator: "1.63"
+- id: mbh-vidura-sibling-dhritarashtra
+  from: vidura
+  to: dhritarashtra
+  type: sibling
+  explanation: "The Adi Parva says Vidura was thus the brother of Dhritarashtra and Pandu, all three being sons of Vyasa."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.106"
+- id: mbh-vidura-sibling-pandu
+  from: vidura
+  to: pandu
+  type: sibling
+  explanation: "Vidura and Pandu are sons of Vyasa by different mothers."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.106"

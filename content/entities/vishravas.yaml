@@ -1,0 +1,24 @@
+slug: vishravas
+names:
+  - text: "Vishravas"
+    lang: en
+    script: Latn
+  - text: विश्रवस्
+    lang: sa
+    script: Deva
+    iast: "Viśravas"
+kinds: [rishi]
+traditions: [itihasa]
+summary_beginner: "A sage, son of Pulastya, and the father of Ravana and his brothers. The Uttara Kanda tells how he fathered Vaishravana (Kubera) with one wife and Ravana, Kumbhakarna, Shurpanakha and Vibhishana with Kaikasi."
+summary_scholar: "In the Uttara Kanda (Dutt 7.3) Vaishravana is the son of Vishravas by Devavarnini, daughter of Bharadvaja, and the grandson of Pulastya. The Mahabharata (Ganguli 2.10) calls Kubera Pulastya's son; that link is stored by another agent, so no Vishravas-Kubera parent link is entered here."
+references:
+  - source: griffith-ramayana
+    locator: "1.22"
+  - source: griffith-ramayana
+    locator: "5.23"
+  - source: dutt-ramayana
+    locator: "7.2"
+  - source: dutt-ramayana
+    locator: "7.3"
+  - source: dutt-ramayana
+    locator: "7.9"

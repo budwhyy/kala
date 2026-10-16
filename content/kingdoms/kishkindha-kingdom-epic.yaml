@@ -1,0 +1,58 @@
+slug: kishkindha-kingdom-epic
+names:
+  - text: Kishkindha (Ramayana)
+    lang: en
+    script: Latn
+  - text: किष्किन्धा
+    lang: sa
+    script: Deva
+    iast: Kiṣkindhā
+kind: epic_legendary
+capitals:
+  - to: kishkindha
+    note: The cave-city of the vanara kings, where Vali reigns and Sugriva is later crowned.
+    references:
+      - source: griffith-ramayana
+        locator: "4.13"
+      - source: griffith-ramayana
+        locator: "4.26"
+rulers:
+  - entity: vali
+    attested: false
+    note: King of the vanaras at Kishkindha until Rama's arrow kills him in his fight with Sugriva.
+    references:
+      - source: griffith-ramayana
+        locator: "1.1"
+      - source: griffith-ramayana
+        locator: "4.16"
+  - entity: sugriva
+    attested: false
+    note: Crowned at Kishkindha after Vali's death, at Rama's bidding.
+    references:
+      - source: griffith-ramayana
+        locator: "4.26"
+  - entity: angada
+    attested: false
+    note: Vali's son, made partner of Sugriva's rule (heir) at the same consecration.
+    references:
+      - source: griffith-ramayana
+        locator: "4.26"
+relations:
+  - kingdom: lanka-kingdom-epic
+    type: war
+    note: Sugriva's vanara army besieges Lanka and fights Ravana's forces on Rama's side.
+    variant: valmiki-ramayana-account
+    references:
+      - source: griffith-ramayana
+        locator: "6.42"
+      - source: griffith-ramayana
+        locator: "6.43"
+traditions:
+  - itihasa
+summary_beginner: The kingdom of the vanaras (monkey people) in the Ramayana, ruled from the cave-city of Kishkindha by Vali and then by his brother Sugriva, Rama's ally.
+summary_scholar: An epic kingdom with no historical counterpart in our data. Its rulers are figures of the epic, not attested kings. The location of its capital is debated (see the Kishkindha place record).
+references:
+  - source: griffith-ramayana
+    locator: "4.13"
+  - source: griffith-ramayana
+    locator: "4.26"

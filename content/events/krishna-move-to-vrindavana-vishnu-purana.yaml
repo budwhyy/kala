@@ -1,0 +1,27 @@
+slug: "krishna-move-to-vrindavana-vishnu-purana"
+names:
+  - text: "The cowherds move to Vrindavana (Vishnu Purana)"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "krishna"
+    role: "overturns a cart and uproots two trees"
+  - entity: "balarama"
+  - entity: "nanda"
+places:
+  - "gokula"
+  - "vrindavan"
+narrative_order:
+  text: "vishnu-purana"
+  position: 5006
+variant: "mahabharata-story-vishnu-purana-krishna"
+same_story_as:
+  - "krishna-move-to-vrindavana-harivamsha"
+traditions:
+  - "vaishnava"
+  - "puranic"
+summary_beginner: "In the Vishnu Purana, the infant Krishna kicks over a cart and, tied to a mortar, drags it between two trees and pulls them down. Taking these and the death of Putana as evil omens, the cowherds leave Vraja for Vrindavana, where there is fresh grass for the cattle even in the hot season."
+summary_scholar: "Wilson VP 5.6, with Wilson's note contrasting the Harivamsha, where Krishna produces wolves to force the move. The 'position' in narrative_order is book x 1000 + chapter."
+references:
+  - source: "wilson-vishnu-purana"
+    locator: "5.6"

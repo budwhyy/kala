@@ -1,0 +1,17 @@
+slug: kripi
+names:
+  - text: "Kripi"
+    lang: en
+    script: Latn
+  - text: "कृपी"
+    lang: sa
+    script: Deva
+    iast: "Kṛpī"
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "Twin sister of Kripa, raised in King Shantanu's palace. She married Drona and bore Ashwatthama."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.130"
+  - source: ganguli-mahabharata
+    locator: "1.131"

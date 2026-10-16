@@ -1,0 +1,72 @@
+- id: vishvamitra-teacher-of-rama
+  from: vishvamitra
+  to: rama
+  type: teacher
+  explanation: "Vishvamitra teaches Rama two sacred spells on the road and later gives him the celestial weapons he had learned to wield."
+  references:
+    - source: griffith-ramayana
+      locator: "1.24"
+    - source: griffith-ramayana
+      locator: "1.29"
+- id: vasishtha-teacher-of-rama
+  from: vasishtha
+  to: rama
+  type: teacher
+  explanation: "Vasishtha, the family priest of Ikshvaku's house, reminds Rama that both he and his father learned from him."
+  references:
+    - source: griffith-ramayana
+      locator: "1.70"
+    - source: griffith-ramayana
+      locator: "2.111"
+- id: vasishtha-teacher-of-dasharatha
+  from: vasishtha
+  to: dasharatha
+  type: teacher
+  explanation: "Vasishtha calls himself the teacher of Dasharatha as well as of Rama."
+  references:
+    - source: griffith-ramayana
+      locator: "2.111"
+- id: valmiki-teacher-of-kusha
+  from: valmiki
+  to: kusha
+  type: teacher
+  explanation: "Valmiki teaches his poem to the twins Kusha and Lava, who recite it among the sages and before Rama."
+  references:
+    - source: griffith-ramayana
+      locator: "1.4"
+- id: valmiki-teacher-of-lava
+  from: valmiki
+  to: lava
+  type: teacher
+  explanation: "Valmiki teaches his poem to the twins Kusha and Lava, who recite it among the sages and before Rama."
+  references:
+    - source: griffith-ramayana
+      locator: "1.4"
+- id: gautama-rishi-partner-of-ahalya
+  from: gautama-rishi
+  to: ahalya
+  type: partner
+  explanation: "Ahalya is Gautama's wife; after her penance he takes her back."
+  references:
+    - source: griffith-ramayana
+      locator: "1.48"
+    - source: griffith-ramayana
+      locator: "1.49"
+- id: gautama-rishi-curse-indra
+  from: gautama-rishi
+  to: indra
+  type: curse
+  explanation: "Gautama curses Indra, who had taken his form to seduce Ahalya, to lose his manhood."
+  references:
+    - source: griffith-ramayana
+      locator: "1.48"
+- id: gautama-rishi-curse-ahalya
+  from: gautama-rishi
+  to: ahalya
+  type: curse
+  explanation: "Gautama condemns Ahalya to live unseen in his hermitage, living on air, until Rama's visit purifies her."
+  references:
+    - source: griffith-ramayana
+      locator: "1.48"
+    - source: griffith-ramayana
+      locator: "1.49"

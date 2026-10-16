@@ -1,0 +1,23 @@
+slug: duhshala
+names:
+  - text: "Duhshala"
+    lang: en
+    script: Latn
+  - text: "दुःशला"
+    lang: sa
+    script: Deva
+    iast: "Duḥśalā"
+epithets:
+  - text: "Duhsala"
+    lang: en
+    script: Latn
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "The only daughter of Dhritarashtra and Gandhari, who grew from the one extra part of the flesh that Vyasa set aside. She was married to Jayadratha, king of the Sindhus."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.67"
+  - source: ganguli-mahabharata
+    locator: "1.116"
+  - source: ganguli-mahabharata
+    locator: "1.117"

@@ -29,6 +29,68 @@ dynasties:
     references:
       - source: wilson-vishnu-purana
         locator: "4.20"
+relations:
+  - kingdom: kashi-kingdom-epic
+    type: marriage
+    note: Bhishma carries off the princesses of Kashi from their self-choice ceremony; Ambika and
+      Ambalika marry Vichitravirya.
+    variant: mahabharata-story-ganguli-account
+    references:
+      - source: ganguli-mahabharata
+        locator: "1.102"
+  - kingdom: gandhara-kingdom-epic
+    type: marriage
+    note: Subala of Gandhara gives his daughter Gandhari to Dhritarashtra.
+    variant: mahabharata-story-ganguli-account
+    references:
+      - source: ganguli-mahabharata
+        locator: "1.110"
+  - kingdom: panchala-kingdom-epic
+    type: war
+    note: As Drona's fee, the Kuru princes attack Drupada; Arjuna captures him and Drona takes
+      northern Panchala with Ahicchatra.
+    variant: mahabharata-story-ganguli-account
+    references:
+      - source: ganguli-mahabharata
+        locator: "1.140"
+  - kingdom: panchala-kingdom-epic
+    type: marriage
+    note: Drupada's daughter Draupadi marries the five Pandavas.
+    variant: mahabharata-story-ganguli-account
+    references:
+      - source: ganguli-mahabharata
+        locator: "1.200"
+  - kingdom: panchala-kingdom-epic
+    type: alliance
+    note: Drupada brings his army to the Pandavas before the war.
+    variant: mahabharata-story-ganguli-account
+    references:
+      - source: ganguli-mahabharata
+        locator: "4.72"
+      - source: ganguli-mahabharata
+        locator: "5.19"
+  - kingdom: kashi-kingdom-epic
+    type: alliance
+    note: The king of Kashi comes to the Pandavas at Upaplavya with an akshauhini.
+    variant: mahabharata-story-ganguli-account
+    references:
+      - source: ganguli-mahabharata
+        locator: "4.72"
+  - kingdom: magadha-kingdom-epic
+    type: war
+    note: Krishna, Bhima and Arjuna go to Girivraja, where Bhima kills Jarasandha before the
+      Rajasuya.
+    variant: mahabharata-story-ganguli-account
+    references:
+      - source: ganguli-mahabharata
+        locator: "2.24"
+  - kingdom: magadha-kingdom-epic
+    type: alliance
+    note: Jayatsena, king of Magadha, brings an akshauhini to Yudhishthira.
+    variant: mahabharata-story-ganguli-account
+    references:
+      - source: ganguli-mahabharata
+        locator: "5.19"
 traditions:
   - itihasa
 summary_beginner: The kingdom of the Kuru dynasty, the setting of the Mahabharata.

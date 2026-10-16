@@ -1,0 +1,29 @@
+slug: dasharatha
+names:
+  - text: "Dasharatha"
+    lang: en
+    script: Latn
+  - text: दशरथ
+    lang: sa
+    script: Deva
+    iast: "Daśaratha"
+kinds: [king, human]
+traditions: [itihasa]
+dynasties:
+  - to: suryavansha
+    note: "King of Ayodhya in Ikshvaku's line, the last king of Vasishtha's recital."
+    references:
+      - source: griffith-ramayana
+        locator: "1.70"
+      - source: griffith-ramayana
+        locator: "2.110"
+summary_beginner: "King of Ayodhya and father of Rama, Bharata, Lakshmana and Shatrughna by his three queens Kausalya, Kaikeyi and Sumitra. Bound by two boons he once granted Kaikeyi, he sends Rama into exile and dies of grief soon after."
+references:
+  - source: griffith-ramayana
+    locator: "1.19"
+  - source: griffith-ramayana
+    locator: "1.70"
+  - source: griffith-ramayana
+    locator: "2.11"
+  - source: griffith-ramayana
+    locator: "2.64"

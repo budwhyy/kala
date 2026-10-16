@@ -1,0 +1,59 @@
+slug: "kampilya"
+names:
+  - text: "Kampilya"
+    lang: "en"
+    script: "Latn"
+  - text: "काम्पिल्य"
+    lang: "sa"
+    script: "Deva"
+    iast: "Kāmpilya"
+  - text: "Kampil"
+    lang: "en"
+    script: "Latn"
+realm: "terrestrial"
+kind: "city"
+confidence: "traditional"
+geometry:
+  type: "Point"
+  coordinates:
+    - 79.23
+    - 27.58
+modern_admin:
+  country: "India"
+  region: "Uttar Pradesh"
+  district: "Farrukhabad"
+evidence:
+  - type: "textual"
+    summary: "In the Mahabharata, after Drona's pupils defeat him, Drupada lives at Kampilya on the Ganga and rules southern Panchala."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "1.140"
+  - type: "historical"
+    summary: "Cunningham and Raychaudhuri identify Kampilya, the capital of south Panchala, with Kampil on the old bed of the Ganges between Budaun and Farrukhabad."
+    references:
+      - source: "cunningham-ancient-geography"
+        locator: "360"
+      - source: "raychaudhuri-phai-1923"
+        locator: "31"
+  - type: "traditional"
+    summary: "The Imperial Gazetteer places the village of Kampil at 27° 35' N, 79° 14' E. It records that villagers point out the mound of Drupada's castle and the place of Draupadi's svayamvara, and that ruins west of the village yield ancient coins."
+    references:
+      - source: "imperial-gazetteer-1909"
+        locator: "14:328"
+kingdoms:
+  - to: "panchala-kingdom-epic"
+    note: "Drupada's city in southern Panchala after Drona takes the north."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "1.140"
+traditions:
+  - "itihasa"
+summary_beginner: "A village in Farrukhabad district, Uttar Pradesh, that tradition and nineteenth-century scholars identify with Kampilya, Drupada's capital, where Draupadi chose her husband."
+summary_scholar: "The point is the Imperial Gazetteer's position for Kampil. The identification rests on the name and on local tradition reported by Cunningham and the Gazetteer; the ruins and coins show an old settlement but do not verify the epic events. Classed as traditional, not verified."
+references:
+  - source: "imperial-gazetteer-1909"
+    locator: "14:328"
+  - source: "cunningham-ancient-geography"
+    locator: "360"
+  - source: "ganguli-mahabharata"
+    locator: "1.140"

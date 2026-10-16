@@ -1,0 +1,28 @@
+slug: shakuni
+names:
+  - text: "Shakuni"
+    lang: en
+    script: Latn
+  - text: "शकुनि"
+    lang: sa
+    script: Deva
+    iast: "Śakuni"
+epithets:
+  - text: "Saubala"
+    lang: en
+    script: Latn
+kinds: [human, king]
+traditions: [itihasa]
+summary_beginner: "A prince of Gandhara, son of King Subala and brother of Gandhari. He is Duryodhana's adviser and plays the dice game that costs Yudhishthira his kingdom; Sahadeva kills him at the end of the war."
+summary_scholar: "The Adi Parva says he was Dvapara, the third age, born as a man (1.67). The kingdom of Gandhara has its own record."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.63"
+  - source: ganguli-mahabharata
+    locator: "1.110"
+  - source: ganguli-mahabharata
+    locator: "2.47"
+  - source: ganguli-mahabharata
+    locator: "2.58"
+  - source: ganguli-mahabharata
+    locator: "9.28"

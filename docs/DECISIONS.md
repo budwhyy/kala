@@ -188,3 +188,31 @@ Architectural decisions, newest last. Each entry: timestamp (UTC), decision, why
 
 - **Decision:** A network lists the list variants that define it; each place records its membership
   with the list it comes from. Lists without a public-domain source are not stated as lists (OQ-030).
+
+## 2026-10-16 — Phase 3: epics as pages built from content
+
+- **Decision:** `/epic/<text>` is generated for every text with narrative-ordered events (the
+  Ramayana, the Mahabharata, the Ramcharitmanas, and the Harivamsha / Vishnu Purana for Krishna's life).
+  `/epic/ramayana` redirects to `/epic/valmiki-ramayana`. Sections: story by book, family tree,
+  journeys, battle, kingdoms and alliances. Routes and battlefields have their own pages.
+- **Why:** no epic is special-cased in code; adding a text's events adds its epic page.
+
+## 2026-10-16 — Family trees list single lines of descent straight down
+
+- **Decision:** where a person has one child in the tree, the child is listed directly below with a ↳
+  marker instead of being indented; indentation is used only where the family branches. Names sit
+  outside the disclosure control.
+- **Why:** the Ikshvaku line runs ~40 generations (Brahma … Dasharatha). Indenting each generation made
+  the page about 1,270 px wide on phones; links inside `<summary>` failed the accessibility scan.
+
+## 2026-10-16 — Header is not sticky on phones
+
+- **Decision:** the header sticks to the top only from the `sm` breakpoint up.
+- **Why:** with seven modes, language and search it wraps to several lines on a phone and covered
+  controls further down the page.
+
+## 2026-10-16 — Route map draws the journey stage by stage
+
+- **Decision:** MapLibre line drawn up to the current stop; play/step controls; under reduced motion the
+  camera jumps instead of easing. The stop list is the accessible equivalent and is the default on
+  narrow screens (heavy view).

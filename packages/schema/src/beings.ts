@@ -185,6 +185,8 @@ export const Event = z.strictObject({
   variant: Slug.optional(),
   /** Other events that are retellings of the same story in other accounts. */
   same_story_as: z.array(Slug).default([]),
+  /** Philosophical concepts the event sets out or turns on (e.g. the Bhagavad Gita and dharma). */
+  concepts: z.array(Slug).default([]),
   traditions: z.array(Slug).default([]),
   summary_beginner: Summary,
   summary_scholar: Summary.optional(),

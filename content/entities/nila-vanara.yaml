@@ -1,0 +1,17 @@
+slug: nila-vanara
+names:
+  - text: "Nila"
+    lang: en
+    script: Latn
+  - text: नील
+    lang: sa
+    script: Deva
+    iast: "Nīla"
+kinds: [vanara]
+traditions: [itihasa]
+summary_beginner: "A vanara chief and commander in Rama's army, son of Agni, the god of fire."
+references:
+  - source: griffith-ramayana
+    locator: "1.16"
+  - source: griffith-ramayana
+    locator: "6.4"

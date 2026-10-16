@@ -1,0 +1,29 @@
+slug: ramayana-vibhishana-joins-rama
+names:
+  - text: "Vibhishana joins Rama"
+    lang: en
+    script: Latn
+participants:
+  - entity: vibhishana
+    role: "Ravana's brother, who leaves Lanka for Rama"
+  - entity: ravana
+    role: "rejects his advice to return Sita"
+  - entity: rama
+    role: "accepts him and has him anointed king of the rakshasas"
+  - entity: lakshmana
+    role: "brings the sea water for the anointing"
+narrative_order:
+  text: valmiki-ramayana
+  position: 617
+  section: yuddha-kanda
+variant: valmiki-ramayana-account
+traditions:
+  - itihasa
+summary_beginner: "When Ravana scorns his counsel to give Sita back, his brother Vibhishana leaves Lanka with four companions and comes to Rama. Rama accepts him, and Lakshmana anoints him with sea water as king of the rakshasas."
+references:
+  - source: griffith-ramayana
+    locator: "6.16"
+  - source: griffith-ramayana
+    locator: "6.17"
+  - source: griffith-ramayana
+    locator: "6.19"

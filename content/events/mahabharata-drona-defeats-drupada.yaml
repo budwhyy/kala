@@ -1,0 +1,29 @@
+slug: "mahabharata-drona-defeats-drupada"
+names:
+  - text: "Drona's pupils defeat Drupada"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "drona"
+    role: "demands the defeat of Drupada as his teacher's fee"
+  - entity: "drupada"
+    role: "king of Panchala, captured and made to give up half his kingdom"
+  - entity: "arjuna"
+    role: "captures Drupada"
+  - entity: "duryodhana"
+    role: "among the Kuru princes who attack first"
+places:
+  - "kampilya"
+  - "ahichchhatra"
+narrative_order:
+  text: "mahabharata"
+  position: 1140
+  section: "adi-parva"
+variant: "mahabharata-story-ganguli-account"
+traditions:
+  - "itihasa"
+summary_beginner: "As his teacher's fee, Drona asks his pupils to bring him King Drupada of Panchala. The Kuru princes march on Drupada's capital; when the first attack fails, Arjuna and his brothers defeat the Panchalas and capture the king. Drona keeps the northern half of Panchala, with Ahicchatra, and gives Drupada back the south. Drupada rules from Kampilya on the Ganga and begins searching for a way to gain a son who could defeat Drona."
+summary_scholar: "Ganguli 1.140. The passage is the epic's main statement of the division of Panchala (north with Ahicchatra to Drona; south, up to the Charmanwati, to Drupada at Kampilya) and of Drupada's enmity with Drona. The 'position' in narrative_order is parva x 1000 + Ganguli's section number of the main passage, so events sort in the order the epic tells them."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "1.140"

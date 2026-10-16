@@ -1,0 +1,54 @@
+slug: nandigrama
+names:
+  - text: Nandigrama
+    lang: en
+    script: Latn
+  - text: नन्दिग्राम
+    lang: sa
+    script: Deva
+    iast: Nandigrāma
+  - text: Nandigram (Bharatkund)
+    lang: en
+    script: Latn
+realm: terrestrial
+kind: city
+confidence: traditional
+geometry:
+  type: Point
+  coordinates:
+    - 82.15
+    - 26.65
+modern_admin:
+  country: India
+  region: Uttar Pradesh
+  district: Ayodhya
+  nearest_city: Ayodhya
+evidence:
+  - type: textual
+    summary: In Valmiki's Ramayana Bharata will not reign from Ayodhya; he rules from Nandigrama in hermit's dress, keeping Rama's sandals as the pledge of Rama's rule, and there he meets Rama on his return.
+    references:
+      - source: griffith-ramayana
+        locator: "1.1"
+      - source: griffith-ramayana
+        locator: "2.115"
+      - source: griffith-ramayana
+        locator: "6.129"
+  - type: traditional
+    summary: Griffith's footnote identifies Nandigram with Nundgaon in Oudh. This is the translator's identification, not archaeological proof.
+    references:
+      - source: griffith-ramayana
+        locator: "2.115"
+        note: footnote 398 to the canto title Nandigrám
+entities:
+  - to: bharata
+    note: Bharata rules the kingdom from Nandigrama as Rama's regent.
+    references:
+      - source: griffith-ramayana
+        locator: "2.115"
+traditions:
+  - itihasa
+summary_beginner: The village near Ayodhya from which, in the Ramayana, Bharata rules as regent in Rama's name, keeping Rama's sandals. Tradition places it at Nandigram (Bharatkund), south of Ayodhya.
+summary_scholar: Griffith identifies it with "Nundgaon, in Oudh" without further detail; the coordinates are those of the present-day village of Nandigram (Bharatkund) in Ayodhya district, which our sources do not describe. Kept 'traditional'.
+references:
+  - source: griffith-ramayana
+    locator: "2.115"

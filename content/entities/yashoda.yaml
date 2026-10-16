@@ -1,0 +1,21 @@
+slug: yashoda
+names:
+  - text: "Yashoda"
+    lang: en
+    script: Latn
+  - text: "यशोदा"
+    lang: sa
+    script: Deva
+    iast: "Yaśodā"
+kinds: [human]
+traditions: [itihasa, puranic]
+summary_beginner: "Wife of the cowherd Nanda. Vasudeva laid the newborn Krishna beside her and took away her own newborn daughter, so she raised Krishna as her son."
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.15"
+  - source: wilson-vishnu-purana
+    locator: "5.3"
+  - source: wilson-vishnu-purana
+    locator: "5.5"
+  - source: dutt-harivamsha
+    locator: "59"

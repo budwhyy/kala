@@ -1,0 +1,26 @@
+slug: yadavas
+names:
+  - text: "Yadavas"
+    lang: en
+    script: Latn
+  - text: "यादव"
+    lang: sa
+    script: Deva
+    iast: "Yādava"
+kinds: [human]
+traditions: [itihasa, puranic]
+dynasties:
+  - to: yadava-dynasty
+    note: "The people of the Yadava line."
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.15"
+summary_beginner: "The descendants of Yadu, eldest son of Yayati, including the Vrishnis, Andhakas and Bhojas. Krishna, Balarama, Vasudeva, Kamsa, Satyaki and Kritavarma are all Yadavas."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.95"
+    note: "The descendants of Yadu are the Yadavas."
+  - source: wilson-vishnu-purana
+    locator: "4.14"
+  - source: wilson-vishnu-purana
+    locator: "4.15"

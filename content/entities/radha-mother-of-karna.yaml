@@ -1,0 +1,19 @@
+slug: radha-mother-of-karna
+names:
+  - text: "Radha (Karna's adoptive mother)"
+    lang: en
+    script: Latn
+  - text: "राधा"
+    lang: sa
+    script: Deva
+    iast: "Rādhā"
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "Wife of the charioteer Adhiratha, who adopted the infant Karna; Karna is often called Radheya, son of Radha, after her. She is a different person from Radha, the beloved of Krishna in later devotional tradition."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.111"
+  - source: ganguli-mahabharata
+    locator: "3.307"
+  - source: ganguli-mahabharata
+    locator: "3.308"

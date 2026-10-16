@@ -1,0 +1,67 @@
+slug: "gokula"
+names:
+  - text: "Gokula"
+    lang: "en"
+    script: "Latn"
+  - text: "गोकुल"
+    lang: "sa"
+    script: "Deva"
+    iast: "Gokula"
+  - text: "Vraja"
+    lang: "en"
+    script: "Latn"
+realm: "terrestrial"
+kind: "site"
+confidence: "debated"
+modern_admin:
+  country: "India"
+  region: "Uttar Pradesh"
+  district: "Mathura"
+alternative_identifications:
+  - label: "Mahaban"
+    confidence: "traditional"
+    geometry:
+      type: "Point"
+      coordinates:
+        - 77.75
+        - 27.45
+    modern_admin:
+      country: "India"
+      region: "Uttar Pradesh"
+      district: "Mathura"
+    argument: "The Imperial Gazetteer reports a tradition that Krishna spent his childhood at Mahaban, near the left bank of the Jumna, where a pillared hall is called the palace of Nanda. The point is the Gazetteer's position for Mahaban town."
+    references:
+      - source: "imperial-gazetteer-1909"
+        locator: "16:427"
+  - label: "Gokul village"
+    confidence: "traditional"
+    argument: "The Gazetteer notes a village named Gokul a mile from Mahaban, famous as the seat of the Vallabhacharya sect; its own entry does not state the Krishna identification, and KĀLA has no citable coordinates for it."
+    references:
+      - source: "imperial-gazetteer-1909"
+        locator: "16:428"
+evidence:
+  - type: "textual"
+    summary: "In the Vishnu Purana, Nanda takes the infants Krishna and Balarama home to Gokula, across the Yamuna from Mathura; in the Harivamsha the cowherds' station is called Vraja and lies on the Yamuna near Mount Govardhana."
+    references:
+      - source: "wilson-vishnu-purana"
+        locator: "5.3"
+      - source: "wilson-vishnu-purana"
+        locator: "5.5"
+      - source: "dutt-harivamsha"
+        locator: "60"
+        note: "Harivamsha Parva"
+entities:
+  - to: "krishna"
+    note: "Where Krishna is brought up by Nanda and Yashoda."
+    references:
+      - source: "wilson-vishnu-purana"
+        locator: "5.5"
+traditions:
+  - "vaishnava"
+summary_beginner: "The cowherds' village near Mathura where Krishna was raised by Nanda and Yashoda. Tradition places it in the Mahaban area across the Yamuna from Mathura."
+summary_scholar: "Two neighbouring places are associated with Krishna's Gokula: Mahaban, which the Gazetteer names in the Krishna tradition, and the village of Gokul a mile away. The texts' Gokula or Vraja is a moving cow-station rather than a fixed town."
+references:
+  - source: "wilson-vishnu-purana"
+    locator: "5.5"
+  - source: "imperial-gazetteer-1909"
+    locator: "16:427"

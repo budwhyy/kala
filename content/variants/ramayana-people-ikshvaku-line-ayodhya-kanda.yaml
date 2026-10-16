@@ -1,0 +1,14 @@
+slug: ramayana-people-ikshvaku-line-ayodhya-kanda
+names:
+  - text: "Ikshvaku line in Vasishtha's second recital (Valmiki, Ayodhya Kanda)"
+    lang: en
+    script: Latn
+kind: genealogy
+tradition: itihasa
+text: valmiki-ramayana
+description: "Vasishtha's second recital of Rama's ancestry, made to Rama at Chitrakuta in the Ayodhya Kanda (Griffith 2.110; Dutt 2.110). It names the same kings as the Bala Kanda recital but makes Nabhaga the son of Nahusha, leaving out Yayati. Only that differing link carries this variant; the rest of the line is stored once under the Bala Kanda variant, which cites both passages."
+references:
+  - source: griffith-ramayana
+    locator: "2.110"
+  - source: dutt-ramayana
+    locator: "2.110"

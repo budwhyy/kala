@@ -1,0 +1,35 @@
+slug: "mahabharata-arjuna-and-subhadra"
+names:
+  - text: "Arjuna carries off Subhadra"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "arjuna"
+    role: "carries Subhadra off in his chariot"
+  - entity: "subhadra"
+    role: "Krishna's sister"
+  - entity: "krishna"
+    role: "consents, and later calms the angry Vrishnis"
+  - entity: "yudhishthira"
+    role: "consents"
+  - entity: "abhimanyu"
+    role: "their son"
+places:
+  - "dwarka"
+  - "indraprastha"
+narrative_order:
+  text: "mahabharata"
+  position: 1221
+  section: "adi-parva"
+variant: "mahabharata-story-ganguli-account"
+traditions:
+  - "itihasa"
+summary_beginner: "During a festival of the Vrishnis and Andhakas on Mount Raivataka, Arjuna falls in love with Krishna's sister Subhadra. With the consent of Krishna and Yudhishthira he seizes her in his chariot as she returns towards Dwaraka and drives towards Indraprastha. The Vrishni heroes are enraged, but Krishna persuades them that Arjuna has honoured, not insulted, their house; the marriage follows, and Subhadra bears Abhimanyu."
+summary_scholar: "Subhadra-harana and Haranaharana Parvas, Ganguli 1.221-1.223. The marriage ties the Kurus to the Yadava house a second time (after Kunti) and makes Abhimanyu Krishna's nephew. The 'position' in narrative_order is parva x 1000 + Ganguli's section number of the main passage, so events sort in the order the epic tells them."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "1.221"
+  - source: "ganguli-mahabharata"
+    locator: "1.222"
+  - source: "ganguli-mahabharata"
+    locator: "1.223"

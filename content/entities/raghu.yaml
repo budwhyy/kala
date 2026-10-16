@@ -1,0 +1,25 @@
+slug: raghu
+names:
+  - text: "Raghu"
+    lang: en
+    script: Latn
+  - text: रघु
+    lang: sa
+    script: Deva
+    iast: "Raghu"
+kinds: [king, human]
+traditions: [itihasa]
+dynasties:
+  - to: suryavansha
+    note: "A king of Ikshvaku's line, listed in Vasishtha's recital of Rama's ancestry."
+    references:
+      - source: griffith-ramayana
+        locator: "1.70"
+summary_beginner: "A king of Ikshvaku's line at Ayodhya. In Vasishtha's recital of Rama's ancestry in Valmiki's Ramayana he is the son of Kakutstha and the father of Kalmashapada. Rama and his brothers are called Raghavas, sons of Raghu, after him."
+references:
+  - source: griffith-ramayana
+    locator: "1.70"
+  - source: dutt-ramayana
+    locator: "1.70"
+  - source: griffith-ramayana
+    locator: "2.110"

@@ -1,0 +1,60 @@
+slug: "chedi-kingdom-epic"
+names:
+  - text: "Chedi (Mahabharata)"
+    lang: "en"
+    script: "Latn"
+  - text: "चेदि"
+    lang: "sa"
+    script: "Deva"
+    iast: "Cedi"
+kind: "epic_legendary"
+rulers:
+  - entity: "shishupala"
+    attested: false
+    note: "King of Chedi, killed by Krishna at the Rajasuya."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "2.42"
+      - source: "ganguli-mahabharata"
+        locator: "2.44"
+  - name:
+      text: "Dhrishtaketu"
+      lang: "en"
+      script: "Latn"
+    attested: false
+    note: "Ruler of the Chedis who brings an army to the Pandavas."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "5.19"
+relations:
+  - kingdom: "magadha-kingdom-epic"
+    type: "alliance"
+    note: "Shishupala places himself under Jarasandha's protection and commands his forces."
+    variant: "mahabharata-story-ganguli-account"
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "2.14"
+  - kingdom: "yadava-kingdom-epic"
+    type: "marriage"
+    note: "Shishupala's mother is Krishna's aunt; she obtains Krishna's promise to pardon a hundred of her son's offences."
+    variant: "mahabharata-story-ganguli-account"
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "2.42"
+  - kingdom: "kuru-kingdom-epic"
+    type: "alliance"
+    note: "Dhrishtaketu, chief of the Chedis, brings an akshauhini to the Pandavas."
+    variant: "mahabharata-story-ganguli-account"
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "5.19"
+traditions:
+  - "itihasa"
+summary_beginner: "The kingdom of Shishupala in the Mahabharata, an ally of Jarasandha; after Shishupala's death its ruler Dhrishtaketu fought for the Pandavas."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "2.14"
+  - source: "ganguli-mahabharata"
+    locator: "2.42"
+  - source: "ganguli-mahabharata"
+    locator: "5.19"

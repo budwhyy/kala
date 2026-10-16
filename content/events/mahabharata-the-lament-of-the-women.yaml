@@ -1,0 +1,35 @@
+slug: "mahabharata-the-lament-of-the-women"
+names:
+  - text: "The lament of the women and Gandhari's curse"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "gandhari"
+    role: "mourns her sons and curses Krishna"
+  - entity: "krishna"
+    role: "accepts the curse"
+  - entity: "kunti"
+    role: "reveals that Karna was her son"
+  - entity: "dhritarashtra"
+  - entity: "yudhishthira"
+  - entity: "karna"
+    role: "mourned as the Pandavas' elder brother"
+places:
+  - "kurukshetra"
+  - "ganga"
+narrative_order:
+  text: "mahabharata"
+  position: 11016
+  section: "stri-parva"
+variant: "mahabharata-story-ganguli-account"
+traditions:
+  - "itihasa"
+summary_beginner: "The widows and mothers of the dead go to the battlefield. Gandhari, who through a boon of Vyasa sees the distant field as if it were near, describes the fallen heroes one by one to Krishna. In her grief she curses him: because he let the Kurus and Pandavas destroy each other, in the thirty-sixth year he will cause the slaughter of his own kin and die alone in the wilderness. At the Ganga, where the dead receive their water offerings, Kunti tells her sons that Karna was their eldest brother."
+summary_scholar: "Stri Parva, Ganguli 11.16-11.25 (the lament and the curse) and 11.27 (Kunti's revelation). The curse is fulfilled in the Mausala Parva. The 'position' in narrative_order is parva x 1000 + Ganguli's section number of the main passage, so events sort in the order the epic tells them."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "11.16"
+  - source: "ganguli-mahabharata"
+    locator: "11.25"
+  - source: "ganguli-mahabharata"
+    locator: "11.27"

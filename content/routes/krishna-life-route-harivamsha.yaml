@@ -1,0 +1,77 @@
+slug: "krishna-life-route-harivamsha"
+names:
+  - text: "Krishna's early life journey (Harivamsha)"
+    lang: "en"
+    script: "Latn"
+text: "harivamsha"
+variant: "mahabharata-story-harivamsha-krishna"
+literary_reconstruction: true
+travellers:
+  - "krishna"
+  - "balarama"
+stops:
+  - order: 1
+    place: "mathura"
+    event: "krishna-birth-harivamsha"
+    note: "Krishna is born to Devaki at Mathura and exchanged for Yashoda's daughter."
+    references:
+      - source: "dutt-harivamsha"
+        locator: "59"
+        note: "Harivamsha Parva"
+  - order: 2
+    place: "gokula"
+    note: "Nanda takes the boys to the cow-station of Vraja on the Yamuna, near Mount Govardhana (Dutt says Vraja; KĀLA's place record is gokula)."
+    references:
+      - source: "dutt-harivamsha"
+        locator: "60"
+        note: "Harivamsha Parva"
+  - order: 3
+    place: "vrindavan"
+    event: "krishna-move-to-vrindavana-harivamsha"
+    note: "Krishna's wolves drive the cowherds to Vrindavana."
+    references:
+      - source: "dutt-harivamsha"
+        locator: "63"
+        note: "Harivamsha Parva; printed LVIII in Dutt"
+      - source: "dutt-harivamsha"
+        locator: "64"
+        note: "Harivamsha Parva"
+  - order: 4
+    place: "govardhana"
+    event: "krishna-lifts-govardhana-harivamsha"
+    note: "Krishna lifts Govardhana against Indra's storm."
+    references:
+      - source: "dutt-harivamsha"
+        locator: "73"
+        note: "Harivamsha Parva"
+  - order: 5
+    place: "mathura"
+    event: "krishna-slays-kamsa-harivamsha"
+    note: "Krishna kills Kamsa at Mathura and asks Ugrasena to rule. A later journey to Mount Gomanta (chs. 95-101) is not mapped."
+    references:
+      - source: "dutt-harivamsha"
+        locator: "85"
+        note: "Harivamsha Parva"
+      - source: "dutt-harivamsha"
+        locator: "87"
+        note: "Harivamsha Parva"
+  - order: 6
+    place: "dwarka"
+    event: "krishna-founds-dwaraka-harivamsha"
+    note: "The Yadavas leave Mathura for the western sea, where Dwaraka is laid out."
+    references:
+      - source: "dutt-harivamsha"
+        locator: "113"
+        note: "Harivamsha Parva"
+      - source: "dutt-harivamsha"
+        locator: "115"
+        note: "Harivamsha Parva"
+  - order: 7
+    place: "kundina"
+    event: "krishna-carries-off-rukmini-harivamsha"
+    note: "Krishna carries off Rukmini from Kundina, the city of Bhishmaka."
+    references:
+      - source: "dutt-harivamsha"
+        locator: "116"
+        note: "Harivamsha Parva; printed CXVVI in Dutt"
+summary_beginner: "Krishna's life as the Harivamsha Parva tells it: birth at Mathura, childhood in Vraja and Vrindavana, the lifting of Govardhana, the killing of Kamsa at Mathura, the founding of Dwaraka and the carrying off of Rukmini from Kundina. The Harivamsha differs from the Vishnu Purana in detail (for example, why the cowherds move to Vrindavana) and adds a journey to Mount Gomanta that is not mapped here. Krishna's death is followed in the Vishnu Purana route and in the Mahabharata's Mausala Parva. This is a literary reconstruction: the route follows the order of places named in the text, not a verified itinerary, and each stop's place record carries its own confidence class."

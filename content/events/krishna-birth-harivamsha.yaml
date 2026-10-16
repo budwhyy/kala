@@ -1,0 +1,42 @@
+slug: "krishna-birth-harivamsha"
+names:
+  - text: "The birth of Krishna (Harivamsha)"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "krishna"
+  - entity: "vasudeva-shura"
+    role: "carries the child to Nanda's house"
+  - entity: "devaki"
+    role: "Krishna's mother"
+  - entity: "kamsa"
+    role: "tries to kill the girl left in Krishna's place"
+  - entity: "yashoda"
+    role: "whose daughter is exchanged for Krishna"
+  - entity: "nanda"
+    role: "Krishna's foster-father"
+  - entity: "rohini"
+    role: "bears Balarama, the embryo moved from Devaki"
+  - entity: "balarama"
+    role: "born to Rohini"
+places:
+  - "mathura"
+  - "gokula"
+narrative_order:
+  text: "harivamsha"
+  position: 59
+variant: "mahabharata-story-harivamsha-krishna"
+same_story_as:
+  - "krishna-birth-vishnu-purana"
+traditions:
+  - "vaishnava"
+  - "itihasa"
+summary_beginner: "In the Harivamsha, Kamsa kills Devaki's first six children; the seventh embryo is moved to Rohini and born as Balarama. Krishna is born at midnight in the eighth month, on the same night as Yashoda's daughter. At his request Vasudeva carries him to the house of the cowherd Nanda and brings Yashoda's daughter back. When Kamsa dashes the girl on a stone she rises into the sky as a goddess and warns him. Nanda then takes the two boys to the cow-station of Vraja by the Yamuna, near Mount Govardhana."
+summary_scholar: "Dutt, Harivamsha Parva ch. 59 (the births and the exchange) and ch. 60 (Vasudeva sends Nanda to Vraja; the village by the Yamuna near Govardhana). The Vishnu Purana version (5.3, 5.5) adds Vasudeva's crossing of the Yamuna sheltered by Shesha; the Harivamsha here does not describe the crossing. The 'position' in narrative_order is the chapter number of Dutt's Harivamsha Parva."
+references:
+  - source: "dutt-harivamsha"
+    locator: "59"
+    note: "Harivamsha Parva"
+  - source: "dutt-harivamsha"
+    locator: "60"
+    note: "Harivamsha Parva"

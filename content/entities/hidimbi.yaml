@@ -1,0 +1,21 @@
+slug: hidimbi
+names:
+  - text: "Hidimbi"
+    lang: en
+    script: Latn
+  - text: "हिडिम्बा"
+    lang: sa
+    script: Deva
+    iast: "Hiḍimbā"
+epithets:
+  - text: "Hidimva"
+    lang: en
+    script: Latn
+kinds: [rakshasa]
+traditions: [itihasa]
+summary_beginner: "A rakshasi (forest demoness) whose brother Hidimba was killed by Bhima. She became Bhima's wife and bore him Ghatotkacha. Ganguli's translation spells her name Hidimva."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.61"
+  - source: ganguli-mahabharata
+    locator: "1.157"

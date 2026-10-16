@@ -1,0 +1,24 @@
+slug: janamejaya
+names:
+  - text: "Janamejaya"
+    lang: en
+    script: Latn
+  - text: "जनमेजय"
+    lang: sa
+    script: Deva
+    iast: "Janamejaya"
+kinds: [human, king]
+traditions: [itihasa]
+dynasties:
+  - to: kuru-dynasty
+    note: "Great-grandson of Arjuna; Vaisampayana recites 'the history of thy own race' to him."
+    references:
+      - source: ganguli-mahabharata
+        locator: "1.95"
+summary_beginner: "Son of King Parikshit and Madravati. The Mahabharata is framed as a recital to him by Vaishampayana, a pupil of Vyasa."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.63"
+    note: "Vyasa teaches Vaisampayana among others."
+  - source: ganguli-mahabharata
+    locator: "1.95"

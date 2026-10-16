@@ -1,0 +1,26 @@
+slug: ramayana-story-valmiki-uttara-kanda
+names:
+  - text: Valmiki Ramayana, Uttara Kanda (later layer)
+    lang: en
+    script: Latn
+kind: account
+tradition: itihasa
+text: valmiki-ramayana
+description: >-
+  Claims found only in Book VII (Uttara Kanda) of Valmiki's Ramayana: Sita's exile, the birth of Lava
+  and Kusha at Valmiki's hermitage, and Sita's return to the earth. Scholars generally regard this
+  book as a later addition. Macdonell (1900), following Jacobi, calls the seventh book undoubtedly
+  later, since the end of the sixth book was once the end of the poem; Griffith, who translated only
+  Books I-VI in verse, calls it an appendix or supplement. Indian tradition, as Griffith notes,
+  ascribes it to Valmiki and treats it as part of the Ramayana. This variant marks the textual layer;
+  it does not judge the tradition.
+references:
+  - source: macdonell-history-sanskrit-literature
+    locator: "304"
+    note: Jacobi's view that the poem first had five books (II-VI) and that the seventh is a later addition
+  - source: griffith-ramayana
+    locator: "Appendix, Uttarakanda"
+    note: Griffith's introduction to his summary of Book VII
+  - source: dutt-ramayana
+    locator: "7.110"
+    note: Dutt's complete prose translation of the Uttara Kanda (here, Sita's return to the earth), used for the sarga locators

@@ -1,0 +1,25 @@
+slug: anashvan
+names:
+  - text: "Anashvan"
+    lang: en
+    script: Latn
+  - text: "अनश्वन्"
+    lang: sa
+    script: Deva
+    iast: "Anaśvan"
+epithets:
+  - text: "Anaswan"
+    lang: en
+    script: Latn
+kinds: [human, king]
+traditions: [itihasa]
+dynasties:
+  - to: kuru-dynasty
+    note: "A Kuru king in the Adi Parva genealogy of section 95."
+    references:
+      - source: ganguli-mahabharata
+        locator: "1.95"
+summary_beginner: "In the Adi Parva's second Kuru genealogy, Anashvan is the son of Viduratha by Supriya, a daughter of the Madhavas, and the father of an earlier King Parikshit. Ganguli spells the name Anaswan."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.95"

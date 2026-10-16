@@ -1,0 +1,25 @@
+slug: drupada
+names:
+  - text: "Drupada"
+    lang: en
+    script: Latn
+  - text: "द्रुपद"
+    lang: sa
+    script: Deva
+    iast: "Drupada"
+epithets:
+  - text: "Yajnasena"
+    lang: en
+    script: Latn
+kinds: [human, king]
+traditions: [itihasa]
+summary_beginner: "King of the Panchalas, son of Prishata and boyhood friend of Drona, whom he later spurned. Defeated by Drona's pupils, he held a sacrifice to gain a son who would kill Drona, from which Dhrishtadyumna and Draupadi arose."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.131"
+  - source: ganguli-mahabharata
+    locator: "1.132"
+  - source: ganguli-mahabharata
+    locator: "1.140"
+  - source: ganguli-mahabharata
+    locator: "1.169"

@@ -1,0 +1,34 @@
+slug: ramayana-panchavati
+names:
+  - text: "The hermitage at Panchavati"
+    lang: en
+    script: Latn
+participants:
+  - entity: rama
+    role: "settles at Panchavati on the sage Agastya's advice"
+  - entity: sita
+    role: "with Rama"
+  - entity: lakshmana
+    role: "builds the cottage"
+  - entity: jatayu
+    role: "the old vulture-king who offers to guard Sita"
+places:
+  - panchavati
+  - godavari
+narrative_order:
+  text: valmiki-ramayana
+  position: 315
+  section: aranya-kanda
+variant: valmiki-ramayana-account
+traditions:
+  - itihasa
+summary_beginner: "The sage Agastya gives Rama heavenly weapons and sends him to Panchavati near the Godavari. On the way they meet the vulture-king Jatayu, a friend of Dasharatha, and at Panchavati Lakshmana builds a cottage where they live."
+references:
+  - source: griffith-ramayana
+    locator: "3.12"
+  - source: griffith-ramayana
+    locator: "3.13"
+  - source: griffith-ramayana
+    locator: "3.14"
+  - source: griffith-ramayana
+    locator: "3.15"

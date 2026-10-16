@@ -1,0 +1,38 @@
+slug: "krishna-birth-vishnu-purana"
+names:
+  - text: "The birth of Krishna (Vishnu Purana)"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "krishna"
+  - entity: "vasudeva-shura"
+    role: "carries the child across the Yamuna"
+  - entity: "devaki"
+  - entity: "shesha"
+    role: "shelters the child from the rain with his hoods"
+  - entity: "yashoda"
+  - entity: "nanda"
+  - entity: "kamsa"
+    role: "tries to kill the exchanged girl"
+  - entity: "balarama"
+    role: "brought up with Krishna at Gokula"
+places:
+  - "mathura"
+  - "yamuna"
+  - "gokula"
+narrative_order:
+  text: "vishnu-purana"
+  position: 5003
+variant: "mahabharata-story-vishnu-purana-krishna"
+same_story_as:
+  - "krishna-birth-harivamsha"
+traditions:
+  - "vaishnava"
+  - "puranic"
+summary_beginner: "In the Vishnu Purana, the guards and gate-keepers of Mathura are put to sleep on the night Krishna is born. Vasudeva carries the child out through the rain, sheltered by the many-headed serpent Shesha, and the Yamuna sinks to his knees as he crosses. On the far bank he leaves Krishna beside the sleeping Yashoda and takes her new-born daughter back to Devaki. When Kamsa tries to kill the girl she becomes a goddess. Nanda takes Krishna and Balarama home to Gokula."
+summary_scholar: "Wilson VP 5.3 (the birth, crossing and exchange) and 5.5 (Nanda's return to Gokula and Putana). Compare the Harivamsha (chs. 59-60), which has Krishna himself ask to be taken to Nanda's house and moves Balarama's embryo to Rohini; Wilson's notes compare the Puranic versions. The 'position' in narrative_order is book x 1000 + chapter."
+references:
+  - source: "wilson-vishnu-purana"
+    locator: "5.3"
+  - source: "wilson-vishnu-purana"
+    locator: "5.5"

@@ -1,0 +1,32 @@
+slug: ramayana-alliance-with-sugriva
+names:
+  - text: "Meeting Hanuman and the alliance with Sugriva"
+    lang: en
+    script: Latn
+participants:
+  - entity: hanuman
+    role: "sent by Sugriva to meet the princes; kindles the fire for the oath"
+  - entity: sugriva
+    role: "the exiled vanara who swears friendship with Rama"
+  - entity: rama
+    role: "makes the alliance"
+  - entity: lakshmana
+    role: "with Rama"
+places:
+  - pampa
+  - rishyamukha
+narrative_order:
+  text: valmiki-ramayana
+  position: 405
+  section: kishkindha-kanda
+variant: valmiki-ramayana-account
+traditions:
+  - itihasa
+summary_beginner: "From Rishyamukha hill the exiled vanara Sugriva sees the two armed princes by Lake Pampa and sends Hanuman to find out who they are. Hanuman brings them to Sugriva, and Rama and Sugriva swear friendship walking round a kindled fire: Rama will help Sugriva against his brother Vali, and Sugriva will help find Sita."
+references:
+  - source: griffith-ramayana
+    locator: "4.2"
+  - source: griffith-ramayana
+    locator: "4.3"
+  - source: griffith-ramayana
+    locator: "4.5"

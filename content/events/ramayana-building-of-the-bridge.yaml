@@ -1,0 +1,31 @@
+slug: ramayana-building-of-the-bridge
+names:
+  - text: "The building of the bridge to Lanka"
+    lang: en
+    script: Latn
+participants:
+  - entity: rama
+    role: "threatens the sea, which offers a way across"
+  - entity: nala-vanara
+    role: "builds the bridge"
+  - entity: vanaras
+    role: "carry rocks and trees for the bridge and cross it"
+places:
+  - mahendra-mountain
+  - setu-ramayana
+  - lanka-ramayana
+narrative_order:
+  text: valmiki-ramayana
+  position: 622
+  section: yuddha-kanda
+variant: valmiki-ramayana-account
+traditions:
+  - itihasa
+summary_beginner: "The army marches south, and Rama climbs Mount Mahendra before reaching the shore. Faced with the sea, Rama threatens it with his arrows; the Ocean rises and tells him that Nala, son of Vishvakarma, can build a bridge. The vanaras build it across the sea, and the army crosses to Lanka."
+references:
+  - source: griffith-ramayana
+    locator: "1.1"
+  - source: griffith-ramayana
+    locator: "6.4"
+  - source: griffith-ramayana
+    locator: "6.22"

@@ -1,0 +1,276 @@
+# Alliances and enmities central to the Mahabharata's plot (Ganguli's translation).
+# Battle deaths are noted only to explain the enmity; the battlefield record holds the day-by-day account.
+- id: mbh-duryodhana-ally-karna
+  from: duryodhana
+  to: karna
+  type: ally
+  explanation: "Duryodhana makes Karna king of Anga at the tournament and asks only for his friendship, which Karna gives."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.138"
+    - source: ganguli-mahabharata
+      locator: "1.67"
+- id: mbh-shakuni-ally-duryodhana
+  from: shakuni
+  to: duryodhana
+  type: ally
+  explanation: "Shakuni counsels Duryodhana against the Pandavas and plays the dice game for him."
+  references:
+    - source: ganguli-mahabharata
+      locator: "2.47"
+    - source: ganguli-mahabharata
+      locator: "2.48"
+    - source: ganguli-mahabharata
+      locator: "2.55"
+    - source: ganguli-mahabharata
+      locator: "2.58"
+- id: mbh-krishna-ally-arjuna
+  from: krishna
+  to: arjuna
+  type: ally
+  explanation: "Offered the choice between Krishna unarmed and Krishna's army, Arjuna chooses Krishna, who becomes his charioteer."
+  references:
+    - source: ganguli-mahabharata
+      locator: "5.7"
+- id: mbh-shalya-ally-duryodhana
+  from: shalya
+  to: duryodhana
+  type: ally
+  explanation: "Won over by Duryodhana's hospitality on the road, Shalya promises to fight for him and brings an army."
+  references:
+    - source: ganguli-mahabharata
+      locator: "5.8"
+    - source: ganguli-mahabharata
+      locator: "5.19"
+- id: mbh-bhagadatta-ally-duryodhana
+  from: bhagadatta
+  to: duryodhana
+  type: ally
+  explanation: "Bhagadatta of Pragjyotisha brings an army to Duryodhana."
+  references:
+    - source: ganguli-mahabharata
+      locator: "5.19"
+- id: mbh-kritavarma-ally-duryodhana
+  from: kritavarma
+  to: duryodhana
+  type: ally
+  explanation: "Kritavarma, son of Hridika, gives Duryodhana an army of the Bhojas, Andhakas and Kukuras."
+  references:
+    - source: ganguli-mahabharata
+      locator: "5.7"
+    - source: ganguli-mahabharata
+      locator: "5.19"
+- id: mbh-bhurishravas-ally-duryodhana
+  from: bhurishravas
+  to: duryodhana
+  type: ally
+  explanation: "Bhurishravas comes to Duryodhana with an army."
+  references:
+    - source: ganguli-mahabharata
+      locator: "5.19"
+    - source: ganguli-mahabharata
+      locator: "5.166"
+- id: mbh-yuyutsu-ally-yudhishthira
+  from: yuyutsu
+  to: yudhishthira
+  type: ally
+  explanation: "When Yudhishthira invites anyone who will choose his side, Yuyutsu leaves the Kauravas and fights for him."
+  references:
+    - source: ganguli-mahabharata
+      locator: "6.43"
+- id: mbh-virata-ally-yudhishthira
+  from: virata
+  to: yudhishthira
+  type: ally
+  explanation: "Virata marches with Yudhishthira's army to Kurukshetra."
+  references:
+    - source: ganguli-mahabharata
+      locator: "5.199"
+- id: mbh-drupada-ally-yudhishthira
+  from: drupada
+  to: yudhishthira
+  type: ally
+  explanation: "Drupada marches with Yudhishthira's army to Kurukshetra."
+  references:
+    - source: ganguli-mahabharata
+      locator: "5.199"
+- id: mbh-duryodhana-enemy-bhima
+  from: duryodhana
+  to: bhima
+  type: enemy
+  explanation: "Duryodhana and Bhima are rivals from boyhood: Duryodhana poisons Bhima, and in the war Bhima breaks Duryodhana's thighs as he had vowed."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.128"
+    - source: ganguli-mahabharata
+      locator: "1.134"
+    - source: ganguli-mahabharata
+      locator: "9.58"
+- id: mbh-karna-enemy-arjuna
+  from: karna
+  to: arjuna
+  type: enemy
+  explanation: "Karna challenges Arjuna from their schooldays, and Arjuna kills him at Kurukshetra."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.134"
+    - source: ganguli-mahabharata
+      locator: "1.138"
+    - source: ganguli-mahabharata
+      locator: "8.91"
+- id: mbh-drona-enemy-drupada
+  from: drona
+  to: drupada
+  type: enemy
+  explanation: "Drupada rejects his old friend Drona; Drona has his pupils capture Drupada and takes half his kingdom, and Drupada seeks a son to kill him."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.132"
+    - source: ganguli-mahabharata
+      locator: "1.140"
+    - source: ganguli-mahabharata
+      locator: "1.169"
+- id: mbh-dhrishtadyumna-enemy-drona
+  from: dhrishtadyumna
+  to: drona
+  type: enemy
+  explanation: "Born for Drona's destruction, Dhrishtadyumna kills him in the war."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.169"
+    - source: ganguli-mahabharata
+      locator: "7.193"
+- id: mbh-ashwatthama-enemy-dhrishtadyumna
+  from: ashwatthama
+  to: dhrishtadyumna
+  type: enemy
+  explanation: "Ashwatthama kills Dhrishtadyumna in his sleep during the night raid on the Pandava camp."
+  references:
+    - source: ganguli-mahabharata
+      locator: "10.8"
+- id: mbh-amba-enemy-bhishma
+  from: amba
+  to: bhishma
+  type: enemy
+  variant: mahabharata-people-amba-udyoga
+  explanation: "Amba blames Bhishma for her ruin and enters a pyre vowing his destruction."
+  references:
+    - source: ganguli-mahabharata
+      locator: "5.190"
+- id: mbh-shikhandi-identified-with-amba
+  from: shikhandi
+  to: amba
+  type: identified_with
+  variant: mahabharata-people-amba-udyoga
+  explanation: "In Bhishma's account Amba, after Shiva's boon, is born again as Drupada's daughter Shikhandini, later Shikhandi. The Adi Parva's list of incarnations gives Shikhandi a different origin, as a rakshasa."
+  references:
+    - source: ganguli-mahabharata
+      locator: "5.190"
+    - source: ganguli-mahabharata
+      locator: "5.191"
+    - source: ganguli-mahabharata
+      locator: "5.50"
+- id: mbh-shikhandi-enemy-bhishma
+  from: shikhandi
+  to: bhishma
+  type: enemy
+  explanation: "Arjuna attacks Bhishma from behind Shikhandi, whom Bhishma will not fight, and Bhishma falls."
+  references:
+    - source: ganguli-mahabharata
+      locator: "6.116"
+    - source: ganguli-mahabharata
+      locator: "6.117"
+    - source: ganguli-mahabharata
+      locator: "6.121"
+- id: mbh-duhshasana-enemy-draupadi
+  from: duhshasana
+  to: draupadi
+  type: enemy
+  explanation: "Duhshasana drags Draupadi by her hair into the assembly after Yudhishthira loses her at dice."
+  references:
+    - source: ganguli-mahabharata
+      locator: "2.66"
+- id: mbh-bhima-enemy-duhshasana
+  from: bhima
+  to: duhshasana
+  type: enemy
+  explanation: "Bhima kills Duhshasana in battle and drinks his blood, as he had sworn."
+  references:
+    - source: ganguli-mahabharata
+      locator: "8.83"
+    - source: ganguli-mahabharata
+      locator: "8.4"
+- id: mbh-jayadratha-enemy-arjuna
+  from: jayadratha
+  to: arjuna
+  type: enemy
+  explanation: "Jayadratha abducts Draupadi during the exile, and in the war Arjuna cuts off his head."
+  references:
+    - source: ganguli-mahabharata
+      locator: "3.267"
+    - source: ganguli-mahabharata
+      locator: "3.271"
+    - source: ganguli-mahabharata
+      locator: "7.145"
+- id: mbh-karna-enemy-ghatotkacha
+  from: karna
+  to: ghatotkacha
+  type: enemy
+  explanation: "Karna kills Ghatotkacha with the dart he had received from Indra."
+  references:
+    - source: ganguli-mahabharata
+      locator: "7.179"
+- id: mbh-shalya-enemy-yudhishthira
+  from: shalya
+  to: yudhishthira
+  type: enemy
+  explanation: "On the last day Yudhishthira kills Shalya, the Kaurava commander."
+  references:
+    - source: ganguli-mahabharata
+      locator: "9.17"
+    - source: ganguli-mahabharata
+      locator: "1.2"
+- id: mbh-shalya-enemy-uttara-prince
+  from: shalya
+  to: uttara-prince
+  type: enemy
+  explanation: "Shalya kills Prince Uttara with an iron dart."
+  references:
+    - source: ganguli-mahabharata
+      locator: "6.47"
+- id: mbh-sahadeva-enemy-shakuni
+  from: sahadeva
+  to: shakuni
+  type: enemy
+  explanation: "Sahadeva kills Shakuni at the end of the war."
+  references:
+    - source: ganguli-mahabharata
+      locator: "9.28"
+    - source: ganguli-mahabharata
+      locator: "1.2"
+- id: mbh-arjuna-enemy-bhagadatta
+  from: arjuna
+  to: bhagadatta
+  type: enemy
+  explanation: "Arjuna pierces Bhagadatta's breast and kills him."
+  references:
+    - source: ganguli-mahabharata
+      locator: "7.27"
+    - source: ganguli-mahabharata
+      locator: "7.28"
+- id: mbh-satyaki-enemy-bhurishravas
+  from: satyaki
+  to: bhurishravas
+  type: enemy
+  explanation: "After Arjuna cuts off Bhurishravas's arm to save Satyaki, Satyaki kills Bhurishravas."
+  references:
+    - source: ganguli-mahabharata
+      locator: "7.142"
+- id: mbh-satyaki-enemy-somadatta
+  from: satyaki
+  to: somadatta
+  type: enemy
+  explanation: "Satyaki vows to kill Somadatta and does so."
+  references:
+    - source: ganguli-mahabharata
+      locator: "7.161"

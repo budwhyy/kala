@@ -1,0 +1,28 @@
+slug: shrutakirti-son-of-arjuna
+names:
+  - text: "Shrutakirti (son of Arjuna)"
+    lang: en
+    script: Latn
+  - text: "श्रुतकीर्ति"
+    lang: sa
+    script: Deva
+    iast: "Śrutakīrti"
+epithets:
+  - text: "Shrutakarman"
+    lang: en
+    script: Latn
+  - text: "Srutakirti"
+    lang: en
+    script: Latn
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "Son of Arjuna and Draupadi. The Adi Parva names him Shrutakirti in its lists (1.63, 1.67) but Shrutakarman in the account of his birth (1.223). He dies in Ashwatthama's night raid with his brothers."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.63"
+  - source: ganguli-mahabharata
+    locator: "1.67"
+  - source: ganguli-mahabharata
+    locator: "1.223"
+  - source: ganguli-mahabharata
+    locator: "10.8"

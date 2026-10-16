@@ -1,0 +1,20 @@
+slug: lava
+names:
+  - text: "Lava"
+    lang: en
+    script: Latn
+  - text: लव
+    lang: sa
+    script: Deva
+    iast: "Lava"
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "One of the twin sons of Rama, raised in the hermitage of Valmiki, who teaches the twins his poem. The Uttara Kanda tells of their birth to Sita in that hermitage."
+summary_scholar: "Griffith 1.4 already calls Kusha and Lava twins and Rama their father; the account of their birth to Sita in Valmiki's hermitage, and their naming from the two parts of the kusha grass used to protect them, is in the Uttara Kanda (Dutt 7.79). Macdonell (1900, p. 304) suggested the names arose from the word kushilava, 'bard'; that is a scholar's hypothesis, not the text's account."
+references:
+  - source: griffith-ramayana
+    locator: "1.4"
+  - source: dutt-ramayana
+    locator: "7.79"
+  - source: dutt-ramayana
+    locator: "7.110"

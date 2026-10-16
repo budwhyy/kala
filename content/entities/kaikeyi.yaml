@@ -1,0 +1,19 @@
+slug: kaikeyi
+names:
+  - text: "Kaikeyi"
+    lang: en
+    script: Latn
+  - text: कैकेयी
+    lang: sa
+    script: Deva
+    iast: "Kaikeyī"
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "Dasharatha's queen and the mother of Bharata. Urged on by her maid Manthara, she claims two old boons from the king: Bharata's consecration and Rama's exile to the forest for fourteen years."
+references:
+  - source: griffith-ramayana
+    locator: "1.19"
+  - source: griffith-ramayana
+    locator: "2.9"
+  - source: griffith-ramayana
+    locator: "2.11"

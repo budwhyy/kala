@@ -1,0 +1,20 @@
+slug: amba
+names:
+  - text: "Amba"
+    lang: en
+    script: Latn
+  - text: "अम्बा"
+    lang: sa
+    script: Deva
+    iast: "Ambā"
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "The eldest daughter of the king of Kashi, carried off by Bhishma as a bride for his brother. She had already chosen another king and was released, but she resolved to destroy Bhishma; in the Udyoga Parva she is reborn as Drupada's child Shikhandi."
+summary_scholar: "In 1.102 she tells Bhishma she had given her heart to the king of Saubha. Bhishma tells the rest of her story in the Udyoga Parva: Shiva grants her the boon of slaying him in another body, and she enters a pyre (5.190), after which Drupada's queen bears a daughter (5.191)."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.102"
+  - source: ganguli-mahabharata
+    locator: "5.190"
+  - source: ganguli-mahabharata
+    locator: "5.191"

@@ -1,0 +1,21 @@
+slug: bhagadatta
+names:
+  - text: "Bhagadatta"
+    lang: en
+    script: Latn
+  - text: "भगदत्त"
+    lang: sa
+    script: Deva
+    iast: "Bhagadatta"
+kinds: [human, king]
+traditions: [itihasa]
+summary_beginner: "King of Pragjyotisha and an old friend of Pandu, who brought an army to Duryodhana and was killed by Arjuna in the war."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.67"
+  - source: ganguli-mahabharata
+    locator: "2.14"
+  - source: ganguli-mahabharata
+    locator: "5.19"
+  - source: ganguli-mahabharata
+    locator: "7.27"

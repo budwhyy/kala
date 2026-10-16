@@ -1,0 +1,38 @@
+slug: bhima
+names:
+  - text: "Bhima"
+    lang: en
+    script: Latn
+  - text: "भीम"
+    lang: sa
+    script: Deva
+    iast: "Bhīma"
+epithets:
+  - text: "Bhimasena"
+    lang: en
+    script: Latn
+  - text: "Vrikodara"
+    lang: en
+    script: Latn
+kinds: [human]
+traditions: [itihasa, puranic]
+dynasties:
+  - to: kuru-dynasty
+    note: "A son of Pandu."
+    references:
+      - source: ganguli-mahabharata
+        locator: "1.95"
+summary_beginner: "The second Pandava, son of Kunti by the wind god Vayu, famed for his strength and his mace. He kills Jarasandha and Duhshasana and, at the end of the war, breaks Duryodhana's thighs."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.95"
+  - source: ganguli-mahabharata
+    locator: "1.123"
+  - source: ganguli-mahabharata
+    locator: "2.24"
+  - source: ganguli-mahabharata
+    locator: "8.83"
+  - source: ganguli-mahabharata
+    locator: "9.58"
+  - source: wilson-vishnu-purana
+    locator: "4.14"

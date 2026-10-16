@@ -1,0 +1,308 @@
+- id: dasharatha-partner-of-kausalya
+  from: dasharatha
+  to: kausalya
+  type: partner
+  explanation: "Kausalya is one of King Dasharatha's three queens."
+  references:
+    - source: griffith-ramayana
+      locator: "1.17"
+    - source: griffith-ramayana
+      locator: "1.19"
+    - source: griffith-ramayana
+      locator: "1.77"
+- id: dasharatha-partner-of-kaikeyi
+  from: dasharatha
+  to: kaikeyi
+  type: partner
+  explanation: "Kaikeyi is one of King Dasharatha's three queens."
+  references:
+    - source: griffith-ramayana
+      locator: "1.17"
+    - source: griffith-ramayana
+      locator: "1.19"
+    - source: griffith-ramayana
+      locator: "1.77"
+- id: dasharatha-partner-of-sumitra
+  from: dasharatha
+  to: sumitra
+  type: partner
+  explanation: "Sumitra is one of King Dasharatha's three queens."
+  references:
+    - source: griffith-ramayana
+      locator: "1.17"
+    - source: griffith-ramayana
+      locator: "1.19"
+    - source: griffith-ramayana
+      locator: "1.77"
+- id: dasharatha-father-of-rama
+  from: dasharatha
+  to: rama
+  type: parent
+  role: father
+  mode: biological
+  explanation: "The four princes are born to Dasharatha's queens after the king's great sacrifice for sons."
+  references:
+    - source: griffith-ramayana
+      locator: "1.19"
+- id: dasharatha-father-of-bharata
+  from: dasharatha
+  to: bharata
+  type: parent
+  role: father
+  mode: biological
+  explanation: "The four princes are born to Dasharatha's queens after the king's great sacrifice for sons."
+  references:
+    - source: griffith-ramayana
+      locator: "1.19"
+- id: dasharatha-father-of-lakshmana
+  from: dasharatha
+  to: lakshmana
+  type: parent
+  role: father
+  mode: biological
+  explanation: "The four princes are born to Dasharatha's queens after the king's great sacrifice for sons."
+  references:
+    - source: griffith-ramayana
+      locator: "1.19"
+- id: dasharatha-father-of-shatrughna
+  from: dasharatha
+  to: shatrughna
+  type: parent
+  role: father
+  mode: biological
+  explanation: "The four princes are born to Dasharatha's queens after the king's great sacrifice for sons."
+  references:
+    - source: griffith-ramayana
+      locator: "1.19"
+- id: kausalya-mother-of-rama
+  from: kausalya
+  to: rama
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Kausalya gives birth to Rama."
+  references:
+    - source: griffith-ramayana
+      locator: "1.19"
+- id: kaikeyi-mother-of-bharata
+  from: kaikeyi
+  to: bharata
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Kaikeyi gives birth to Bharata."
+  references:
+    - source: griffith-ramayana
+      locator: "1.19"
+    - source: griffith-ramayana
+      locator: "1.77"
+- id: sumitra-mother-of-lakshmana
+  from: sumitra
+  to: lakshmana
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Sumitra gives birth to the twins Lakshmana and Shatrughna."
+  references:
+    - source: griffith-ramayana
+      locator: "1.19"
+- id: sumitra-mother-of-shatrughna
+  from: sumitra
+  to: shatrughna
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Sumitra gives birth to the twins Lakshmana and Shatrughna."
+  references:
+    - source: griffith-ramayana
+      locator: "1.19"
+- id: rama-sibling-of-bharata
+  from: rama
+  to: bharata
+  type: sibling
+  explanation: "They are two of the four sons of Dasharatha."
+  references:
+    - source: griffith-ramayana
+      locator: "1.19"
+- id: rama-sibling-of-lakshmana
+  from: rama
+  to: lakshmana
+  type: sibling
+  explanation: "Rama and his younger brother Lakshmana are sons of Dasharatha by different queens; Lakshmana follows Rama into exile."
+  references:
+    - source: griffith-ramayana
+      locator: "1.19"
+    - source: griffith-ramayana
+      locator: "3.17"
+- id: rama-sibling-of-shatrughna
+  from: rama
+  to: shatrughna
+  type: sibling
+  explanation: "They are two of the four sons of Dasharatha."
+  references:
+    - source: griffith-ramayana
+      locator: "1.19"
+- id: bharata-sibling-of-lakshmana
+  from: bharata
+  to: lakshmana
+  type: sibling
+  explanation: "They are two of the four sons of Dasharatha."
+  references:
+    - source: griffith-ramayana
+      locator: "1.19"
+- id: bharata-sibling-of-shatrughna
+  from: bharata
+  to: shatrughna
+  type: sibling
+  explanation: "They are two of the four sons of Dasharatha."
+  references:
+    - source: griffith-ramayana
+      locator: "1.19"
+- id: lakshmana-sibling-of-shatrughna
+  from: lakshmana
+  to: shatrughna
+  type: sibling
+  explanation: "Lakshmana and Shatrughna are twin sons of Dasharatha and Sumitra."
+  references:
+    - source: griffith-ramayana
+      locator: "1.19"
+- id: bharata-avatar-of-vishnu
+  from: bharata
+  to: vishnu
+  type: avatar_of
+  explanation: "Vishnu resolves to divide himself into four and be born as Dasharatha's sons; Bharata is born as a quarter of Vishnu."
+  references:
+    - source: griffith-ramayana
+      locator: "1.15"
+    - source: griffith-ramayana
+      locator: "1.19"
+- id: lakshmana-avatar-of-vishnu
+  from: lakshmana
+  to: vishnu
+  type: avatar_of
+  explanation: "Vishnu resolves to divide himself into four and be born as Dasharatha's sons; Lakshmana and Shatrughna are said to share in Vishnu's essence."
+  references:
+    - source: griffith-ramayana
+      locator: "1.15"
+    - source: griffith-ramayana
+      locator: "1.19"
+- id: shatrughna-avatar-of-vishnu
+  from: shatrughna
+  to: vishnu
+  type: avatar_of
+  explanation: "Vishnu resolves to divide himself into four and be born as Dasharatha's sons; Lakshmana and Shatrughna are said to share in Vishnu's essence."
+  references:
+    - source: griffith-ramayana
+      locator: "1.15"
+    - source: griffith-ramayana
+      locator: "1.19"
+- id: rama-partner-of-sita
+  from: rama
+  to: sita
+  type: partner
+  explanation: "Janaka gives Sita to Rama after Rama breaks Shiva's bow."
+  references:
+    - source: griffith-ramayana
+      locator: "1.67"
+    - source: griffith-ramayana
+      locator: "1.73"
+    - source: griffith-ramayana
+      locator: "2.118"
+- id: lakshmana-partner-of-urmila
+  from: lakshmana
+  to: urmila
+  type: partner
+  explanation: "Janaka gives Urmila to Lakshmana at the same wedding."
+  references:
+    - source: griffith-ramayana
+      locator: "1.71"
+    - source: griffith-ramayana
+      locator: "1.73"
+- id: bharata-partner-of-mandavi
+  from: bharata
+  to: mandavi
+  type: partner
+  explanation: "Mandavi, Kushadhvaja's daughter, is married to Bharata."
+  references:
+    - source: griffith-ramayana
+      locator: "1.72"
+    - source: griffith-ramayana
+      locator: "1.73"
+- id: shatrughna-partner-of-shrutakirti
+  from: shatrughna
+  to: shrutakirti
+  type: partner
+  explanation: "Shrutakirti, Kushadhvaja's daughter, is married to Shatrughna."
+  references:
+    - source: griffith-ramayana
+      locator: "1.72"
+    - source: griffith-ramayana
+      locator: "1.73"
+- id: sita-identified-with-lakshmi
+  from: sita
+  to: lakshmi
+  type: identified_with
+  explanation: "After the fire ordeal Brahma tells Rama that he is Vishnu and that Sita is Lakshmi, his consort."
+  references:
+    - source: griffith-ramayana
+      locator: "6.119"
+- id: rama-father-of-kusha
+  from: rama
+  to: kusha
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Kusha and Lava are Rama's twin sons: the Bala Kanda says they resemble the father from whom they came, and in the Uttara Kanda Valmiki declares them Rama's sons and Rama accepts them."
+  references:
+    - source: griffith-ramayana
+      locator: "1.4"
+    - source: dutt-ramayana
+      locator: "7.109"
+    - source: dutt-ramayana
+      locator: "7.110"
+- id: rama-father-of-lava
+  from: rama
+  to: lava
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Kusha and Lava are Rama's twin sons: the Bala Kanda says they resemble the father from whom they came, and in the Uttara Kanda Valmiki declares them Rama's sons and Rama accepts them."
+  references:
+    - source: griffith-ramayana
+      locator: "1.4"
+    - source: dutt-ramayana
+      locator: "7.109"
+    - source: dutt-ramayana
+      locator: "7.110"
+- id: sita-mother-of-kusha
+  from: sita
+  to: kusha
+  type: parent
+  role: mother
+  mode: biological
+  variant: ramayana-story-valmiki-uttara-kanda
+  explanation: "In the Uttara Kanda Sita, sent away by Rama, gives birth to twin sons in Valmiki's hermitage; Valmiki names the elder Kusha."
+  references:
+    - source: dutt-ramayana
+      locator: "7.79"
+- id: sita-mother-of-lava
+  from: sita
+  to: lava
+  type: parent
+  role: mother
+  mode: biological
+  variant: ramayana-story-valmiki-uttara-kanda
+  explanation: "In the Uttara Kanda Sita gives birth to twin sons in Valmiki's hermitage; Valmiki names the younger Lava."
+  references:
+    - source: dutt-ramayana
+      locator: "7.79"
+- id: kusha-sibling-of-lava
+  from: kusha
+  to: lava
+  type: sibling
+  explanation: "Kusha and Lava are twins."
+  references:
+    - source: griffith-ramayana
+      locator: "1.4"
+    - source: dutt-ramayana
+      locator: "7.79"

@@ -1,0 +1,244 @@
+# Teachers, blessings and curses among the people of the Mahabharata.
+# Directed types read from -> to: teacher taught pupil; curse and blessing go from the one who gives them.
+- id: mbh-vasishtha-teacher-bhishma
+  from: vasishtha
+  to: bhishma
+  type: teacher
+  explanation: "Ganga tells Shantanu that Bhishma has studied the whole of the Vedas with Vasishtha."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.100"
+- id: mbh-parashurama-teacher-bhishma
+  from: parashurama
+  to: bhishma
+  type: teacher
+  explanation: "Bhishma calls Rama, son of Jamadagni, the teacher who instructed him in arms, and Rama calls himself Bhishma's preceptor."
+  references:
+    - source: ganguli-mahabharata
+      locator: "5.181"
+    - source: ganguli-mahabharata
+      locator: "1.100"
+- id: mbh-parashurama-teacher-drona
+  from: parashurama
+  to: drona
+  type: teacher
+  explanation: "Drona goes to Rama, son of Jamadagni, on Mount Mahendra and receives all his weapons and the science of arms."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.131"
+- id: mbh-parashurama-teacher-karna
+  from: parashurama
+  to: karna
+  type: teacher
+  explanation: "Karna learns the Brahma weapon from Rama (Parashurama), whom he calls his preceptor."
+  references:
+    - source: ganguli-mahabharata
+      locator: "5.62"
+    - source: ganguli-mahabharata
+      locator: "12.2"
+- id: mbh-parashurama-curse-karna
+  from: parashurama
+  to: karna
+  type: curse
+  explanation: "Learning that Karna had posed as a Brahmin, Rama curses him to forget the Brahma weapon when facing an equal in battle."
+  references:
+    - source: ganguli-mahabharata
+      locator: "5.62"
+    - source: ganguli-mahabharata
+      locator: "12.3"
+    - source: ganguli-mahabharata
+      locator: "5.169"
+- id: mbh-drona-teacher-pandavas
+  from: drona
+  to: pandavas
+  type: teacher
+  explanation: "Bhishma places the Pandavas and the Kauravas under Drona's instruction in arms."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.131"
+    - source: ganguli-mahabharata
+      locator: "1.134"
+- id: mbh-drona-teacher-kauravas
+  from: drona
+  to: kauravas
+  type: teacher
+  explanation: "Bhishma places the Kauravas and the Pandavas under Drona's instruction in arms."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.131"
+    - source: ganguli-mahabharata
+      locator: "1.134"
+- id: mbh-drona-teacher-arjuna
+  from: drona
+  to: arjuna
+  type: teacher
+  explanation: "Arjuna becomes Drona's finest pupil, and Drona resolves that no pupil shall equal him."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.134"
+- id: mbh-drona-teacher-karna
+  from: drona
+  to: karna
+  type: teacher
+  explanation: "Karna, the adopted son of Radha, is among the princes who study under Drona."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.134"
+- id: mbh-drona-teacher-ashwatthama
+  from: drona
+  to: ashwatthama
+  type: teacher
+  explanation: "Drona gives his own son Ashwatthama extra lessons."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.134"
+- id: mbh-drona-teacher-dhrishtadyumna
+  from: drona
+  to: dhrishtadyumna
+  type: teacher
+  explanation: "Drona takes Drupada's son Dhrishtadyumna into his house and teaches him all weapons."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.169"
+    - source: ganguli-mahabharata
+      locator: "6.25"
+- id: mbh-kripa-teacher-pandavas
+  from: kripa
+  to: pandavas
+  type: teacher
+  explanation: "Kripa teaches the science of arms to the Pandavas, the sons of Dhritarashtra and the Yadava princes."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.130"
+- id: mbh-kripa-teacher-kauravas
+  from: kripa
+  to: kauravas
+  type: teacher
+  explanation: "Kripa teaches the science of arms to the hundred sons of Dhritarashtra."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.130"
+- id: mbh-arjuna-teacher-uttara-princess
+  from: arjuna
+  to: uttara-princess
+  type: teacher
+  explanation: "Arjuna, disguised as Brihannala at Virata's court, becomes dancing-master to the princess Uttara."
+  references:
+    - source: ganguli-mahabharata
+      locator: "4.11"
+- id: mbh-arjuna-teacher-satyaki
+  from: arjuna
+  to: satyaki
+  type: teacher
+  explanation: "Yuyudhana (Satyaki) is among the Vrishni princes who learned arms under Arjuna."
+  references:
+    - source: ganguli-mahabharata
+      locator: "2.4"
+- id: mbh-arjuna-teacher-pradyumna
+  from: arjuna
+  to: pradyumna
+  type: teacher
+  explanation: "Pradyumna is among the Vrishni princes who learned arms under Arjuna."
+  references:
+    - source: ganguli-mahabharata
+      locator: "2.4"
+- id: mbh-arjuna-teacher-samba
+  from: arjuna
+  to: samba
+  type: teacher
+  explanation: "Samba is among the Vrishni princes who learned arms under Arjuna."
+  references:
+    - source: ganguli-mahabharata
+      locator: "2.4"
+- id: mbh-arjuna-teacher-aniruddha
+  from: arjuna
+  to: aniruddha
+  type: teacher
+  explanation: "Aniruddha is among the Vrishni princes who learned arms under Arjuna."
+  references:
+    - source: ganguli-mahabharata
+      locator: "2.4"
+- id: mbh-krishna-teacher-arjuna
+  from: krishna
+  to: arjuna
+  type: teacher
+  explanation: "On the field of Kurukshetra Arjuna declares himself Krishna's disciple, and Krishna teaches him the Bhagavad Gita."
+  references:
+    - source: ganguli-mahabharata
+      locator: "6.26"
+    - source: ganguli-mahabharata
+      locator: "6.42"
+- id: mbh-bhishma-teacher-yudhishthira
+  from: bhishma
+  to: yudhishthira
+  type: teacher
+  explanation: "Lying on his bed of arrows, Bhishma answers Yudhishthira's questions on the duties of kings and much else."
+  references:
+    - source: ganguli-mahabharata
+      locator: "12.56"
+    - source: ganguli-mahabharata
+      locator: "12.58"
+- id: mbh-vasishtha-curse-bhishma
+  from: vasishtha
+  to: bhishma
+  type: curse
+  explanation: "Vasishtha, there called Apava, son of Varuna, curses the Vasu Dyu, who stole his cow, to live long on earth without children; Dyu is born as Bhishma."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.99"
+- id: mbh-vyasa-blessing-gandhari
+  from: vyasa
+  to: gandhari
+  type: blessing
+  explanation: "Gandhari reminds Vyasa that he granted her the boon of a hundred sons."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.115"
+- id: mbh-shiva-blessing-gandhari
+  from: shiva
+  to: gandhari
+  type: blessing
+  explanation: "Gandhari, having worshipped Hara (Shiva), obtains the boon of a hundred sons."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.110"
+- id: mbh-shiva-blessing-amba
+  from: shiva
+  to: amba
+  type: blessing
+  explanation: "Shiva grants Amba that she will slay Bhishma in another body, born in Drupada's race, and become a man."
+  references:
+    - source: ganguli-mahabharata
+      locator: "5.190"
+- id: mbh-vyasa-blessing-sanjaya
+  from: vyasa
+  to: sanjaya
+  type: blessing
+  explanation: "Vyasa grants Sanjaya divine vision so that he can describe the battle to Dhritarashtra."
+  references:
+    - source: ganguli-mahabharata
+      locator: "6.2"
+- id: mbh-gandhari-curse-krishna
+  from: gandhari
+  to: krishna
+  type: curse
+  explanation: "Gandhari curses Krishna for standing by while the Kurus and Pandavas destroyed each other: he will be the slayer of his own kinsmen."
+  references:
+    - source: ganguli-mahabharata
+      locator: "11.25"
+- id: mbh-krishna-curse-ashwatthama
+  from: krishna
+  to: ashwatthama
+  type: curse
+  explanation: "After Ashwatthama turns his weapon on the unborn child in Uttara's womb, Krishna curses him to wander the earth for three thousand years, friendless and diseased."
+  references:
+    - source: ganguli-mahabharata
+      locator: "10.16"
+- id: mbh-krishna-blessing-parikshit
+  from: krishna
+  to: parikshit
+  type: blessing
+  explanation: "Krishna withdraws the force of the Brahma weapon and brings the stillborn Parikshit to life."
+  references:
+    - source: ganguli-mahabharata
+      locator: "14.69"

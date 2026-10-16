@@ -8,7 +8,7 @@ const { dataset } = await loadContent(resolve(import.meta.dirname, "../../../../
 const rels = dataset.relationships;
 
 describe("tracePaths on Phase 1 content", () => {
-  // Brief examples Krishna ↔ Arjuna and Shakuni ↔ Duryodhana need Phase 3 content (OQ-019).
+  // Phase 1 pairs, then the epic pairs added in Phase 3 (resolves OQ-019).
   it.each([
     ["kashyapa", "garuda", 1],
     ["rama", "vaivasvata-manu", 2],
@@ -22,6 +22,14 @@ describe("tracePaths on Phase 1 content", () => {
     ["yadu", "puru", 2],
     ["shiva", "parvati", 1],
     ["vishnu", "lakshmi", 1],
+    // Epic pairs (Phase 3), including the brief §8 examples Krishna ↔ Arjuna and Shakuni ↔ Duryodhana.
+    ["krishna", "arjuna", 4],
+    ["shakuni", "duryodhana", 2],
+    ["bhishma", "arjuna", 4],
+    ["karna", "arjuna", 2],
+    ["rama", "hanuman", 2],
+    ["ravana", "vibhishana", 2],
+    ["dasharatha", "ikshvaku", 40],
   ])("%s ↔ %s", (a, b, maxLength) => {
     const paths = tracePaths(rels, a, b);
     expect(paths.length).toBeGreaterThan(0);

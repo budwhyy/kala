@@ -1,0 +1,49 @@
+slug: "dvaitavana"
+names:
+  - text: "Dvaitavana"
+    lang: "en"
+    script: "Latn"
+  - text: "द्वैतवन"
+    lang: "sa"
+    script: "Deva"
+    iast: "Dvaitavana"
+realm: "terrestrial"
+kind: "forest"
+confidence: "debated"
+modern_admin:
+  country: "India"
+alternative_identifications:
+  - label: "A lake and forest on the Sarasvati at the edge of the desert (the text's own description)"
+    confidence: "debated"
+    argument: "The Mahabharata describes Dvaitavana as a sacred lake in a forest washed by the Sarasvati, on the borders of the desert. KĀLA holds no scholarly identification of a particular site."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "3.24"
+      - source: "ganguli-mahabharata"
+        locator: "3.25"
+      - source: "ganguli-mahabharata"
+        locator: "3.176"
+evidence:
+  - type: "textual"
+    summary: "The Pandavas settle by the lake of Dvaitavana early in the exile, return to it after their pilgrimage, and it is there that Yudhishthira answers the yaksha's questions."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "3.24"
+      - source: "ganguli-mahabharata"
+        locator: "3.176"
+      - source: "ganguli-mahabharata"
+        locator: "3.309"
+related_places:
+  - to: "sarasvati-river"
+    relation: "near"
+    note: "The text says the forest is washed by the Sarasvati."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "3.25"
+traditions:
+  - "itihasa"
+summary_beginner: "A forest with a sacred lake on the Sarasvati where the Pandavas lived during their exile and where the yaksha questioned Yudhishthira. Its location is unknown."
+summary_scholar: "Classed as debated: the only location KĀLA can cite is the epic's description."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "3.24"

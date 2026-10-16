@@ -1,0 +1,29 @@
+slug: ramayana-death-of-kumbhakarna
+names:
+  - text: "The death of Kumbhakarna"
+    lang: en
+    script: Latn
+participants:
+  - entity: kumbhakarna
+    role: "Ravana's giant brother, woken to fight"
+  - entity: ravana
+    role: "has him roused from his sleep"
+  - entity: rama
+    role: "kills him"
+  - entity: vanaras
+    role: "slain and devoured in his onslaught"
+places:
+  - lanka-ramayana
+narrative_order:
+  text: valmiki-ramayana
+  position: 667
+  section: yuddha-kanda
+variant: valmiki-ramayana-account
+traditions:
+  - itihasa
+summary_beginner: "Ravana has his giant brother Kumbhakarna woken from his long sleep. He kills and devours vanaras in great numbers until Rama cuts off his arms and legs with arrows and finally his head, which falls on the city."
+references:
+  - source: griffith-ramayana
+    locator: "6.60"
+  - source: griffith-ramayana
+    locator: "6.67"

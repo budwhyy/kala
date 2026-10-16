@@ -1,0 +1,27 @@
+slug: vichitravirya
+names:
+  - text: "Vichitravirya"
+    lang: en
+    script: Latn
+  - text: "विचित्रवीर्य"
+    lang: sa
+    script: Deva
+    iast: "Vicitravīrya"
+kinds: [human, king]
+traditions: [itihasa]
+dynasties:
+  - to: kuru-dynasty
+    note: "King of the Kurus, installed by Bhishma."
+    references:
+      - source: ganguli-mahabharata
+        locator: "1.101"
+summary_beginner: "The younger son of Shantanu and Satyavati, king after his brother Chitrangada. He married Ambika and Ambalika, daughters of the king of Kashi, but died young and childless; Dhritarashtra and Pandu were born in his name."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.95"
+  - source: ganguli-mahabharata
+    locator: "1.101"
+  - source: ganguli-mahabharata
+    locator: "1.102"
+  - source: ganguli-mahabharata
+    locator: "1.106"

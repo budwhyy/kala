@@ -1,0 +1,45 @@
+slug: ramayana-return-and-coronation
+names:
+  - text: "The return to Ayodhya and Rama's coronation"
+    lang: en
+    script: Latn
+participants:
+  - entity: rama
+    role: "returns and is consecrated king"
+  - entity: sita
+    role: "returns with him"
+  - entity: lakshmana
+    role: "returns with them"
+  - entity: bharata
+    role: "meets Rama at Nandigrama and returns the kingdom"
+  - entity: hanuman
+    role: "carries the news ahead to Guha and Bharata"
+  - entity: sugriva
+    role: "comes with Rama"
+  - entity: vibhishana
+    role: "comes with Rama"
+  - entity: vasishtha
+    role: "leads the consecration"
+places:
+  - prayagraj
+  - nandigrama
+  - ayodhya
+narrative_order:
+  text: valmiki-ramayana
+  position: 730
+  section: yuddha-kanda
+variant: valmiki-ramayana-account
+traditions:
+  - itihasa
+summary_beginner: "Rama flies home in the aerial chariot Pushpaka, pointing out to Sita the places of their journey. He stops at Bharadvaja's hermitage and sends Hanuman ahead. At Nandigrama Bharata meets him and places the sandals back on his feet, and in Ayodhya Rama is consecrated king."
+references:
+  - source: griffith-ramayana
+    locator: "6.123"
+  - source: griffith-ramayana
+    locator: "6.125"
+  - source: griffith-ramayana
+    locator: "6.126"
+  - source: griffith-ramayana
+    locator: "6.129"
+  - source: griffith-ramayana
+    locator: "6.130"

@@ -1,0 +1,15 @@
+slug: anjana
+names:
+  - text: "Anjana"
+    lang: en
+    script: Latn
+  - text: अञ्जना
+    lang: sa
+    script: Deva
+    iast: "Añjanā"
+kinds: [apsara, vanara]
+traditions: [itihasa]
+summary_beginner: "Hanuman's mother: an apsara named Punjikasthala who, under a curse, was born in vanara form and became the wife of a vanara. The wind god loved her and promised her a mighty son."
+references:
+  - source: griffith-ramayana
+    locator: "4.66"

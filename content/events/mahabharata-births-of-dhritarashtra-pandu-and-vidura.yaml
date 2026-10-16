@@ -1,0 +1,36 @@
+slug: "mahabharata-births-of-dhritarashtra-pandu-and-vidura"
+names:
+  - text: "The births of Dhritarashtra, Pandu and Vidura"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "satyavati"
+    role: "summons her son Vyasa to continue the line"
+  - entity: "bhishma"
+    role: "advises that a Brahmana raise offspring for the line"
+  - entity: "vyasa"
+    role: "fathers the three sons"
+  - entity: "ambika"
+    role: "mother of Dhritarashtra"
+  - entity: "ambalika"
+    role: "mother of Pandu"
+  - entity: "dhritarashtra"
+    role: "born blind"
+  - entity: "pandu"
+    role: "born pale"
+  - entity: "vidura"
+    role: "born to a serving-woman"
+narrative_order:
+  text: "mahabharata"
+  position: 1105
+  section: "adi-parva"
+variant: "mahabharata-story-ganguli-account"
+traditions:
+  - "itihasa"
+summary_beginner: "Vichitravirya dies without children. Bound by his vow, Bhishma will not father heirs, so Satyavati calls on her elder son Vyasa to raise sons for the line. Ambika's son, Dhritarashtra, is born blind; Ambalika, pale with fear at the sage's grim appearance, bears the pale Pandu; a serving-woman sent in Ambika's place bears Vidura, who the text says was the god of justice born on earth through a sage's curse."
+summary_scholar: "Ganguli 1.105 (Bhishma's advice and Satyavati's proposal) and 1.106 (the three births and Vyasa's prophecies). Vidura is identified with Dharma born under the curse of the rishi Mandavya. The 'position' in narrative_order is parva x 1000 + Ganguli's section number of the main passage, so events sort in the order the epic tells them."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "1.105"
+  - source: "ganguli-mahabharata"
+    locator: "1.106"

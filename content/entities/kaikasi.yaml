@@ -1,0 +1,17 @@
+slug: kaikasi
+names:
+  - text: "Kaikasi"
+    lang: en
+    script: Latn
+  - text: कैकसी
+    lang: sa
+    script: Deva
+    iast: "Kaikasī"
+kinds: [rakshasa]
+traditions: [itihasa]
+summary_beginner: "In the Uttara Kanda, a daughter of the rakshasa Sumali who, at her father's urging, goes to the sage Vishravas and becomes the mother of Ravana, Kumbhakarna, Shurpanakha and Vibhishana."
+references:
+  - source: dutt-ramayana
+    locator: "7.5"
+  - source: dutt-ramayana
+    locator: "7.9"

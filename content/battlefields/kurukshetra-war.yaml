@@ -1,0 +1,1919 @@
+slug: kurukshetra-war
+names:
+  - text: The Kurukshetra war (Mahabharata)
+    lang: en
+    script: Latn
+  - text: कुरुक्षेत्रयुद्ध
+    lang: sa
+    script: Deva
+    iast: Kurukṣetra-yuddha
+    meaning: the battle of Kurukshetra
+place: kurukshetra
+text: mahabharata
+variant: kurukshetra-ganguli-account
+literary: true
+sides:
+  - id: pandava-army
+    names:
+      - text: Pandava army
+        lang: en
+        script: Latn
+    leaders:
+      - yudhishthira
+      - dhrishtadyumna
+      - arjuna
+      - krishna
+      - drupada
+      - virata
+      - satyaki
+      - shikhandi
+    kingdoms:
+      - to: panchala-kingdom-epic
+        note:
+          Drupada brings the Panchala army with his sons, and commands one of the seven divisions
+          of the Pandava host.
+        references:
+          - source: ganguli-mahabharata
+            locator: "5.19"
+          - source: ganguli-mahabharata
+            locator: "5.158"
+      - to: matsya-kingdom-epic
+        note: Virata, king of the Matsyas, joins the Pandavas and commands one of their divisions.
+        references:
+          - source: ganguli-mahabharata
+            locator: "5.19"
+          - source: ganguli-mahabharata
+            locator: "5.158"
+      - to: chedi-kingdom-epic
+        note: Dhrishtaketu, chief of the Chedis, comes to the Pandavas with an akshauhini.
+        references:
+          - source: ganguli-mahabharata
+            locator: "5.19"
+      - to: magadha-kingdom-epic
+        note:
+          The Udyoga Parva has Jayatsena of Magadha bring an akshauhini to Yudhishthira, and names
+          Sahadeva, ruler of the Magadhas, among the seven Pandava division commanders. Magadha
+          troops are also placed on the Kaurava side in the battle books (see that side).
+        references:
+          - source: ganguli-mahabharata
+            locator: "5.19"
+          - source: ganguli-mahabharata
+            locator: "5.158"
+      - to: yadava-kingdom-epic
+        note: Satyaki (Yuyudhana) of the Satvata clan brings an akshauhini to Yudhishthira; Krishna
+          joins Arjuna as an unarmed charioteer. Other Yadava forces fight for Duryodhana.
+        references:
+          - source: ganguli-mahabharata
+            locator: "5.19"
+          - source: ganguli-mahabharata
+            locator: "5.7"
+      - to: kashi-kingdom-epic
+        note: The lord of Kashi, ruling at Varanasi, is said to have become an ally of the Pandavas.
+        references:
+          - source: ganguli-mahabharata
+            locator: "5.50"
+      - to: kekaya-kingdom-epic
+        note: A Kekaya king with an akshauhini holds a wing of the Pandava array, and five Kekaya
+          brothers guard its rear; other Kekaya princes join Duryodhana.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.69"
+          - source: ganguli-mahabharata
+            locator: "6.109"
+    references:
+      - source: ganguli-mahabharata
+        locator: "5.19"
+      - source: ganguli-mahabharata
+        locator: "5.158"
+        note:
+          Seven akshauhinis under Drupada, Virata, Satyaki, Dhrishtadyumna, Dhrishtaketu, Shikhandi
+          and Sahadeva of Magadha; Dhrishtadyumna commands all, Arjuna leads the leaders.
+      - source: ganguli-mahabharata
+        locator: "5.7"
+        note: Arjuna chooses Krishna, who will not fight, and Krishna offers to be his charioteer.
+  - id: kaurava-army
+    names:
+      - text: Kaurava army
+        lang: en
+        script: Latn
+    leaders:
+      - duryodhana
+      - bhishma
+      - drona
+      - karna
+      - shalya
+      - kripa
+      - ashwatthama
+      - kritavarma
+      - jayadratha
+      - shakuni
+      - bhurishravas
+      - bahlika
+    kingdoms:
+      - to: kuru-kingdom-epic
+        note: Duryodhana's own Kuru forces, the core of a host of eleven akshauhinis.
+        references:
+          - source: ganguli-mahabharata
+            locator: "5.19"
+          - source: ganguli-mahabharata
+            locator: "5.156"
+      - to: gandhara-kingdom-epic
+        note: Shakuni of Gandhara commands an akshauhini; Gandhara horsemen ride with the host.
+        references:
+          - source: ganguli-mahabharata
+            locator: "5.156"
+          - source: ganguli-mahabharata
+            locator: "7.7"
+      - to: madra-kingdom-epic
+        note: Shalya, ruler of the Madras, brings an akshauhini to Duryodhana.
+        references:
+          - source: ganguli-mahabharata
+            locator: "5.19"
+          - source: ganguli-mahabharata
+            locator: "6.84"
+      - to: sindhu-kingdom-epic
+        note: Jayadratha leads the men of Sindhu-Sauvira, an akshauhini, to Duryodhana.
+        references:
+          - source: ganguli-mahabharata
+            locator: "5.19"
+      - to: kamboja-kingdom-epic
+        note: Sudakshina, king of the Kambojas, comes with an akshauhini, with Yavanas and Sakas.
+        references:
+          - source: ganguli-mahabharata
+            locator: "5.19"
+      - to: pragjyotisha-kingdom-epic
+        note: Bhagadatta, ruler of the Pragjyotishas, gives Duryodhana an akshauhini of Chinas and
+          Kiratas.
+        references:
+          - source: ganguli-mahabharata
+            locator: "5.19"
+          - source: ganguli-mahabharata
+            locator: "6.64"
+      - to: avanti-kingdom-epic
+        note: The two kings of Avanti (Vinda and Anuvinda) each bring an akshauhini.
+        references:
+          - source: ganguli-mahabharata
+            locator: "5.19"
+          - source: ganguli-mahabharata
+            locator: "6.84"
+      - to: kekaya-kingdom-epic
+        note:
+          Five royal brothers of Kekaya come to Duryodhana with an akshauhini; other Kekayas fight
+          for the Pandavas.
+        references:
+          - source: ganguli-mahabharata
+            locator: "5.19"
+      - to: yadava-kingdom-epic
+        note: Kritavarman comes with the Bhojas, Andhakas and Kukuras, an akshauhini; Duryodhana had
+          chosen Krishna's army of Narayana cowherds.
+        references:
+          - source: ganguli-mahabharata
+            locator: "5.19"
+          - source: ganguli-mahabharata
+            locator: "5.7"
+      - to: kalinga-kingdom-epic
+        note:
+          The king of the Kalingas fights for Duryodhana and is slain by Bhima; Kalinga troops hold
+          a wing of Drona's array.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.54"
+          - source: ganguli-mahabharata
+            locator: "7.7"
+      - to: anga-kingdom-epic
+        note: The ruler of the Angas attacks Bhima on his elephant for Duryodhana's sake.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.24"
+          - source: ganguli-mahabharata
+            locator: "8.22"
+      - to: kosala-kingdom-epic
+        note: Brihadbala, ruler of the Kosalas, fights on the Kaurava side and is slain by Abhimanyu.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.45"
+      - to: magadha-kingdom-epic
+        note: In the battle books Jayatsena, king of the Magadhas, rides behind Bhishma, and Magadha
+          troops stand in Drona's and Karna's arrays (compare the Pandava side).
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.109"
+          - source: ganguli-mahabharata
+            locator: "7.20"
+    references:
+      - source: ganguli-mahabharata
+        locator: "5.19"
+      - source: ganguli-mahabharata
+        locator: "5.156"
+        note: Eleven akshauhinis, each placed under Kripa, Drona, Shalya, Jayadratha, Sudakshina,
+          Kritavarman, Ashvatthaman, Karna, Bhurishravas, Shakuni and Bahlika.
+      - source: ganguli-mahabharata
+        locator: "5.157"
+        note: Duryodhana makes Bhishma commander of his host.
+days:
+  - day: 1
+    section: Bhishma Parva 6.43–6.49
+    summary:
+      Before battle Yudhishthira walks unarmed to Bhishma, Drona and Kripa to ask their blessing,
+      and Yuyutsu crosses over to the Pandavas. In the fighting Bhishma and Arjuna clash, Shalya
+      kills Virata's son Uttara, and Bhishma kills his brother Sweta, leaving the Pandavas
+      disheartened at nightfall.
+    commanders:
+      - side: kaurava-army
+        entity: bhishma
+        references:
+          - source: ganguli-mahabharata
+            locator: "5.157"
+          - source: ganguli-mahabharata
+            locator: "6.20"
+      - side: pandava-army
+        entity: dhrishtadyumna
+        references:
+          - source: ganguli-mahabharata
+            locator: "5.158"
+    formations:
+      - side: pandava-army
+        name:
+          text: वज्र
+          lang: sa
+          script: Deva
+          iast: Vajra
+          meaning: thunderbolt array
+        note:
+          Formed by Arjuna, with Bhima at its head; Ganguli says it was designed by Indra. Bhishma's
+          opposing array is described but not named.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.19"
+    encounters:
+      - participants:
+          - yudhishthira
+          - bhishma
+          - drona
+          - kripa
+        summary:
+          Yudhishthira leaves his car and, unarmed, asks his elders' leave and blessing to fight
+          them; they grant it.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.43"
+      - participants:
+          - yuyutsu
+          - yudhishthira
+        summary:
+          When Yudhishthira calls on any who will to join him, Yuyutsu, a son of Dhritarashtra, goes
+          over to the Pandavas.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.43"
+      - participants:
+          - bhishma
+          - arjuna
+        summary: Bhishma and Arjuna rush at each other in the first general engagement.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.45"
+      - participants:
+          - uttara-prince
+          - shalya
+        summary:
+          Uttara, on an elephant, kills Shalya's horses, and Shalya brings him down with an iron
+          dart.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.47"
+      - participants:
+          - bhishma
+        summary:
+          Virata's son Sweta, called a commander of the Pandava host, presses Bhishma hard until
+          Bhishma slays him.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.48"
+    fallen:
+      - entity: uttara-prince
+        by:
+          - shalya
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.47"
+    references:
+      - source: ganguli-mahabharata
+        locator: "6.43"
+      - source: ganguli-mahabharata
+        locator: "6.47"
+      - source: ganguli-mahabharata
+        locator: "6.48"
+      - source: ganguli-mahabharata
+        locator: "6.49"
+  - day: 2
+    section: Bhishma Parva 6.50–6.55
+    summary: Dhrishtadyumna draws up the Krauncharuna array. Arjuna holds Bhishma back, Drona and
+      Dhrishtadyumna duel, and Bhima, fighting on foot and from his car, destroys the Kalinga
+      contingent and its king.
+    commanders:
+      - side: kaurava-army
+        entity: bhishma
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.51"
+      - side: pandava-army
+        entity: dhrishtadyumna
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.50"
+    formations:
+      - side: pandava-army
+        name:
+          text: क्रौञ्चारुण
+          lang: sa
+          script: Deva
+          iast: Krauñcāruṇa
+          meaning: red crane array
+        note:
+          Yudhishthira asks Dhrishtadyumna to form it, saying Brihaspati taught it to Indra; Drupada
+          is at its head. The Kaurava counter-array is not named.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.50"
+          - source: ganguli-mahabharata
+            locator: "6.51"
+    encounters:
+      - participants:
+          - arjuna
+          - krishna
+          - bhishma
+        summary:
+          Seeing Bhishma ravage his host, Arjuna has Krishna drive him straight at Bhishma, and
+          the two exchange showers of arrows.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.52"
+      - participants:
+          - drona
+          - dhrishtadyumna
+        summary:
+          Drona and Dhrishtadyumna fight a long duel in which Drona kills the prince's charioteer
+          and cuts his bow, and Dhrishtadyumna hurls a dart and a mace at him.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.53"
+      - participants:
+          - bhima
+        summary:
+          Bhima slays the king of the Kalingas, his sons Shakradeva and Ketumat, and much of their
+          force.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.54"
+    references:
+      - source: ganguli-mahabharata
+        locator: "6.50"
+      - source: ganguli-mahabharata
+        locator: "6.52"
+      - source: ganguli-mahabharata
+        locator: "6.54"
+  - day: 3
+    section: Bhishma Parva 6.56–6.59
+    summary:
+      Bhishma forms the Garuda array and the Pandavas answer with the half-moon. Bhima strikes
+      Duryodhana senseless; stung by Duryodhana's reproach, Bhishma fights so fiercely that Krishna
+      leaps from the car with his discus to slay him, until Arjuna holds him back.
+    commanders:
+      - side: kaurava-army
+        entity: bhishma
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.56"
+      - side: pandava-army
+        entity: dhrishtadyumna
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.56"
+    formations:
+      - side: kaurava-army
+        name:
+          text: गरुड
+          lang: sa
+          script: Deva
+          iast: Garuḍa
+          meaning: Garuda (eagle) array
+        note: Formed by Bhishma; the Magadhas and Kalingas hold its right wing.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.56"
+      - side: pandava-army
+        name:
+          text: अर्धचन्द्र
+          lang: sa
+          script: Deva
+          iast: Ardhacandra
+          meaning: half-moon array
+        note: Formed by Arjuna with Dhrishtadyumna in answer to the Garuda array.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.56"
+    encounters:
+      - participants:
+          - bhima
+          - duryodhana
+        summary: Bhima pierces Duryodhana in the chest and he swoons on his car and is borne away.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.58"
+      - participants:
+          - satyaki
+          - abhimanyu
+          - shakuni
+        summary:
+          Shakuni and his troops surround Satyaki and Abhimanyu; Satyaki, abandoning his own car,
+          climbs onto Abhimanyu's.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.58"
+      - participants:
+          - krishna
+          - bhishma
+          - arjuna
+        summary:
+          Seeing Arjuna fight Bhishma mildly, Krishna jumps down with his discus Sudarshana to slay
+          Bhishma, who welcomes him; Arjuna stops him and promises to fight in earnest.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.59"
+    references:
+      - source: ganguli-mahabharata
+        locator: "6.56"
+      - source: ganguli-mahabharata
+        locator: "6.58"
+      - source: ganguli-mahabharata
+        locator: "6.59"
+  - day: 4
+    section: Bhishma Parva 6.60–6.64 (night discourse 6.65–6.68)
+    summary:
+      Bhishma leads the Kauravas against Arjuna. Abhimanyu holds off several warriors, Bhima slays
+      a number of Duryodhana's brothers, and Ghatotkacha rescues Bhima from Bhagadatta. That night
+      Bhishma tells Duryodhana of Krishna's divine nature.
+    commanders:
+      - side: kaurava-army
+        entity: bhishma
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.60"
+      - side: pandava-army
+        entity: dhrishtadyumna
+        references:
+          - source: ganguli-mahabharata
+            locator: "5.158"
+    encounters:
+      - participants:
+          - abhimanyu
+          - ashwatthama
+          - bhurishravas
+          - shalya
+        summary:
+          Abhimanyu fights Ashvatthaman, Bhurishravas, Shalya and others at once; Dhrishtadyumna
+          kills the son of Samyamani nearby.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.61"
+      - participants:
+          - bhima
+        summary:
+          Bhima attacks fourteen of Dhritarashtra's sons and kills several, among them Senapati,
+          Jalasandha and Sulochana; the rest flee.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.64"
+      - participants:
+          - bhagadatta
+          - bhima
+          - ghatotkacha
+        summary:
+          Bhagadatta's arrow makes Bhima swoon; Ghatotkacha attacks Bhagadatta's elephant and the
+          Kaurava leaders ride to his rescue.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.64"
+      - participants:
+          - bhishma
+          - duryodhana
+        summary:
+          At night Duryodhana asks why the Pandavas prevail, and Bhishma answers with an account of
+          Vasudeva as the Supreme Being.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.65"
+          - source: ganguli-mahabharata
+            locator: "6.67"
+    references:
+      - source: ganguli-mahabharata
+        locator: "6.60"
+      - source: ganguli-mahabharata
+        locator: "6.64"
+      - source: ganguli-mahabharata
+        locator: "6.67"
+  - day: 5
+    section: Bhishma Parva 6.69–6.74
+    summary:
+      Bhishma's Makara meets the Pandavas' Syena. Bhima breaks into the Makara through its mouth,
+      Bhishma rages among the Panchalas and Somakas, and Bhurishravas kills Satyaki's sons.
+    commanders:
+      - side: kaurava-army
+        entity: bhishma
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.69"
+      - side: pandava-army
+        entity: dhrishtadyumna
+        references:
+          - source: ganguli-mahabharata
+            locator: "5.158"
+    formations:
+      - side: kaurava-army
+        name:
+          text: मकर
+          lang: sa
+          script: Deva
+          iast: Makara
+          meaning: makara (sea-creature) array
+        note: Protected on all sides by Bhishma.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.69"
+      - side: pandava-army
+        name:
+          text: श्येन
+          lang: sa
+          script: Deva
+          iast: Śyena
+          meaning: hawk array
+        note: Bhima in its beak; a Kekaya king with an akshauhini on its right wing.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.69"
+    encounters:
+      - participants:
+          - bhima
+          - bhishma
+        summary: Bhima enters the Makara array through its mouth and covers Bhishma with arrows.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.69"
+      - participants:
+          - shikhandi
+          - virata
+          - bhishma
+          - arjuna
+          - drona
+        summary: Shikhandi and Virata go at Bhishma while Arjuna engages Drona, Kripa and the Sindhu
+          king's followers.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.72"
+      - participants:
+          - bhurishravas
+          - satyaki
+        summary:
+          Bhurishravas, alone against Satyaki's mighty sons, slays them; Satyaki rushes at him, and
+          a son of Dhritarashtra takes Bhurishravas onto his car.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.74"
+    references:
+      - source: ganguli-mahabharata
+        locator: "6.69"
+      - source: ganguli-mahabharata
+        locator: "6.72"
+      - source: ganguli-mahabharata
+        locator: "6.74"
+  - day: 6
+    section: Bhishma Parva 6.75–6.80
+    summary: Now the Pandavas form a Makara and Bhishma a Krauncha. Bhima plunges alone among
+      Duryodhana's brothers, Dhrishtadyumna stuns them with the Pramohana weapon until Drona undoes
+      it, and at sunset Bhima defeats Duryodhana.
+    commanders:
+      - side: kaurava-army
+        entity: bhishma
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.75"
+      - side: pandava-army
+        entity: dhrishtadyumna
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.75"
+    formations:
+      - side: pandava-army
+        name:
+          text: मकर
+          lang: sa
+          script: Deva
+          iast: Makara
+          meaning: makara (sea-creature) array
+        note: Ordered by Yudhishthira and formed by Dhrishtadyumna; Drupada and Arjuna at its head,
+          Shikhandi and Iravan in its tail.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.75"
+      - side: kaurava-army
+        name:
+          text: क्रौञ्च
+          lang: sa
+          script: Deva
+          iast: Krauñca
+          meaning: crane array
+        note: Formed by Bhishma in answer, "after the form of a huge crane".
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.75"
+    encounters:
+      - participants:
+          - bhima
+          - dhrishtadyumna
+          - drona
+        summary:
+          Dhrishtadyumna stupefies Duryodhana's brothers with the Pramohana weapon around Bhima,
+          and Drona neutralises it with the Prajna weapon.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.77"
+      - participants:
+          - abhimanyu
+          - bhima
+          - dhrishtadyumna
+        summary:
+          Yudhishthira sends twelve car-warriors headed by Abhimanyu after Bhima, and they fight
+          their way to him in the midst of the Kaurava host.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.78"
+          - source: ganguli-mahabharata
+            locator: "6.79"
+      - participants:
+          - bhima
+          - duryodhana
+        summary:
+          At sunset Bhima meets Duryodhana, strikes his bow and driver, kills his horses, and pierces
+          him with many arrows.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.80"
+    references:
+      - source: ganguli-mahabharata
+        locator: "6.75"
+      - source: ganguli-mahabharata
+        locator: "6.77"
+      - source: ganguli-mahabharata
+        locator: "6.80"
+  - day: 7
+    section: Bhishma Parva 6.81–6.87
+    summary: Bhishma's Mandala faces Yudhishthira's Vajra. Drona kills Virata's son Shankha, Iravan
+      fights the two princes of Avanti, Ghatotkacha is driven back by Bhagadatta, and Sahadeva
+      wounds his uncle Shalya.
+    commanders:
+      - side: kaurava-army
+        entity: bhishma
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.82"
+      - side: pandava-army
+        entity: dhrishtadyumna
+        references:
+          - source: ganguli-mahabharata
+            locator: "5.158"
+    formations:
+      - side: kaurava-army
+        name:
+          text: मण्डल
+          lang: sa
+          script: Deva
+          iast: Maṇḍala
+          meaning: circle array
+        note: Formed by Bhishma at dawn, facing west.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.82"
+      - side: pandava-army
+        name:
+          text: वज्र
+          lang: sa
+          script: Deva
+          iast: Vajra
+          meaning: thunderbolt array
+        note: Formed by Yudhishthira himself against the Mandala.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.82"
+    encounters:
+      - participants:
+          - drona
+          - virata
+        summary: Drona shoots Virata's son Shankha from his car before his father's eyes, and Virata
+          withdraws.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.83"
+      - participants:
+          - iravan
+        summary: Iravan fights Vinda and Anuvinda of Avanti, killing Anuvinda's horses and driver.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.84"
+      - participants:
+          - ghatotkacha
+          - bhagadatta
+        summary: Ghatotkacha attacks Bhagadatta, who cuts down his dart and puts him to flight.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.84"
+      - participants:
+          - shalya
+          - nakula
+          - sahadeva
+        summary:
+          Shalya fights his sister's sons, the twins, and Sahadeva's shaft drives him from the
+          field.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.84"
+      - participants:
+          - yudhishthira
+        summary: At midday Yudhishthira fights King Shrutayush.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.85"
+    references:
+      - source: ganguli-mahabharata
+        locator: "6.82"
+      - source: ganguli-mahabharata
+        locator: "6.83"
+      - source: ganguli-mahabharata
+        locator: "6.84"
+  - day: 8
+    section: Bhishma Parva 6.88–6.97
+    summary: Bhishma and Drona lead an array likened to the ocean; Dhrishtadyumna answers with the
+      Shringataka. Bhima kills more of Duryodhana's brothers, Arjuna's son Iravan is killed by the
+      Rakshasa Alambusha, and Ghatotkacha routs Duryodhana's division.
+    commanders:
+      - side: kaurava-army
+        entity: bhishma
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.88"
+      - side: pandava-army
+        entity: dhrishtadyumna
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.88"
+    formations:
+      - side: pandava-army
+        name:
+          text: शृङ्गाटक
+          lang: sa
+          script: Deva
+          iast: Śṛṅgāṭaka
+          meaning: horned (triple-peaked) array
+        note: Formed by Dhrishtadyumna at Yudhishthira's request. The Kaurava array that day is
+          described as resembling the ocean but is not named.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.88"
+    encounters:
+      - participants:
+          - bhima
+        summary:
+          Bhima kills several of Dhritarashtra's sons, among them Sunabha, Aparajita, Kundadhara
+          and Vishalaksha.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.89"
+      - participants:
+          - iravan
+        summary:
+          Iravan, Arjuna's son by a Naga princess, fights off Shakuni's younger brothers and their
+          horsemen, then battles the Rakshasa Alambusha with illusions until Alambusha beheads him.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.91"
+      - participants:
+          - ghatotkacha
+          - duryodhana
+          - bhagadatta
+        summary:
+          Grieving for Iravan, Ghatotkacha attacks Duryodhana and his elephant division and puts
+          the Kauravas to flight; at Bhishma's urging Bhagadatta then rides out against the
+          Pandavas on his elephant Supratika.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.92"
+          - source: ganguli-mahabharata
+            locator: "6.94"
+          - source: ganguli-mahabharata
+            locator: "6.96"
+      - participants:
+          - arjuna
+        summary: Arjuna, told that Iravan has been slain, grieves and laments the war to Krishna.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.97"
+    fallen:
+      - entity: iravan
+        note: Beheaded by the Rakshasa Alambusha (Alamvusha), Rishyashringa's son, who has no record
+          in the atlas yet.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.91"
+    references:
+      - source: ganguli-mahabharata
+        locator: "6.88"
+      - source: ganguli-mahabharata
+        locator: "6.89"
+      - source: ganguli-mahabharata
+        locator: "6.91"
+      - source: ganguli-mahabharata
+        locator: "6.97"
+  - day: 9
+    section: Bhishma Parva 6.98–6.108
+    summary:
+      After a night council in which Duryodhana reproaches him, Bhishma forms the Sarvatobhadra
+      array and fights with such force that Krishna again leaps from the car, whip in hand. That
+      night the Pandavas go to Bhishma himself to ask how he can be overcome.
+    commanders:
+      - side: kaurava-army
+        entity: bhishma
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.100"
+      - side: pandava-army
+        entity: dhrishtadyumna
+        references:
+          - source: ganguli-mahabharata
+            locator: "5.158"
+    formations:
+      - side: kaurava-army
+        name:
+          text: सर्वतोभद्र
+          lang: sa
+          script: Deva
+          iast: Sarvatobhadra
+          meaning: auspicious on every side
+        note:
+          Formed by Bhishma, with Duryodhana and the Trigartas in its middle. The Pandava array is
+          described but not named.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.100"
+    encounters:
+      - participants:
+          - duryodhana
+          - shakuni
+          - duhshasana
+          - karna
+          - bhishma
+        summary:
+          At night Duryodhana, Shakuni, Duhshasana and Karna take counsel, and Duryodhana's words
+          wound Bhishma, who promises to fight to the utmost.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.98"
+          - source: ganguli-mahabharata
+            locator: "6.99"
+      - participants:
+          - abhimanyu
+        summary: Abhimanyu sweeps through Duryodhana's host and fights the Rakshasa Alambusha.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.101"
+          - source: ganguli-mahabharata
+            locator: "6.102"
+      - participants:
+          - arjuna
+          - drona
+        summary: Arjuna and Drona, teacher and pupil, meet in battle.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.103"
+      - participants:
+          - krishna
+          - bhishma
+          - arjuna
+        summary:
+          As Bhishma pierces Krishna and Arjuna, Krishna drops the reins and runs at Bhishma armed
+          only with his whip, and is again held back.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.107"
+      - participants:
+          - yudhishthira
+          - krishna
+          - arjuna
+          - bhishma
+          - shikhandi
+        summary: At night the Pandavas ask Bhishma the means of his death; he says he will not fight
+          Shikhandi, once a woman, and that Arjuna should attack him from behind Shikhandi.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.108"
+    references:
+      - source: ganguli-mahabharata
+        locator: "6.98"
+      - source: ganguli-mahabharata
+        locator: "6.100"
+      - source: ganguli-mahabharata
+        locator: "6.107"
+      - source: ganguli-mahabharata
+        locator: "6.108"
+  - day: 10
+    section: Bhishma Parva 6.109–6.120 (aftermath 6.121–6.124)
+    summary: The Pandavas advance with Shikhandi in the van. Bhishma will not strike Shikhandi, and
+      Arjuna's arrows, shot from behind him, bring Bhishma down shortly before sunset. He lies on
+      a bed of arrows, his body not touching the ground, and resolves to wait for the sun's
+      northern course before leaving the world.
+    commanders:
+      - side: kaurava-army
+        entity: bhishma
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.116"
+            note: Dhritarashtra asks how Bhishma fought "on the tenth day of battle".
+      - side: pandava-army
+        entity: dhrishtadyumna
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.109"
+    encounters:
+      - participants:
+          - shikhandi
+          - bhishma
+        summary:
+          Shikhandi strikes Bhishma in the chest again and again, and Bhishma only looks at him in
+          anger without striking back.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.118"
+      - participants:
+          - duhshasana
+          - arjuna
+        summary:
+          Duhshasana fights Arjuna while guarding Bhishma, until Arjuna defeats him and drives on
+          towards Bhishma.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.118"
+      - participants:
+          - bhishma
+          - virata
+        summary: Bhishma slays Shatanika, Virata's brother, and a thousand Kshatriyas.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.119"
+      - participants:
+          - arjuna
+          - shikhandi
+          - bhishma
+        summary:
+          Pierced all over, Bhishma tells Duhshasana that the arrows afflicting him are Arjuna's,
+          not Shikhandi's, and falls from his car.
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.120"
+    fallen:
+      - entity: bhishma
+        by:
+          - arjuna
+        note:
+          Struck down by Arjuna's arrows, shot with Shikhandi before him; Bhishma does not die but
+          lies on a bed of arrows awaiting the northern solstice (his death comes later in the
+          epic).
+        references:
+          - source: ganguli-mahabharata
+            locator: "6.118"
+          - source: ganguli-mahabharata
+            locator: "6.120"
+    references:
+      - source: ganguli-mahabharata
+        locator: "6.109"
+      - source: ganguli-mahabharata
+        locator: "6.116"
+      - source: ganguli-mahabharata
+        locator: "6.120"
+      - source: ganguli-mahabharata
+        locator: "6.121"
+  - day: 11
+    section: Drona Parva 7.5–7.16
+    summary:
+      With Bhishma fallen, Karna takes the field and Drona becomes commander, promising to capture
+      Yudhishthira alive. Drona's Shakata array faces the Pandava Krauncha. Abhimanyu seizes
+      Paurava, Bhima and Shalya fight with maces, and Arjuna's arrival at sunset saves Yudhishthira.
+    commanders:
+      - side: kaurava-army
+        entity: drona
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.7"
+      - side: pandava-army
+        entity: dhrishtadyumna
+        references:
+          - source: ganguli-mahabharata
+            locator: "5.158"
+    formations:
+      - side: kaurava-army
+        name:
+          text: शकट
+          lang: sa
+          script: Deva
+          iast: Śakaṭa
+          meaning: cart array
+        note: Formed by Drona on taking command; Karna rides at the head of the bowmen.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.7"
+      - side: pandava-army
+        name:
+          text: क्रौञ्च
+          lang: sa
+          script: Deva
+          iast: Krauñca
+          meaning: crane array
+        note: Formed by Yudhishthira, with Krishna and Arjuna at its head.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.7"
+    encounters:
+      - participants:
+          - drona
+          - duryodhana
+          - yudhishthira
+        summary:
+          Drona grants Duryodhana's wish to seize Yudhishthira alive, on condition that Arjuna is
+          kept away.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.12"
+          - source: ganguli-mahabharata
+            locator: "7.13"
+      - participants:
+          - abhimanyu
+          - jayadratha
+          - shalya
+        summary:
+          Abhimanyu leaps onto Paurava's car and seizes him by the hair, turns on Jayadratha, and
+          hurls Shalya's own dart back at him.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.14"
+      - participants:
+          - bhima
+          - shalya
+          - kritavarma
+        summary: Bhima and Shalya fight with maces until both fall; Kritavarman carries the stunned
+          Shalya away.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.15"
+      - participants:
+          - arjuna
+          - drona
+          - yudhishthira
+        summary:
+          As Drona closes on Yudhishthira, Arjuna arrives and covers Drona's division with arrows;
+          the sun sets and both sides withdraw.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.16"
+    references:
+      - source: ganguli-mahabharata
+        locator: "7.7"
+      - source: ganguli-mahabharata
+        locator: "7.12"
+      - source: ganguli-mahabharata
+        locator: "7.16"
+  - day: 12
+    section: Drona Parva 7.17–7.30
+    summary: The Trigarta Samsaptakas vow to kill Arjuna or die and draw him away. Drona forms the
+      Garuda array and again presses towards Yudhishthira, killing his guardian Satyajit. Arjuna
+      returns to kill Bhagadatta and his elephant, and Ashvatthaman kills King Nila.
+    commanders:
+      - side: kaurava-army
+        entity: drona
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.20"
+      - side: pandava-army
+        entity: dhrishtadyumna
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.20"
+    formations:
+      - side: kaurava-army
+        name:
+          text: अर्धचन्द्र
+          lang: sa
+          script: Deva
+          iast: Ardhacandra
+          meaning: half-moon array
+        note: The Samsaptakas draw up their cars in a half-moon to challenge Arjuna.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.18"
+      - side: kaurava-army
+        name:
+          text: गरुड
+          lang: sa
+          script: Deva
+          iast: Garuḍa
+          meaning: Garuda (eagle) array
+        note: Formed by Drona, who stands in its mouth with Kritavarman and Kripa as its eyes.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.20"
+      - side: pandava-army
+        name:
+          text: अर्धचन्द्र
+          lang: sa
+          script: Deva
+          iast: Ardhacandra
+          meaning: half-moon array
+        note:
+          Yudhishthira's counter-array, rendered "semi-circle" by Ganguli, who notes that the word
+          literally means half-moon-shaped.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.20"
+    encounters:
+      - participants:
+          - arjuna
+          - krishna
+        summary:
+          The Samsaptakas, sworn to kill Arjuna, challenge him and draw him to fight them apart
+          from the main battle.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.17"
+          - source: ganguli-mahabharata
+            locator: "7.19"
+      - participants:
+          - drona
+          - yudhishthira
+        summary:
+          Drona drives towards Yudhishthira and beheads the Panchala Satyajit, whom Arjuna had left
+          as the king's protector.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.21"
+      - participants:
+          - arjuna
+          - krishna
+          - bhagadatta
+        summary:
+          Krishna takes Bhagadatta's Vaishnava weapon on his own breast, and Arjuna brings down the
+          elephant and pierces Bhagadatta's heart.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.27"
+      - participants:
+          - arjuna
+        summary:
+          Arjuna kills Shakuni's brothers Vrishaka and Achala, princes of Gandhara, with a single
+          arrow.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.28"
+      - participants:
+          - ashwatthama
+        summary: Ashvatthaman slays King Nila, a rival of long standing, as Nila rushes at him.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.29"
+    fallen:
+      - entity: bhagadatta
+        by:
+          - arjuna
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.27"
+    references:
+      - source: ganguli-mahabharata
+        locator: "7.17"
+      - source: ganguli-mahabharata
+        locator: "7.20"
+      - source: ganguli-mahabharata
+        locator: "7.27"
+      - source: ganguli-mahabharata
+        locator: "7.30"
+  - day: 13
+    section: Drona Parva 7.31–7.48
+    summary:
+      With Arjuna drawn away by the Samsaptakas, Drona forms the circular array. Abhimanyu, who
+      knows how to break in, enters it, but Jayadratha's boon from Mahadeva keeps the other
+      Pandavas out. Alone, Abhimanyu kills Duryodhana's son Lakshmana and Brihadbala of Kosala
+      before six warriors disarm him and he is killed.
+    commanders:
+      - side: kaurava-army
+        entity: drona
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.32"
+      - side: pandava-army
+        entity: dhrishtadyumna
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.33"
+    formations:
+      - side: kaurava-army
+        name:
+          text: चक्र
+          lang: sa
+          script: Deva
+          iast: Cakra
+          meaning: wheel (circular) array
+        note: Ganguli calls it "the great circular array"; it is the array known in Sanskrit as the
+          cakra-vyūha.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.31"
+          - source: ganguli-mahabharata
+            locator: "7.32"
+    encounters:
+      - participants:
+          - yudhishthira
+          - abhimanyu
+        summary:
+          Yudhishthira asks Abhimanyu to break the circular array, which Abhimanyu says his father
+          taught him to pierce.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.33"
+      - participants:
+          - jayadratha
+          - bhima
+          - yudhishthira
+        summary: Jayadratha, by a boon from Mahadeva, holds back every Pandava who tries to follow
+          Abhimanyu into the array.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.41"
+      - participants:
+          - abhimanyu
+        summary:
+          Abhimanyu beheads Duryodhana's young son Lakshmana and kills Brihadbala, ruler of the
+          Kosalas.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.44"
+          - source: ganguli-mahabharata
+            locator: "7.45"
+      - participants:
+          - abhimanyu
+          - drona
+          - kripa
+          - karna
+          - ashwatthama
+          - kritavarma
+        summary: At Drona's word Karna cuts Abhimanyu's bow, and six car-warriors strip him of car,
+          sword and wheel; he fights on with a mace.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.45"
+          - source: ganguli-mahabharata
+            locator: "7.46"
+          - source: ganguli-mahabharata
+            locator: "7.47"
+    fallen:
+      - entity: abhimanyu
+        note: After six car-warriors headed by Drona had disarmed him, the son of Duhshasana (no
+          record yet) struck him on the head with a mace as he rose.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.47"
+    references:
+      - source: ganguli-mahabharata
+        locator: "7.31"
+      - source: ganguli-mahabharata
+        locator: "7.32"
+      - source: ganguli-mahabharata
+        locator: "7.47"
+  - day: 14
+    section: Drona Parva 7.86–7.185 (night battle 7.150–7.185)
+    summary:
+      Arjuna has vowed to kill Jayadratha before sunset or enter fire. Drona sets a cart array
+      with a lotus and a needle array behind it; Arjuna bypasses Drona and fights his way through,
+      Satyaki and Bhima follow, Bhurishravas is slain and Arjuna beheads Jayadratha at sunset.
+      The battle goes on through the night, in which Bhima kills Bahlika, Satyaki kills Somadatta,
+      and Karna spends Indra's dart to kill Ghatotkacha.
+    commanders:
+      - side: kaurava-army
+        entity: drona
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.87"
+      - side: pandava-army
+        entity: dhrishtadyumna
+        references:
+          - source: ganguli-mahabharata
+            locator: "5.158"
+    formations:
+      - side: kaurava-army
+        name:
+          text: शकट
+          lang: sa
+          script: Deva
+          iast: Śakaṭa
+          meaning: cart array
+        note:
+          Drona's array, part cart and part circle, with Drona at its entrance; Ganguli gives it as
+          forty-eight miles long.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.87"
+      - side: kaurava-army
+        name:
+          text: पद्म
+          lang: sa
+          script: Deva
+          iast: Padma
+          meaning: lotus array
+        note: An impenetrable lotus-shaped array in the rear of the cart array.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.87"
+      - side: kaurava-army
+        name:
+          text: सूची
+          lang: sa
+          script: Deva
+          iast: Sūcī
+          meaning: needle array
+        note: A dense needle-shaped array inside the lotus, with Kritavarman at its mouth and
+          Jayadratha posted at one side of it.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.87"
+    encounters:
+      - participants:
+          - arjuna
+          - krishna
+          - drona
+        summary:
+          Arjuna will not be held by Drona and passes him by, saying a greater task awaits, then
+          kills Shrutayudha and Sudakshina of the Kambojas.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.90"
+          - source: ganguli-mahabharata
+            locator: "7.91"
+      - participants:
+          - drona
+          - duryodhana
+        summary:
+          Drona binds on Duryodhana an armour given by Shiva, with mantras, and sends him against
+          Arjuna.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.93"
+      - participants:
+          - ghatotkacha
+        summary: Ghatotkacha kills the Rakshasa Alambusha, crushing him to the ground.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.108"
+      - participants:
+          - bhima
+          - karna
+          - vikarna
+        summary:
+          Bhima and Karna fight a long duel; Duryodhana's brothers who come to Karna's aid fall to
+          Bhima, Vikarna among them, whom Bhima mourns.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.130"
+          - source: ganguli-mahabharata
+            locator: "7.136"
+      - participants:
+          - satyaki
+          - bhurishravas
+          - arjuna
+        summary:
+          Bhurishravas is about to behead the fallen Satyaki when Arjuna cuts off his arm; while he
+          sits in praya, Satyaki beheads him.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.141"
+          - source: ganguli-mahabharata
+            locator: "7.142"
+      - participants:
+          - arjuna
+          - krishna
+          - jayadratha
+        summary:
+          Under a darkness made by Krishna, Arjuna's arrow carries off Jayadratha's head and drops
+          it in his father Vriddhakshatra's lap.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.145"
+      - participants:
+          - karna
+          - ghatotkacha
+        summary:
+          In the night battle Karna hurls Indra's dart, kept for Arjuna, and kills Ghatotkacha,
+          who had slain the Rakshasa Alayudha.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.178"
+          - source: ganguli-mahabharata
+            locator: "7.179"
+          - source: ganguli-mahabharata
+            locator: "7.180"
+    fallen:
+      - entity: vikarna
+        by:
+          - bhima
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.136"
+      - entity: bhurishravas
+        by:
+          - satyaki
+        note: Arjuna had first cut off his sword-arm to save Satyaki; he was slain while seated in praya.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.142"
+      - entity: jayadratha
+        by:
+          - arjuna
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.145"
+      - entity: bahlika
+        by:
+          - bhima
+        note: Slain in the night battle; the text calls him Valhika, son of Pratipa.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.156"
+      - entity: somadatta
+        by:
+          - satyaki
+        note: Slain in the night battle.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.161"
+      - entity: ghatotkacha
+        by:
+          - karna
+        note: Slain in the night battle with the dart Indra gave Karna.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.179"
+    references:
+      - source: ganguli-mahabharata
+        locator: "7.73"
+        note: Arjuna's vow, made the night before.
+      - source: ganguli-mahabharata
+        locator: "7.87"
+      - source: ganguli-mahabharata
+        locator: "7.145"
+      - source: ganguli-mahabharata
+        locator: "7.150"
+      - source: ganguli-mahabharata
+        locator: "7.179"
+  - day: 15
+    section: Drona Parva 7.186–7.201
+    summary:
+      At dawn, with the night fighting barely over, Drona kills Drupada, Virata and Drupada's three
+      grandsons. On Krishna's counsel Bhima kills an elephant named Ashvatthaman and Yudhishthira
+      confirms that "Ashvatthaman" is dead; Drona lays down his arms in yoga and Dhrishtadyumna
+      beheads him. Ashvatthaman then looses the Narayana weapon, which subsides only when the
+      Pandavas put down their arms.
+    commanders:
+      - side: kaurava-army
+        entity: drona
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.190"
+            note: Ganguli's text calls this "the fifth day" of Drona's command.
+      - side: pandava-army
+        entity: dhrishtadyumna
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.190"
+    encounters:
+      - participants:
+          - drona
+          - drupada
+          - virata
+        summary:
+          Drona kills Drupada's three grandsons, cuts down the weapons of Drupada and Virata, and
+          sends both kings to Yama.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.186"
+      - participants:
+          - krishna
+          - bhima
+          - yudhishthira
+          - drona
+        summary: Bhima kills an elephant called Ashvatthaman and shouts that Ashvatthaman is slain;
+          Yudhishthira, asked by Drona, says so, adding "elephant" indistinctly, and his car, which
+          had floated above the ground, touches the earth.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.191"
+      - participants:
+          - dhrishtadyumna
+          - drona
+          - arjuna
+        summary:
+          As Drona sits rapt in yoga and departs for heaven, Dhrishtadyumna cuts off his head,
+          though Arjuna had called on him to take the teacher alive.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.193"
+      - participants:
+          - ashwatthama
+          - bhima
+          - krishna
+          - arjuna
+        summary:
+          Ashvatthaman invokes the Narayana weapon; Krishna has the Pandavas lay down their arms,
+          and he and Arjuna drag the defiant Bhima from his car until the weapon is pacified.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.196"
+          - source: ganguli-mahabharata
+            locator: "7.200"
+          - source: ganguli-mahabharata
+            locator: "7.201"
+    fallen:
+      - entity: drupada
+        by:
+          - drona
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.186"
+      - entity: virata
+        by:
+          - drona
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.186"
+      - entity: drona
+        by:
+          - dhrishtadyumna
+        note:
+          The text says Drona had already passed out of the world in yoga when Dhrishtadyumna cut
+          off his head.
+        references:
+          - source: ganguli-mahabharata
+            locator: "7.193"
+    references:
+      - source: ganguli-mahabharata
+        locator: "7.186"
+      - source: ganguli-mahabharata
+        locator: "7.191"
+      - source: ganguli-mahabharata
+        locator: "7.193"
+      - source: ganguli-mahabharata
+        locator: "7.201"
+  - day: 16
+    section: Karna Parva 8.10–8.30
+    summary:
+      Karna is made commander and forms a Makara array; Arjuna answers with the half-moon. Arjuna
+      fights the Samsaptakas and Ashvatthaman, Ashvatthaman kills King Pandya, Satyaki kills the
+      brothers Vinda and Anuvinda, and Karna defeats Nakula but lets him go.
+    commanders:
+      - side: kaurava-army
+        entity: karna
+        references:
+          - source: ganguli-mahabharata
+            locator: "8.10"
+          - source: ganguli-mahabharata
+            locator: "8.11"
+      - side: pandava-army
+        entity: dhrishtadyumna
+        references:
+          - source: ganguli-mahabharata
+            locator: "5.158"
+    formations:
+      - side: kaurava-army
+        name:
+          text: मकर
+          lang: sa
+          script: Deva
+          iast: Makara
+          meaning: makara (sea-creature) array
+        note: Karna himself stands at the tip of its beak.
+        references:
+          - source: ganguli-mahabharata
+            locator: "8.11"
+      - side: pandava-army
+        name:
+          text: अर्धचन्द्र
+          lang: sa
+          script: Deva
+          iast: Ardhacandra
+          meaning: half-moon array
+        note: Formed by Arjuna, with Yudhishthira and Arjuna in its middle.
+        references:
+          - source: ganguli-mahabharata
+            locator: "8.11"
+    encounters:
+      - participants:
+          - bhima
+        summary: Bhima kills Kshemadhurti, king of the Kulutas, who attacks him from an elephant.
+        references:
+          - source: ganguli-mahabharata
+            locator: "8.12"
+      - participants:
+          - satyaki
+        summary:
+          Satyaki kills the brothers Vinda and Anuvinda (here called Kaikaya princes) in a car and
+          sword fight.
+        references:
+          - source: ganguli-mahabharata
+            locator: "8.13"
+      - participants:
+          - arjuna
+          - ashwatthama
+        summary: Arjuna, drawn from the Samsaptakas by Ashvatthaman's challenge, fights and defeats him.
+        references:
+          - source: ganguli-mahabharata
+            locator: "8.16"
+          - source: ganguli-mahabharata
+            locator: "8.17"
+      - participants:
+          - ashwatthama
+        summary: Ashvatthaman kills King Pandya, cutting off his arms and head.
+        references:
+          - source: ganguli-mahabharata
+            locator: "8.20"
+      - participants:
+          - karna
+          - nakula
+        summary:
+          Karna defeats Nakula, hangs his bow around his neck in mockery, and, remembering his word
+          to Kunti, lets him go.
+        references:
+          - source: ganguli-mahabharata
+            locator: "8.24"
+    references:
+      - source: ganguli-mahabharata
+        locator: "8.10"
+      - source: ganguli-mahabharata
+        locator: "8.11"
+      - source: ganguli-mahabharata
+        locator: "8.20"
+      - source: ganguli-mahabharata
+        locator: "8.30"
+  - day: 17
+    section: Karna Parva 8.31–8.95
+    summary:
+      Shalya, at Duryodhana's plea, becomes Karna's charioteer. Karna overcomes Yudhishthira but
+      spares him; Arjuna and Yudhishthira quarrel and are reconciled by Krishna. Bhima kills
+      Duhshasana and drinks his blood as he had vowed, Arjuna kills Karna's son Vrishasena, and
+      when the earth swallows Karna's chariot wheel, Arjuna beheads Karna with the Anjalika
+      arrow.
+    commanders:
+      - side: kaurava-army
+        entity: karna
+        references:
+          - source: ganguli-mahabharata
+            locator: "8.46"
+      - side: pandava-army
+        entity: dhrishtadyumna
+        references:
+          - source: ganguli-mahabharata
+            locator: "8.46"
+    formations:
+      - side: kaurava-army
+        name:
+          text: बार्हस्पत्य
+          lang: sa
+          script: Deva
+          iast: Bārhaspatya
+          meaning: Brihaspati's array
+        note: Ganguli says only that Karna formed his array "according to the scheme of Brihaspati".
+          Dhrishtadyumna's Pandava array that day is praised but not named.
+        references:
+          - source: ganguli-mahabharata
+            locator: "8.46"
+    encounters:
+      - participants:
+          - duryodhana
+          - shalya
+          - karna
+        summary: Duryodhana persuades Shalya to drive Karna's car, likening him to Brahma driving for Rudra.
+        references:
+          - source: ganguli-mahabharata
+            locator: "8.32"
+          - source: ganguli-mahabharata
+            locator: "8.35"
+      - participants:
+          - karna
+          - yudhishthira
+        summary:
+          Karna overcomes Yudhishthira, touches him on the shoulder, and remembering his word to
+          Kunti sends him back to his quarters.
+        references:
+          - source: ganguli-mahabharata
+            locator: "8.49"
+      - participants:
+          - yudhishthira
+          - arjuna
+          - krishna
+        summary:
+          The wounded Yudhishthira reproaches Arjuna for not having slain Karna; Arjuna draws his
+          sword, and Krishna calms both brothers.
+        references:
+          - source: ganguli-mahabharata
+            locator: "8.68"
+          - source: ganguli-mahabharata
+            locator: "8.69"
+          - source: ganguli-mahabharata
+            locator: "8.70"
+      - participants:
+          - bhima
+          - duhshasana
+        summary:
+          Bhima throws down Duhshasana, tears open his breast and drinks his blood, fulfilling his
+          vow, and swears next to kill Duryodhana.
+        references:
+          - source: ganguli-mahabharata
+            locator: "8.83"
+      - participants:
+          - arjuna
+          - karna
+          - krishna
+        summary:
+          Karna's wheel sinks into the earth by a Brahmana's curse; as he tries to lift it, Arjuna,
+          urged by Krishna, beheads him with the Anjalika arrow.
+        references:
+          - source: ganguli-mahabharata
+            locator: "8.90"
+          - source: ganguli-mahabharata
+            locator: "8.91"
+    fallen:
+      - entity: duhshasana
+        by:
+          - bhima
+        references:
+          - source: ganguli-mahabharata
+            locator: "8.83"
+      - entity: karna
+        by:
+          - arjuna
+        references:
+          - source: ganguli-mahabharata
+            locator: "8.91"
+    references:
+      - source: ganguli-mahabharata
+        locator: "8.31"
+      - source: ganguli-mahabharata
+        locator: "8.46"
+      - source: ganguli-mahabharata
+        locator: "8.83"
+      - source: ganguli-mahabharata
+        locator: "8.91"
+      - source: ganguli-mahabharata
+        locator: "8.95"
+  - day: 18
+    section: Shalya Parva 9.6–9.61 (Balarama's pilgrimage 9.35–9.54)
+    summary:
+      Shalya commands for the last day and is killed by Yudhishthira's dart. Sahadeva kills Uluka
+      and Shakuni, Bhima kills the last of Duryodhana's brothers, and Duryodhana, alone, hides in
+      a lake. Called out, he fights Bhima with maces, and Bhima breaks his thighs, to Balarama's
+      anger. That night the survivors make Ashvatthaman commander; his raid on the sleeping camp
+      belongs to the Sauptika Parva, not to the eighteen days.
+    commanders:
+      - side: kaurava-army
+        entity: shalya
+        references:
+          - source: ganguli-mahabharata
+            locator: "9.7"
+      - side: pandava-army
+        entity: dhrishtadyumna
+        references:
+          - source: ganguli-mahabharata
+            locator: "5.158"
+    encounters:
+      - participants:
+          - yudhishthira
+          - shalya
+          - krishna
+        summary:
+          Following Krishna's counsel, Yudhishthira hurls a dart that pierces Shalya's chest, and
+          Shalya falls facing him.
+        references:
+          - source: ganguli-mahabharata
+            locator: "9.7"
+          - source: ganguli-mahabharata
+            locator: "9.17"
+      - participants:
+          - bhima
+        summary: Bhima kills the remaining sons of Dhritarashtra except Duryodhana.
+        references:
+          - source: ganguli-mahabharata
+            locator: "9.26"
+          - source: ganguli-mahabharata
+            locator: "9.27"
+      - participants:
+          - sahadeva
+          - shakuni
+        summary: Sahadeva beheads Shakuni's son Uluka and then Shakuni himself.
+        references:
+          - source: ganguli-mahabharata
+            locator: "9.28"
+      - participants:
+          - duryodhana
+          - kripa
+          - kritavarma
+          - ashwatthama
+        summary:
+          With his host destroyed, Duryodhana flees on foot, mace in hand, into a lake; only Kripa,
+          Kritavarman and Ashvatthaman survive on his side.
+        references:
+          - source: ganguli-mahabharata
+            locator: "9.29"
+      - participants:
+          - bhima
+          - duryodhana
+          - krishna
+          - arjuna
+          - balarama
+        summary:
+          At Krishna's hint Arjuna slaps his own thigh, and Bhima smashes Duryodhana's thighs with
+          his mace; Balarama rushes at Bhima in anger and Krishna holds him back.
+        references:
+          - source: ganguli-mahabharata
+            locator: "9.58"
+          - source: ganguli-mahabharata
+            locator: "9.60"
+    fallen:
+      - entity: shalya
+        by:
+          - yudhishthira
+        references:
+          - source: ganguli-mahabharata
+            locator: "9.17"
+      - entity: shakuni
+        by:
+          - sahadeva
+        references:
+          - source: ganguli-mahabharata
+            locator: "9.28"
+      - entity: duryodhana
+        by:
+          - bhima
+        note: Mortally wounded, his thighs broken; he lives through the night and dies after
+          Ashvatthaman reports the night raid (Sauptika Parva).
+        references:
+          - source: ganguli-mahabharata
+            locator: "9.58"
+          - source: ganguli-mahabharata
+            locator: "10.9"
+    references:
+      - source: ganguli-mahabharata
+        locator: "9.7"
+      - source: ganguli-mahabharata
+        locator: "9.17"
+      - source: ganguli-mahabharata
+        locator: "9.28"
+      - source: ganguli-mahabharata
+        locator: "9.29"
+      - source: ganguli-mahabharata
+        locator: "9.58"
+summary_beginner:
+  This is the war at Kurukshetra as the Mahabharata tells it — the epic's own story, not an
+  archaeological or historical record of a battle. In the text, eighteen armies (akshauhinis)
+  meet, seven for the Pandavas and eleven for Duryodhana, and fight for eighteen days under
+  Bhishma, Drona, Karna and Shalya in turn, with Krishna driving Arjuna's chariot. The days,
+  battle arrays, duels and deaths shown here come from the Bhishma, Drona, Karna and Shalya
+  Parvas. Ashvatthaman's night raid on the sleeping camp comes afterwards, in the Sauptika Parva,
+  and is not counted as a day of battle.
+summary_scholar:
+  A day-by-day digest of the Kurukshetra narrative in the Mahabharata, cited to Ganguli's
+  translation (Udyoga Parva for the muster, Bhishma 6.43–120, Drona 7.5–201, Karna 8.10–95, Shalya
+  9.6–61). It records what the text narrates, not a reconstruction of any historical event, and
+  makes no claim about where on the plain things happened. The arrays (vyuhas) are given only
+  where Ganguli names them; several days have unnamed arrays, and the text is not always
+  consistent (for example the Avanti princes Vinda and Anuvinda are called Kaikayas in Karna
+  Parva 8.13, and Magadha and Kekaya forces appear on both sides). The night fighting after day 14
+  runs into the dawn of day 15, and the Sauptika Parva's night raid falls outside the eighteen
+  days.
+references:
+  - source: ganguli-mahabharata
+    locator: "5.156"
+    note: Eighteen akshauhinis in all, seven Pandava and eleven Kaurava.
+  - source: ganguli-mahabharata
+    locator: "6.1"
+    note: The armies assemble at Kurukshetra and agree rules of combat.
+  - source: ganguli-mahabharata
+    locator: "9.65"
+    note: Ashvatthaman is installed as commander on the night after the eighteenth day.
+  - source: ganguli-mahabharata
+    locator: "10.8"
+    note: The night raid on the Pandava camp.
+  - source: ganguli-mahabharata
+    locator: "10.9"
+    note: Ashvatthaman tells the dying Duryodhana that seven survive on the Pandava side and three on his.

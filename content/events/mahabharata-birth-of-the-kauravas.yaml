@@ -1,0 +1,36 @@
+slug: "mahabharata-birth-of-the-kauravas"
+names:
+  - text: "The birth of the hundred Kauravas"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "gandhari"
+    role: "carries the child for two years and strikes her womb in grief"
+  - entity: "dhritarashtra"
+    role: "father of the hundred sons"
+  - entity: "vyasa"
+    role: "divides the mass of flesh into a hundred and one parts"
+  - entity: "duryodhana"
+    role: "the eldest of the hundred"
+  - entity: "kauravas"
+    role: "the hundred sons of Dhritarashtra"
+  - entity: "duhshala"
+    role: "the one daughter"
+  - entity: "yuyutsu"
+    role: "Dhritarashtra's son by a Vaishya woman"
+narrative_order:
+  text: "mahabharata"
+  position: 1115
+  section: "adi-parva"
+variant: "mahabharata-story-ganguli-account"
+traditions:
+  - "itihasa"
+summary_beginner: "Gandhari's pregnancy lasts two years. In despair she strikes her womb and brings forth a hard ball of flesh. Vyasa has it sprinkled with water; it divides into a hundred and one parts, which are kept in pots of clarified butter. From them are born Duryodhana and his ninety-nine brothers, and one daughter, Duhshala. Dhritarashtra also has a son, Yuyutsu, by a Vaishya woman."
+summary_scholar: "Ganguli 1.115 (the birth), 1.116 (how the hundred-and-first part became the daughter Duhshala) and 1.117 (the list of names, and Duhshala's marriage to Jayadratha of Sindhu). The 'position' in narrative_order is parva x 1000 + Ganguli's section number of the main passage, so events sort in the order the epic tells them."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "1.115"
+  - source: "ganguli-mahabharata"
+    locator: "1.116"
+  - source: "ganguli-mahabharata"
+    locator: "1.117"

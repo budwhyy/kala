@@ -1,0 +1,48 @@
+slug: rishyamukha
+names:
+  - text: Rishyamukha
+    lang: en
+    script: Latn
+  - text: ऋष्यमूक
+    lang: sa
+    script: Deva
+    iast: Ṛṣyamūka
+realm: terrestrial
+kind: mountain
+confidence: debated
+modern_admin:
+  country: India
+  region: Karnataka
+alternative_identifications:
+  - label: Hills near Hampi on the Tungabhadra
+    confidence: traditional
+    argument: The text puts Rishyamukha beside Lake Pampa and near Kishkindha, and local tradition at Hampi identifies Kishkindha with the hills there (Imperial Gazetteer). Our sources do not name a particular hill as Rishyamukha, so no point is drawn.
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "24:313"
+        note: records the local tradition for Kishkindha only
+      - source: griffith-ramayana
+        locator: "6.125"
+        note: Kishkindha, Rishyamukha and Pampa are pointed out together on the flight home
+evidence:
+  - type: textual
+    summary: In Valmiki's Ramayana Kabandha tells Rama that Sugriva lives on Rishyamukha above Lake Pampa; from its peak Sugriva sees the princes and sends Hanuman to them.
+    references:
+      - source: griffith-ramayana
+        locator: "3.73"
+      - source: griffith-ramayana
+        locator: "4.3"
+  - type: textual
+    summary: Griffith's footnote reports the commentator's statement that a brook feeding Pampa rises on the hill Rishyamuka.
+    references:
+      - source: griffith-ramayana
+        locator: "4.1"
+        note: footnote 522
+traditions:
+  - itihasa
+summary_beginner: The hill where Sugriva hides from his brother Vali and where Rama first meets Hanuman and Sugriva. Tradition looks for it near Hampi, but no hill is identified in our sources.
+references:
+  - source: griffith-ramayana
+    locator: "4.3"
+  - source: imperial-gazetteer-1909
+    locator: "24:313"

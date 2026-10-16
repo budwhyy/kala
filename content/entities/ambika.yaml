@@ -1,0 +1,18 @@
+slug: ambika
+names:
+  - text: "Ambika"
+    lang: en
+    script: Latn
+  - text: "अम्बिका"
+    lang: sa
+    script: Deva
+    iast: "Ambikā"
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "The elder of the two Kashi princesses married to Vichitravirya. After his death Vyasa fathered Dhritarashtra on her; because she shut her eyes in fear of the sage, the child was born blind."
+summary_scholar: "In 1.106 Ganguli's text calls her the princess of Kosala, although 1.102 makes the sisters daughters of the king of Kashi. When asked to receive Vyasa a second time, she sent her maid instead, who became the mother of Vidura."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.102"
+  - source: ganguli-mahabharata
+    locator: "1.106"

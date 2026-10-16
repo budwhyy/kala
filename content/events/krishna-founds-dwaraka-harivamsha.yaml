@@ -1,0 +1,34 @@
+slug: "krishna-founds-dwaraka-harivamsha"
+names:
+  - text: "The Yadavas move to Dwaraka (Harivamsha)"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "krishna"
+    role: "proposes the move and asks the ocean for land"
+  - entity: "vasudeva-shura"
+    role: "leads the Yadava host"
+  - entity: "yadavas"
+  - entity: "jarasandha"
+    role: "whose attacks prompt the move"
+places:
+  - "mathura"
+  - "dwarka"
+narrative_order:
+  text: "harivamsha"
+  position: 113
+variant: "mahabharata-story-harivamsha-krishna"
+same_story_as:
+  - "krishna-founds-dwaraka-vishnu-purana"
+traditions:
+  - "vaishnava"
+  - "itihasa"
+summary_beginner: "In the Harivamsha, Krishna tells the Yadavas that Mathura is too small and too easily entered by their enemies. As Jarasandha and Kalayavana advance, the Yadavas leave Mathura and march west to the sea. Krishna asks the ocean to withdraw and give them room; the divine architect Vishvakarma lays out the city of Dwaraka there."
+summary_scholar: "Dutt, Harivamsha Parva ch. 113 (the decision and the march) and ch. 115 (the laying out of Dwaraka, with the ocean's gift of land). The 'position' in narrative_order is the chapter number of Dutt's Harivamsha Parva."
+references:
+  - source: "dutt-harivamsha"
+    locator: "113"
+    note: "Harivamsha Parva"
+  - source: "dutt-harivamsha"
+    locator: "115"
+    note: "Harivamsha Parva"

@@ -1,0 +1,19 @@
+slug: urmila
+names:
+  - text: "Urmila"
+    lang: en
+    script: Latn
+  - text: ऊर्मिला
+    lang: sa
+    script: Deva
+    iast: "Ūrmilā"
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "Janaka's daughter and Sita's younger sister, given in marriage to Lakshmana at the same ceremony as Sita."
+references:
+  - source: griffith-ramayana
+    locator: "1.71"
+  - source: griffith-ramayana
+    locator: "1.73"
+  - source: griffith-ramayana
+    locator: "2.118"

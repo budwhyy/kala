@@ -1,0 +1,32 @@
+slug: ramcharitmanas-ordeal-by-fire
+names:
+  - text: "Sita's ordeal by fire (Ramcharitmanas)"
+    lang: en
+    script: Latn
+participants:
+  - entity: sita
+    role: "enters the fire, which is cool to her"
+  - entity: rama
+    role: "speaks harshly so that the fire may be passed"
+  - entity: lakshmana
+    role: "kindles the fire"
+  - entity: agni
+    role: "takes bodily form and presents Sita to Rama"
+places:
+  - lanka-ramayana
+narrative_order:
+  text: ramcharitmanas
+  position: 6105
+  section: lanka-kand
+variant: ramcharitmanas-account
+same_story_as:
+  - ramayana-ordeal-by-fire
+traditions:
+  - vaishnava
+summary_beginner: "In the Ramcharitmanas, Rama speaks harshly for a purpose, and Sita asks Lakshmana to kindle a fire. The flames are cool to her; only her shadow (the image left in her place before the abduction) and the stain of public disgrace are burnt. The god of fire, in bodily form, leads the real Sita out and presents her to Rama."
+summary_scholar: "Growse 6.105-6.106 (Doha 105, the following chaupai, Chhand 35 and Doha 106). The episode completes the exchange of Sita for her image made before the abduction (Growse 3.19); in Valmiki's Ramayana the real Sita passes through the fire."
+references:
+  - source: growse-ramayana-tulsi-das
+    locator: "6.105"
+  - source: growse-ramayana-tulsi-das
+    locator: "6.106"

@@ -258,3 +258,19 @@ Events (`events`) and concepts (`concepts`) now have pages (`/event/<slug>`, `/c
 
 Two tables: `networks` and `journeys` (migration `0002_networks_journeys.sql`). Seeds, names search and
 the `links` graph include them.
+
+## 10. Phase 3 additions (the epics)
+
+- **Battlefield** gained `sides` (≥2; each with `leaders`, `kingdoms` as sourced associations and
+  references), and per day `section`, `summary`, `commanders` (side + entity), `formations` (side +
+  name), `encounters`, and `fallen` (entity, `by`, note). Rules: side ids unique; every formation and
+  commander names a known side; day numbers unique; a figure falls at most once per telling;
+  `literary: true` is required. The site always labels the battle as the epic's narrative.
+- **Route** gained `travellers`. Routes remain `literary_reconstruction: true` and every stop cites
+  its passage; stops whose place has no agreed location are listed but not drawn.
+- **Event** gained `concepts` (e.g. the Bhagavad Gita event links dharma, karma, yoga…).
+- **Narrative order:** `position` is `book × 1000 + section` for the Mahabharata (Adi = 1000…) and a
+  book offset plus canto for the Ramayana, so events sort as the text tells them.
+- **Family trees** are computed, not stored: each person appears once, under the parent the text names
+  (legal father first, then biological, adoptive, foster…, divine last); every other parent, and every
+  rival account's parent, is shown beside them with its variant.

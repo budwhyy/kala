@@ -1,0 +1,52 @@
+slug: dandakaranya
+names:
+  - text: Dandaka forest (Dandakaranya)
+    lang: en
+    script: Latn
+  - text: दण्डकारण्य
+    lang: sa
+    script: Deva
+    iast: Daṇḍakāraṇya
+realm: terrestrial
+kind: forest
+confidence: debated
+modern_admin:
+  country: India
+  region: Central and southern India (no single site)
+alternative_identifications:
+  - label: The forests of central India south of Chitrakuta, reaching to the Godavari
+    confidence: traditional
+    argument: In the text the exiles enter the Dandaka wood after leaving Chitrakuta, and Panchavati on the Godavari lies in the same wilds. The Imperial Gazetteer says only that Rama wandered into Central India and that pilgrims still trace the exiles' path. No boundary is given, so no geometry is drawn.
+    references:
+      - source: griffith-ramayana
+        locator: "1.1"
+      - source: griffith-ramayana
+        locator: "3.13"
+      - source: imperial-gazetteer-1909
+        locator: "24:146-147"
+        note: United Provinces article, History section
+  - label: Lower valley of the Krishna (tentative)
+    confidence: debated
+    argument: Cunningham notes that Varahamihira lists Dandaka among southern countries and suggests it might be the lower Krishna valley, but adds that the likeness to the name Dhanakakata may be accidental.
+    references:
+      - source: cunningham-ancient-geography
+        locator: "544"
+evidence:
+  - type: textual
+    summary: In Valmiki's Ramayana Kaikeyi demands that Rama be sent to the Dandaka forest for fourteen years, and the text places Dandaka in the southern land. Rama later enters it, kills the giant Viradha and meets the forest hermits.
+    references:
+      - source: griffith-ramayana
+        locator: "2.9"
+      - source: griffith-ramayana
+        locator: "2.11"
+      - source: griffith-ramayana
+        locator: "3.1"
+traditions:
+  - itihasa
+summary_beginner: The great forest of the Ramayana where Rama, Sita and Lakshmana spend most of their exile. It is a literary region, not a mapped area; its extent and location are debated.
+summary_scholar: Kept 'debated' without geometry. The text names it as a vast southern wilderness; neither Griffith nor our other sources fix its extent, and Cunningham hedges his own tentative Krishna-valley suggestion.
+references:
+  - source: griffith-ramayana
+    locator: "3.1"
+  - source: cunningham-ancient-geography
+    locator: "544"

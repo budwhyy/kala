@@ -49,7 +49,9 @@
     "events": "Event",
     "concepts": "Concept",
     "networks": "Pilgrimage network",
-    "journeys": "Journey"
+    "journeys": "Journey",
+    "routes": "Journey route",
+    "battlefields": "Battlefield"
   },
   "common": {
     "scholarly": "Scholarly detail",

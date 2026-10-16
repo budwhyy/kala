@@ -52,3 +52,16 @@ Format: `ID — question — context — conservative reading adopted for now �
 - **OQ-032 — Philosophy gaps.** Colebrooke's scan is poor OCR (karika 18's verse text unreadable); Telang prints no verse numbers (standard numbering used); Ramanuja is cited by page within 1.1.1; Samkhya says nothing about God in the text read. Buddhist and Jain views of karma/moksha/atman are deferred to Phase 4. Status: open.
 - **OQ-033 — Page numbers from OCR.** Several Gazetteer, Pargiter and Rhys Davids locators were read from OCR running heads or an online transcription; see each notes file. Status: open (same as OQ-015).
 - **OQ-034 — Lighthouse (simulated throttling) vs real throttling.** The cosmic page's TBT is high in Lighthouse's simulated mode but not under real CPU throttling; the interactive time passes the 4 s target in both. Genealogy remains the slowest page (OQ-020). Status: open.
+
+## Phase 3 (details in docs/research/*-p3-notes.md)
+
+- **OQ-019 — resolved.** Krishna ↔ Arjuna, Shakuni ↔ Duryodhana and five other epic pairs now trace with sources (`trace.test.ts`).
+- **OQ-035 — Book VII (and Book I) of the Ramayana.** Uttara Kanda claims carry a "later layer" variant citing Macdonell 1900; Macdonell also treats Book I as later, but Book I events carry only a note. Status: open — decide whether to tag Book I too.
+- **OQ-036 — Griffith abridgements.** Griffith omits Book VI cantos 76–92 and condenses Book VII; those events rest on Dutt alone (e.g. Indrajit's death). Status: noted.
+- **OQ-037 — Regional Ramayanas.** No public-domain English translation of the Kamba Ramayanam or other regional versions was used; only Valmiki and Tulsidas (Growse). The brief's "regional" route option waits for a source. Status: open.
+- **OQ-038 — Ramcharitmanas route.** No sequence of places different from Valmiki's could be confirmed in Growse, so no separate route. Status: open.
+- **OQ-039 — Kurukshetra gaps.** Ganguli names no array on several days (4, 10, 15, 18 for both sides; one side on days 1, 2, 8, 9, 13, 14, 17); two Sanskrit array names (चक्र, बार्हस्पत्य) come from the agent's knowledge, not an edition read — to check. About 25 named fallen (Sweta, Shankha, Vrishasena, Uluka, Alambusha…) have no records and appear only in encounter text; Iravan's and Abhimanyu's slayers are unrecorded. Status: open.
+- **OQ-040 — Contradictions inside the Mahabharata.** Vinda and Anuvinda are of Avanti (6.84) or Kekaya (8.13); King Nila joins Duryodhana (5.19) but fights for the Pandavas (7.29); the Kekaya princes are placed on both sides (5.19 vs 5.57); Bhagadatta's realm varies (2.14 vs 2.26, 5.19). Recorded as the text gives them. Status: noted.
+- **OQ-041 — Places of the Krishna story and the exile.** Gokula (Mahaban or Gokul village), Upaplavya (town or capital), Varanavata, Ekachakra, Kamyaka and Dvaitavana are `debated` without map points; Gomanta and "the sea of red waters" are unmapped. Status: open.
+- **OQ-042 — Yudhishthira's divine father.** Linked to `dharma` (Ganguli's gloss "(Yama…)" at 1.63 mentioned only in the explanation); whether `dharma` and `yama` should be identified is a reading choice. Status: open.
+- **OQ-043 — Shared slugs.** A clash (`shrutakirti`) between two agents was repaired; the Mahabharata figure is `shrutakirti-son-of-arjuna`. Status: resolved.

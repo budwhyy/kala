@@ -1,0 +1,30 @@
+slug: pandu
+names:
+  - text: "Pandu"
+    lang: en
+    script: Latn
+  - text: "पाण्डु"
+    lang: sa
+    script: Deva
+    iast: "Pāṇḍu"
+kinds: [human, king]
+traditions: [itihasa]
+dynasties:
+  - to: kuru-dynasty
+    note: "King of the Kurus; the Pandavas are named after him."
+    references:
+      - source: ganguli-mahabharata
+        locator: "1.95"
+summary_beginner: "Son of Vichitravirya's widow Ambalika through Vyasa, named for his pale colour. Cursed never to approach his wives, he asked Kunti and Madri to bear sons by gods; the five Pandavas count as his sons."
+summary_scholar: "In 1.95 he shoots a sage who had taken the form of a deer and is cursed to die in the act of love, which later happens with Madri. Before the curse he conquers many kingdoms for the Kurus (1.113)."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.95"
+  - source: ganguli-mahabharata
+    locator: "1.106"
+  - source: ganguli-mahabharata
+    locator: "1.112"
+  - source: ganguli-mahabharata
+    locator: "1.113"
+  - source: ganguli-mahabharata
+    locator: "1.124"

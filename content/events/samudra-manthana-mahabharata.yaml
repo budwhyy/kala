@@ -52,12 +52,12 @@ places:
   - mandara
 narrative_order:
   text: mahabharata
-  position: 18
+  position: 1018
 variant: mahabharata-adi-parva
 traditions:
   - itihasa
 summary_beginner: In the Mahabharata, the gods meet on Mount Meru wanting amrita, the drink of immortality. Narayana tells them to churn the ocean together with the asuras. Mount Mandara is the churning staff and the serpent Vasuki the rope. Many wonders rise, among them the Moon, Lakshmi, the horse Uchchaihshravas, Dhanvantari with the amrita and the elephant Airavata, and then a poison that Shiva swallows. Narayana, in a female form, takes the amrita from the asuras for the gods.
-summary_scholar: "Told by Sauti in the Astika Parva: 1.17 sets the scene on Meru and records Narayana's instruction; 1.18 gives the churning itself and the list of products; 1.19 gives the beguiling of the Danavas, Rahu's beheading and the battle that sends the Danavas into the earth and sea; 1.20 recalls the steed in the wager of Kadru and Vinata. The account differs from the Vishnu Purana and the Ramayana: it has no curse of Durvasas, the tortoise is a tortoise-king not explicitly named as Vishnu, Shiva swallows the poison at Brahma's request after Dhanvantari and Airavata have risen, and the order of products differs (see the three list variants). Wilson's note to VP 1.9 treats the Mahabharata and Ramayana tellings as the oldest. No text places the event within a yuga or manvantara, so no cosmic time is recorded. The 'position' in narrative_order is the Adi Parva section number."
+summary_scholar: "Told by Sauti in the Astika Parva: 1.17 sets the scene on Meru and records Narayana's instruction; 1.18 gives the churning itself and the list of products; 1.19 gives the beguiling of the Danavas, Rahu's beheading and the battle that sends the Danavas into the earth and sea; 1.20 recalls the steed in the wager of Kadru and Vinata. The account differs from the Vishnu Purana and the Ramayana: it has no curse of Durvasas, the tortoise is a tortoise-king not explicitly named as Vishnu, Shiva swallows the poison at Brahma's request after Dhanvantari and Airavata have risen, and the order of products differs (see the three list variants). Wilson's note to VP 1.9 treats the Mahabharata and Ramayana tellings as the oldest. No text places the event within a yuga or manvantara, so no cosmic time is recorded. The 'position' in narrative_order is parva x 1000 + the Adi Parva section number."
 references:
   - source: ganguli-mahabharata
     locator: "1.17"

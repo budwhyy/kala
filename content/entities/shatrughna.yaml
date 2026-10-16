@@ -1,0 +1,19 @@
+slug: shatrughna
+names:
+  - text: "Shatrughna"
+    lang: en
+    script: Latn
+  - text: शत्रुघ्न
+    lang: sa
+    script: Deva
+    iast: "Śatrughna"
+kinds: [human]
+traditions: [itihasa, vaishnava]
+summary_beginner: "The youngest son of Dasharatha, Lakshmana's twin by Sumitra, and Bharata's constant companion. He marries Shrutakirti, daughter of Kushadhvaja."
+references:
+  - source: griffith-ramayana
+    locator: "1.19"
+  - source: griffith-ramayana
+    locator: "1.73"
+  - source: griffith-ramayana
+    locator: "1.77"

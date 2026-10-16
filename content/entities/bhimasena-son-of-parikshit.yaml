@@ -1,0 +1,21 @@
+slug: bhimasena-son-of-parikshit
+names:
+  - text: "Bhimasena (son of Parikshit)"
+    lang: en
+    script: Latn
+  - text: "भीमसेन"
+    lang: sa
+    script: Deva
+    iast: "Bhīmasena"
+kinds: [human, king]
+traditions: [itihasa]
+dynasties:
+  - to: kuru-dynasty
+    note: "A Kuru king in the Adi Parva genealogy of section 95."
+    references:
+      - source: ganguli-mahabharata
+        locator: "1.95"
+summary_beginner: "An early Kuru king in the Adi Parva's second genealogy: the son of Parikshit and Suvasa, and grandfather of Pratipa. He is a different person from the Pandava Bhima, who is also called Bhimasena."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.95"

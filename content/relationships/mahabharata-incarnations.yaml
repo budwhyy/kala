@@ -1,0 +1,128 @@
+# Partial incarnations named in the Adi Parva (section 67, the descent of portions of gods and asuras) and parallels.
+# 'Born of a portion of' is stored as manifestation_of; 'was X himself' as identified_with. Nothing here is an avatar_of link.
+- id: mbh-vidura-identified-with-dharma
+  from: vidura
+  to: dharma
+  type: identified_with
+  variant: mahabharata-adi-parva
+  explanation: "The Adi Parva says Vidura was the god Dharma (justice) himself, born as a man because the sage Animandavya cursed him."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.63"
+    - source: ganguli-mahabharata
+      locator: "1.67"
+    - source: ganguli-mahabharata
+      locator: "1.106"
+- id: mbh-shishupala-identified-with-hiranyakashipu
+  from: shishupala
+  to: hiranyakashipu
+  type: identified_with
+  explanation: "Both the Mahabharata's list of incarnations and the Vishnu Purana say that Shishupala was the daitya Hiranyakashipu in a former birth; the Vishnu Purana adds a birth as Ravana between them."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.67"
+    - source: wilson-vishnu-purana
+      locator: "4.14"
+    - source: wilson-vishnu-purana
+      locator: "4.15"
+- id: mbh-rukmini-manifestation-of-lakshmi
+  from: rukmini
+  to: lakshmi
+  type: manifestation_of
+  variant: mahabharata-adi-parva
+  explanation: "The Adi Parva says a portion of Sri was born in the line of Bhishmaka as Rukmini, for the gratification of Narayana."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.67"
+- id: mbh-drona-manifestation-of-brihaspati
+  from: drona
+  to: brihaspati
+  type: manifestation_of
+  variant: mahabharata-adi-parva
+  explanation: "The Adi Parva says Drona sprang from a portion of the celestial sage Brihaspati."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.67"
+- id: mbh-ashwatthama-manifestation-of-shiva
+  from: ashwatthama
+  to: shiva
+  type: manifestation_of
+  variant: mahabharata-adi-parva
+  explanation: "The Adi Parva says Ashwatthama was born of the united portions of Mahadeva, Yama, Kama and Krodha."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.67"
+- id: mbh-ashwatthama-manifestation-of-yama
+  from: ashwatthama
+  to: yama
+  type: manifestation_of
+  variant: mahabharata-adi-parva
+  explanation: "The Adi Parva names Yama among the four whose portions united in Ashwatthama."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.67"
+- id: mbh-kripa-manifestation-of-rudras
+  from: kripa
+  to: rudras
+  type: manifestation_of
+  variant: mahabharata-adi-parva
+  explanation: "The Adi Parva says Kripa was born of the tribe of the Rudras."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.67"
+- id: mbh-dhrishtadyumna-manifestation-of-agni
+  from: dhrishtadyumna
+  to: agni
+  type: manifestation_of
+  variant: mahabharata-adi-parva
+  explanation: "The Adi Parva says Dhrishtadyumna was a portion of Agni."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.67"
+    - source: ganguli-mahabharata
+      locator: "1.63"
+- id: mbh-satyaki-manifestation-of-maruts
+  from: satyaki
+  to: maruts
+  type: manifestation_of
+  variant: mahabharata-adi-parva
+  explanation: "The Adi Parva says Satyaki was begotten of the portion of the gods called Maruts."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.67"
+- id: mbh-drupada-manifestation-of-maruts
+  from: drupada
+  to: maruts
+  type: manifestation_of
+  variant: mahabharata-adi-parva
+  explanation: "The Adi Parva says Drupada was born of the same group of gods, the Maruts."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.67"
+- id: mbh-kritavarma-manifestation-of-maruts
+  from: kritavarma
+  to: maruts
+  type: manifestation_of
+  variant: mahabharata-adi-parva
+  explanation: "The Adi Parva says Kritavarma was born of a portion of the Maruts."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.67"
+- id: mbh-virata-manifestation-of-maruts
+  from: virata
+  to: maruts
+  type: manifestation_of
+  variant: mahabharata-adi-parva
+  explanation: "The Adi Parva says Virata was born of a portion of the Maruts."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.67"
+- id: mbh-balarama-manifestation-of-shesha-adi
+  from: balarama
+  to: shesha
+  type: manifestation_of
+  variant: mahabharata-adi-parva
+  explanation: "The Adi Parva says Baladeva was a portion of the Naga Shesha."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.67"

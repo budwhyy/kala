@@ -1,0 +1,23 @@
+slug: prativindhya
+names:
+  - text: "Prativindhya"
+    lang: en
+    script: Latn
+  - text: "प्रतिविन्ध्य"
+    lang: sa
+    script: Deva
+    iast: "Prativindhya"
+epithets:
+  - text: "Pritivindhya"
+    lang: en
+    script: Latn
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "Son of Yudhishthira and Draupadi, the eldest of Draupadi's five sons. Ashwatthama kills him and his brothers in the night raid on the Pandava camp."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.63"
+  - source: ganguli-mahabharata
+    locator: "1.223"
+  - source: ganguli-mahabharata
+    locator: "10.8"

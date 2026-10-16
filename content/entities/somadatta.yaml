@@ -1,0 +1,17 @@
+slug: somadatta
+names:
+  - text: "Somadatta"
+    lang: en
+    script: Latn
+  - text: "सोमदत्त"
+    lang: sa
+    script: Deva
+    iast: "Somadatta"
+kinds: [human, king]
+traditions: [itihasa]
+summary_beginner: "A Kuru prince, called the son of Bahlika, and father of Bhurishravas. He fought on the Kaurava side and was killed by Satyaki."
+references:
+  - source: ganguli-mahabharata
+    locator: "5.166"
+  - source: ganguli-mahabharata
+    locator: "7.161"

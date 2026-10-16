@@ -1,0 +1,28 @@
+slug: shrutasena
+names:
+  - text: "Shrutasena"
+    lang: en
+    script: Latn
+  - text: "श्रुतसेन"
+    lang: sa
+    script: Deva
+    iast: "Śrutasena"
+epithets:
+  - text: "Shrutakarman"
+    lang: en
+    script: Latn
+  - text: "Srutasena"
+    lang: en
+    script: Latn
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "Son of Sahadeva and Draupadi. He is Shrutasena in 1.63 and 1.223, but section 95 of the Adi Parva calls Sahadeva's son by Draupadi Shrutakarman. He dies in Ashwatthama's night raid with his brothers."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.63"
+  - source: ganguli-mahabharata
+    locator: "1.95"
+  - source: ganguli-mahabharata
+    locator: "1.223"
+  - source: ganguli-mahabharata
+    locator: "10.8"

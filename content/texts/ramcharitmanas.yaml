@@ -1,0 +1,52 @@
+slug: ramcharitmanas
+names:
+  - text: Ramcharitmanas
+    lang: en
+    script: Latn
+  - text: रामचरितमानस
+    lang: awa
+    script: Deva
+    iast: Rāmacaritamānasa
+genre: kavya
+original_language: awa
+traditions:
+  - vaishnava
+composition:
+  start: 1575
+  end: 1624
+  precision: period
+  confidence: medium
+  note: "The poem's own prologue says it was begun at Ayodhya in Samvat 1631, which Growse gives as
+    1575 CE; Growse dates Tulsidas's death to Samvat 1680 (1624 CE). The end bound is the poet's
+    death, not a stated date of completion."
+  references:
+    - source: growse-ramayana-tulsi-das
+      locator: "1.42"
+      note: the poet names Samvat 1631 and the city of Avadh as the time and place he began
+    - source: growse-ramayana-tulsi-das
+      locator: "Introduction, p. xii"
+sections:
+  - id: bal-kand
+    label: "Book I: Bal Kand (Childhood)"
+  - id: ayodhya-kand
+    label: "Book II: Ayodhya Kand"
+  - id: aranya-kand
+    label: "Book III: Aranya Kand (The Forest)"
+  - id: kishkindha-kand
+    label: "Book IV: Kishkindha Kand"
+  - id: sundar-kand
+    label: "Book V: Sundar Kand (The Beautiful)"
+  - id: lanka-kand
+    label: "Book VI: Lanka Kand"
+  - id: uttar-kand
+    label: "Book VII: Uttar Kand (The Sequel)"
+summary_beginner: >-
+  The retelling of the Rama story in Awadhi (an eastern form of Hindi) by the poet Tulsidas, begun in
+  1575. It is the most widely read and recited Ramayana in north India and presents Rama throughout as
+  God incarnate.
+summary_scholar: >-
+  A devotional (bhakti) retelling, framed as a dialogue between Shiva and Parvati among other
+  narrators, that follows Valmiki's outline in seven books but changes several episodes: before the
+  golden deer appears Rama has Sita enter fire and leave an image of herself, which is what Ravana
+  carries off and what the fire consumes at the ordeal in Lanka; and the last book has no exile of
+  Sita, her sons being born in Ayodhya. Cited from F. S. Growse's English translation (1883 edition).

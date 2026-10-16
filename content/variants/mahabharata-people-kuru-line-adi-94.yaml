@@ -1,0 +1,12 @@
+slug: mahabharata-people-kuru-line-adi-94
+names:
+  - text: "Kuru line, Adi Parva section 94"
+    lang: en
+    script: Latn
+kind: genealogy
+tradition: itihasa
+text: mahabharata
+description: "The first of the two genealogies of Puru's line in the Adi Parva (Ganguli's section 94). From Kuru it runs through his son Avikshit and a king Janamejaya to a king Dhritarashtra, whose most famous grandson is Pratipa; it does not name every generation."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.94"

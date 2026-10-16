@@ -1,0 +1,31 @@
+slug: devaki
+names:
+  - text: "Devaki"
+    lang: en
+    script: Latn
+  - text: "देवकी"
+    lang: sa
+    script: Deva
+    iast: "Devakī"
+kinds: [human]
+traditions: [itihasa, puranic]
+dynasties:
+  - to: yadava-dynasty
+    note: "A daughter of Devaka of the Yadava line."
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.14"
+summary_beginner: "Daughter of Devaka and wife of Vasudeva. Her cousin Kamsa imprisoned her and killed her children, but her eighth child, Krishna, was carried to safety, and her seventh conception was moved into Rohini's womb and born as Balarama."
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.14"
+  - source: wilson-vishnu-purana
+    locator: "4.15"
+  - source: wilson-vishnu-purana
+    locator: "5.1"
+  - source: wilson-vishnu-purana
+    locator: "5.3"
+  - source: ganguli-mahabharata
+    locator: "1.63"
+  - source: dutt-harivamsha
+    locator: "59"

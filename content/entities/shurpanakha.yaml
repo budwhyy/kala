@@ -1,0 +1,21 @@
+slug: shurpanakha
+names:
+  - text: "Shurpanakha"
+    lang: en
+    script: Latn
+  - text: शूर्पणखा
+    lang: sa
+    script: Deva
+    iast: "Śūrpaṇakhā"
+kinds: [rakshasa]
+traditions: [itihasa]
+summary_beginner: "Ravana's sister. Spurned by Rama and Lakshmana in the Dandaka forest, she attacks Sita and Lakshmana cuts off her nose and ears; she then stirs up Khara and Ravana against Rama."
+references:
+  - source: griffith-ramayana
+    locator: "3.17"
+  - source: griffith-ramayana
+    locator: "3.18"
+  - source: griffith-ramayana
+    locator: "3.19"
+  - source: griffith-ramayana
+    locator: "3.33"

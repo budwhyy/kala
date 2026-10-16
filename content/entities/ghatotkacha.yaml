@@ -1,0 +1,19 @@
+slug: ghatotkacha
+names:
+  - text: "Ghatotkacha"
+    lang: en
+    script: Latn
+  - text: "घटोत्कच"
+    lang: sa
+    script: Deva
+    iast: "Ghaṭotkaca"
+kinds: [rakshasa, human]
+traditions: [itihasa]
+summary_beginner: "Son of Bhima and the rakshasi Hidimbi, devoted to the Pandavas. In the war Karna kills him with the dart he had received from Indra."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.95"
+  - source: ganguli-mahabharata
+    locator: "1.157"
+  - source: ganguli-mahabharata
+    locator: "7.179"

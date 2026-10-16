@@ -1,0 +1,48 @@
+slug: "kundina"
+names:
+  - text: "Kundina"
+    lang: "en"
+    script: "Latn"
+  - text: "कुण्डिन"
+    lang: "sa"
+    script: "Deva"
+    iast: "Kuṇḍina"
+realm: "terrestrial"
+kind: "city"
+confidence: "debated"
+modern_admin:
+  country: "India"
+  region: "Maharashtra"
+alternative_identifications:
+  - label: "Kundapur, about forty miles north-east of Amravati"
+    confidence: "debated"
+    modern_admin:
+      country: "India"
+      region: "Maharashtra"
+    argument: "Wilson notes that Kundinapura, the capital of Vidarbha, is commonly identified with a place called Kundapur about forty miles north-east of Amaravati in Berar. KĀLA holds no citable coordinates for it."
+    references:
+      - source: "wilson-vishnu-purana"
+        locator: "5.26"
+        note: "Wilson's note 1 to the chapter"
+evidence:
+  - type: "textual"
+    summary: "In the Vishnu Purana and the Harivamsha, Kundina is the city of King Bhishmaka of Vidarbha, from which Krishna carries off Rukmini."
+    references:
+      - source: "wilson-vishnu-purana"
+        locator: "5.26"
+      - source: "dutt-harivamsha"
+        locator: "116"
+        note: "Harivamsha Parva"
+entities:
+  - to: "rukmini"
+    note: "Rukmini's home."
+    references:
+      - source: "wilson-vishnu-purana"
+        locator: "5.26"
+traditions:
+  - "vaishnava"
+summary_beginner: "The capital of Vidarbha, home of Rukmini, from which Krishna carried her off. Wilson reports that it is commonly placed near Amravati in Maharashtra."
+summary_scholar: "Only Wilson's note gives a location, and it is a 'common identification' rather than a demonstrated one; with no citable coordinates the record is classed debated and drawn without a point."
+references:
+  - source: "wilson-vishnu-purana"
+    locator: "5.26"

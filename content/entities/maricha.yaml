@@ -1,0 +1,22 @@
+slug: maricha
+names:
+  - text: "Maricha"
+    lang: en
+    script: Latn
+  - text: मारीच
+    lang: sa
+    script: Deva
+    iast: "Mārīca"
+kinds: [rakshasa]
+traditions: [itihasa]
+summary_beginner: "Son of Tataka. Driven far away by Rama's arrow at Vishvamitra's sacrifice, he is later forced by Ravana to take the form of a golden deer to lure Rama away from Sita, and Rama kills him."
+summary_scholar: "Not the same as the sage Marichi, son of Brahma."
+references:
+  - source: griffith-ramayana
+    locator: "1.27"
+  - source: griffith-ramayana
+    locator: "1.32"
+  - source: griffith-ramayana
+    locator: "3.42"
+  - source: griffith-ramayana
+    locator: "3.44"

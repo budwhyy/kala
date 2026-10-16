@@ -1,0 +1,25 @@
+slug: yuvanashva
+names:
+  - text: "Yuvanashva"
+    lang: en
+    script: Latn
+  - text: युवनाश्व
+    lang: sa
+    script: Deva
+    iast: "Yuvanāśva"
+kinds: [king, human]
+traditions: [itihasa]
+dynasties:
+  - to: suryavansha
+    note: "A king of Ikshvaku's line, listed in Vasishtha's recital of Rama's ancestry."
+    references:
+      - source: griffith-ramayana
+        locator: "1.70"
+summary_beginner: "A king of Ikshvaku's line at Ayodhya. In Vasishtha's recital of Rama's ancestry in Valmiki's Ramayana he is the son of Dhundhumara and the father of Mandhata."
+references:
+  - source: griffith-ramayana
+    locator: "1.70"
+  - source: dutt-ramayana
+    locator: "1.70"
+  - source: griffith-ramayana
+    locator: "2.110"

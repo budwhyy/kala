@@ -1,0 +1,49 @@
+slug: "pandavas-final-journey"
+names:
+  - text: "The Pandavas' final journey"
+    lang: "en"
+    script: "Latn"
+  - text: "महाप्रस्थान"
+    lang: "sa"
+    script: "Deva"
+    iast: "Mahāprasthāna"
+text: "mahabharata"
+variant: "mahabharata-story-ganguli-account"
+literary_reconstruction: true
+travellers:
+  - "yudhishthira"
+  - "bhima"
+  - "arjuna"
+  - "nakula"
+  - "sahadeva"
+  - "draupadi"
+stops:
+  - order: 1
+    place: "hastinapura"
+    event: "mahabharata-the-great-departure"
+    note: "After crowning Parikshit, they leave the city named after the elephant, dressed in bark, followed by a dog."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "17.1"
+  - order: 2
+    place: "dwarka"
+    note: "They go east to the sea of red waters, where Arjuna throws away his bow (not mapped), then south and south-west along the coast, and see Dwaraka covered by the ocean."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "17.1"
+  - order: 3
+    place: "meru"
+    note: "Turning north they see Himavat, cross it and a vast desert of sand, and see Mount Meru. On the way Draupadi, Sahadeva, Nakula, Arjuna and Bhima fall. Meru is a cosmological mountain and has no coordinates."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "17.2"
+  - order: 4
+    place: "svarga"
+    event: "mahabharata-ascent-to-heaven"
+    note: "Indra takes Yudhishthira to heaven in his car; the dog is revealed as Dharma."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "17.3"
+      - source: "ganguli-mahabharata"
+        locator: "18.1"
+summary_beginner: "The Pandavas' last journey in the Mahaprasthanika Parva: from Hastinapura east to the sea, round by the coast past the drowned Dwaraka, and north across Himavat towards Mount Meru, where the brothers and Draupadi fall one by one and Yudhishthira alone is taken to heaven. Only the first two stops can be placed on a map; Meru and Svarga are cosmological. This is a literary reconstruction: the route follows the order of places named in the text, not a verified itinerary, and each stop's place record carries its own confidence class."

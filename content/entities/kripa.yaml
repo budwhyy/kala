@@ -1,0 +1,17 @@
+slug: kripa
+names:
+  - text: "Kripa"
+    lang: en
+    script: Latn
+  - text: "कृप"
+    lang: sa
+    script: Deva
+    iast: "Kṛpa"
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "Son of the archer-sage Sharadvat, born with his twin sister Kripi from a clump of reeds; King Shantanu found and raised them out of pity (kripa). He became a teacher of arms to the Kuru and Pandava princes."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.63"
+  - source: ganguli-mahabharata
+    locator: "1.130"

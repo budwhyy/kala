@@ -1,0 +1,30 @@
+slug: "mahabharata-birth-of-vyasa"
+names:
+  - text: "The birth of Vyasa"
+    lang: "en"
+    script: "Latn"
+  - text: "व्यासजन्म"
+    lang: "sa"
+    script: "Deva"
+    iast: "Vyāsa-janma"
+participants:
+  - entity: "satyavati"
+    role: "a fisherman's foster-daughter who ferries a boat on the Yamuna"
+  - entity: "parashara"
+    role: "the sage who becomes Vyasa's father"
+  - entity: "vyasa"
+    role: "born on an island in the Yamuna; leaves to practise austerity"
+places:
+  - "yamuna"
+narrative_order:
+  text: "mahabharata"
+  position: 1063
+  section: "adi-parva"
+variant: "mahabharata-story-ganguli-account"
+traditions:
+  - "itihasa"
+summary_beginner: "In the Adi Parva, Satyavati, brought up by a fisherman, plies a boat on the Yamuna. The sage Parashara desires her; she agrees once he promises that she will remain a maiden, and her fishy smell becomes a fragrance. The same day she bears his son on an island in the river. The child, Krishna Dvaipayana (Vyasa), goes off to practise austerity, promising to come whenever his mother thinks of him."
+summary_scholar: "Told in the Adivansavatarana sub-book (Ganguli 1.63) as part of Satyavati's origin. The promise to return when remembered prepares the later scene in which Satyavati summons Vyasa to father heirs for the Kuru line (1.105). The 'position' in narrative_order is parva x 1000 + Ganguli's section number of the main passage, so events sort in the order the epic tells them."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "1.63"

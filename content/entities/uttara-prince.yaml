@@ -1,0 +1,21 @@
+slug: uttara-prince
+names:
+  - text: "Uttara (prince of Matsya)"
+    lang: en
+    script: Latn
+  - text: "उत्तर"
+    lang: sa
+    script: Deva
+    iast: "Uttara"
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "Son of King Virata of Matsya. When the Kauravas raided his father's cattle, Arjuna, disguised as Brihannala, went with him to battle and revealed himself; in the great war Shalya kills him."
+references:
+  - source: ganguli-mahabharata
+    locator: "4.36"
+  - source: ganguli-mahabharata
+    locator: "4.38"
+  - source: ganguli-mahabharata
+    locator: "4.44"
+  - source: ganguli-mahabharata
+    locator: "6.47"

@@ -1,0 +1,23 @@
+slug: vibhishana
+names:
+  - text: "Vibhishana"
+    lang: en
+    script: Latn
+  - text: विभीषण
+    lang: sa
+    script: Deva
+    iast: "Vibhīṣaṇa"
+kinds: [rakshasa, king]
+traditions: [itihasa]
+summary_beginner: "Ravana's righteous younger brother. When Ravana rejects his counsel to return Sita, he goes over to Rama, who consecrates him king of Lanka after Ravana's death."
+references:
+  - source: griffith-ramayana
+    locator: "3.17"
+  - source: griffith-ramayana
+    locator: "6.9"
+  - source: griffith-ramayana
+    locator: "6.17"
+  - source: griffith-ramayana
+    locator: "6.19"
+  - source: griffith-ramayana
+    locator: "6.114"

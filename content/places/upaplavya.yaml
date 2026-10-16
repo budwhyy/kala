@@ -1,0 +1,52 @@
+slug: "upaplavya"
+names:
+  - text: "Upaplavya"
+    lang: "en"
+    script: "Latn"
+  - text: "उपप्लव्य"
+    lang: "sa"
+    script: "Deva"
+    iast: "Upaplavya"
+realm: "terrestrial"
+kind: "city"
+confidence: "debated"
+modern_admin:
+  country: "India"
+alternative_identifications:
+  - label: "A town near Virata's capital"
+    confidence: "debated"
+    argument: "Ganguli's text calls Upaplavya one of Virata's towns; Raychaudhuri cites the commentator Nilakantha as saying it was a town near Viratanagara."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "4.72"
+      - source: "raychaudhuri-phai-1923"
+        locator: "29"
+  - label: "The Matsya capital itself"
+    confidence: "debated"
+    argument: "Raychaudhuri reports that Pargiter took Upaplavya to be the capital of the Matsyas."
+    references:
+      - source: "raychaudhuri-phai-1923"
+        locator: "29"
+evidence:
+  - type: "textual"
+    summary: "After the year in disguise the Pandavas live at Upaplavya, where Abhimanyu marries Uttara and allies gather; Krishna sets out from there on his peace mission and returns there."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "4.72"
+      - source: "ganguli-mahabharata"
+        locator: "5.147"
+kingdoms:
+  - to: "matsya-kingdom-epic"
+    note: "One of Virata's towns."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "4.72"
+traditions:
+  - "itihasa"
+summary_beginner: "A town of the Matsya kingdom where the Pandavas camped before the war. Its site is unknown."
+summary_scholar: "Scholars differ on whether it was a separate town near Virata's capital or the capital itself; neither view gives a located site."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "4.72"
+  - source: "raychaudhuri-phai-1923"
+    locator: "29"

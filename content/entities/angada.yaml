@@ -1,0 +1,21 @@
+slug: angada
+names:
+  - text: "Angada"
+    lang: en
+    script: Latn
+  - text: अङ्गद
+    lang: sa
+    script: Deva
+    iast: "Aṅgada"
+kinds: [vanara]
+traditions: [itihasa]
+summary_beginner: "Son of Vali and Tara. After Vali's death Sugriva makes him heir, and he leads the vanara search party to the south."
+references:
+  - source: griffith-ramayana
+    locator: "4.22"
+  - source: griffith-ramayana
+    locator: "4.26"
+  - source: griffith-ramayana
+    locator: "4.41"
+  - source: griffith-ramayana
+    locator: "4.65"

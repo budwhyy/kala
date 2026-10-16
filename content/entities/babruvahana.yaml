@@ -1,0 +1,23 @@
+slug: babruvahana
+names:
+  - text: "Babruvahana"
+    lang: en
+    script: Latn
+  - text: "बभ्रुवाहन"
+    lang: sa
+    script: Deva
+    iast: "Babhruvāhana"
+epithets:
+  - text: "Vabhruvahana"
+    lang: en
+    script: Latn
+kinds: [human, king]
+traditions: [itihasa]
+summary_beginner: "Son of Arjuna and Chitrangada, who ruled Manipura. When Arjuna followed the horse of Yudhishthira's horse sacrifice to Manipura, Babruvahana fought and felled him, and Ulupi brought Arjuna back to life."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.219"
+  - source: ganguli-mahabharata
+    locator: "14.79"
+  - source: ganguli-mahabharata
+    locator: "14.80"

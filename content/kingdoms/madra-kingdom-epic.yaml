@@ -1,0 +1,54 @@
+slug: "madra-kingdom-epic"
+names:
+  - text: "Madra (Mahabharata)"
+    lang: "en"
+    script: "Latn"
+  - text: "मद्र"
+    lang: "sa"
+    script: "Deva"
+    iast: "Madra"
+kind: "epic_legendary"
+rulers:
+  - entity: "shalya"
+    attested: false
+    note: "King of Madra, Madri's brother; called the Pandava twins' maternal uncle."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "1.113"
+      - source: "ganguli-mahabharata"
+        locator: "2.31"
+relations:
+  - kingdom: "kuru-kingdom-epic"
+    type: "marriage"
+    note: "Shalya gives his sister Madri to Pandu, for gifts, as Madra custom required."
+    variant: "mahabharata-story-ganguli-account"
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "1.113"
+  - kingdom: "kuru-kingdom-epic"
+    type: "vassalage"
+    note: "In Nakula's western campaign before the Rajasuya, Shalya, at Sakala, accepts the Pandavas' sway out of affection."
+    variant: "mahabharata-story-ganguli-account"
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "2.31"
+  - kingdom: "kuru-kingdom-epic"
+    type: "alliance"
+    note: "Marching to join the Pandavas, Shalya is won over by Duryodhana's hospitality and leads an army for Duryodhana."
+    variant: "mahabharata-story-ganguli-account"
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "5.8"
+      - source: "ganguli-mahabharata"
+        locator: "5.19"
+traditions:
+  - "itihasa"
+summary_beginner: "Shalya's kingdom in the Mahabharata. Its princess Madri married Pandu, but in the war Shalya fought for Duryodhana."
+summary_scholar: "Ganguli 2.31 names Sakala as the city of the Madras; no place record is made for it here. Shalya commands the Kaurava army on the last day of battle (see the battlefield record)."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "1.113"
+  - source: "ganguli-mahabharata"
+    locator: "2.31"
+  - source: "ganguli-mahabharata"
+    locator: "5.8"

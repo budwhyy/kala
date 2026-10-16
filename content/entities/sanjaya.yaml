@@ -1,0 +1,15 @@
+slug: sanjaya
+names:
+  - text: "Sanjaya"
+    lang: en
+    script: Latn
+  - text: "सञ्जय"
+    lang: sa
+    script: Deva
+    iast: "Sañjaya"
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "The companion of the blind king Dhritarashtra. Vyasa granted him divine sight so that he could describe the battle of Kurukshetra to the king, and much of the war is told in his voice."
+references:
+  - source: ganguli-mahabharata
+    locator: "6.2"

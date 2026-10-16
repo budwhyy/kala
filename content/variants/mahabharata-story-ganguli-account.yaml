@@ -1,0 +1,15 @@
+slug: "mahabharata-story-ganguli-account"
+names:
+  - text: "Mahabharata narrative (Ganguli's translation)"
+    lang: "en"
+    script: "Latn"
+kind: "account"
+tradition: "itihasa"
+text: "mahabharata"
+description: "The story of the Mahabharata as told across its eighteen parvas in K. M. Ganguli's English translation, cited by Ganguli's parva and section numbers. Other versions of the epic (other recensions, regional retellings, later Puranas) include, order or tell some episodes differently; they are not compared in these records unless a record says so."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "1.1"
+  - source: "ganguli-mahabharata"
+    locator: "1.2"
+    note: "the Parva-sangraha, Sauti's summary of the eighteen parvas"

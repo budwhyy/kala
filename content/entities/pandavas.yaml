@@ -1,0 +1,17 @@
+slug: pandavas
+names:
+  - text: "Pandavas"
+    lang: en
+    script: Latn
+  - text: "पाण्डव"
+    lang: sa
+    script: Deva
+    iast: "Pāṇḍava"
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "The five sons of Pandu: Yudhishthira, Bhima and Arjuna, born to Kunti, and the twins Nakula and Sahadeva, born to Madri, each fathered by a god. Their struggle with their cousins the Kauravas is the main story of the Mahabharata."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.95"
+  - source: ganguli-mahabharata
+    locator: "1.124"

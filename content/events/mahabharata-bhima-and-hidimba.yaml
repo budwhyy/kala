@@ -1,0 +1,30 @@
+slug: "mahabharata-bhima-and-hidimba"
+names:
+  - text: "Bhima, Hidimba and Ghatotkacha"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "bhima"
+    role: "kills the rakshasa Hidimba and lives for a time with his sister"
+  - entity: "hidimbi"
+    role: "the rakshasi who loves Bhima"
+  - entity: "ghatotkacha"
+    role: "their son, who promises to come whenever he is needed"
+  - entity: "kunti"
+  - entity: "yudhishthira"
+narrative_order:
+  text: "mahabharata"
+  position: 1154
+  section: "adi-parva"
+variant: "mahabharata-story-ganguli-account"
+traditions:
+  - "itihasa"
+summary_beginner: "In the forest after their escape, Bhima watches over his sleeping family. The rakshasa Hidimba sends his sister to lure them, but she falls in love with Bhima. Bhima fights and kills the rakshasa, then lives for a time with the rakshasi (Hidimbi in this record; Ganguli spells both names Hidimva). Their son Ghatotkacha is named for his pot-like head; he promises to come whenever his father needs him and goes away north."
+summary_scholar: "Hidimva-vadha Parva, Ganguli 1.154-1.157. The sub-book is named for the slaying of the rakshasa; 1.157 has Bhima tell the sister to follow her slain brother before Yudhishthira intervenes, and then gives Ghatotkacha's birth. The 'position' in narrative_order is parva x 1000 + Ganguli's section number of the main passage, so events sort in the order the epic tells them."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "1.155"
+  - source: "ganguli-mahabharata"
+    locator: "1.156"
+  - source: "ganguli-mahabharata"
+    locator: "1.157"

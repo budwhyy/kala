@@ -1,0 +1,34 @@
+slug: "anga-kingdom-epic"
+names:
+  - text: "Anga (Mahabharata)"
+    lang: "en"
+    script: "Latn"
+  - text: "अङ्ग"
+    lang: "sa"
+    script: "Deva"
+    iast: "Aṅga"
+kind: "epic_legendary"
+rulers:
+  - entity: "karna"
+    attested: false
+    note: "Made king of Anga by Duryodhana at the princes' tournament."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "1.138"
+relations:
+  - kingdom: "kuru-kingdom-epic"
+    type: "alliance"
+    note: "Duryodhana has Karna crowned king of Anga, binding him to the Kaurava cause."
+    variant: "mahabharata-story-ganguli-account"
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "1.138"
+traditions:
+  - "itihasa"
+summary_beginner: "The kingdom that Duryodhana gave to Karna in the Mahabharata, making him a king so that he could challenge Arjuna."
+summary_scholar: "The Vana Parva says the infant Karna's basket floated down to Champa (3.306), a city that later tradition makes the capital of Anga; KĀLA does not yet record Champa as a place."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "1.138"
+  - source: "ganguli-mahabharata"
+    locator: "3.306"

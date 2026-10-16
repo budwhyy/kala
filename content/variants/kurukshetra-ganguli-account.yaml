@@ -1,0 +1,20 @@
+slug: kurukshetra-ganguli-account
+names:
+  - text: Mahabharata account of the Kurukshetra war
+    lang: en
+    script: Latn
+kind: account
+tradition: itihasa
+text: mahabharata
+description:
+  The Mahabharata's own telling of the eighteen-day war at Kurukshetra, from the mustering of the
+  armies in the Udyoga Parva to Duryodhana's fall in the Shalya Parva, cited by the section numbers
+  of Ganguli's translation (Bhishma, Drona, Karna and Shalya Parvas). Other versions and modern
+  retellings may order the days or name the arrays differently.
+references:
+  - source: ganguli-mahabharata
+    locator: "5.156"
+  - source: ganguli-mahabharata
+    locator: "6.1"
+  - source: ganguli-mahabharata
+    locator: "9.58"

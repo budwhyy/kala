@@ -1,0 +1,17 @@
+slug: vanaras
+names:
+  - text: "Vanaras"
+    lang: en
+    script: Latn
+  - text: वानर
+    lang: sa
+    script: Deva
+    iast: "Vānara"
+kinds: [vanara]
+traditions: [itihasa]
+summary_beginner: "The forest people of the Ramayana, described as monkeys able to change form at will. Valmiki says the gods fathered them to help Vishnu's human incarnation, and their host under Sugriva fights for Rama at Lanka."
+references:
+  - source: griffith-ramayana
+    locator: "1.16"
+  - source: griffith-ramayana
+    locator: "4.39"

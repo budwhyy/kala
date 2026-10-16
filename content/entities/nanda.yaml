@@ -1,0 +1,21 @@
+slug: nanda
+names:
+  - text: "Nanda"
+    lang: en
+    script: Latn
+  - text: "नन्द"
+    lang: sa
+    script: Deva
+    iast: "Nanda"
+kinds: [human]
+traditions: [itihasa, puranic]
+summary_beginner: "A cowherd chief of Gokula who brought up Krishna and Balarama as his own sons, at Vasudeva's request."
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.15"
+  - source: wilson-vishnu-purana
+    locator: "5.3"
+  - source: wilson-vishnu-purana
+    locator: "5.5"
+  - source: dutt-harivamsha
+    locator: "59"

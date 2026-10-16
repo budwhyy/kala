@@ -179,6 +179,7 @@ export function validateDataset(ds: Dataset): Issue[] {
     needAll("events", e.slug, "places", e.places, "places");
     needAll("events", e.slug, "traditions", e.traditions, "traditions");
     needAll("events", e.slug, "events", e.same_story_as, "same_story_as");
+    needAll("events", e.slug, "concepts", e.concepts, "concepts");
     for (const other of e.same_story_as.map((x) => index.events.get(x))) {
       if (other && !other.same_story_as.includes(e.slug))
         issues.push({

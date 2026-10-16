@@ -1,0 +1,26 @@
+slug: shikhandi
+names:
+  - text: "Shikhandi"
+    lang: en
+    script: Latn
+  - text: "शिखण्डी"
+    lang: sa
+    script: Deva
+    iast: "Śikhaṇḍī"
+epithets:
+  - text: "Sikhandin"
+    lang: en
+    script: Latn
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "A child of Drupada, born a daughter and later turned into a man by a yaksha. In the Udyoga Parva Shikhandi is Amba reborn to destroy Bhishma, and in the war Arjuna attacks Bhishma from behind Shikhandi."
+summary_scholar: "The Mahabharata gives two origins: the Adi Parva's list of incarnations calls Shikhandi a rakshasa born among men (1.67), while Bhishma's account in the Udyoga Parva makes Shikhandi the reborn Amba (5.190-5.191). Only the second is stored as a relationship."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.63"
+  - source: ganguli-mahabharata
+    locator: "1.67"
+  - source: ganguli-mahabharata
+    locator: "5.191"
+  - source: ganguli-mahabharata
+    locator: "6.117"

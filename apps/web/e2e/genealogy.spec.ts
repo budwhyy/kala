@@ -2,7 +2,7 @@ import { expect, test } from "@playwright/test";
 
 test("trace Kashyapa → Garuda with sources, and keep it in list view", async ({ page }) => {
   await page.goto("/genealogy?entity=kashyapa");
-  await page.getByLabel("To").selectOption("garuda");
+  await page.locator("#pick-to").selectOption("garuda");
   await expect(page).toHaveURL(/trace=garuda/);
   const trace = page.locator("ol").filter({ hasText: "parent of" }).first();
   await expect(trace).toContainText("Kashyapa");

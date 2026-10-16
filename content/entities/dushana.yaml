@@ -1,0 +1,17 @@
+slug: dushana
+names:
+  - text: "Dushana"
+    lang: en
+    script: Latn
+  - text: दूषण
+    lang: sa
+    script: Deva
+    iast: "Dūṣaṇa"
+kinds: [rakshasa]
+traditions: [itihasa]
+summary_beginner: "A rakshasa commander with Khara in Janasthana, named by Shurpanakha as her brother, and killed by Rama in the battle there."
+references:
+  - source: griffith-ramayana
+    locator: "3.17"
+  - source: griffith-ramayana
+    locator: "3.26"

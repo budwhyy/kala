@@ -1,0 +1,27 @@
+slug: anshuman
+names:
+  - text: "Anshuman"
+    lang: en
+    script: Latn
+  - text: अंशुमान्
+    lang: sa
+    script: Deva
+    iast: "Aṃśumān"
+kinds: [king, human]
+traditions: [itihasa]
+dynasties:
+  - to: suryavansha
+    note: "A king of Ikshvaku's line, listed in Vasishtha's recital of Rama's ancestry."
+    references:
+      - source: griffith-ramayana
+        locator: "1.70"
+summary_beginner: "A king of Ikshvaku's line at Ayodhya. In Vasishtha's recital of Rama's ancestry in Valmiki's Ramayana he is the son of Asamanja and the father of Dilipa. He recovers Sagara's sacrificial horse in the Bala Kanda."
+references:
+  - source: griffith-ramayana
+    locator: "1.70"
+  - source: dutt-ramayana
+    locator: "1.70"
+  - source: griffith-ramayana
+    locator: "2.110"
+  - source: griffith-ramayana
+    locator: "1.42"

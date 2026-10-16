@@ -1,0 +1,27 @@
+slug: ramayana-death-of-jatayu
+names:
+  - text: "The death of Jatayu"
+    lang: en
+    script: Latn
+participants:
+  - entity: jatayu
+    role: "tells Rama that Ravana has taken Sita, and dies"
+  - entity: rama
+    role: "performs his funeral rites"
+  - entity: lakshmana
+    role: "with Rama"
+narrative_order:
+  text: valmiki-ramayana
+  position: 368
+  section: aranya-kanda
+variant: valmiki-ramayana-account
+traditions:
+  - itihasa
+summary_beginner: "Searching for Sita, Rama and Lakshmana find the dying Jatayu, who tells them that Ravana has carried her off and then dies. Rama honours him with full funeral rites."
+references:
+  - source: griffith-ramayana
+    locator: "1.1"
+  - source: griffith-ramayana
+    locator: "3.68"
+  - source: griffith-ramayana
+    locator: "3.69"

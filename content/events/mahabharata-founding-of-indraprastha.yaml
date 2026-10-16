@@ -1,0 +1,41 @@
+slug: "mahabharata-founding-of-indraprastha"
+names:
+  - text: "The division of the kingdom and the founding of Indraprastha"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "dhritarashtra"
+    role: "gives the Pandavas half the kingdom"
+  - entity: "bhishma"
+    role: "advises giving the Pandavas their share"
+  - entity: "drona"
+    role: "advises reconciliation"
+  - entity: "vidura"
+    role: "is sent to bring the Pandavas back"
+  - entity: "yudhishthira"
+  - entity: "krishna"
+    role: "goes with the Pandavas to Khandavaprastha"
+  - entity: "vyasa"
+    role: "helps choose the site of the city"
+  - entity: "pandavas"
+places:
+  - "hastinapura"
+  - "indraprastha"
+narrative_order:
+  text: "mahabharata"
+  position: 1209
+  section: "adi-parva"
+variant: "mahabharata-story-ganguli-account"
+traditions:
+  - "itihasa"
+summary_beginner: "Now allied by marriage to Panchala, the Pandavas are recalled to Hastinapura after Bhishma, Drona and Vidura urge Dhritarashtra to give them their share. He sends them with half the kingdom to Khandavaprastha, a wild tract. With Krishna at their side and Vyasa's help in choosing the site, they build a splendid city that comes to be called Indraprastha."
+summary_scholar: "Viduragamana Parva, Ganguli 1.205-1.209: Bhishma's (1.205), Drona's (1.206) and Vidura's (1.207) advice, and the grant and founding (1.209). The 'position' in narrative_order is parva x 1000 + Ganguli's section number of the main passage, so events sort in the order the epic tells them."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "1.205"
+  - source: "ganguli-mahabharata"
+    locator: "1.206"
+  - source: "ganguli-mahabharata"
+    locator: "1.207"
+  - source: "ganguli-mahabharata"
+    locator: "1.209"

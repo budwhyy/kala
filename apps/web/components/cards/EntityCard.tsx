@@ -7,6 +7,7 @@ import { enumLabel } from "@/lib/i18n-helpers";
 import { Badge, Cite, NameBlock, RecordLink, Section, Summaries, TimeRails } from "./ui";
 import { VariantPanel } from "./VariantPanel";
 import { EventsSection } from "./Phase2Sections";
+import { BattleRoleSection, JourneysSection } from "./Phase3Sections";
 import { VariantTag } from "./ui";
 
 export function EntityCard({ kala, slug }: { kala: Kala; slug: string }) {
@@ -91,6 +92,8 @@ export function EntityCard({ kala, slug }: { kala: Kala; slug: string }) {
         </Section>
       )}
       <EventsSection kala={kala} slugs={kala.neighbours("entities", slug, "events")} />
+      <JourneysSection kala={kala} slugs={kala.neighbours("entities", slug, "routes")} />
+      <BattleRoleSection kala={kala} slug={slug} />
       <TimeRails kala={kala} cosmic={e.cosmic_time} historical={e.historical_time} />
     </article>
   );

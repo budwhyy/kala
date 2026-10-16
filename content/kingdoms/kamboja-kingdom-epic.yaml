@@ -1,0 +1,37 @@
+slug: "kamboja-kingdom-epic"
+names:
+  - text: "Kamboja (Mahabharata)"
+    lang: "en"
+    script: "Latn"
+  - text: "कम्बोज"
+    lang: "sa"
+    script: "Deva"
+    iast: "Kamboja"
+kind: "epic_legendary"
+rulers:
+  - name:
+      text: "Sudakshina"
+      lang: "en"
+      script: "Latn"
+    attested: false
+    note: "King of the Kambojas."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "5.19"
+relations:
+  - kingdom: "kuru-kingdom-epic"
+    type: "alliance"
+    note: "Sudakshina brings an akshauhini, with Yavanas and Sakas, to Duryodhana."
+    variant: "mahabharata-story-ganguli-account"
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "5.19"
+traditions:
+  - "itihasa"
+summary_beginner: "A kingdom in the Mahabharata whose king, Sudakshina, fought for Duryodhana."
+summary_scholar: "Gandhari mourns the fallen ruler of the Kambojas in the Stri Parva (11.25)."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "5.19"
+  - source: "ganguli-mahabharata"
+    locator: "11.25"

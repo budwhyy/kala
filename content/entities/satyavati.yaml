@@ -1,0 +1,31 @@
+slug: satyavati
+names:
+  - text: "Satyavati"
+    lang: en
+    script: Latn
+  - text: "सत्यवती"
+    lang: sa
+    script: Deva
+    iast: "Satyavatī"
+epithets:
+  - text: "Gandhavati"
+    lang: en
+    script: Latn
+  - text: "Yojanagandha"
+    lang: en
+    script: Latn
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "A fisherman's foster-daughter who ferried travellers on the Yamuna. By the sage Parashara she became the mother of Vyasa, and as King Shantanu's queen the mother of Chitrangada and Vichitravirya."
+summary_scholar: "In the Adi Parva she is born from a fish (a cursed apsara) that had swallowed the seed of King Uparichara Vasu, and is given to the fishermen to raise (1.63). When Vichitravirya dies childless she calls on Vyasa to father children for the Kuru line (1.105-1.106). Section 95 also calls her Gandhakali."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.63"
+  - source: ganguli-mahabharata
+    locator: "1.95"
+  - source: ganguli-mahabharata
+    locator: "1.100"
+  - source: ganguli-mahabharata
+    locator: "1.101"
+  - source: ganguli-mahabharata
+    locator: "1.105"

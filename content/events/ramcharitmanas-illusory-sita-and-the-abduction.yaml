@@ -1,0 +1,42 @@
+slug: ramcharitmanas-illusory-sita-and-the-abduction
+names:
+  - text: "The illusory Sita and the abduction (Ramcharitmanas)"
+    lang: en
+    script: Latn
+participants:
+  - entity: rama
+    role: "has the real Sita enter fire before the deer appears"
+  - entity: sita
+    role: "enters the fire, leaving an image of herself"
+  - entity: lakshmana
+    role: "does not know of the exchange"
+  - entity: ravana
+    role: "carries off Sita in his chariot"
+  - entity: maricha
+    role: "takes the form of the deer"
+  - entity: jatayu
+    role: "fights Ravana and loses his wings"
+  - entity: agni
+    role: "the fire into which the real Sita withdraws"
+places:
+  - panchavati
+  - lanka-ramayana
+narrative_order:
+  text: ramcharitmanas
+  position: 3019
+  section: aranya-kand
+variant: ramcharitmanas-account
+same_story_as:
+  - ramayana-abduction-of-sita
+traditions:
+  - vaishnava
+summary_beginner: "In Tulsidas's Ramcharitmanas, while Lakshmana is away, Rama tells Sita that he is about to play a human part and asks her to stay within fire until the demons are destroyed. She enters the fire, leaving an image of herself exactly like her; Lakshmana does not know. Then Maricha appears as the deer, and Ravana carries off Sita, as in Valmiki's telling."
+summary_scholar: "Growse 3.19 (the chaupai after Doha 19) and 3.24 (the abduction and Jatayu's fight). Valmiki's Ramayana has no such exchange. The poem goes on calling the captive Sita by her name."
+references:
+  - source: growse-ramayana-tulsi-das
+    locator: "3.19"
+  - source: growse-ramayana-tulsi-das
+    locator: "3.20"
+    note: Ravana asks Maricha to take the form of a deer
+  - source: growse-ramayana-tulsi-das
+    locator: "3.24"

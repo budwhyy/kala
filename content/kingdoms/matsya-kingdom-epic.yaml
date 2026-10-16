@@ -1,0 +1,64 @@
+slug: "matsya-kingdom-epic"
+names:
+  - text: "Matsya (Mahabharata)"
+    lang: "en"
+    script: "Latn"
+  - text: "मत्स्य"
+    lang: "sa"
+    script: "Deva"
+    iast: "Matsya"
+kind: "epic_legendary"
+capitals:
+  - to: "viratanagara"
+    note: "Virata's city, where the Pandavas spent the year in disguise."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "4.5"
+      - source: "ganguli-mahabharata"
+        locator: "4.72"
+rulers:
+  - entity: "virata"
+    attested: false
+    note: "King of the Matsyas."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "4.72"
+      - source: "ganguli-mahabharata"
+        locator: "5.19"
+relations:
+  - kingdom: "kuru-kingdom-epic"
+    type: "marriage"
+    note: "Virata's daughter Uttara marries Arjuna's son Abhimanyu."
+    variant: "mahabharata-story-ganguli-account"
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "4.72"
+  - kingdom: "kuru-kingdom-epic"
+    type: "war"
+    note: "Duryodhana's Kurus raid the Matsya cattle and are driven back by Arjuna, fighting for Virata in disguise."
+    variant: "mahabharata-story-ganguli-account"
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "4.35"
+      - source: "ganguli-mahabharata"
+        locator: "4.66"
+  - kingdom: "panchala-kingdom-epic"
+    type: "alliance"
+    note: "Virata and Drupada both bring their forces to the Pandavas' side."
+    variant: "mahabharata-story-ganguli-account"
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "4.72"
+      - source: "ganguli-mahabharata"
+        locator: "5.19"
+traditions:
+  - "itihasa"
+summary_beginner: "The kingdom of King Virata in the Mahabharata, where the Pandavas lived in disguise for a year; it then joined their side in the war."
+summary_scholar: "Raychaudhuri (citing Bhandarkar) places Matsya in parts of Alwar, Jaipur and Bharatpur and notes the identification of Virata's capital with Bairat; no extent is drawn here. This is the epic kingdom; a historical Matsya polity is not yet recorded."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "4.72"
+  - source: "ganguli-mahabharata"
+    locator: "5.19"
+  - source: "raychaudhuri-phai-1923"
+    locator: "28"

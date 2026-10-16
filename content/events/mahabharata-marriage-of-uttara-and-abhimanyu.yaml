@@ -1,0 +1,33 @@
+slug: "mahabharata-marriage-of-uttara-and-abhimanyu"
+names:
+  - text: "The marriage of Uttara and Abhimanyu"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "virata"
+    role: "offers his daughter to Arjuna"
+  - entity: "arjuna"
+    role: "accepts her as his daughter-in-law"
+  - entity: "uttara-princess"
+    role: "Virata's daughter"
+  - entity: "abhimanyu"
+    role: "Arjuna and Subhadra's son"
+  - entity: "krishna"
+    role: "comes with the Yadavas"
+  - entity: "drupada"
+    role: "arrives with his forces"
+  - entity: "yudhishthira"
+places:
+  - "upaplavya"
+narrative_order:
+  text: "mahabharata"
+  position: 4072
+  section: "virata-parva"
+variant: "mahabharata-story-ganguli-account"
+traditions:
+  - "itihasa"
+summary_beginner: "When the year is over and the Pandavas reveal themselves, Virata offers his daughter Uttara to Arjuna. Arjuna, who had taught her as Vrihannala, accepts her instead as his daughter-in-law, the bride of his son Abhimanyu. The Pandavas settle at Upaplavya, one of Virata's towns, and Krishna, Drupada, the king of Kashi and other allies gather there for the wedding."
+summary_scholar: "Ganguli 4.72. The marriage binds Matsya to the Pandavas; Upaplavya becomes their camp for the Udyoga Parva. The 'position' in narrative_order is parva x 1000 + Ganguli's section number of the main passage, so events sort in the order the epic tells them."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "4.72"

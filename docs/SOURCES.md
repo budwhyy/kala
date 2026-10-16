@@ -87,3 +87,10 @@ Added during Phase 2, each verified by the research agent that used it (details 
 Locator notes: `dutt-bhagavata-purana` — the scan found covers only skandhas 1–2 (archive.org
 `proseenglishtran12dutt`); `dutt-harivamsha` — chapter numbers restart in the Bhavishya Parva, so cite the
 parva with the chapter.
+
+## Phase 3 additions
+
+| Slug                                    | Edition                                                                                                                | Translator / author (life)      | Locator convention                                                    | Licence       | Status                                                                                    |
+| --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------- | --------------------------------------------------------------------- | ------------- | ----------------------------------------------------------------------------------------- |
+| `growse-ramayana-tulsi-das`             | _The Ramayana of Tulsi Das_, revised ed., Allahabad: N.-W. Provinces and Oudh Government Press, 1883 (parts from 1877) | F. S. Growse (1836–1893)        | book.doha (Growse's numbering; may differ from modern Hindi editions) | public_domain | Title page read (archive.org `in.ernet.dli.2015.43864`)                                   |
+| `macdonell-history-sanskrit-literature` | _A History of Sanskrit Literature_, New York: D. Appleton, 1900                                                        | Arthur A. Macdonell (1854–1930) | page                                                                  | public_domain | Project Gutenberg 41563 (printed page numbers kept); death date to confirm in a catalogue |

@@ -1,0 +1,97 @@
+slug: "pandavas-exile-route"
+names:
+  - text: "The Pandavas' exile"
+    lang: "en"
+    script: "Latn"
+text: "mahabharata"
+variant: "mahabharata-story-ganguli-account"
+literary_reconstruction: true
+travellers:
+  - "yudhishthira"
+  - "bhima"
+  - "arjuna"
+  - "nakula"
+  - "sahadeva"
+  - "draupadi"
+stops:
+  - order: 1
+    place: "hastinapura"
+    event: "mahabharata-the-game-of-dice"
+    note: "After the second game of dice the Pandavas leave for the forest."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "2.76"
+  - order: 2
+    place: "ganga"
+    note: "They spend the first night at the great banyan called Pramana on the banks of the Ganga."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "3.1"
+  - order: 3
+    place: "kurukshetra"
+    note: "They go to the field of Kurukshetra and bathe in the Sarasvati, Drishadvati and Yamuna."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "3.5"
+  - order: 4
+    place: "kamyaka-forest"
+    event: "mahabharata-exile-in-the-forest"
+    note: "They settle in the Kamyaka forest on the Sarasvati."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "3.5"
+  - order: 5
+    place: "dvaitavana"
+    note: "They move to the lake of Dvaitavana."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "3.24"
+  - order: 6
+    place: "kamyaka-forest"
+    note: "After Vyasa's visit they return to Kamyaka."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "3.36"
+  - order: 7
+    place: "somnath"
+    event: "mahabharata-pandavas-and-yadavas-at-prabhasa"
+    note: "On their long pilgrimage to the tirthas they reach Prabhasa by the sea and meet the Yadavas. The many other tirthas of the pilgrimage are not mapped here."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "3.118"
+      - source: "ganguli-mahabharata"
+        locator: "3.119"
+  - order: 8
+    place: "dvaitavana"
+    note: "After the pilgrimage they return to Dvaitavana by way of the Sarasvati."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "3.176"
+  - order: 9
+    place: "kamyaka-forest"
+    note: "They live again at Kamyaka, where Jayadratha tries to carry off Draupadi."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "3.309"
+  - order: 10
+    place: "dvaitavana"
+    event: "mahabharata-the-yakshas-questions"
+    note: "They go back to Dvaitavana, where Yudhishthira answers the yaksha."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "3.309"
+  - order: 11
+    place: "viratanagara"
+    event: "mahabharata-the-year-at-viratas-court"
+    note: "For the thirteenth year they enter Matsya and serve Virata in disguise."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "4.5"
+  - order: 12
+    place: "upaplavya"
+    event: "mahabharata-marriage-of-uttara-and-abhimanyu"
+    note: "When the year ends they settle at Upaplavya, a town of Virata's."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "4.72"
+summary_beginner: "The twelve years of forest exile and the year in disguise (Sabha, Vana and Virata Parvas): from Hastinapura to the Ganga and across Kurukshetra to the Kamyaka and Dvaitavana forests on the Sarasvati, which they move between several times; a long pilgrimage that reaches Prabhasa on the western coast; and finally the Matsya kingdom of Virata and the town of Upaplavya. This is a literary reconstruction: the route follows the order of places named in the text, not a verified itinerary, and each stop's place record carries its own confidence class."

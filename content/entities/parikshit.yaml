@@ -1,0 +1,25 @@
+slug: parikshit
+names:
+  - text: "Parikshit"
+    lang: en
+    script: Latn
+  - text: "परीक्षित्"
+    lang: sa
+    script: Deva
+    iast: "Parīkṣit"
+kinds: [human, king]
+traditions: [itihasa]
+dynasties:
+  - to: kuru-dynasty
+    note: "Grandson of Arjuna, who continues the Kuru line."
+    references:
+      - source: ganguli-mahabharata
+        locator: "1.95"
+summary_beginner: "Son of Abhimanyu and Uttara. Ashwatthama's weapon struck him in the womb and he was born dead, but Krishna revived him; he continues the Kuru line and is the father of Janamejaya."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.95"
+  - source: ganguli-mahabharata
+    locator: "14.66"
+  - source: ganguli-mahabharata
+    locator: "14.69"

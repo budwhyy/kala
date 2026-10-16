@@ -1,0 +1,147 @@
+slug: rama-exile-route-valmiki
+names:
+  - text: Rama's exile and return (Valmiki's Ramayana)
+    lang: en
+    script: Latn
+text: valmiki-ramayana
+variant: valmiki-ramayana-account
+literary_reconstruction: true
+travellers:
+  - rama
+  - sita
+  - lakshmana
+stops:
+  - order: 1
+    place: ayodhya
+    event: ramayana-departure-into-exile
+    note: The three leave the city by chariot.
+    references:
+      - source: griffith-ramayana
+        locator: "2.40"
+  - order: 2
+    place: shringaverapura
+    event: ramayana-guha-and-the-crossing-of-the-ganga
+    note: Guha's town on the Ganga; the charioteer is sent back and the exiles are ferried across.
+    references:
+      - source: griffith-ramayana
+        locator: "2.50"
+      - source: griffith-ramayana
+        locator: "2.52"
+  - order: 3
+    place: prayagraj
+    note: A night at Bharadvaja's hermitage near Prayag, where the Ganga and Yamuna meet; the next day they cross the Yamuna on a raft.
+    references:
+      - source: griffith-ramayana
+        locator: "2.54"
+      - source: griffith-ramayana
+        locator: "2.55"
+  - order: 4
+    place: chitrakoot
+    event: ramayana-settlement-at-chitrakoot
+    note: The first home in exile, where Bharata later finds them.
+    references:
+      - source: griffith-ramayana
+        locator: "2.56"
+  - order: 5
+    place: dandakaranya
+    event: ramayana-entering-the-dandaka-forest
+    note: The hermitages visited on the way (Atri's, before the forest; Sharabhanga's, Sutikshna's and Agastya's within it) have no place records and are not separate stops.
+    references:
+      - source: griffith-ramayana
+        locator: "2.117"
+      - source: griffith-ramayana
+        locator: "2.119"
+      - source: griffith-ramayana
+        locator: "3.1"
+      - source: griffith-ramayana
+        locator: "3.5"
+      - source: griffith-ramayana
+        locator: "3.7"
+      - source: griffith-ramayana
+        locator: "3.11"
+  - order: 6
+    place: panchavati
+    event: ramayana-panchavati
+    note: The hermitage near the Godavari. Sita is carried off from here to Lanka by Ravana; from this stop to Lanka only Rama and Lakshmana travel the route.
+    references:
+      - source: griffith-ramayana
+        locator: "3.15"
+      - source: griffith-ramayana
+        locator: "3.49"
+  - order: 7
+    place: pampa
+    event: ramayana-shabari
+    note: Rama and Lakshmana reach Shabari's hermitage on the western side of Lake Pampa.
+    references:
+      - source: griffith-ramayana
+        locator: "3.75"
+      - source: griffith-ramayana
+        locator: "4.1"
+  - order: 8
+    place: rishyamukha
+    event: ramayana-alliance-with-sugriva
+    note: Sugriva's refuge, where Hanuman meets the brothers and the alliance is sworn.
+    references:
+      - source: griffith-ramayana
+        locator: "4.3"
+      - source: griffith-ramayana
+        locator: "4.5"
+  - order: 9
+    place: kishkindha
+    event: ramayana-slaying-of-vali
+    note: Rama waits out the rains on a hill near the city before the search begins.
+    references:
+      - source: griffith-ramayana
+        locator: "4.16"
+      - source: griffith-ramayana
+        locator: "4.27"
+  - order: 10
+    place: mahendra-mountain
+    note: On the march south Rama climbs Mahendra and then the army reaches the shore.
+    references:
+      - source: griffith-ramayana
+        locator: "6.4"
+  - order: 11
+    place: setu-ramayana
+    event: ramayana-building-of-the-bridge
+    note: The bridge built by Nala across the sea.
+    references:
+      - source: griffith-ramayana
+        locator: "6.22"
+  - order: 12
+    place: lanka-ramayana
+    event: ramayana-death-of-ravana
+    note: The siege and battle; Sita rejoins Rama after the ordeal by fire.
+    references:
+      - source: griffith-ramayana
+        locator: "6.110"
+      - source: griffith-ramayana
+        locator: "6.120"
+  - order: 13
+    place: prayagraj
+    note: On the flight home in the Pushpaka chariot Rama halts at Bharadvaja's hermitage. Before this he shows Sita, from the air, the bridge, Kishkindha, Rishyamukha, Pampa, Janasthana and Chitrakuta; those are sights, not stops.
+    references:
+      - source: griffith-ramayana
+        locator: "6.125"
+      - source: griffith-ramayana
+        locator: "6.126"
+  - order: 14
+    place: nandigrama
+    note: Bharata meets Rama at Nandigrama and returns the sandals and the kingdom.
+    references:
+      - source: griffith-ramayana
+        locator: "6.129"
+  - order: 15
+    place: ayodhya
+    event: ramayana-return-and-coronation
+    note: Rama is consecrated king.
+    references:
+      - source: griffith-ramayana
+        locator: "6.130"
+summary_beginner: >-
+  The journey of Rama, Sita and Lakshmana from Ayodhya into exile, south to Lanka and back, stage by
+  stage as Valmiki's Ramayana tells it (Griffith's translation). This is a literary reconstruction that
+  follows the text, not a verified itinerary: several stations (the Dandaka forest, Pampa, Rishyamukha,
+  Mahendra, the bridge and Lanka itself) have debated locations, and the places' own records show how
+  confident each identification is. Sita travels only as far as Panchavati before she is carried off,
+  and returns with Rama from Lanka.

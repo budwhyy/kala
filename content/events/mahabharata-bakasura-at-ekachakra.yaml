@@ -1,0 +1,36 @@
+slug: "mahabharata-bakasura-at-ekachakra"
+names:
+  - text: "Bhima and the rakshasa Baka at Ekachakra"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "vyasa"
+    role: "leads the Pandavas to Ekachakra"
+  - entity: "kunti"
+    role: "offers Bhima in place of their host's family"
+  - entity: "bhima"
+    role: "kills the rakshasa Baka (Vaka)"
+  - entity: "pandavas"
+    role: "live in disguise as Brahmanas"
+places:
+  - "ekachakra"
+narrative_order:
+  text: "mahabharata"
+  position: 1159
+  section: "adi-parva"
+variant: "mahabharata-story-ganguli-account"
+traditions:
+  - "itihasa"
+summary_beginner: "Vyasa leads the Pandavas to the town of Ekachakra, where they live in disguise in a Brahmana's house, begging for food. They learn that a rakshasa named Baka (Vaka) demands from the town, by turns, a cartload of rice, two buffaloes and the man who brings them. When their host's turn comes, Kunti sends Bhima instead. Bhima eats the food himself, kills Baka, and makes the rakshasa's kin promise never again to kill people."
+summary_scholar: "Vaka-vadha Parva, Ganguli 1.158 (arrival at Ekachakra), 1.159 and 1.162 (the household and the tribute), 1.165 (Bhima eats the rakshasa's food) and 1.166 (Baka's death). The location of Ekachakra is not settled (see the place record). The 'position' in narrative_order is parva x 1000 + Ganguli's section number of the main passage, so events sort in the order the epic tells them."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "1.158"
+  - source: "ganguli-mahabharata"
+    locator: "1.159"
+  - source: "ganguli-mahabharata"
+    locator: "1.162"
+  - source: "ganguli-mahabharata"
+    locator: "1.165"
+  - source: "ganguli-mahabharata"
+    locator: "1.166"

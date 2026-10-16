@@ -1,0 +1,43 @@
+slug: "mahabharata-the-kurukshetra-war"
+names:
+  - text: "The war at Kurukshetra"
+    lang: "en"
+    script: "Latn"
+  - text: "कुरुक्षेत्रयुद्ध"
+    lang: "sa"
+    script: "Deva"
+    iast: "Kurukṣetra-yuddha"
+participants:
+  - entity: "pandavas"
+    role: "lead one army"
+  - entity: "kauravas"
+    role: "lead the other"
+  - entity: "bhishma"
+    role: "first commander of the Kaurava army"
+  - entity: "karna"
+  - entity: "duryodhana"
+    role: "struck down by Bhima"
+  - entity: "arjuna"
+  - entity: "bhima"
+  - entity: "krishna"
+    role: "Arjuna's charioteer"
+places:
+  - "kurukshetra"
+narrative_order:
+  text: "mahabharata"
+  position: 6043
+  section: "bhishma-parva"
+variant: "mahabharata-story-ganguli-account"
+traditions:
+  - "itihasa"
+summary_beginner: "Eighteen armies meet at Kurukshetra and fight for eighteen days. The Kaurava commanders fall one after another: Bhishma is laid on a bed of arrows by Arjuna, and later Karna is killed by Arjuna. On the last day Bhima breaks Duryodhana's thighs with his mace, fulfilling his vow. KĀLA tells the battle day by day in its battlefield record, kurukshetra-war; this event is only a summary."
+summary_scholar: "The Parva-sangraha (Ganguli 1.2) gives the eighteen akshauhinis and eighteen days. Bhishma's fall: 6.120; Karna's death: 8.91; Duryodhana's fall: 9.58. Commanders, formations, encounters and the fallen are recorded in the battlefield record kurukshetra-war (Bhishma, Drona, Karna and Shalya Parvas). The war is a literary account, not verified history. The 'position' in narrative_order is parva x 1000 + Ganguli's section number of the main passage, so events sort in the order the epic tells them."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "1.2"
+  - source: "ganguli-mahabharata"
+    locator: "6.120"
+  - source: "ganguli-mahabharata"
+    locator: "8.91"
+  - source: "ganguli-mahabharata"
+    locator: "9.58"

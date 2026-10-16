@@ -1,0 +1,63 @@
+slug: shringaverapura
+names:
+  - text: Shringaverapura
+    lang: en
+    script: Latn
+  - text: शृङ्गवेरपुर
+    lang: sa
+    script: Deva
+    iast: Śṛṅgaverapura
+  - text: Singraur
+    lang: en
+    script: Latn
+realm: terrestrial
+kind: city
+confidence: traditional
+geometry:
+  type: Point
+  coordinates:
+    - 81.64
+    - 25.59
+modern_admin:
+  country: India
+  region: Uttar Pradesh
+  district: Prayagraj
+  nearest_city: Prayagraj
+evidence:
+  - type: textual
+    summary: In Valmiki's Ramayana the exiles reach the Ganga at Shringavera, town of the Nishada chief Guha, rest under an ingudi tree and are ferried across the next morning.
+    references:
+      - source: griffith-ramayana
+        locator: "1.1"
+      - source: griffith-ramayana
+        locator: "2.50"
+      - source: griffith-ramayana
+        locator: "2.52"
+  - type: textual
+    summary: On the flight home Rama points out Shringavera's towers, and Hanuman stops there to give Guha news of the return.
+    references:
+      - source: griffith-ramayana
+        locator: "6.125"
+      - source: griffith-ramayana
+        locator: "6.127"
+  - type: traditional
+    summary: Griffith's footnote identifies Shringavera with Sungroor (Singraur) in the Allahabad district. This is a nineteenth-century identification by the translator, not archaeological proof.
+    references:
+      - source: griffith-ramayana
+        locator: "2.83"
+        note: footnote 361 to the name Śringavera
+entities:
+  - to: guha
+    note: The Ramayana makes Shringavera the town of Guha, king of the Nishadas.
+    references:
+      - source: griffith-ramayana
+        locator: "2.50"
+traditions:
+  - itihasa
+summary_beginner: The town on the Ganga where, in the Ramayana, the boatman-chief Guha welcomes Rama, Sita and Lakshmana and ferries them across. Tradition places it at Singraur, upstream of Prayagraj.
+summary_scholar: The identification with Singraur rests in our sources on Griffith's footnote; the coordinates are those of the present-day village. No excavation report is among our sources, so the place is kept 'traditional', and nothing here verifies the epic events set there.
+references:
+  - source: griffith-ramayana
+    locator: "2.50"
+  - source: griffith-ramayana
+    locator: "2.83"

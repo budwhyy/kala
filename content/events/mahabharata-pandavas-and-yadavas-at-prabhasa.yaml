@@ -1,0 +1,32 @@
+slug: "mahabharata-pandavas-and-yadavas-at-prabhasa"
+names:
+  - text: "The Pandavas meet the Yadavas at Prabhasa"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "yudhishthira"
+    role: "bathes at Prabhasa during his pilgrimage"
+  - entity: "pandavas"
+  - entity: "draupadi"
+  - entity: "balarama"
+    role: "grieves at the Pandavas' hardship"
+  - entity: "satyaki"
+    role: "urges the Yadavas to act for the Pandavas"
+places:
+  - "somnath"
+narrative_order:
+  text: "mahabharata"
+  position: 3118
+  section: "vana-parva"
+variant: "mahabharata-story-ganguli-account"
+traditions:
+  - "itihasa"
+summary_beginner: "On their long pilgrimage to the sacred bathing-places (tirthas), the Pandavas travel along the western coast and come to the holy spot of Prabhasa by the sea, where they bathe and make offerings. The Vrishnis come to meet them there. Balarama laments that the virtuous suffer while Duryodhana prospers, and Satyaki urges that the Yadavas should act for the Pandavas."
+summary_scholar: "Tirtha-yatra Parva, Ganguli 3.118-3.120. The same Prabhasa is where, in the Mausala Parva, the Yadavas destroy one another. KĀLA uses the existing place record somnath for Prabhasa, whose own record explains that this identification is traditional. The 'position' in narrative_order is parva x 1000 + Ganguli's section number of the main passage, so events sort in the order the epic tells them."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "3.118"
+  - source: "ganguli-mahabharata"
+    locator: "3.119"
+  - source: "ganguli-mahabharata"
+    locator: "3.120"

@@ -1,0 +1,31 @@
+slug: ramayana-kaikeyi-claims-two-boons
+names:
+  - text: "Kaikeyi claims her two boons"
+    lang: en
+    script: Latn
+participants:
+  - entity: kaikeyi
+    role: "claims the two boons Dasharatha once promised her"
+  - entity: dasharatha
+    role: "bound by his promise"
+  - entity: rama
+    role: "to be sent to the forest"
+  - entity: bharata
+    role: "to be made king in Rama's place"
+places:
+  - ayodhya
+  - dandakaranya
+narrative_order:
+  text: valmiki-ramayana
+  position: 111
+  section: ayodhya-kanda
+variant: valmiki-ramayana-account
+traditions:
+  - itihasa
+summary_beginner: "On the eve of Rama's consecration as heir, Queen Kaikeyi, urged on by her maid, reminds Dasharatha of two boons he granted her when she saved his life in a war of gods and demons. She now claims them: that her son Bharata be consecrated, and that Rama be sent to the Dandaka forest for fourteen years. The king, bound by his word, is broken by grief."
+summary_scholar: "Griffith 2.9 (the maid recalls the boons and the battle against Shambara in the south) and 2.11 (Kaikeyi's demand: 'nine years and five', i.e. fourteen)."
+references:
+  - source: griffith-ramayana
+    locator: "2.9"
+  - source: griffith-ramayana
+    locator: "2.11"

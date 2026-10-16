@@ -17,6 +17,16 @@ const nextConfig = {
     config.resolve.alias["next-intl/config"] = path.resolve(config.context, REQUEST_CONFIG);
     return config;
   },
+  // Friendly epic URLs from the brief (§5) point at the text the epic page is built from.
+  async redirects() {
+    return ["", "/hi"].flatMap((prefix) => [
+      {
+        source: `${prefix}/epic/ramayana`,
+        destination: `${prefix}/epic/valmiki-ramayana`,
+        permanent: false,
+      },
+    ]);
+  },
   turbopack: {
     resolveAlias: { "next-intl/config": REQUEST_CONFIG },
   },

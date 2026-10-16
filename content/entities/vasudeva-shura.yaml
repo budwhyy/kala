@@ -1,0 +1,34 @@
+slug: vasudeva-shura
+names:
+  - text: "Vasudeva (father of Krishna)"
+    lang: en
+    script: Latn
+  - text: "वसुदेव"
+    lang: sa
+    script: Deva
+    iast: "Vasudeva"
+epithets:
+  - text: "Anakadundubhi"
+    lang: en
+    script: Latn
+kinds: [human]
+traditions: [itihasa, puranic]
+dynasties:
+  - to: yadava-dynasty
+    note: "Born in the race of Yadu, in the line of Shura."
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.14"
+summary_beginner: "A Yadava, son of Shura, also called Anakadundubhi. He is the father of Krishna by Devaki and of Balarama and Subhadra through Rohini; his sister Pritha (Kunti) is the mother of the Pandavas."
+summary_scholar: "The Vishnu Purana names his father as Shura, son of Devamidhusha, and lists his brothers and sisters (4.14) and his wives (4.15); the Harivamsha lists fourteen wives (35). Ganguli's Mahabharata usually reserves the name Vasudeva for Krishna himself, the son of Vasudeva."
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.14"
+  - source: wilson-vishnu-purana
+    locator: "4.15"
+  - source: wilson-vishnu-purana
+    locator: "5.1"
+  - source: ganguli-mahabharata
+    locator: "1.111"
+  - source: dutt-harivamsha
+    locator: "35"

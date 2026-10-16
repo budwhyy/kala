@@ -1,0 +1,234 @@
+- id: indra-father-of-vali
+  from: indra
+  to: vali
+  type: parent
+  role: father
+  mode: divine
+  explanation: "Vali is born of Indra when the gods father the vanaras to help Vishnu."
+  references:
+    - source: griffith-ramayana
+      locator: "1.16"
+- id: surya-father-of-sugriva
+  from: surya
+  to: sugriva
+  type: parent
+  role: father
+  mode: divine
+  explanation: "The Sun is Sugriva's father."
+  references:
+    - source: griffith-ramayana
+      locator: "1.16"
+- id: vayu-father-of-hanuman
+  from: vayu
+  to: hanuman
+  type: parent
+  role: father
+  mode: divine
+  explanation: "Hanuman is the son of the wind god, who loved Anjana and promised her a mighty son."
+  references:
+    - source: griffith-ramayana
+      locator: "1.16"
+    - source: griffith-ramayana
+      locator: "4.66"
+- id: anjana-mother-of-hanuman
+  from: anjana
+  to: hanuman
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Anjana gives birth to Hanuman in a mountain cave."
+  references:
+    - source: griffith-ramayana
+      locator: "4.66"
+- id: vishvakarma-father-of-nala-vanara
+  from: vishvakarma
+  to: nala-vanara
+  type: parent
+  role: father
+  mode: divine
+  explanation: "Nala is the son of Vishvakarma, the craftsman of the gods, and inherits his skill."
+  references:
+    - source: griffith-ramayana
+      locator: "1.16"
+    - source: griffith-ramayana
+      locator: "6.22"
+- id: agni-father-of-nila-vanara
+  from: agni
+  to: nila-vanara
+  type: parent
+  role: father
+  mode: divine
+  explanation: "Nila is born of Agni, the god of fire."
+  references:
+    - source: griffith-ramayana
+      locator: "1.16"
+- id: vali-sibling-of-sugriva
+  from: vali
+  to: sugriva
+  type: sibling
+  explanation: "Vali and Sugriva are brothers; Vali is the elder."
+  references:
+    - source: griffith-ramayana
+      locator: "1.16"
+    - source: griffith-ramayana
+      locator: "4.9"
+- id: vali-enemy-of-sugriva
+  from: vali
+  to: sugriva
+  type: enemy
+  explanation: "Believing Sugriva had shut him in a cave to die, Vali drives his brother out of Kishkindha and takes his wife; the brothers meet in single combat."
+  references:
+    - source: griffith-ramayana
+      locator: "4.9"
+    - source: griffith-ramayana
+      locator: "4.10"
+    - source: griffith-ramayana
+      locator: "4.14"
+- id: vali-partner-of-tara-vanara
+  from: vali
+  to: tara-vanara
+  type: partner
+  explanation: "Tara is Vali's wife."
+  references:
+    - source: griffith-ramayana
+      locator: "4.15"
+    - source: griffith-ramayana
+      locator: "4.19"
+- id: vali-father-of-angada
+  from: vali
+  to: angada
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Dying, Vali commends his son Angada to Sugriva's care."
+  references:
+    - source: griffith-ramayana
+      locator: "4.19"
+    - source: griffith-ramayana
+      locator: "4.22"
+- id: tara-vanara-mother-of-angada
+  from: tara-vanara
+  to: angada
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Angada is Tara's son."
+  references:
+    - source: griffith-ramayana
+      locator: "4.20"
+    - source: griffith-ramayana
+      locator: "4.22"
+- id: rama-ally-of-sugriva
+  from: rama
+  to: sugriva
+  type: ally
+  explanation: "Rama and Sugriva swear friendship before a fire: Rama will kill Vali and Sugriva will help find Sita."
+  references:
+    - source: griffith-ramayana
+      locator: "4.5"
+- id: hanuman-ally-of-sugriva
+  from: hanuman
+  to: sugriva
+  type: ally
+  explanation: "Hanuman is Sugriva's trusted counsellor and is sent by him to meet Rama and Lakshmana."
+  references:
+    - source: griffith-ramayana
+      locator: "4.3"
+- id: hanuman-ally-of-rama
+  from: hanuman
+  to: rama
+  type: ally
+  explanation: "Hanuman brings Rama and Sugriva together and carries Rama's ring to Sita as his messenger."
+  references:
+    - source: griffith-ramayana
+      locator: "4.3"
+    - source: griffith-ramayana
+      locator: "5.36"
+- id: jambavan-ally-of-sugriva
+  from: jambavan
+  to: sugriva
+  type: ally
+  explanation: "Jambavan leads his bears to join Sugriva's host at his command."
+  references:
+    - source: griffith-ramayana
+      locator: "4.39"
+- id: brahma-blessing-hanuman
+  from: brahma
+  to: hanuman
+  type: blessing
+  explanation: "After Indra's thunderbolt strikes the infant Hanuman, Brahma grants that no weapon will slay him in battle."
+  references:
+    - source: griffith-ramayana
+      locator: "4.66"
+- id: indra-blessing-hanuman
+  from: indra
+  to: hanuman
+  type: blessing
+  explanation: "Indra promises that his thunderbolt will never harm Hanuman again."
+  references:
+    - source: griffith-ramayana
+      locator: "4.66"
+- id: sugriva-member-of-vanaras
+  from: sugriva
+  to: vanaras
+  type: member_of
+  explanation: "Counted among the vanaras of the Ramayana."
+  references:
+    - source: griffith-ramayana
+      locator: "1.16"
+- id: vali-member-of-vanaras
+  from: vali
+  to: vanaras
+  type: member_of
+  explanation: "Counted among the vanaras of the Ramayana."
+  references:
+    - source: griffith-ramayana
+      locator: "1.16"
+- id: hanuman-member-of-vanaras
+  from: hanuman
+  to: vanaras
+  type: member_of
+  explanation: "Counted among the vanaras of the Ramayana."
+  references:
+    - source: griffith-ramayana
+      locator: "1.16"
+- id: angada-member-of-vanaras
+  from: angada
+  to: vanaras
+  type: member_of
+  explanation: "Counted among the vanaras of the Ramayana."
+  references:
+    - source: griffith-ramayana
+      locator: "4.22"
+- id: tara-vanara-member-of-vanaras
+  from: tara-vanara
+  to: vanaras
+  type: member_of
+  explanation: "Counted among the vanaras of the Ramayana."
+  references:
+    - source: griffith-ramayana
+      locator: "4.15"
+- id: nala-vanara-member-of-vanaras
+  from: nala-vanara
+  to: vanaras
+  type: member_of
+  explanation: "Counted among the vanaras of the Ramayana."
+  references:
+    - source: griffith-ramayana
+      locator: "1.16"
+- id: nila-vanara-member-of-vanaras
+  from: nila-vanara
+  to: vanaras
+  type: member_of
+  explanation: "Counted among the vanaras of the Ramayana."
+  references:
+    - source: griffith-ramayana
+      locator: "1.16"
+- id: anjana-member-of-vanaras
+  from: anjana
+  to: vanaras
+  type: member_of
+  explanation: "Counted among the vanaras of the Ramayana."
+  references:
+    - source: griffith-ramayana
+      locator: "4.66"

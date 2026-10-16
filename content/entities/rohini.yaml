@@ -1,0 +1,24 @@
+slug: rohini
+names:
+  - text: "Rohini (wife of Vasudeva)"
+    lang: en
+    script: Latn
+  - text: "रोहिणी"
+    lang: sa
+    script: Deva
+    iast: "Rohiṇī"
+kinds: [human]
+traditions: [itihasa, puranic]
+summary_beginner: "A wife of Vasudeva who lived at Gokula. The Vishnu Purana and the Harivamsha say that Devaki's seventh conception was moved into her womb, so that she bore Balarama; the Harivamsha also makes her the mother of Subhadra."
+summary_scholar: "The Harivamsha calls her the first and most beloved of Vasudeva's fourteen wives and a daughter of Valhika of Puru's race (35)."
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.15"
+  - source: wilson-vishnu-purana
+    locator: "5.1"
+  - source: wilson-vishnu-purana
+    locator: "5.5"
+  - source: dutt-harivamsha
+    locator: "35"
+  - source: dutt-harivamsha
+    locator: "59"

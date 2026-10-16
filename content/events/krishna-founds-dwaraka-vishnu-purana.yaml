@@ -1,0 +1,30 @@
+slug: "krishna-founds-dwaraka-vishnu-purana"
+names:
+  - text: "Krishna builds Dwaraka (Vishnu Purana)"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "krishna"
+    role: "builds Dwaraka and leads Kalayavana to his death"
+  - entity: "jarasandha"
+    role: "besieges Mathura eighteen times"
+  - entity: "yadavas"
+places:
+  - "mathura"
+  - "dwarka"
+narrative_order:
+  text: "vishnu-purana"
+  position: 5023
+variant: "mahabharata-story-vishnu-purana-krishna"
+same_story_as:
+  - "krishna-founds-dwaraka-harivamsha"
+traditions:
+  - "vaishnava"
+  - "puranic"
+summary_beginner: "In the Vishnu Purana, Jarasandha of Magadha attacks Mathura eighteen times and is driven off each time. When Kalayavana also marches against it, Krishna asks the ocean for land, builds the fortified city of Dwaraka and moves the people of Mathura there. He then lures Kalayavana into the cave of the sleeping king Muchukunda, whose glance burns him up."
+summary_scholar: "Wilson VP 5.22 (Jarasandha's eighteen attacks) and 5.23 (Kalayavana and Dwaraka). The 'position' in narrative_order is book x 1000 + chapter."
+references:
+  - source: "wilson-vishnu-purana"
+    locator: "5.22"
+  - source: "wilson-vishnu-purana"
+    locator: "5.23"

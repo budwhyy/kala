@@ -1,0 +1,29 @@
+slug: indrajit
+names:
+  - text: "Indrajit"
+    lang: en
+    script: Latn
+  - text: इन्द्रजित्
+    lang: sa
+    script: Deva
+    iast: "Indrajit"
+epithets:
+  - text: मेघनाद
+    lang: sa
+    script: Deva
+    iast: "Meghanāda"
+kinds: [rakshasa]
+traditions: [itihasa]
+summary_beginner: "Ravana's son, a warrior skilled in illusion who once defeated Indra. In the war at Lanka he twice brings down Rama and Lakshmana with his arrows before Lakshmana kills him."
+summary_scholar: "Griffith passes over Indrajit's last battle and death in a prose note at the end of 6.75; 6.93 has Ravana's lament for him. The Uttara Kanda (Dutt 7.12) says he was born to Mandodari and first named Meghanada for his thunderous cry."
+references:
+  - source: griffith-ramayana
+    locator: "6.45"
+  - source: griffith-ramayana
+    locator: "6.73"
+  - source: griffith-ramayana
+    locator: "6.75"
+  - source: griffith-ramayana
+    locator: "6.93"
+  - source: dutt-ramayana
+    locator: "7.12"

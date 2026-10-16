@@ -1,0 +1,21 @@
+slug: guha
+names:
+  - text: "Guha"
+    lang: en
+    script: Latn
+  - text: गुह
+    lang: sa
+    script: Deva
+    iast: "Guha"
+kinds: [king, human]
+traditions: [itihasa]
+summary_beginner: "Chief of the Nishadas on the Ganga near Shringavera and Rama's friend, who welcomes the exiles and has a boat made ready to carry them across the river."
+references:
+  - source: griffith-ramayana
+    locator: "2.50"
+  - source: griffith-ramayana
+    locator: "2.52"
+  - source: griffith-ramayana
+    locator: "2.83"
+  - source: griffith-ramayana
+    locator: "2.84"

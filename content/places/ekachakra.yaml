@@ -1,0 +1,40 @@
+slug: "ekachakra"
+names:
+  - text: "Ekachakra"
+    lang: "en"
+    script: "Latn"
+  - text: "एकचक्रा"
+    lang: "sa"
+    script: "Deva"
+    iast: "Ekacakrā"
+realm: "terrestrial"
+kind: "city"
+confidence: "debated"
+modern_admin:
+  country: "India"
+alternative_identifications:
+  - label: "Parichakra, a Panchala town of the Satapatha Brahmana"
+    confidence: "debated"
+    argument: "Raychaudhuri reports that Weber identified Ekachakra with Parivakra or Parichakra, a Panchala town named in the Satapatha Brahmana. This links the name to a Vedic town but does not give a location on the ground."
+    references:
+      - source: "raychaudhuri-phai-1923"
+        locator: "31"
+evidence:
+  - type: "textual"
+    summary: "In the Mahabharata, Vyasa leads the Pandavas to the town of Ekachakra after their escape from Varanavata; they live there in disguise and Bhima kills the rakshasa Baka. From Ekachakra they set out for Drupada's city in Panchala."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "1.158"
+      - source: "ganguli-mahabharata"
+        locator: "1.159"
+      - source: "ganguli-mahabharata"
+        locator: "1.186"
+traditions:
+  - "itihasa"
+summary_beginner: "The town where, in the Mahabharata, the Pandavas lived in disguise and Bhima killed the rakshasa Baka. Where it was is not known."
+summary_scholar: "No agreed location. The only scholarly proposal in KĀLA's sources is Weber's equation with the Vedic Parichakra (via Raychaudhuri), which is itself unlocated."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "1.158"
+  - source: "raychaudhuri-phai-1923"
+    locator: "31"

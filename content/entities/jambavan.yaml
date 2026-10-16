@@ -1,0 +1,22 @@
+slug: jambavan
+names:
+  - text: "Jambavan"
+    lang: en
+    script: Latn
+  - text: जाम्बवान्
+    lang: sa
+    script: Deva
+    iast: "Jāmbavān"
+kinds: [other]
+traditions: [itihasa]
+summary_beginner: "The aged king of the bears, who marches with Sugriva's host and, as an elder of the southern search party, urges Hanuman to make the leap to Lanka."
+summary_scholar: "Griffith 1.16 has Brahma say he formerly made 'the lord of bears' from his yawning mouth, without naming him; the link to Jambavan is not stored."
+references:
+  - source: griffith-ramayana
+    locator: "4.39"
+  - source: griffith-ramayana
+    locator: "4.41"
+  - source: griffith-ramayana
+    locator: "4.65"
+  - source: griffith-ramayana
+    locator: "4.66"

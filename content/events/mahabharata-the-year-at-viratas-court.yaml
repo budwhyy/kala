@@ -1,0 +1,40 @@
+slug: "mahabharata-the-year-at-viratas-court"
+names:
+  - text: "The year in disguise at Virata's court"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "yudhishthira"
+    role: "serves the king as the courtier Kanka"
+  - entity: "bhima"
+    role: "works as the cook Vallava and kills Kichaka"
+  - entity: "arjuna"
+    role: "teaches dance to the women as Vrihannala"
+  - entity: "nakula"
+    role: "keeps the horses as Granthika"
+  - entity: "sahadeva"
+    role: "keeps the cattle as Tantripala"
+  - entity: "draupadi"
+    role: "serves the queen as the maid Sairindhri"
+  - entity: "virata"
+    role: "king of the Matsyas"
+places:
+  - "viratanagara"
+narrative_order:
+  text: "mahabharata"
+  position: 4001
+  section: "virata-parva"
+variant: "mahabharata-story-ganguli-account"
+traditions:
+  - "itihasa"
+summary_beginner: "For the thirteenth year the Pandavas hide their weapons in a shami tree near a cremation ground and take service at the court of Virata, king of the Matsyas, under false names: Yudhishthira as the courtier Kanka, Bhima as the cook Vallava, Arjuna as the dance-teacher Vrihannala, Nakula as a horse-keeper, Sahadeva as a cowherd, and Draupadi as the queen's maid Sairindhri. When the queen's brother, the general Kichaka, harasses Draupadi, Bhima kills him secretly at night."
+summary_scholar: "Virata Parva, Ganguli 4.3 (Sahadeva's disguise), 4.5 (the journey into Matsya and the shami tree), 4.7 (Kanka) and 4.22 (Kichaka's death). Ganguli prints two sections numbered XXII; Kichaka dies in the first of them. The 'position' in narrative_order is parva x 1000 + Ganguli's section number of the main passage, so events sort in the order the epic tells them."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "4.3"
+  - source: "ganguli-mahabharata"
+    locator: "4.5"
+  - source: "ganguli-mahabharata"
+    locator: "4.7"
+  - source: "ganguli-mahabharata"
+    locator: "4.22"

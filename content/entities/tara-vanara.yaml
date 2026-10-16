@@ -1,0 +1,20 @@
+slug: tara-vanara
+names:
+  - text: "Tara"
+    lang: en
+    script: Latn
+  - text: तारा
+    lang: sa
+    script: Deva
+    iast: "Tārā"
+kinds: [vanara]
+traditions: [itihasa]
+summary_beginner: "Vali's wife and the mother of Angada, praised for her wisdom. She warns Vali against fighting Sugriva and laments over him when he falls."
+summary_scholar: "Vali calls her the daughter of Sushena (Griffith 4.22). She is a different figure from the male vanara chief Tara, son of Brihaspati, in Griffith 1.16, who has no record."
+references:
+  - source: griffith-ramayana
+    locator: "4.15"
+  - source: griffith-ramayana
+    locator: "4.19"
+  - source: griffith-ramayana
+    locator: "4.22"

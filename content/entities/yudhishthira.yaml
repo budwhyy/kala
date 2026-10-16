@@ -1,0 +1,27 @@
+slug: yudhishthira
+names:
+  - text: "Yudhishthira"
+    lang: en
+    script: Latn
+  - text: "युधिष्ठिर"
+    lang: sa
+    script: Deva
+    iast: "Yudhiṣṭhira"
+kinds: [human, king]
+traditions: [itihasa, puranic]
+dynasties:
+  - to: kuru-dynasty
+    note: "Eldest son of Pandu, heir of the Kurus."
+    references:
+      - source: ganguli-mahabharata
+        locator: "1.95"
+summary_beginner: "The eldest Pandava, son of Kunti by the god Dharma and legally the son of Pandu. Known for his devotion to truth and duty, he loses his kingdom to Shakuni at dice and leads his brothers into exile."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.63"
+  - source: ganguli-mahabharata
+    locator: "1.95"
+  - source: ganguli-mahabharata
+    locator: "1.123"
+  - source: wilson-vishnu-purana
+    locator: "4.14"

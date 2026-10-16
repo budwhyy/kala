@@ -1,0 +1,30 @@
+slug: ramayana-bharata-and-the-sandals
+names:
+  - text: "Bharata and Rama's sandals"
+    lang: en
+    script: Latn
+participants:
+  - entity: bharata
+    role: "refuses the throne and goes to bring Rama back"
+  - entity: rama
+    role: "refuses to return before the fourteen years end"
+places:
+  - chitrakoot
+  - nandigrama
+narrative_order:
+  text: valmiki-ramayana
+  position: 212
+  section: ayodhya-kanda
+variant: valmiki-ramayana-account
+traditions:
+  - itihasa
+summary_beginner: "Bharata refuses the throne and comes to Chitrakuta to beg Rama to return and rule. Rama will not break his father's word. Bharata takes Rama's sandals as a pledge, and instead of living in Ayodhya rules the kingdom from Nandigrama in hermit's dress, in Rama's name, until his return."
+references:
+  - source: griffith-ramayana
+    locator: "1.1"
+  - source: griffith-ramayana
+    locator: "2.100"
+  - source: griffith-ramayana
+    locator: "2.112"
+  - source: griffith-ramayana
+    locator: "2.115"

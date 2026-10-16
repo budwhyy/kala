@@ -13,3 +13,18 @@ traditions:
   - itihasa
   - vaishnava
 summary_beginner: The epic of Rama, prince of Ayodhya, attributed to the sage Valmiki.
+sections:
+  - id: bala-kanda
+    label: "Book I: Bala Kanda (Childhood)"
+  - id: ayodhya-kanda
+    label: "Book II: Ayodhya Kanda (Ayodhya)"
+  - id: aranya-kanda
+    label: "Book III: Aranya Kanda (The Forest)"
+  - id: kishkindha-kanda
+    label: "Book IV: Kishkindha Kanda (Kishkindha)"
+  - id: sundara-kanda
+    label: "Book V: Sundara Kanda (The Beautiful)"
+  - id: yuddha-kanda
+    label: "Book VI: Yuddha Kanda (The War; also called Lanka Kanda)"
+  - id: uttara-kanda
+    label: "Book VII: Uttara Kanda (The Later Book; generally regarded by scholars as a later addition)"

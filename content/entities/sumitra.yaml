@@ -1,0 +1,17 @@
+slug: sumitra
+names:
+  - text: "Sumitra"
+    lang: en
+    script: Latn
+  - text: सुमित्रा
+    lang: sa
+    script: Deva
+    iast: "Sumitrā"
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "Dasharatha's queen and the mother of the twins Lakshmana and Shatrughna."
+references:
+  - source: griffith-ramayana
+    locator: "1.19"
+  - source: griffith-ramayana
+    locator: "2.44"

@@ -1,0 +1,32 @@
+slug: "mahabharata-shantanu-and-ganga"
+names:
+  - text: "Shantanu and Ganga"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "pratipa"
+    role: "the Kuru king on whose right thigh Ganga sits, so that he accepts her as a daughter-in-law"
+  - entity: "shantanu"
+    role: "Pratipa's son, who marries Ganga on condition that he never questions her"
+  - entity: "ganga-goddess"
+    role: "the river goddess in human form"
+  - entity: "vasus"
+    role: "the eight Vasus, cursed to be born as men, whom Ganga frees by drowning them at birth"
+  - entity: "bhishma"
+    role: "the eighth child, spared when Shantanu protests"
+places:
+  - "ganga"
+narrative_order:
+  text: "mahabharata"
+  position: 1097
+  section: "adi-parva"
+variant: "mahabharata-story-ganguli-account"
+traditions:
+  - "itihasa"
+summary_beginner: "In the Mahabharata, the goddess Ganga, in human form, marries King Shantanu on condition that he never questions what she does. She drowns their first seven children at birth. When Shantanu protests at the eighth, she tells him who she is: the children are the eight Vasus, cursed to be born among men, and she has freed them. She spares the eighth child and leaves the king."
+summary_scholar: "Ganguli 1.97 tells how Ganga first approached Pratipa, who, because she sat on his right thigh (the seat of a daughter or daughter-in-law), accepted her for his son. 1.98 gives the marriage, the drowned children and Ganga's explanation of the Vasus' curse (by Vasishtha, there called Apava). The eighth child is named Gangadatta here; he is later Devavrata, called Bhishma. The 'position' in narrative_order is parva x 1000 + Ganguli's section number of the main passage, so events sort in the order the epic tells them."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "1.97"
+  - source: "ganguli-mahabharata"
+    locator: "1.98"

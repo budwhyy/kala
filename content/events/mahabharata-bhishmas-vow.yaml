@@ -1,0 +1,31 @@
+slug: "mahabharata-bhishmas-vow"
+names:
+  - text: "Bhishma's vow"
+    lang: "en"
+    script: "Latn"
+  - text: "भीष्मप्रतिज्ञा"
+    lang: "sa"
+    script: "Deva"
+    iast: "Bhīṣma-pratijñā"
+participants:
+  - entity: "shantanu"
+    role: "falls in love with Satyavati but will not grant her father's condition"
+  - entity: "bhishma"
+    role: "as Devavrata, gives up the throne and vows lifelong celibacy"
+  - entity: "satyavati"
+    role: "the fisherman's daughter who becomes Shantanu's queen"
+places:
+  - "yamuna"
+  - "hastinapura"
+narrative_order:
+  text: "mahabharata"
+  position: 1100
+  section: "adi-parva"
+variant: "mahabharata-story-ganguli-account"
+traditions:
+  - "itihasa"
+summary_beginner: "Shantanu meets Satyavati on the banks of the Yamuna, but her father will give her only if her son becomes king. To end his father's grief, Prince Devavrata gives up his right to the throne before the assembled kings and then vows never to marry. The gods call him Bhishma, 'the terrible', and Shantanu grants him the boon of dying only when he chooses."
+summary_scholar: "Ganguli 1.100. The vow is the hinge of the Kuru succession: it leaves the throne to Satyavati's sons and, when they die without heirs, leads to the niyoga by which Vyasa fathers Dhritarashtra, Pandu and Vidura. The 'position' in narrative_order is parva x 1000 + Ganguli's section number of the main passage, so events sort in the order the epic tells them."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "1.100"

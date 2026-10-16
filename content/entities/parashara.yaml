@@ -1,0 +1,17 @@
+slug: parashara
+names:
+  - text: "Parashara"
+    lang: en
+    script: Latn
+  - text: "पराशर"
+    lang: sa
+    script: Deva
+    iast: "Parāśara"
+kinds: [rishi]
+traditions: [itihasa]
+summary_beginner: "A sage who met Satyavati as she ferried him across the Yamuna. Their son, born on an island in the river, was Vyasa."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.63"
+  - source: ganguli-mahabharata
+    locator: "1.105"

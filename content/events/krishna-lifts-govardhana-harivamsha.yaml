@@ -1,0 +1,35 @@
+slug: "krishna-lifts-govardhana-harivamsha"
+names:
+  - text: "Krishna lifts Mount Govardhana (Harivamsha)"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "krishna"
+    role: "holds up the mountain"
+  - entity: "indra"
+    role: "sends the storm, then praises Krishna"
+  - entity: "nanda"
+places:
+  - "govardhana"
+  - "vrindavan"
+narrative_order:
+  text: "harivamsha"
+  position: 73
+variant: "mahabharata-story-harivamsha-krishna"
+same_story_as:
+  - "krishna-lifts-govardhana-vishnu-purana"
+traditions:
+  - "vaishnava"
+  - "itihasa"
+summary_beginner: "In the Harivamsha, Krishna persuades the cowherds of Vrindavana to stop their festival for Indra. Angered, Indra orders his clouds to drown the herds. Krishna uproots Mount Govardhana and holds it up with his left hand like an umbrella, and the cowherds shelter beneath it with their cattle and carts until Indra calls off the rain. Indra then comes to praise him."
+summary_scholar: "Dutt, Harivamsha Parva chs. 70-72 (the dispute over Indra's festival), 73 (the storm and the lifting) and 74 (Indra's praise). The 'position' in narrative_order is the chapter number of Dutt's Harivamsha Parva."
+references:
+  - source: "dutt-harivamsha"
+    locator: "71"
+    note: "Harivamsha Parva"
+  - source: "dutt-harivamsha"
+    locator: "73"
+    note: "Harivamsha Parva"
+  - source: "dutt-harivamsha"
+    locator: "74"
+    note: "Harivamsha Parva"

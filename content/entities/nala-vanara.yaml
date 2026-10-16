@@ -1,0 +1,17 @@
+slug: nala-vanara
+names:
+  - text: "Nala"
+    lang: en
+    script: Latn
+  - text: नल
+    lang: sa
+    script: Deva
+    iast: "Nala"
+kinds: [vanara]
+traditions: [itihasa]
+summary_beginner: "A vanara chief, son of the divine craftsman Vishvakarma, who builds the bridge across the ocean to Lanka."
+references:
+  - source: griffith-ramayana
+    locator: "1.16"
+  - source: griffith-ramayana
+    locator: "6.22"

@@ -1,0 +1,21 @@
+slug: sugriva
+names:
+  - text: "Sugriva"
+    lang: en
+    script: Latn
+  - text: सुग्रीव
+    lang: sa
+    script: Deva
+    iast: "Sugrīva"
+kinds: [vanara, king]
+traditions: [itihasa]
+summary_beginner: "King of the vanaras at Kishkindha, son of the Sun god and younger brother of Vali. Driven out by Vali, he makes a pact with Rama, who kills Vali; Sugriva then sends his armies to find Sita and leads them in the war."
+references:
+  - source: griffith-ramayana
+    locator: "1.16"
+  - source: griffith-ramayana
+    locator: "4.5"
+  - source: griffith-ramayana
+    locator: "4.26"
+  - source: griffith-ramayana
+    locator: "4.40"

@@ -1,0 +1,36 @@
+slug: shantanu
+names:
+  - text: "Shantanu"
+    lang: en
+    script: Latn
+  - text: "शान्तनु"
+    lang: sa
+    script: Deva
+    iast: "Śāntanu"
+epithets:
+  - text: "Santanu"
+    lang: en
+    script: Latn
+kinds: [human, king]
+traditions: [itihasa]
+dynasties:
+  - to: kuru-dynasty
+    note: "King of the Kurus at Hastinapura."
+    references:
+      - source: ganguli-mahabharata
+        locator: "1.100"
+summary_beginner: "A Kuru king at Hastinapura, son of Pratipa. By the goddess Ganga he is the father of Bhishma, and by Satyavati the father of Chitrangada and Vichitravirya."
+summary_scholar: "The Adi Parva says he was the king Mahabhisha, reborn on earth under a curse of Brahma (1.96). He grants Bhishma the boon of dying only when he chooses (1.100) and brings up the abandoned twins Kripa and Kripi out of pity (1.130). Ganguli spells the name Santanu."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.94"
+  - source: ganguli-mahabharata
+    locator: "1.95"
+  - source: ganguli-mahabharata
+    locator: "1.96"
+  - source: ganguli-mahabharata
+    locator: "1.97"
+  - source: ganguli-mahabharata
+    locator: "1.100"
+  - source: ganguli-mahabharata
+    locator: "1.101"

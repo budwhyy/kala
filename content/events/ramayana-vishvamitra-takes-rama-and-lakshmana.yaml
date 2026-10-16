@@ -1,0 +1,41 @@
+slug: ramayana-vishvamitra-takes-rama-and-lakshmana
+names:
+  - text: "Vishvamitra takes Rama and Lakshmana"
+    lang: en
+    script: Latn
+participants:
+  - entity: vishvamitra
+    role: "asks for Rama to protect his sacrifice"
+  - entity: dasharatha
+    role: "refuses at first, then lets his sons go"
+  - entity: vasishtha
+    role: "counsels the king to keep his word"
+  - entity: rama
+    role: "goes with the sage"
+  - entity: lakshmana
+    role: "follows Rama"
+  - entity: maricha
+    role: "named by Vishvamitra as one of the two demons who spoil his rites"
+  - entity: subahu
+    role: "named with Maricha"
+  - entity: ravana
+    role: "named as the power behind the two demons"
+places:
+  - ayodhya
+narrative_order:
+  text: valmiki-ramayana
+  position: 24
+  section: bala-kanda
+variant: valmiki-ramayana-account
+traditions:
+  - itihasa
+summary_beginner: "The sage Vishvamitra comes to Ayodhya and asks King Dasharatha for Rama, to guard his sacrifice from demons sent by Ravana. The king, who loves Rama most, at first refuses; Vasishtha persuades him to keep his promise, and Rama leaves with Lakshmana behind the sage."
+references:
+  - source: griffith-ramayana
+    locator: "1.21"
+  - source: griffith-ramayana
+    locator: "1.22"
+  - source: griffith-ramayana
+    locator: "1.23"
+  - source: griffith-ramayana
+    locator: "1.24"

@@ -1,0 +1,19 @@
+slug: yuyutsu
+names:
+  - text: "Yuyutsu"
+    lang: en
+    script: Latn
+  - text: "युयुत्सु"
+    lang: sa
+    script: Deva
+    iast: "Yuyutsu"
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "A son of Dhritarashtra by a Vaishya maidservant, counted over and above the hundred Kauravas. On the eve of battle he crossed over to fight for Yudhishthira."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.63"
+  - source: ganguli-mahabharata
+    locator: "1.115"
+  - source: ganguli-mahabharata
+    locator: "6.43"

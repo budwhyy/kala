@@ -1,0 +1,21 @@
+slug: parikshit-son-of-anashvan
+names:
+  - text: "Parikshit (son of Anashvan)"
+    lang: en
+    script: Latn
+  - text: "परीक्षित्"
+    lang: sa
+    script: Deva
+    iast: "Parīkṣit"
+kinds: [human, king]
+traditions: [itihasa]
+dynasties:
+  - to: kuru-dynasty
+    note: "A Kuru king in the Adi Parva genealogy of section 95."
+    references:
+      - source: ganguli-mahabharata
+        locator: "1.95"
+summary_beginner: "An early Kuru king in the Adi Parva's second genealogy: the son of Anashvan and Amrita, and father of Bhimasena. He is a different person from Parikshit, the grandson of Arjuna."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.95"

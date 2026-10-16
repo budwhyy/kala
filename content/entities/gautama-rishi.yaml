@@ -1,0 +1,17 @@
+slug: gautama-rishi
+names:
+  - text: "Gautama"
+    lang: en
+    script: Latn
+  - text: गौतम
+    lang: sa
+    script: Deva
+    iast: "Gautama"
+kinds: [rishi]
+traditions: [itihasa]
+summary_beginner: "A sage whose hermitage lay near Mithila. In the Bala Kanda he curses Indra, who seduced his wife Ahalya in his form, and curses Ahalya to live unseen until Rama comes."
+references:
+  - source: griffith-ramayana
+    locator: "1.48"
+  - source: griffith-ramayana
+    locator: "1.49"

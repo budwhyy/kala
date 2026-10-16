@@ -1,0 +1,920 @@
+# Families of the Pandavas, Kauravas and their allies (Ganguli's Mahabharata unless noted).
+# Divine fathers carry mode divine beside Pandu's mode legal; Vyasa (biological) beside Vichitravirya (legal) for the niyoga births.
+- id: mbh-dhritarashtra-partner-gandhari
+  from: dhritarashtra
+  to: gandhari
+  type: partner
+  explanation: "Subala gives his daughter Gandhari to the blind Dhritarashtra, and she blindfolds herself out of respect for her husband."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.110"
+- id: mbh-subala-father-of-gandhari
+  from: subala
+  to: gandhari
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Gandhari is the daughter of Subala (Suvala), king of Gandhara."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.63"
+    - source: ganguli-mahabharata
+      locator: "1.110"
+- id: mbh-subala-father-of-shakuni
+  from: subala
+  to: shakuni
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Shakuni is the son of Subala, king of Gandhara, and brother of Gandhari."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.63"
+    - source: ganguli-mahabharata
+      locator: "1.110"
+- id: mbh-pandu-partner-kunti
+  from: pandu
+  to: kunti
+  type: partner
+  explanation: "Kunti chooses Pandu at her self-choice ceremony and marries him."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.112"
+- id: mbh-pandu-partner-madri
+  from: pandu
+  to: madri
+  type: partner
+  explanation: "Bhishma obtains Madri from her brother Shalya as Pandu's second wife."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.113"
+- id: mbh-shalya-sibling-madri
+  from: shalya
+  to: madri
+  type: sibling
+  explanation: "Madri is the sister of Shalya, king of Madra."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.113"
+- id: mbh-vasudeva-shura-sibling-kunti
+  from: vasudeva-shura
+  to: kunti
+  type: sibling
+  explanation: "Pritha (Kunti) is the daughter of the Yadava chief Shura and the sister of Vasudeva, which makes Vasudeva's son Krishna a first cousin of the Pandavas."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.67"
+    - source: ganguli-mahabharata
+      locator: "1.111"
+    - source: wilson-vishnu-purana
+      locator: "4.14"
+- id: mbh-kunti-mother-of-yudhishthira
+  from: kunti
+  to: yudhishthira
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Kunti bears Yudhishthira after invoking the god of justice with Durvasa's mantra."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.123"
+    - source: ganguli-mahabharata
+      locator: "1.95"
+- id: mbh-dharma-father-of-yudhishthira-divine
+  from: dharma
+  to: yudhishthira
+  type: parent
+  role: father
+  mode: divine
+  explanation: "Kunti summons Dharma, the god of justice, who gives her Yudhishthira. Ganguli glosses the name in 1.63 as 'Yama, the god of justice'; KALA links the personified god Dharma, as the text names him."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.123"
+    - source: ganguli-mahabharata
+      locator: "1.63"
+    - source: ganguli-mahabharata
+      locator: "1.95"
+    - source: wilson-vishnu-purana
+      locator: "4.14"
+- id: mbh-pandu-father-of-yudhishthira-legal
+  from: pandu
+  to: yudhishthira
+  type: parent
+  role: father
+  mode: legal
+  explanation: "Because of the curse on him, Pandu asks Kunti to raise sons by the gods; they are his sons and heirs."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.95"
+    - source: ganguli-mahabharata
+      locator: "1.123"
+    - source: ganguli-mahabharata
+      locator: "1.124"
+- id: mbh-kunti-mother-of-bhima
+  from: kunti
+  to: bhima
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Kunti bears Bhima after invoking the wind god."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.123"
+- id: mbh-vayu-father-of-bhima-divine
+  from: vayu
+  to: bhima
+  type: parent
+  role: father
+  mode: divine
+  explanation: "The wind god Vayu (Maruta) fathers Bhima on Kunti."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.123"
+    - source: ganguli-mahabharata
+      locator: "1.95"
+    - source: wilson-vishnu-purana
+      locator: "4.14"
+- id: mbh-pandu-father-of-bhima-legal
+  from: pandu
+  to: bhima
+  type: parent
+  role: father
+  mode: legal
+  explanation: "Bhima is Pandu's son through Kunti's invocation of the gods."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.95"
+    - source: ganguli-mahabharata
+      locator: "1.124"
+- id: mbh-kunti-mother-of-arjuna
+  from: kunti
+  to: arjuna
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Kunti bears Arjuna after invoking Indra."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.123"
+- id: mbh-indra-father-of-arjuna-divine
+  from: indra
+  to: arjuna
+  type: parent
+  role: father
+  mode: divine
+  explanation: "Indra (Sakra), propitiated by Pandu's austerities and invoked by Kunti, fathers Arjuna."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.123"
+    - source: ganguli-mahabharata
+      locator: "1.95"
+    - source: wilson-vishnu-purana
+      locator: "4.14"
+- id: mbh-pandu-father-of-arjuna-legal
+  from: pandu
+  to: arjuna
+  type: parent
+  role: father
+  mode: legal
+  explanation: "Arjuna is Pandu's son through Kunti's invocation of Indra."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.95"
+    - source: ganguli-mahabharata
+      locator: "1.124"
+- id: mbh-madri-mother-of-nakula
+  from: madri
+  to: nakula
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Madri, given Kunti's mantra, thinks of the Ashvins and bears the twins Nakula and Sahadeva."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.124"
+- id: mbh-ashvins-father-of-nakula-divine
+  from: ashvins
+  to: nakula
+  type: parent
+  role: father
+  mode: divine
+  explanation: "The twin Ashvins father Nakula and Sahadeva on Madri."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.124"
+    - source: ganguli-mahabharata
+      locator: "1.95"
+    - source: wilson-vishnu-purana
+      locator: "4.14"
+- id: mbh-pandu-father-of-nakula-legal
+  from: pandu
+  to: nakula
+  type: parent
+  role: father
+  mode: legal
+  explanation: "Nakula is Pandu's son through Madri."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.95"
+    - source: ganguli-mahabharata
+      locator: "1.124"
+- id: mbh-madri-mother-of-sahadeva
+  from: madri
+  to: sahadeva
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Sahadeva is the younger of Madri's twins."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.124"
+- id: mbh-ashvins-father-of-sahadeva-divine
+  from: ashvins
+  to: sahadeva
+  type: parent
+  role: father
+  mode: divine
+  explanation: "The twin Ashvins father Nakula and Sahadeva on Madri."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.124"
+    - source: ganguli-mahabharata
+      locator: "1.95"
+    - source: wilson-vishnu-purana
+      locator: "4.14"
+- id: mbh-pandu-father-of-sahadeva-legal
+  from: pandu
+  to: sahadeva
+  type: parent
+  role: father
+  mode: legal
+  explanation: "Sahadeva is Pandu's son through Madri."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.95"
+    - source: ganguli-mahabharata
+      locator: "1.124"
+- id: mbh-kunti-mother-of-karna
+  from: kunti
+  to: karna
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Kunti, still unmarried, tests Durvasa's mantra on the Sun and bears Karna, whom she sets afloat on the water."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.111"
+    - source: ganguli-mahabharata
+      locator: "1.67"
+    - source: wilson-vishnu-purana
+      locator: "4.14"
+- id: mbh-surya-father-of-karna-divine
+  from: surya
+  to: karna
+  type: parent
+  role: father
+  mode: divine
+  explanation: "The Sun god (Surya, also called Vivasvat and Arka) fathers Karna on the maiden Kunti."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.111"
+    - source: ganguli-mahabharata
+      locator: "1.67"
+    - source: wilson-vishnu-purana
+      locator: "4.14"
+- id: mbh-adhiratha-father-of-karna-adoptive
+  from: adhiratha
+  to: karna
+  type: parent
+  role: father
+  mode: adoptive
+  explanation: "The charioteer Adhiratha takes the infant out of the river and brings him up as his son."
+  references:
+    - source: ganguli-mahabharata
+      locator: "3.307"
+    - source: ganguli-mahabharata
+      locator: "1.139"
+    - source: ganguli-mahabharata
+      locator: "1.111"
+- id: mbh-radha-mother-of-karna-mother-of-karna-adoptive
+  from: radha-mother-of-karna
+  to: karna
+  type: parent
+  role: mother
+  mode: adoptive
+  explanation: "Adhiratha hands the infant to his wife Radha, who adopts him 'according to the ordinance'."
+  references:
+    - source: ganguli-mahabharata
+      locator: "3.307"
+    - source: ganguli-mahabharata
+      locator: "1.111"
+- id: mbh-adhiratha-partner-radha-mother-of-karna
+  from: adhiratha
+  to: radha-mother-of-karna
+  type: partner
+  explanation: "Radha is the wife of the charioteer Adhiratha."
+  references:
+    - source: ganguli-mahabharata
+      locator: "3.307"
+- id: mbh-dhritarashtra-father-of-duryodhana
+  from: dhritarashtra
+  to: duryodhana
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Duryodhana is the eldest of Dhritarashtra's hundred sons."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.115"
+    - source: ganguli-mahabharata
+      locator: "1.117"
+- id: mbh-gandhari-mother-of-duryodhana
+  from: gandhari
+  to: duryodhana
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Duryodhana is the first of the sons grown from the ball of flesh Gandhari brought forth, divided by Vyasa into pots."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.115"
+- id: mbh-dhritarashtra-father-of-duhshasana
+  from: dhritarashtra
+  to: duhshasana
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Duhshasana is among the hundred sons of Dhritarashtra."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.117"
+    - source: ganguli-mahabharata
+      locator: "1.95"
+- id: mbh-gandhari-mother-of-duhshasana
+  from: gandhari
+  to: duhshasana
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Duhshasana is among Gandhari's hundred sons."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.117"
+    - source: ganguli-mahabharata
+      locator: "1.95"
+- id: mbh-dhritarashtra-father-of-vikarna
+  from: dhritarashtra
+  to: vikarna
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Vikarna is among the hundred sons of Dhritarashtra."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.117"
+    - source: ganguli-mahabharata
+      locator: "1.95"
+- id: mbh-gandhari-mother-of-vikarna
+  from: gandhari
+  to: vikarna
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Vikarna is among Gandhari's hundred sons."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.117"
+    - source: ganguli-mahabharata
+      locator: "1.95"
+- id: mbh-dhritarashtra-father-of-duhshala
+  from: dhritarashtra
+  to: duhshala
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Duhshala is Dhritarashtra's only daughter."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.116"
+    - source: ganguli-mahabharata
+      locator: "1.117"
+- id: mbh-gandhari-mother-of-duhshala
+  from: gandhari
+  to: duhshala
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Duhshala grows from the hundred-and-first part of Gandhari's embryo, set aside by Vyasa in answer to her wish for a daughter."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.116"
+- id: mbh-dhritarashtra-father-of-yuyutsu
+  from: dhritarashtra
+  to: yuyutsu
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Yuyutsu is Dhritarashtra's son by a Vaishya maidservant who attended him while Gandhari was pregnant; the mother is not named."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.115"
+    - source: ganguli-mahabharata
+      locator: "1.63"
+- id: mbh-duhshala-partner-jayadratha
+  from: duhshala
+  to: jayadratha
+  type: partner
+  explanation: "Dhritarashtra gives his daughter Duhshala in marriage to Jayadratha, king of the Sindhus."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.117"
+    - source: ganguli-mahabharata
+      locator: "1.67"
+- id: mbh-kripa-sibling-kripi
+  from: kripa
+  to: kripi
+  type: sibling
+  explanation: "Kripa and Kripi are twins born from the seed of the sage Sharadvat."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.130"
+    - source: ganguli-mahabharata
+      locator: "1.63"
+- id: mbh-drona-partner-kripi
+  from: drona
+  to: kripi
+  type: partner
+  explanation: "Drona marries Kripi, the daughter of Sharadvat."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.131"
+- id: mbh-drona-father-of-ashwatthama
+  from: drona
+  to: ashwatthama
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Ashwatthama is the son of Drona and Kripi."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.131"
+- id: mbh-kripi-mother-of-ashwatthama
+  from: kripi
+  to: ashwatthama
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Kripi bears Ashwatthama, who neighs like a horse at birth."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.131"
+    - source: ganguli-mahabharata
+      locator: "1.63"
+- id: mbh-drupada-father-of-dhrishtadyumna-other
+  from: drupada
+  to: dhrishtadyumna
+  type: parent
+  role: father
+  mode: other
+  explanation: "Dhrishtadyumna rises from the fire of the sacrifice Drupada holds to gain a son who will kill Drona, and is named Drupada's son."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.169"
+    - source: ganguli-mahabharata
+      locator: "1.63"
+- id: mbh-drupada-father-of-draupadi-other
+  from: drupada
+  to: draupadi
+  type: parent
+  role: father
+  mode: other
+  explanation: "Draupadi rises from the altar of Drupada's sacrifice and is counted his daughter; his queen asks that the twins know no other mother."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.169"
+    - source: ganguli-mahabharata
+      locator: "1.63"
+- id: mbh-dhrishtadyumna-sibling-draupadi
+  from: dhrishtadyumna
+  to: draupadi
+  type: sibling
+  explanation: "Dhrishtadyumna and Draupadi are called the twins of Drupada's sacrifice."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.169"
+- id: mbh-drupada-father-of-shikhandi
+  from: drupada
+  to: shikhandi
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Shikhandi is born to Drupada's queen as a daughter, after Drupada's austerities to Shiva, and is later turned into a man by the yaksha Sthuna."
+  references:
+    - source: ganguli-mahabharata
+      locator: "5.191"
+    - source: ganguli-mahabharata
+      locator: "1.63"
+- id: mbh-draupadi-partner-yudhishthira
+  from: draupadi
+  to: yudhishthira
+  type: partner
+  explanation: "Draupadi is wedded to Yudhishthira first, then to each of his brothers on successive days."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.200"
+- id: mbh-draupadi-partner-bhima
+  from: draupadi
+  to: bhima
+  type: partner
+  explanation: "Draupadi is the shared wife of the five Pandavas."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.200"
+- id: mbh-draupadi-partner-arjuna
+  from: draupadi
+  to: arjuna
+  type: partner
+  explanation: "Arjuna wins Draupadi at her self-choice, and she becomes the wife of all five brothers."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.197"
+    - source: ganguli-mahabharata
+      locator: "1.200"
+- id: mbh-draupadi-partner-nakula
+  from: draupadi
+  to: nakula
+  type: partner
+  explanation: "Draupadi is the shared wife of the five Pandavas."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.200"
+- id: mbh-draupadi-partner-sahadeva
+  from: draupadi
+  to: sahadeva
+  type: partner
+  explanation: "Draupadi is the shared wife of the five Pandavas."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.200"
+- id: mbh-yudhishthira-father-of-prativindhya
+  from: yudhishthira
+  to: prativindhya
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Prativindhya is Draupadi's son by Yudhishthira."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.223"
+    - source: ganguli-mahabharata
+      locator: "1.95"
+    - source: ganguli-mahabharata
+      locator: "1.63"
+- id: mbh-draupadi-mother-of-prativindhya
+  from: draupadi
+  to: prativindhya
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Prativindhya is Draupadi's son by Yudhishthira."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.223"
+    - source: ganguli-mahabharata
+      locator: "1.63"
+- id: mbh-bhima-father-of-sutasoma
+  from: bhima
+  to: sutasoma
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Sutasoma is Draupadi's son by Bhima."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.223"
+    - source: ganguli-mahabharata
+      locator: "1.95"
+    - source: ganguli-mahabharata
+      locator: "1.63"
+- id: mbh-draupadi-mother-of-sutasoma
+  from: draupadi
+  to: sutasoma
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Sutasoma is Draupadi's son by Bhima."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.223"
+    - source: ganguli-mahabharata
+      locator: "1.63"
+- id: mbh-arjuna-father-of-shrutakirti-son-of-arjuna
+  from: arjuna
+  to: shrutakirti-son-of-arjuna
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Arjuna's son by Draupadi, named Shrutakirti in 1.63 and Shrutakarman in 1.223."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.223"
+    - source: ganguli-mahabharata
+      locator: "1.63"
+- id: mbh-draupadi-mother-of-shrutakirti-son-of-arjuna
+  from: draupadi
+  to: shrutakirti-son-of-arjuna
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Draupadi's son by Arjuna."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.223"
+    - source: ganguli-mahabharata
+      locator: "1.63"
+- id: mbh-nakula-father-of-shatanika-son-of-nakula
+  from: nakula
+  to: shatanika-son-of-nakula
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Shatanika is Draupadi's son by Nakula."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.223"
+    - source: ganguli-mahabharata
+      locator: "1.95"
+    - source: ganguli-mahabharata
+      locator: "1.63"
+- id: mbh-draupadi-mother-of-shatanika-son-of-nakula
+  from: draupadi
+  to: shatanika-son-of-nakula
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Shatanika is Draupadi's son by Nakula."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.223"
+    - source: ganguli-mahabharata
+      locator: "1.63"
+- id: mbh-sahadeva-father-of-shrutasena
+  from: sahadeva
+  to: shrutasena
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Sahadeva's son by Draupadi, named Shrutasena in 1.63 and 1.223 and Shrutakarman in 1.95."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.223"
+    - source: ganguli-mahabharata
+      locator: "1.63"
+    - source: ganguli-mahabharata
+      locator: "1.95"
+- id: mbh-draupadi-mother-of-shrutasena
+  from: draupadi
+  to: shrutasena
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Draupadi's son by Sahadeva."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.223"
+    - source: ganguli-mahabharata
+      locator: "1.63"
+- id: mbh-bhima-partner-hidimbi
+  from: bhima
+  to: hidimbi
+  type: partner
+  explanation: "After Bhima kills her brother Hidimba, the rakshasi Hidimbi becomes his wife for a time."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.61"
+    - source: ganguli-mahabharata
+      locator: "1.157"
+- id: mbh-bhima-father-of-ghatotkacha
+  from: bhima
+  to: ghatotkacha
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Ghatotkacha is Bhima's son by Hidimbi."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.157"
+    - source: ganguli-mahabharata
+      locator: "1.95"
+    - source: ganguli-mahabharata
+      locator: "1.63"
+- id: mbh-hidimbi-mother-of-ghatotkacha
+  from: hidimbi
+  to: ghatotkacha
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Hidimbi bears Ghatotkacha and names him for his pot-like head."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.157"
+- id: mbh-arjuna-partner-ulupi
+  from: arjuna
+  to: ulupi
+  type: partner
+  explanation: "During his pilgrimage Arjuna is drawn into the Naga realm by Ulupi and spends the night with her at her request."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.216"
+    - source: ganguli-mahabharata
+      locator: "14.79"
+- id: mbh-ulupi-blessing-arjuna
+  from: ulupi
+  to: arjuna
+  type: blessing
+  explanation: "Ulupi grants Arjuna the boon that every creature of the water will be conquerable by him."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.216"
+- id: mbh-arjuna-partner-chitrangada-manipura
+  from: arjuna
+  to: chitrangada-manipura
+  type: partner
+  explanation: "Arjuna marries Chitrangada, daughter of King Chitravahana of Manipura, and stays three years."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.217"
+- id: mbh-arjuna-father-of-babruvahana
+  from: arjuna
+  to: babruvahana
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Babruvahana is Arjuna's son by Chitrangada."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.219"
+    - source: ganguli-mahabharata
+      locator: "14.80"
+- id: mbh-chitrangada-manipura-mother-of-babruvahana
+  from: chitrangada-manipura
+  to: babruvahana
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Chitrangada bears Babruvahana, who later rules Manipura."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.217"
+    - source: ganguli-mahabharata
+      locator: "1.219"
+- id: mbh-arjuna-father-of-iravan
+  from: arjuna
+  to: iravan
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Iravan (Iravat) is Arjuna's son by a widowed Naga princess; the passage does not name her."
+  references:
+    - source: ganguli-mahabharata
+      locator: "6.91"
+- id: mbh-arjuna-partner-subhadra
+  from: arjuna
+  to: subhadra
+  type: partner
+  explanation: "Arjuna carries off Subhadra from Dwaraka with Krishna's encouragement and marries her."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.95"
+    - source: ganguli-mahabharata
+      locator: "1.221"
+    - source: ganguli-mahabharata
+      locator: "1.222"
+- id: mbh-arjuna-father-of-abhimanyu
+  from: arjuna
+  to: abhimanyu
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Abhimanyu is Arjuna's son by Subhadra."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.95"
+    - source: ganguli-mahabharata
+      locator: "1.223"
+    - source: dutt-harivamsha
+      locator: "35"
+- id: mbh-subhadra-mother-of-abhimanyu
+  from: subhadra
+  to: abhimanyu
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Subhadra, Krishna's sister, bears Abhimanyu at Indraprastha."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.223"
+    - source: ganguli-mahabharata
+      locator: "1.63"
+    - source: dutt-harivamsha
+      locator: "35"
+- id: mbh-abhimanyu-partner-uttara-princess
+  from: abhimanyu
+  to: uttara-princess
+  type: partner
+  explanation: "Virata gives his daughter Uttara to Abhimanyu, and Arjuna accepts her on his son's behalf."
+  references:
+    - source: ganguli-mahabharata
+      locator: "4.72"
+    - source: ganguli-mahabharata
+      locator: "1.95"
+- id: mbh-virata-father-of-uttara-princess
+  from: virata
+  to: uttara-princess
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Uttara is the daughter of King Virata of Matsya."
+  references:
+    - source: ganguli-mahabharata
+      locator: "4.72"
+    - source: ganguli-mahabharata
+      locator: "1.95"
+- id: mbh-virata-father-of-uttara-prince
+  from: virata
+  to: uttara-prince
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Prince Uttara is the son of King Virata."
+  references:
+    - source: ganguli-mahabharata
+      locator: "4.38"
+    - source: ganguli-mahabharata
+      locator: "4.44"
+- id: mbh-uttara-prince-sibling-uttara-princess
+  from: uttara-prince
+  to: uttara-princess
+  type: sibling
+  explanation: "Prince Uttara sends his younger sister to fetch Brihannala (Arjuna in disguise) to be his charioteer."
+  references:
+    - source: ganguli-mahabharata
+      locator: "4.36"
+- id: mbh-abhimanyu-father-of-parikshit
+  from: abhimanyu
+  to: parikshit
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Parikshit is the son of Abhimanyu and Uttara, born after his father's death."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.95"
+    - source: ganguli-mahabharata
+      locator: "14.66"
+- id: mbh-uttara-princess-mother-of-parikshit
+  from: uttara-princess
+  to: parikshit
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Uttara bears Parikshit; the child, struck in the womb by Ashwatthama's weapon, is born dead and revived by Krishna."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.95"
+    - source: ganguli-mahabharata
+      locator: "14.66"
+    - source: ganguli-mahabharata
+      locator: "14.69"
+- id: mbh-parikshit-father-of-janamejaya
+  from: parikshit
+  to: janamejaya
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Janamejaya is the son of Parikshit and Madravati, and the listener to whom the Mahabharata is recited."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.95"
+- id: mbh-bahlika-father-of-somadatta
+  from: bahlika
+  to: somadatta
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Satyaki calls Somadatta 'the son of Valhika', a Kuru."
+  references:
+    - source: ganguli-mahabharata
+      locator: "7.161"
+- id: mbh-somadatta-father-of-bhurishravas
+  from: somadatta
+  to: bhurishravas
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Bhurishravas is the son of Somadatta."
+  references:
+    - source: ganguli-mahabharata
+      locator: "5.166"
+    - source: ganguli-mahabharata
+      locator: "7.142"

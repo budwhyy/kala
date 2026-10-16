@@ -1,0 +1,30 @@
+slug: pradyumna
+names:
+  - text: "Pradyumna"
+    lang: en
+    script: Latn
+  - text: "प्रद्युम्न"
+    lang: sa
+    script: Deva
+    iast: "Pradyumna"
+kinds: [human]
+traditions: [itihasa, puranic]
+dynasties:
+  - to: yadava-dynasty
+    note: "Counted among the descendants of Yadu."
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.15"
+summary_beginner: "Son of Krishna and Rukmini. Stolen as an infant by the demon Sambara, he grew up to kill him and returned to Dwaraka; he is the father of Aniruddha."
+summary_scholar: "The Adi Parva says he was the sage Sanatkumara born as a man (1.67). The Sabha Parva says he learned arms from Arjuna (2.4)."
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.15"
+  - source: wilson-vishnu-purana
+    locator: "5.26"
+  - source: wilson-vishnu-purana
+    locator: "5.27"
+  - source: wilson-vishnu-purana
+    locator: "5.28"
+  - source: ganguli-mahabharata
+    locator: "1.67"

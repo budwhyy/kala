@@ -1,0 +1,27 @@
+slug: vyasa
+names:
+  - text: "Vyasa"
+    lang: en
+    script: Latn
+  - text: "व्यास"
+    lang: sa
+    script: Deva
+    iast: "Vyāsa"
+epithets:
+  - text: "Krishna Dvaipayana"
+    lang: en
+    script: Latn
+  - text: "Dvaipayana"
+    lang: en
+    script: Latn
+kinds: [rishi]
+traditions: [itihasa]
+summary_beginner: "The sage Krishna Dvaipayana, son of Parashara and Satyavati, to whom the Mahabharata itself attributes the arrangement of the Vedas and the composition of the epic. At his mother's request he fathered Dhritarashtra, Pandu and Vidura to continue the Kuru line."
+summary_scholar: "He is called Dvaipayana because he was born on an island (dvipa) and Vyasa because he arranged the Vedas (1.63). He appears throughout the epic: he divides Gandhari's embryo into a hundred and one parts (1.115-1.116) and grants Sanjaya divine sight (6.2)."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.63"
+  - source: ganguli-mahabharata
+    locator: "1.105"
+  - source: ganguli-mahabharata
+    locator: "1.106"

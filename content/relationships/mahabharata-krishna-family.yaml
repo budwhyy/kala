@@ -1,0 +1,350 @@
+# Krishna's family and the Yadavas (Wilson's Vishnu Purana Books 4-5, Dutt's Harivamsha, Ganguli's Mahabharata).
+# Balarama's two mothers follow the embryo-transfer story: Devaki biological (conception), Rohini other (birth).
+- id: mbh-vasudeva-shura-partner-devaki
+  from: vasudeva-shura
+  to: devaki
+  type: partner
+  explanation: "Vasudeva marries Devaki, daughter of Devaka; Kamsa drives their chariot after the wedding."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "5.1"
+    - source: wilson-vishnu-purana
+      locator: "4.14"
+    - source: dutt-harivamsha
+      locator: "37"
+- id: mbh-vasudeva-shura-partner-rohini
+  from: vasudeva-shura
+  to: rohini
+  type: partner
+  explanation: "Rohini is one of Vasudeva's wives; the Harivamsha calls her the first and most beloved."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "4.15"
+    - source: dutt-harivamsha
+      locator: "35"
+- id: mbh-vasudeva-shura-father-of-krishna
+  from: vasudeva-shura
+  to: krishna
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Krishna is born as the son of Vasudeva and Devaki; the texts present the birth as Vishnu descending into Devaki's womb."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "4.15"
+    - source: wilson-vishnu-purana
+      locator: "5.3"
+    - source: ganguli-mahabharata
+      locator: "1.63"
+    - source: dutt-harivamsha
+      locator: "59"
+- id: mbh-devaki-mother-of-krishna
+  from: devaki
+  to: krishna
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Devaki bears Krishna as her eighth child."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "5.1"
+    - source: wilson-vishnu-purana
+      locator: "5.3"
+    - source: ganguli-mahabharata
+      locator: "1.63"
+    - source: dutt-harivamsha
+      locator: "59"
+- id: mbh-nanda-father-of-krishna-foster
+  from: nanda
+  to: krishna
+  type: parent
+  role: father
+  mode: foster
+  explanation: "Vasudeva carries the newborn Krishna to the cowherd Nanda's home, where he grows up as Nanda's son."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "5.3"
+    - source: wilson-vishnu-purana
+      locator: "5.5"
+    - source: dutt-harivamsha
+      locator: "59"
+- id: mbh-yashoda-mother-of-krishna-foster
+  from: yashoda
+  to: krishna
+  type: parent
+  role: mother
+  mode: foster
+  explanation: "Vasudeva lays Krishna beside Yashoda, Nanda's wife, and takes her newborn daughter; Yashoda raises Krishna."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "5.3"
+    - source: wilson-vishnu-purana
+      locator: "4.15"
+    - source: dutt-harivamsha
+      locator: "59"
+- id: mbh-nanda-partner-yashoda
+  from: nanda
+  to: yashoda
+  type: partner
+  explanation: "Yashoda is the wife of the cowherd Nanda."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "4.15"
+    - source: dutt-harivamsha
+      locator: "59"
+- id: mbh-vasudeva-shura-father-of-balarama
+  from: vasudeva-shura
+  to: balarama
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Balarama is Vasudeva's son: Devaki's seventh conception, born of Rohini."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "4.15"
+    - source: wilson-vishnu-purana
+      locator: "5.5"
+    - source: dutt-harivamsha
+      locator: "59"
+- id: mbh-devaki-mother-of-balarama
+  from: devaki
+  to: balarama
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Balarama is conceived as Devaki's seventh child; Yoganidra draws the embryo from her womb, which is why he is called Sankarshana. The Vishnu Purana's chapter heading counts him among Vasudeva's sons by Devaki."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "4.15"
+    - source: wilson-vishnu-purana
+      locator: "5.1"
+    - source: dutt-harivamsha
+      locator: "59"
+- id: mbh-rohini-mother-of-balarama-other
+  from: rohini
+  to: balarama
+  type: parent
+  role: mother
+  mode: other
+  explanation: "The embryo of Devaki's seventh conception is transferred into Rohini's womb, and Rohini gives birth to Balarama."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "4.15"
+    - source: wilson-vishnu-purana
+      locator: "5.1"
+    - source: wilson-vishnu-purana
+      locator: "5.5"
+    - source: dutt-harivamsha
+      locator: "59"
+- id: mbh-nanda-father-of-balarama-foster
+  from: nanda
+  to: balarama
+  type: parent
+  role: father
+  mode: foster
+  explanation: "Vasudeva asks Nanda to take Rohini's son to Gokula and bring him up as his own."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "5.5"
+- id: mbh-vasudeva-shura-father-of-subhadra
+  from: vasudeva-shura
+  to: subhadra
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Subhadra (Bhadra) is the daughter of Vasudeva and Krishna's sister."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.221"
+    - source: dutt-harivamsha
+      locator: "35"
+- id: mbh-rohini-mother-of-subhadra
+  from: rohini
+  to: subhadra
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "The Harivamsha names Subhadra, also called Chitra, as Vasudeva's daughter by Rohini."
+  references:
+    - source: dutt-harivamsha
+      locator: "35"
+- id: mbh-krishna-sibling-subhadra
+  from: krishna
+  to: subhadra
+  type: sibling
+  explanation: "Krishna calls Subhadra his sister and his father's favourite daughter."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.221"
+    - source: ganguli-mahabharata
+      locator: "1.223"
+- id: mbh-balarama-sibling-subhadra
+  from: balarama
+  to: subhadra
+  type: sibling
+  explanation: "Balarama and Subhadra are both Vasudeva's children by Rohini in the Harivamsha."
+  references:
+    - source: dutt-harivamsha
+      locator: "35"
+- id: mbh-devaka-father-of-devaki
+  from: devaka
+  to: devaki
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Devaki is the youngest of Devaka's seven daughters, all married to Vasudeva."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "4.14"
+    - source: wilson-vishnu-purana
+      locator: "5.1"
+    - source: dutt-harivamsha
+      locator: "37"
+- id: mbh-devaka-sibling-ugrasena
+  from: devaka
+  to: ugrasena
+  type: sibling
+  explanation: "Devaka and Ugrasena are the sons of Ahuka."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "4.14"
+    - source: dutt-harivamsha
+      locator: "37"
+- id: mbh-ugrasena-father-of-kamsa
+  from: ugrasena
+  to: kamsa
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Kamsa is the eldest son of Ugrasena, which makes him Devaki's paternal cousin."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "4.14"
+    - source: wilson-vishnu-purana
+      locator: "5.20"
+    - source: ganguli-mahabharata
+      locator: "1.67"
+    - source: dutt-harivamsha
+      locator: "37"
+- id: mbh-krishna-partner-rukmini
+  from: krishna
+  to: rukmini
+  type: partner
+  explanation: "Krishna carries off Rukmini, daughter of King Bhishmaka of Vidarbha, and marries her."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "5.26"
+- id: mbh-krishna-partner-satyabhama
+  from: krishna
+  to: satyabhama
+  type: partner
+  explanation: "Satrajit gives his daughter Satyabhama to Krishna in marriage."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "4.13"
+    - source: wilson-vishnu-purana
+      locator: "5.28"
+- id: mbh-krishna-father-of-pradyumna
+  from: krishna
+  to: pradyumna
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Pradyumna is Krishna's son by Rukmini."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "5.26"
+    - source: wilson-vishnu-purana
+      locator: "4.15"
+- id: mbh-rukmini-mother-of-pradyumna
+  from: rukmini
+  to: pradyumna
+  type: parent
+  role: mother
+  mode: biological
+  explanation: "Rukmini bears Pradyumna."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "5.26"
+    - source: wilson-vishnu-purana
+      locator: "5.32"
+- id: mbh-pradyumna-father-of-aniruddha
+  from: pradyumna
+  to: aniruddha
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Aniruddha is Pradyumna's son by a daughter of Rukmin."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "5.28"
+    - source: wilson-vishnu-purana
+      locator: "4.15"
+- id: mbh-krishna-father-of-samba
+  from: krishna
+  to: samba
+  type: parent
+  role: father
+  mode: biological
+  explanation: "Samba is one of Krishna's sons by Jambavati."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "5.32"
+- id: mbh-kamsa-enemy-krishna
+  from: kamsa
+  to: krishna
+  type: enemy
+  explanation: "Kamsa, warned that Devaki's eighth child will kill him, sends demons against Krishna; Krishna kills him in the arena at Mathura."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "5.1"
+    - source: wilson-vishnu-purana
+      locator: "5.20"
+- id: mbh-kamsa-enemy-vasudeva-shura
+  from: kamsa
+  to: vasudeva-shura
+  type: enemy
+  explanation: "Kamsa imprisons Vasudeva and Devaki and kills their children."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "5.1"
+- id: mbh-jarasandha-ally-kamsa
+  from: jarasandha
+  to: kamsa
+  type: ally
+  explanation: "Kamsa marries Asti and Prapti, daughters of Jarasandha; the Sabha Parva says the alliance strengthened Kamsa, and the Vishnu Purana says Jarasandha attacked Mathura to avenge his son-in-law."
+  references:
+    - source: ganguli-mahabharata
+      locator: "2.14"
+    - source: wilson-vishnu-purana
+      locator: "5.22"
+- id: mbh-jarasandha-enemy-krishna
+  from: jarasandha
+  to: krishna
+  type: enemy
+  explanation: "Jarasandha besieges Mathura again and again to destroy Krishna and the Yadavas."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "5.22"
+    - source: ganguli-mahabharata
+      locator: "2.14"
+- id: mbh-bhima-enemy-jarasandha
+  from: bhima
+  to: jarasandha
+  type: enemy
+  explanation: "Bhima fights Jarasandha with bare arms and breaks his body in two."
+  references:
+    - source: ganguli-mahabharata
+      locator: "2.23"
+    - source: ganguli-mahabharata
+      locator: "2.24"
+- id: mbh-shishupala-enemy-krishna
+  from: shishupala
+  to: krishna
+  type: enemy
+  explanation: "Shishupala insults Krishna at Yudhishthira's royal sacrifice and Krishna kills him with his discus; the Vishnu Purana explains his enmity from earlier births."
+  references:
+    - source: ganguli-mahabharata
+      locator: "2.44"
+    - source: wilson-vishnu-purana
+      locator: "4.15"

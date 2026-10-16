@@ -1,0 +1,19 @@
+slug: ulupi
+names:
+  - text: "Ulupi"
+    lang: en
+    script: Latn
+  - text: "उलूपी"
+    lang: sa
+    script: Deva
+    iast: "Ulūpī"
+kinds: [naga]
+traditions: [itihasa]
+summary_beginner: "Daughter of Kauravya, a Naga king of Airavata's line. She drew Arjuna into the Naga realm during his pilgrimage and gave him a boon; long afterwards she urges her stepson Babruvahana to fight Arjuna and revives Arjuna with a gem."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.216"
+  - source: ganguli-mahabharata
+    locator: "14.79"
+  - source: ganguli-mahabharata
+    locator: "14.80"

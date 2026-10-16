@@ -1,0 +1,32 @@
+slug: "mahabharata-krishna-chosen-by-arjuna"
+names:
+  - text: "Arjuna chooses Krishna; Duryodhana chooses his army"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "arjuna"
+    role: "chooses Krishna, who will not fight"
+  - entity: "duryodhana"
+    role: "chooses Krishna's army"
+  - entity: "krishna"
+    role: "offers himself unarmed to one side and his army to the other"
+  - entity: "shalya"
+    role: "king of Madra, won over by Duryodhana's hospitality"
+places:
+  - "dwarka"
+narrative_order:
+  text: "mahabharata"
+  position: 5007
+  section: "udyoga-parva"
+variant: "mahabharata-story-ganguli-account"
+traditions:
+  - "itihasa"
+summary_beginner: "As both sides gather allies, Arjuna and Duryodhana come to Krishna at Dwaraka. Krishna offers one of them a great army of cowherd warriors, the Narayanas, and the other himself alone, pledged not to fight. Arjuna chooses Krishna and Duryodhana gladly takes the army. Meanwhile Shalya of Madra, marching to join the Pandavas, is entertained so lavishly by Duryodhana that he grants him a boon and agrees to lead his troops."
+summary_scholar: "Udyoga Parva, Ganguli 5.7 (the choice) and 5.8 (Shalya). 5.19 lists the forces that came to each side. The 'position' in narrative_order is parva x 1000 + Ganguli's section number of the main passage, so events sort in the order the epic tells them."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "5.7"
+  - source: "ganguli-mahabharata"
+    locator: "5.8"
+  - source: "ganguli-mahabharata"
+    locator: "5.19"

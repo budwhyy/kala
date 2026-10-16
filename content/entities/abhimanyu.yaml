@@ -1,0 +1,30 @@
+slug: abhimanyu
+names:
+  - text: "Abhimanyu"
+    lang: en
+    script: Latn
+  - text: "अभिमन्यु"
+    lang: sa
+    script: Deva
+    iast: "Abhimanyu"
+kinds: [human]
+traditions: [itihasa, puranic]
+dynasties:
+  - to: kuru-dynasty
+    note: "Called the perpetuator of the family among the sons of the Pandavas."
+    references:
+      - source: ganguli-mahabharata
+        locator: "1.95"
+summary_beginner: "Son of Arjuna and Subhadra, and so Krishna's nephew. He married Uttara of Matsya; in the war he breaks into the circular battle array and is killed, and his posthumous son Parikshit continues the line."
+summary_scholar: "The Adi Parva says he was Varchas, son of the Moon god, lent to the earth for sixteen years, and foretells his entry into the Chakra-vyuha (1.67). He dies from a mace blow by Duhshasana's son (7.47). The Harivamsha also names him Arjuna's son by Subhadra (35)."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.95"
+  - source: ganguli-mahabharata
+    locator: "1.223"
+  - source: ganguli-mahabharata
+    locator: "4.72"
+  - source: ganguli-mahabharata
+    locator: "7.47"
+  - source: dutt-harivamsha
+    locator: "35"

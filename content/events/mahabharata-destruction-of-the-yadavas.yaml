@@ -1,0 +1,48 @@
+slug: "mahabharata-destruction-of-the-yadavas"
+names:
+  - text: "The destruction of the Yadavas and the death of Krishna"
+    lang: "en"
+    script: "Latn"
+  - text: "मौसल"
+    lang: "sa"
+    script: "Deva"
+    iast: "Mausala"
+participants:
+  - entity: "krishna"
+    role: "foresees the end; shot in the heel by a hunter"
+  - entity: "balarama"
+    role: "leaves his body as a great serpent"
+  - entity: "samba"
+    role: "disguised as a woman to mock the sages"
+  - entity: "satyaki"
+    role: "begins the quarrel"
+  - entity: "kritavarma"
+  - entity: "yadavas"
+    role: "kill one another at Prabhasa"
+  - entity: "arjuna"
+    role: "leads the survivors from Dwaraka"
+  - entity: "vasudeva-shura"
+    role: "Krishna's father"
+places:
+  - "dwarka"
+  - "somnath"
+narrative_order:
+  text: "mahabharata"
+  position: 16001
+  section: "mausala-parva"
+variant: "mahabharata-story-ganguli-account"
+same_story_as:
+  - "krishna-death-vishnu-purana"
+traditions:
+  - "itihasa"
+summary_beginner: "In the thirty-sixth year after the war, young Vrishnis dress Samba as a pregnant woman to mock visiting sages, who curse him to bear an iron bolt that will destroy his race. The Yadavas go to Prabhasa by the sea, drink, quarrel and kill one another. Balarama leaves his body as a great white serpent that enters the ocean, and Krishna, lying in yoga, is shot in the heel by a hunter named Jara. Arjuna leads the women and survivors away, and the sea floods Dwaraka behind them."
+summary_scholar: "Mausala Parva, Ganguli 16.1 (the curse), 16.3 (the fight at Prabhasa), 16.4 (Balarama and Krishna; Krishna recalls Gandhari's curse) and 16.7 (Arjuna's departure, the flooding of Dwaraka and the Abhira raiders). The Vishnu Purana tells the same end in its own way (VP 5.37), recorded as a separate event. The 'position' in narrative_order is parva x 1000 + Ganguli's section number of the main passage, so events sort in the order the epic tells them."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "16.1"
+  - source: "ganguli-mahabharata"
+    locator: "16.3"
+  - source: "ganguli-mahabharata"
+    locator: "16.4"
+  - source: "ganguli-mahabharata"
+    locator: "16.7"

@@ -1,0 +1,32 @@
+slug: ramayana-guha-and-the-crossing-of-the-ganga
+names:
+  - text: "Guha and the crossing of the Ganga"
+    lang: en
+    script: Latn
+participants:
+  - entity: guha
+    role: "chief of the Nishadas, Rama's friend"
+  - entity: rama
+    role: "rests and crosses the river"
+  - entity: sita
+    role: "with Rama"
+  - entity: lakshmana
+    role: "keeps watch through the night"
+places:
+  - shringaverapura
+  - ganga
+narrative_order:
+  text: valmiki-ramayana
+  position: 150
+  section: ayodhya-kanda
+variant: valmiki-ramayana-account
+traditions:
+  - itihasa
+summary_beginner: "At Shringavera on the Ganga the exiles rest under an ingudi tree, welcomed by Guha, king of the Nishadas. The next morning Rama sends the charioteer home and Guha's people ferry the three across the river."
+references:
+  - source: griffith-ramayana
+    locator: "1.1"
+  - source: griffith-ramayana
+    locator: "2.50"
+  - source: griffith-ramayana
+    locator: "2.52"

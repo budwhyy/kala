@@ -1,0 +1,22 @@
+slug: ganga-goddess
+names:
+  - text: "Ganga (goddess)"
+    lang: en
+    script: Latn
+  - text: "गङ्गा"
+    lang: sa
+    script: Deva
+    iast: "Gaṅgā"
+kinds: [deity]
+traditions: [itihasa, hindu]
+summary_beginner: "The goddess of the river Ganga. In the Mahabharata she takes human form and marries King Shantanu; she drowns her first seven sons, the Vasus reborn under a curse, to free them, and leaves with the eighth, whom she later returns to Shantanu as Bhishma. The river itself has its own place record."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.96"
+    note: "The Vasus ask Ganga to be their mother on earth."
+  - source: ganguli-mahabharata
+    locator: "1.98"
+  - source: ganguli-mahabharata
+    locator: "1.99"
+  - source: ganguli-mahabharata
+    locator: "1.100"

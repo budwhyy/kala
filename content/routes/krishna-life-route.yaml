@@ -1,0 +1,78 @@
+slug: "krishna-life-route"
+names:
+  - text: "Krishna's life journey (Vishnu Purana)"
+    lang: "en"
+    script: "Latn"
+text: "vishnu-purana"
+variant: "mahabharata-story-vishnu-purana-krishna"
+literary_reconstruction: true
+travellers:
+  - "krishna"
+  - "balarama"
+stops:
+  - order: 1
+    place: "mathura"
+    event: "krishna-birth-vishnu-purana"
+    note: "Krishna is born to Devaki in Kamsa's prison at Mathura."
+    references:
+      - source: "wilson-vishnu-purana"
+        locator: "5.3"
+  - order: 2
+    place: "gokula"
+    note: "Vasudeva carries him across the Yamuna to Nanda's camp; Nanda takes Krishna and Balarama home to Gokula."
+    references:
+      - source: "wilson-vishnu-purana"
+        locator: "5.3"
+      - source: "wilson-vishnu-purana"
+        locator: "5.5"
+  - order: 3
+    place: "vrindavan"
+    event: "krishna-move-to-vrindavana-vishnu-purana"
+    note: "Alarmed by omens, the cowherds move to Vrindavana."
+    references:
+      - source: "wilson-vishnu-purana"
+        locator: "5.6"
+  - order: 4
+    place: "govardhana"
+    event: "krishna-lifts-govardhana-vishnu-purana"
+    note: "Krishna lifts Mount Govardhana against Indra's storm."
+    references:
+      - source: "wilson-vishnu-purana"
+        locator: "5.11"
+  - order: 5
+    place: "mathura"
+    event: "krishna-slays-kamsa-vishnu-purana"
+    note: "Krishna and Balarama go to Mathura, where Krishna kills Kamsa."
+    references:
+      - source: "wilson-vishnu-purana"
+        locator: "5.20"
+  - order: 6
+    place: "dwarka"
+    event: "krishna-founds-dwaraka-vishnu-purana"
+    note: "Under Jarasandha's repeated attacks, Krishna builds Dwaraka and moves the people of Mathura there."
+    references:
+      - source: "wilson-vishnu-purana"
+        locator: "5.22"
+      - source: "wilson-vishnu-purana"
+        locator: "5.23"
+  - order: 7
+    place: "kundina"
+    event: "krishna-carries-off-rukmini-vishnu-purana"
+    note: "Krishna and Balarama go to Kundina, and Krishna carries off Rukmini."
+    references:
+      - source: "wilson-vishnu-purana"
+        locator: "5.26"
+  - order: 8
+    place: "dwarka"
+    note: "Back at Dwaraka, Rukmini bears Pradyumna."
+    references:
+      - source: "wilson-vishnu-purana"
+        locator: "5.26"
+  - order: 9
+    place: "somnath"
+    event: "krishna-death-vishnu-purana"
+    note: "Krishna takes the Yadavas to Prabhasa, where they destroy one another, Balarama leaves his body and Krishna is shot by the hunter Jara."
+    references:
+      - source: "wilson-vishnu-purana"
+        locator: "5.37"
+summary_beginner: "Krishna's life as Book 5 of the Vishnu Purana tells it: birth at Mathura, childhood among the cowherds at Gokula and Vrindavana, the lifting of Govardhana, the return to Mathura to kill Kamsa, the move to Dwaraka, the journey to Kundina for Rukmini, and his death at Prabhasa (KĀLA's place record somnath). This is a literary reconstruction: the route follows the order of places named in the text, not a verified itinerary, and each stop's place record carries its own confidence class."

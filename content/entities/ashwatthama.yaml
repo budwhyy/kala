@@ -1,0 +1,23 @@
+slug: ashwatthama
+names:
+  - text: "Ashwatthama"
+    lang: en
+    script: Latn
+  - text: "अश्वत्थामा"
+    lang: sa
+    script: Deva
+    iast: "Aśvatthāmā"
+epithets:
+  - text: "Aswatthaman"
+    lang: en
+    script: Latn
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "Son of Drona and Kripi, named for the horse-like cry he gave at birth. After the war he raids the sleeping Pandava camp and kills Dhrishtadyumna and the sons of Draupadi; Krishna curses him to wander the earth alone."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.131"
+  - source: ganguli-mahabharata
+    locator: "10.8"
+  - source: ganguli-mahabharata
+    locator: "10.16"

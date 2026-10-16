@@ -1,0 +1,35 @@
+slug: ramayana-sita-returns-to-the-earth
+names:
+  - text: "Sita returns to the earth"
+    lang: en
+    script: Latn
+participants:
+  - entity: sita
+    role: "calls on the Earth to receive her if she has been faithful"
+  - entity: rama
+    role: "asks her to prove her purity before the assembly"
+  - entity: valmiki
+    role: "brings Sita and vouches for her and the twins"
+  - entity: lava
+    role: "sings the Ramayana before Rama"
+  - entity: kusha
+    role: "sings the Ramayana before Rama"
+narrative_order:
+  text: valmiki-ramayana
+  position: 910
+  section: uttara-kanda
+variant: ramayana-story-valmiki-uttara-kanda
+traditions:
+  - itihasa
+summary_beginner: "In the Uttara Kanda, Lava and Kusha sing Valmiki's poem at Rama's horse sacrifice, and Rama recognises them as his sons. Valmiki brings Sita before the assembly. Asked once more to prove her purity, she calls on the goddess Earth to take her if she has never thought of anyone but Rama. A throne rises from the ground, the Earth takes Sita on it, and she disappears into the earth as flowers fall from heaven."
+summary_scholar: "Dutt 7.106 (the recitation) and 7.110 (Sita's oath and descent); 7.111 begins Rama's grief. Tagged with the Uttara Kanda variant: Uttara Kanda (Book VII), which scholars generally regard as a later addition to Valmiki's poem."
+references:
+  - source: dutt-ramayana
+    locator: "7.106"
+  - source: dutt-ramayana
+    locator: "7.110"
+  - source: dutt-ramayana
+    locator: "7.111"
+  - source: griffith-ramayana
+    locator: "Appendix, Uttarakanda"
+    note: "Griffith's summary, quoting Muir"

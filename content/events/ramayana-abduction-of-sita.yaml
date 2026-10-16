@@ -1,0 +1,35 @@
+slug: ramayana-abduction-of-sita
+names:
+  - text: "The abduction of Sita"
+    lang: en
+    script: Latn
+participants:
+  - entity: ravana
+    role: "comes disguised as a mendicant and carries Sita off"
+  - entity: sita
+    role: "carried away to Lanka"
+  - entity: jatayu
+    role: "fights Ravana to save Sita and is struck down"
+places:
+  - panchavati
+  - lanka-ramayana
+narrative_order:
+  text: valmiki-ramayana
+  position: 349
+  section: aranya-kanda
+variant: valmiki-ramayana-account
+same_story_as:
+  - ramcharitmanas-illusory-sita-and-the-abduction
+traditions:
+  - itihasa
+summary_beginner: "With both brothers gone, Ravana comes to the hermitage as a wandering ascetic, reveals himself, seizes Sita and carries her off through the sky in his chariot. The old vulture Jatayu attacks him, but Ravana cuts off his wings and leaves him dying. Sita is taken to Lanka."
+summary_scholar: "Griffith 3.46-3.54. In Tulsidas's Ramcharitmanas the episode is told differently: Rama has the real Sita enter fire beforehand, and it is her image that is carried off (see the linked event)."
+references:
+  - source: griffith-ramayana
+    locator: "3.46"
+  - source: griffith-ramayana
+    locator: "3.49"
+  - source: griffith-ramayana
+    locator: "3.51"
+  - source: griffith-ramayana
+    locator: "3.54"

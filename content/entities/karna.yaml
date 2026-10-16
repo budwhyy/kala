@@ -1,0 +1,33 @@
+slug: karna
+names:
+  - text: "Karna"
+    lang: en
+    script: Latn
+  - text: "कर्ण"
+    lang: sa
+    script: Deva
+    iast: "Karṇa"
+epithets:
+  - text: "Vasusena"
+    lang: en
+    script: Latn
+  - text: "Radheya"
+    lang: en
+    script: Latn
+kinds: [human, king]
+traditions: [itihasa, puranic]
+summary_beginner: "Kunti's first son, born of the Sun god before her marriage and set afloat on the river; he was raised by the charioteer Adhiratha and his wife Radha. Duryodhana's closest friend, who made him king of Anga, he is Arjuna's great rival and is killed by him at Kurukshetra."
+summary_scholar: "He gives his natural armour and ear-rings to Indra and receives a dart that can kill one foe (1.111, 3.308); he spends it on Ghatotkacha (7.179). Parashurama, his teacher, curses him for winning a weapon under a false identity (5.62; 12.3). The Vishnu Purana also names him Kunti's son by the Sun (4.14)."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.67"
+  - source: ganguli-mahabharata
+    locator: "1.111"
+  - source: ganguli-mahabharata
+    locator: "1.138"
+  - source: ganguli-mahabharata
+    locator: "3.307"
+  - source: ganguli-mahabharata
+    locator: "8.91"
+  - source: wilson-vishnu-purana
+    locator: "4.14"

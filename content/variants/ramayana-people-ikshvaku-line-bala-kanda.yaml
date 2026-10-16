@@ -1,0 +1,16 @@
+slug: ramayana-people-ikshvaku-line-bala-kanda
+names:
+  - text: "Ikshvaku line in Vasishtha's recital (Valmiki, Bala Kanda)"
+    lang: en
+    script: Latn
+kind: genealogy
+tradition: itihasa
+text: valmiki-ramayana
+description: "The royal line from Ikshvaku to Dasharatha as the sage Vasishtha recites it at Rama's wedding in the Bala Kanda of Valmiki's Ramayana (Griffith 1.70; Dutt 1.70). Vasishtha recites the line again in the Ayodhya Kanda (2.110) with the same kings, except that there Nahusha is followed directly by Nabhaga, without Yayati; that one difference is stored under its own variant."
+references:
+  - source: griffith-ramayana
+    locator: "1.70"
+  - source: dutt-ramayana
+    locator: "1.70"
+  - source: griffith-ramayana
+    locator: "2.110"

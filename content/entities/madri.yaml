@@ -1,0 +1,21 @@
+slug: madri
+names:
+  - text: "Madri"
+    lang: en
+    script: Latn
+  - text: "माद्री"
+    lang: sa
+    script: Deva
+    iast: "Mādrī"
+kinds: [human]
+traditions: [itihasa, puranic]
+summary_beginner: "A princess of Madra, sister of King Shalya and second wife of Pandu. Using Kunti's mantra she bore the twins Nakula and Sahadeva by the Ashvins, and after Pandu's death she followed him onto the funeral pyre."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.95"
+  - source: ganguli-mahabharata
+    locator: "1.113"
+  - source: ganguli-mahabharata
+    locator: "1.124"
+  - source: wilson-vishnu-purana
+    locator: "4.14"

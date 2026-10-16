@@ -1,0 +1,51 @@
+slug: "mahabharata-bhagavad-gita"
+concepts:
+  - atman
+  - karma
+  - dharma
+  - yoga
+  - bhakti
+  - jnana
+  - moksha
+  - guna
+names:
+  - text: "The Bhagavad Gita on the field of Kurukshetra"
+    lang: "en"
+    script: "Latn"
+  - text: "भगवद्गीता"
+    lang: "sa"
+    script: "Deva"
+    iast: "Bhagavad Gītā"
+participants:
+  - entity: "arjuna"
+    role: "loses heart at the sight of his kinsmen in both armies"
+  - entity: "krishna"
+    role: "his charioteer, who teaches him"
+  - entity: "sanjaya"
+    role: "reports the dialogue"
+  - entity: "dhritarashtra"
+    role: "hears it from Sanjaya"
+places:
+  - "kurukshetra"
+narrative_order:
+  text: "mahabharata"
+  position: 6025
+  section: "bhishma-parva"
+variant: "mahabharata-story-ganguli-account"
+traditions:
+  - "itihasa"
+summary_beginner: "As the armies face each other at Kurukshetra, Arjuna sees teachers, grandfathers and kinsmen on both sides and refuses to fight. His charioteer Krishna teaches him: the self is never born and never dies; one should do one's duty without attachment to its fruits; and devotion to Krishna is the highest way. Krishna shows Arjuna his universal form. At the end Arjuna takes up his bow again."
+summary_scholar: "Bhishma Parva, Ganguli 6.25-6.42, which Sanjaya narrates to Dhritarashtra (the chapter headings I-XVIII in the sacred-texts edition are an editor's aid, not Ganguli's). KĀLA's concept records (linked from this event) explain how different schools read the Gita's teaching. The text record bhagavad-gita treats the Gita as a work in its own right. The 'position' in narrative_order is parva x 1000 + Ganguli's section number of the main passage, so events sort in the order the epic tells them."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "6.25"
+  - source: "ganguli-mahabharata"
+    locator: "6.26"
+  - source: "ganguli-mahabharata"
+    locator: "6.35"
+  - source: "ganguli-mahabharata"
+    locator: "6.36"
+  - source: "ganguli-mahabharata"
+    locator: "6.42"
+  - source: "ganguli-mahabharata"
+    locator: "6.43"

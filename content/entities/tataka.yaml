@@ -1,0 +1,22 @@
+slug: tataka
+names:
+  - text: "Tataka"
+    lang: en
+    script: Latn
+  - text: ताटका
+    lang: sa
+    script: Deva
+    iast: "Tāṭakā"
+kinds: [yaksha, rakshasa]
+traditions: [itihasa]
+summary_beginner: "Daughter of the yaksha Suketu and mother of Maricha. Cursed by the sage Agastya to become a man-eating monster, she lays waste a forest until Rama kills her at Vishvamitra's bidding."
+summary_scholar: "Griffith calls Suketu a 'spirit'; Dutt (1.25) calls him a Yaksha and spells her name Taraka."
+references:
+  - source: griffith-ramayana
+    locator: "1.26"
+  - source: griffith-ramayana
+    locator: "1.27"
+  - source: griffith-ramayana
+    locator: "1.28"
+  - source: dutt-ramayana
+    locator: "1.25"

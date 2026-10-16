@@ -1,0 +1,25 @@
+slug: susandhi
+names:
+  - text: "Susandhi"
+    lang: en
+    script: Latn
+  - text: सुसन्धि
+    lang: sa
+    script: Deva
+    iast: "Susandhi"
+kinds: [king, human]
+traditions: [itihasa]
+dynasties:
+  - to: suryavansha
+    note: "A king of Ikshvaku's line, listed in Vasishtha's recital of Rama's ancestry."
+    references:
+      - source: griffith-ramayana
+        locator: "1.70"
+summary_beginner: "A king of Ikshvaku's line at Ayodhya. In Vasishtha's recital of Rama's ancestry in Valmiki's Ramayana he is the son of Mandhata and the father of Dhruvasandhi. The recital gives him two sons, Dhruvasandhi and Prasenajit."
+references:
+  - source: griffith-ramayana
+    locator: "1.70"
+  - source: dutt-ramayana
+    locator: "1.70"
+  - source: griffith-ramayana
+    locator: "2.110"

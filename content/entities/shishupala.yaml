@@ -1,0 +1,24 @@
+slug: shishupala
+names:
+  - text: "Shishupala"
+    lang: en
+    script: Latn
+  - text: "शिशुपाल"
+    lang: sa
+    script: Deva
+    iast: "Śiśupāla"
+kinds: [human, king]
+traditions: [itihasa, puranic]
+summary_beginner: "King of Chedi, son of Damaghosha and of Vasudeva's sister, and so Krishna's cousin. He insults Krishna at Yudhishthira's royal consecration and Krishna kills him with his discus. Both the Mahabharata and the Vishnu Purana say he had been the asura Hiranyakashipu in an earlier birth."
+summary_scholar: "The Vishnu Purana adds a middle birth as Ravana and explains why only his death as Shishupala united him with Vishnu (4.14-4.15). In the Mahabharata Krishna promises Shishupala's mother, his aunt, to pardon a hundred offences (2.42)."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.67"
+  - source: ganguli-mahabharata
+    locator: "2.42"
+  - source: ganguli-mahabharata
+    locator: "2.44"
+  - source: wilson-vishnu-purana
+    locator: "4.14"
+  - source: wilson-vishnu-purana
+    locator: "4.15"

@@ -22,6 +22,34 @@ dynasties:
     references:
       - source: wilson-vishnu-purana
         locator: "4.4"
+relations:
+  - kingdom: videha-kingdom-epic
+    type: marriage
+    note: Rama marries Janaka's daughter Sita, and his three brothers marry Urmila and the two daughters of Janaka's brother Kushadhvaja, joining the houses of Ayodhya and Mithila.
+    variant: valmiki-ramayana-account
+    references:
+      - source: griffith-ramayana
+        locator: "1.72"
+      - source: griffith-ramayana
+        locator: "1.73"
+  - kingdom: kishkindha-kingdom-epic
+    type: alliance
+    note: Rama and the vanara Sugriva swear friendship before a kindled fire; Rama kills Vali and Sugriva's army joins the war against Lanka.
+    variant: valmiki-ramayana-account
+    references:
+      - source: griffith-ramayana
+        locator: "4.5"
+      - source: griffith-ramayana
+        locator: "4.26"
+  - kingdom: lanka-kingdom-epic
+    type: war
+    note: Rama, with the vanara host, crosses to Lanka to recover Sita and kills Ravana in battle.
+    variant: valmiki-ramayana-account
+    references:
+      - source: griffith-ramayana
+        locator: "6.42"
+      - source: griffith-ramayana
+        locator: "6.110"
 traditions:
   - itihasa
 summary_beginner: Rama's kingdom in the Ramayana, ruled from Ayodhya by the descendants of Ikshvaku.

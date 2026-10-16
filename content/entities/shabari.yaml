@@ -1,0 +1,15 @@
+slug: shabari
+names:
+  - text: "Shabari"
+    lang: en
+    script: Latn
+  - text: शबरी
+    lang: sa
+    script: Deva
+    iast: "Śabarī"
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "An aged woman ascetic near Lake Pampa who had served the sages of Matanga's grove. She receives Rama and Lakshmana as guests and, with Rama's consent, gives up her body in the fire and rises to heaven."
+references:
+  - source: griffith-ramayana
+    locator: "3.75"

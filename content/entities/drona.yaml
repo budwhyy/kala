@@ -1,0 +1,20 @@
+slug: drona
+names:
+  - text: "Drona"
+    lang: en
+    script: Latn
+  - text: "द्रोण"
+    lang: sa
+    script: Deva
+    iast: "Droṇa"
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "A Brahmin master of arms, born from the seed of the sage Bharadwaja caught in a pot (drona). He learned weapons from Parashurama and became the teacher of the Kuru and Pandava princes, with Arjuna his finest pupil."
+summary_scholar: "His broken friendship with Drupada (1.132, 1.140) leads Drupada to seek a son who will kill him; that son, Dhrishtadyumna, kills him in the war (7.193). The Adi Parva says he was born of a portion of Brihaspati (1.67)."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.63"
+  - source: ganguli-mahabharata
+    locator: "1.131"
+  - source: ganguli-mahabharata
+    locator: "1.134"

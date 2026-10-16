@@ -1,0 +1,21 @@
+slug: khara
+names:
+  - text: "Khara"
+    lang: en
+    script: Latn
+  - text: खर
+    lang: sa
+    script: Deva
+    iast: "Khara"
+kinds: [rakshasa]
+traditions: [itihasa]
+summary_beginner: "A rakshasa lord of Janasthana whom Shurpanakha names as her brother. He sends an army of fourteen thousand rakshasas against Rama after her mutilation and is finally killed by Rama himself."
+references:
+  - source: griffith-ramayana
+    locator: "3.17"
+  - source: griffith-ramayana
+    locator: "3.19"
+  - source: griffith-ramayana
+    locator: "3.22"
+  - source: griffith-ramayana
+    locator: "3.30"

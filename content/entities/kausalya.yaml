@@ -1,0 +1,19 @@
+slug: kausalya
+names:
+  - text: "Kausalya"
+    lang: en
+    script: Latn
+  - text: कौसल्या
+    lang: sa
+    script: Deva
+    iast: "Kausalyā"
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "Dasharatha's queen and the mother of Rama. In Valmiki's Ramayana she grieves deeply when he is sent into exile."
+references:
+  - source: griffith-ramayana
+    locator: "1.19"
+  - source: griffith-ramayana
+    locator: "2.20"
+  - source: griffith-ramayana
+    locator: "2.43"

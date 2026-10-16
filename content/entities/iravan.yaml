@@ -1,0 +1,21 @@
+slug: iravan
+names:
+  - text: "Iravan"
+    lang: en
+    script: Latn
+  - text: "इरावान्"
+    lang: sa
+    script: Deva
+    iast: "Irāvān"
+epithets:
+  - text: "Iravat"
+    lang: en
+    script: Latn
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "A son of Arjuna by a widowed Naga princess, a daughter of the Naga king, given to Arjuna by Airavata; the passage does not name her. He fights for the Pandavas at Kurukshetra."
+references:
+  - source: ganguli-mahabharata
+    locator: "6.84"
+  - source: ganguli-mahabharata
+    locator: "6.91"

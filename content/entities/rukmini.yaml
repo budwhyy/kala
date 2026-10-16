@@ -1,0 +1,19 @@
+slug: rukmini
+names:
+  - text: "Rukmini"
+    lang: en
+    script: Latn
+  - text: "रुक्मिणी"
+    lang: sa
+    script: Deva
+    iast: "Rukmiṇī"
+kinds: [human]
+traditions: [itihasa, puranic]
+summary_beginner: "Princess of Vidarbha, daughter of King Bhishmaka, whom Krishna carried off and married; she is the mother of Pradyumna. The Mahabharata says she was born of a portion of the goddess Sri (Lakshmi)."
+references:
+  - source: wilson-vishnu-purana
+    locator: "5.26"
+  - source: wilson-vishnu-purana
+    locator: "5.28"
+  - source: ganguli-mahabharata
+    locator: "1.67"

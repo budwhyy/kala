@@ -1,0 +1,12 @@
+slug: mahabharata-people-kuru-line-adi-95
+names:
+  - text: "Kuru line, Adi Parva section 95"
+    lang: en
+    script: Latn
+kind: genealogy
+tradition: itihasa
+text: mahabharata
+description: "The second, fuller genealogy in the Adi Parva (Ganguli's section 95), recited 'from Manu' with the wives of each king: Kuru, Viduratha, Anashvan, Parikshit, Bhimasena, Pratishravas, Pratipa."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.95"

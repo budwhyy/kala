@@ -1,0 +1,38 @@
+slug: ramayana-ordeal-by-fire
+names:
+  - text: "Sita's ordeal by fire"
+    lang: en
+    script: Latn
+participants:
+  - entity: sita
+    role: "enters the fire to prove her faithfulness"
+  - entity: rama
+    role: "speaks harshly to her before the assembly"
+  - entity: lakshmana
+    role: "builds the pyre"
+  - entity: agni
+    role: "the god of fire, who brings her out unharmed"
+  - entity: brahma
+    role: "with the gods, tells Rama of his divine nature"
+places:
+  - lanka-ramayana
+narrative_order:
+  text: valmiki-ramayana
+  position: 717
+  section: yuddha-kanda
+variant: valmiki-ramayana-account
+same_story_as:
+  - ramcharitmanas-ordeal-by-fire
+traditions:
+  - itihasa
+summary_beginner: "When Sita is brought to him, Rama tells her before the army that he fought to clear his honour, and that after her long stay in Ravana's house he cannot take her back. Sita asks Lakshmana to build a pyre, prays to Fire as the witness of her faithfulness and enters the flames. The god of fire brings her out unharmed and declares her pure; Rama says he never doubted her but needed the world to see the proof."
+summary_scholar: "Griffith 6.117-6.120. In Tulsidas's Ramcharitmanas only Sita's image is consumed in this fire (see the linked event)."
+references:
+  - source: griffith-ramayana
+    locator: "6.117"
+  - source: griffith-ramayana
+    locator: "6.118"
+  - source: griffith-ramayana
+    locator: "6.119"
+  - source: griffith-ramayana
+    locator: "6.120"

@@ -1,0 +1,25 @@
+slug: duhshasana
+names:
+  - text: "Duhshasana"
+    lang: en
+    script: Latn
+  - text: "दुःशासन"
+    lang: sa
+    script: Deva
+    iast: "Duḥśāsana"
+epithets:
+  - text: "Dussasana"
+    lang: en
+    script: Latn
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "A son of Dhritarashtra and Gandhari and Duryodhana's close supporter. He drags Draupadi by her hair into the dice hall, and Bhima kills him in the war."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.95"
+  - source: ganguli-mahabharata
+    locator: "1.117"
+  - source: ganguli-mahabharata
+    locator: "2.66"
+  - source: ganguli-mahabharata
+    locator: "8.83"

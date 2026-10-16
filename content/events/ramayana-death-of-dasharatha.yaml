@@ -1,0 +1,25 @@
+slug: ramayana-death-of-dasharatha
+names:
+  - text: "The death of Dasharatha"
+    lang: en
+    script: Latn
+participants:
+  - entity: dasharatha
+    role: "dies of grief for Rama"
+  - entity: kausalya
+    role: "at his side"
+places:
+  - ayodhya
+narrative_order:
+  text: valmiki-ramayana
+  position: 164
+  section: ayodhya-kanda
+variant: valmiki-ramayana-account
+traditions:
+  - itihasa
+summary_beginner: "Back in Ayodhya, Dasharatha grieves for Rama. He tells Kausalya how, long ago, he killed a hermit's son by mistake and was cursed by the boy's father to die mourning for a son; that night he dies."
+references:
+  - source: griffith-ramayana
+    locator: "2.63"
+  - source: griffith-ramayana
+    locator: "2.64"

@@ -1,0 +1,30 @@
+slug: ramayana-death-of-indrajit
+names:
+  - text: "The death of Indrajit"
+    lang: en
+    script: Latn
+participants:
+  - entity: indrajit
+    role: "Ravana's son, the great warrior and sorcerer"
+  - entity: lakshmana
+    role: "kills him with the weapon of Indra"
+  - entity: vibhishana
+    role: "praises Lakshmana's victory"
+  - entity: hanuman
+    role: "praises Lakshmana's victory"
+  - entity: jambavan
+    role: "praises Lakshmana's victory"
+places:
+  - lanka-ramayana
+narrative_order:
+  text: valmiki-ramayana
+  position: 691
+  section: yuddha-kanda
+variant: valmiki-ramayana-account
+traditions:
+  - itihasa
+summary_beginner: "After long and bitter fighting, Lakshmana kills Ravana's son Indrajit with the weapon of Indra. The rakshasas flee, the gods rejoice, and Vibhishana, Hanuman and Jambavan hail Lakshmana."
+summary_scholar: "Cited from Dutt's prose translation (6.91): Griffith's verse translation omits Book VI cantos 76-92, where this episode is told."
+references:
+  - source: dutt-ramayana
+    locator: "6.91"

@@ -1,0 +1,41 @@
+slug: "mahabharata-the-yakshas-questions"
+names:
+  - text: "The yaksha's questions"
+    lang: "en"
+    script: "Latn"
+  - text: "यक्षप्रश्न"
+    lang: "sa"
+    script: "Deva"
+    iast: "Yakṣa-praśna"
+participants:
+  - entity: "yudhishthira"
+    role: "answers the yaksha's questions"
+  - entity: "nakula"
+    role: "first to drink, and the brother Yudhishthira asks to be revived"
+  - entity: "sahadeva"
+  - entity: "arjuna"
+  - entity: "bhima"
+  - entity: "dharma"
+    role: "the yaksha, who reveals himself as Yudhishthira's father"
+places:
+  - "dvaitavana"
+narrative_order:
+  text: "mahabharata"
+  position: 3310
+  section: "vana-parva"
+variant: "mahabharata-story-ganguli-account"
+traditions:
+  - "itihasa"
+summary_beginner: "Back at Dvaitavana, the brothers chase a deer that has carried off a Brahmana's fire-sticks. Thirsty, they find a lake guarded by an invisible voice; one after another the four younger brothers drink without answering its questions and fall dead. Yudhishthira answers every riddle. Offered one brother's life, he chooses Nakula, son of Madri. The yaksha reveals himself as Dharma, Yudhishthira's father, restores all four, and directs them to pass the thirteenth year in disguise."
+summary_scholar: "Aranya Parva, Ganguli 3.309 (the deer and the fire-sticks), 3.310 (the lake), 3.311 (the questions) and 3.312 (Dharma revealed); 3.313 opens with the Pandavas preparing, at Dharma's command, for the year of concealment. The 'position' in narrative_order is parva x 1000 + Ganguli's section number of the main passage, so events sort in the order the epic tells them."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "3.309"
+  - source: "ganguli-mahabharata"
+    locator: "3.310"
+  - source: "ganguli-mahabharata"
+    locator: "3.311"
+  - source: "ganguli-mahabharata"
+    locator: "3.312"
+  - source: "ganguli-mahabharata"
+    locator: "3.313"

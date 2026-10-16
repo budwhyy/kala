@@ -1,0 +1,231 @@
+# Membership of the Pandavas, Kauravas (Dhritarashtra's hundred sons; only entered sons listed), Upapandavas and Yadavas.
+- id: mbh-yudhishthira-member-of-pandavas
+  from: yudhishthira
+  to: pandavas
+  type: member_of
+  explanation: "One of the five sons of Pandu, the Pandavas."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.124"
+    - source: ganguli-mahabharata
+      locator: "1.95"
+- id: mbh-bhima-member-of-pandavas
+  from: bhima
+  to: pandavas
+  type: member_of
+  explanation: "One of the five sons of Pandu, the Pandavas."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.124"
+    - source: ganguli-mahabharata
+      locator: "1.95"
+- id: mbh-arjuna-member-of-pandavas
+  from: arjuna
+  to: pandavas
+  type: member_of
+  explanation: "One of the five sons of Pandu, the Pandavas."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.124"
+    - source: ganguli-mahabharata
+      locator: "1.95"
+- id: mbh-nakula-member-of-pandavas
+  from: nakula
+  to: pandavas
+  type: member_of
+  explanation: "One of the five sons of Pandu, the Pandavas."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.124"
+    - source: ganguli-mahabharata
+      locator: "1.95"
+- id: mbh-sahadeva-member-of-pandavas
+  from: sahadeva
+  to: pandavas
+  type: member_of
+  explanation: "One of the five sons of Pandu, the Pandavas."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.124"
+    - source: ganguli-mahabharata
+      locator: "1.95"
+- id: mbh-duryodhana-member-of-kauravas
+  from: duryodhana
+  to: kauravas
+  type: member_of
+  explanation: "Named in the Adi Parva's list of the hundred sons of Dhritarashtra."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.117"
+    - source: ganguli-mahabharata
+      locator: "1.67"
+- id: mbh-duhshasana-member-of-kauravas
+  from: duhshasana
+  to: kauravas
+  type: member_of
+  explanation: "Named in the Adi Parva's list of the hundred sons of Dhritarashtra."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.117"
+    - source: ganguli-mahabharata
+      locator: "1.67"
+- id: mbh-vikarna-member-of-kauravas
+  from: vikarna
+  to: kauravas
+  type: member_of
+  explanation: "Named in the Adi Parva's list of the hundred sons of Dhritarashtra."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.117"
+    - source: ganguli-mahabharata
+      locator: "1.67"
+- id: mbh-prativindhya-member-of-upapandavas
+  from: prativindhya
+  to: upapandavas
+  type: member_of
+  explanation: "One of the five sons Draupadi bore to the five Pandavas."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.223"
+    - source: ganguli-mahabharata
+      locator: "1.67"
+- id: mbh-sutasoma-member-of-upapandavas
+  from: sutasoma
+  to: upapandavas
+  type: member_of
+  explanation: "One of the five sons Draupadi bore to the five Pandavas."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.223"
+    - source: ganguli-mahabharata
+      locator: "1.67"
+- id: mbh-shrutakirti-son-of-arjuna-member-of-upapandavas
+  from: shrutakirti-son-of-arjuna
+  to: upapandavas
+  type: member_of
+  explanation: "One of the five sons Draupadi bore to the five Pandavas."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.223"
+    - source: ganguli-mahabharata
+      locator: "1.67"
+- id: mbh-shatanika-son-of-nakula-member-of-upapandavas
+  from: shatanika-son-of-nakula
+  to: upapandavas
+  type: member_of
+  explanation: "One of the five sons Draupadi bore to the five Pandavas."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.223"
+    - source: ganguli-mahabharata
+      locator: "1.67"
+- id: mbh-shrutasena-member-of-upapandavas
+  from: shrutasena
+  to: upapandavas
+  type: member_of
+  explanation: "One of the five sons Draupadi bore to the five Pandavas."
+  references:
+    - source: ganguli-mahabharata
+      locator: "1.223"
+    - source: ganguli-mahabharata
+      locator: "1.67"
+- id: mbh-krishna-member-of-yadavas
+  from: krishna
+  to: yadavas
+  type: member_of
+  explanation: "Krishna is born in the race of Yadu, the Vrishnis, as Vasudeva's son."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "4.15"
+    - source: ganguli-mahabharata
+      locator: "1.63"
+- id: mbh-balarama-member-of-yadavas
+  from: balarama
+  to: yadavas
+  type: member_of
+  explanation: "Balarama is Vasudeva's son by Rohini, of the race of Yadu."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "4.15"
+- id: mbh-vasudeva-shura-member-of-yadavas
+  from: vasudeva-shura
+  to: yadavas
+  type: member_of
+  explanation: "Vasudeva is the son of Shura in the Yadava line of Bhajamana."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "4.14"
+- id: mbh-ugrasena-member-of-yadavas
+  from: ugrasena
+  to: yadavas
+  type: member_of
+  explanation: "Ugrasena is a son of Ahuka of the Andhaka branch of the Yadavas."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "4.14"
+    - source: dutt-harivamsha
+      locator: "37"
+- id: mbh-devaka-member-of-yadavas
+  from: devaka
+  to: yadavas
+  type: member_of
+  explanation: "Devaka is a son of Ahuka of the Andhaka branch of the Yadavas."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "4.14"
+    - source: dutt-harivamsha
+      locator: "37"
+- id: mbh-kamsa-member-of-yadavas
+  from: kamsa
+  to: yadavas
+  type: member_of
+  explanation: "Kamsa is the son of Ugrasena of the Andhaka branch of the Yadavas."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "4.14"
+    - source: dutt-harivamsha
+      locator: "37"
+- id: mbh-satyaki-member-of-yadavas
+  from: satyaki
+  to: yadavas
+  type: member_of
+  explanation: "Satyaki (Yuyudhana) is the grandson of Shini, of the Yadava line, and 'the pride of the Vrishni race'."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "4.14"
+    - source: ganguli-mahabharata
+      locator: "1.67"
+- id: mbh-kritavarma-member-of-yadavas
+  from: kritavarma
+  to: yadavas
+  type: member_of
+  explanation: "Kritavarma is the son of Hridika, of the Yadava line of Bhajamana."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "4.14"
+- id: mbh-pradyumna-member-of-yadavas
+  from: pradyumna
+  to: yadavas
+  type: member_of
+  explanation: "Pradyumna, Krishna's son, is counted among the descendants of Yadu."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "4.15"
+- id: mbh-aniruddha-member-of-yadavas
+  from: aniruddha
+  to: yadavas
+  type: member_of
+  explanation: "Aniruddha, Pradyumna's son, is counted among the descendants of Yadu."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "4.15"
+- id: mbh-samba-member-of-yadavas
+  from: samba
+  to: yadavas
+  type: member_of
+  explanation: "Samba, Krishna's son, is among the Vrishni princes of the Yadava race."
+  references:
+    - source: wilson-vishnu-purana
+      locator: "5.32"
+    - source: ganguli-mahabharata
+      locator: "2.4"

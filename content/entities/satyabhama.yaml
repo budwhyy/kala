@@ -1,0 +1,19 @@
+slug: satyabhama
+names:
+  - text: "Satyabhama"
+    lang: en
+    script: Latn
+  - text: "सत्यभामा"
+    lang: sa
+    script: Deva
+    iast: "Satyabhāmā"
+kinds: [human]
+traditions: [puranic]
+summary_beginner: "Daughter of the Yadava Satrajit, who gave her in marriage to Krishna after Krishna recovered the Syamantaka jewel. She is named among Krishna's principal wives."
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.13"
+  - source: wilson-vishnu-purana
+    locator: "4.15"
+  - source: wilson-vishnu-purana
+    locator: "5.28"

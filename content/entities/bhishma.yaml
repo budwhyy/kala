@@ -1,0 +1,36 @@
+slug: bhishma
+names:
+  - text: "Bhishma"
+    lang: en
+    script: Latn
+  - text: "भीष्म"
+    lang: sa
+    script: Deva
+    iast: "Bhīṣma"
+epithets:
+  - text: "Devavrata"
+    lang: en
+    script: Latn
+  - text: "Gangeya"
+    lang: en
+    script: Latn
+kinds: [human]
+traditions: [itihasa]
+dynasties:
+  - to: kuru-dynasty
+    note: "Shantanu's heir, who renounced the throne of the Kurus."
+    references:
+      - source: ganguli-mahabharata
+        locator: "1.100"
+summary_beginner: "Son of King Shantanu and the goddess Ganga, first named Devavrata. So that his father could marry Satyavati he gave up the throne and vowed lifelong celibacy, which earned him the name Bhishma (the terrible); he became the elder guardian of the Kuru house."
+summary_scholar: "The Adi Parva says he was the Vasu Dyu, condemned by Vasishtha (there called Apava) to a long and childless life on earth (1.99). He studied the Vedas with Vasishtha (1.100) and arms with Parashurama, whom he calls his preceptor (5.181). In the war he falls when Arjuna attacks him from behind Shikhandi (6.116-6.121); in the Santi Parva he instructs Yudhishthira on the duties of kings (12.56 onward)."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.95"
+  - source: ganguli-mahabharata
+    locator: "1.99"
+  - source: ganguli-mahabharata
+    locator: "1.100"
+    note: "His vow and the name Bhishma."
+  - source: ganguli-mahabharata
+    locator: "6.121"

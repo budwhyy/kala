@@ -1,0 +1,21 @@
+slug: uttara-princess
+names:
+  - text: "Uttara (princess of Matsya)"
+    lang: en
+    script: Latn
+  - text: "उत्तरा"
+    lang: sa
+    script: Deva
+    iast: "Uttarā"
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "Daughter of King Virata of Matsya. Arjuna, living in disguise at her father's court, taught her dancing; she married his son Abhimanyu and became the mother of Parikshit."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.95"
+  - source: ganguli-mahabharata
+    locator: "4.11"
+  - source: ganguli-mahabharata
+    locator: "4.36"
+  - source: ganguli-mahabharata
+    locator: "4.72"

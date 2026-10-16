@@ -1,0 +1,30 @@
+slug: "krishna-lifts-govardhana-vishnu-purana"
+names:
+  - text: "Krishna lifts Mount Govardhana (Vishnu Purana)"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "krishna"
+    role: "holds up the mountain for seven days"
+  - entity: "indra"
+    role: "sends the storm, then comes to Gokula"
+places:
+  - "govardhana"
+narrative_order:
+  text: "vishnu-purana"
+  position: 5011
+variant: "mahabharata-story-vishnu-purana-krishna"
+same_story_as:
+  - "krishna-lifts-govardhana-harivamsha"
+traditions:
+  - "vaishnava"
+  - "puranic"
+summary_beginner: "In the Vishnu Purana, Krishna tells the cowherds to worship their cattle and the mountains instead of Indra. Indra sends the clouds to deluge the cowherds' station. Krishna lifts Mount Govardhana with one hand and holds it up for seven days and nights while the herdsmen and cattle shelter under it. Indra then comes, praises Krishna and makes him lord of the cattle."
+summary_scholar: "Wilson VP 5.10 (the dispute), 5.11 (the storm and the lifting) and 5.12 (Indra's visit). The 'position' in narrative_order is book x 1000 + chapter."
+references:
+  - source: "wilson-vishnu-purana"
+    locator: "5.10"
+  - source: "wilson-vishnu-purana"
+    locator: "5.11"
+  - source: "wilson-vishnu-purana"
+    locator: "5.12"

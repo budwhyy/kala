@@ -1,0 +1,20 @@
+slug: subahu
+names:
+  - text: "Subahu"
+    lang: en
+    script: Latn
+  - text: सुबाहु
+    lang: sa
+    script: Deva
+    iast: "Subāhu"
+kinds: [rakshasa]
+traditions: [itihasa]
+summary_beginner: "A rakshasa who, with Maricha and at Ravana's prompting, disturbs Vishvamitra's sacrifice until Rama kills him."
+summary_scholar: "Griffith spells the name Suvahu. Neither Griffith nor Dutt says that Subahu is Tataka's son: Dutt 1.20 has Dasharatha call Maricha and Subahu 'the sons of Sunda and Upasunda', so no mother is entered."
+references:
+  - source: griffith-ramayana
+    locator: "1.22"
+  - source: griffith-ramayana
+    locator: "1.32"
+  - source: dutt-ramayana
+    locator: "1.20"

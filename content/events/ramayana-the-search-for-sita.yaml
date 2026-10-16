@@ -1,0 +1,37 @@
+slug: ramayana-the-search-for-sita
+names:
+  - text: "The search for Sita"
+    lang: en
+    script: Latn
+participants:
+  - entity: sugriva
+    role: "sends search parties to the four quarters"
+  - entity: rama
+    role: "gives Hanuman his ring as a token"
+  - entity: hanuman
+    role: "goes south with Angada's party"
+  - entity: angada
+    role: "leads the southern party"
+  - entity: sampati
+    role: "the vulture, Jatayu's brother, who tells them Sita is in Lanka"
+  - entity: jambavan
+    role: "of the southern party"
+places:
+  - kishkindha
+narrative_order:
+  text: valmiki-ramayana
+  position: 444
+  section: kishkindha-kanda
+variant: valmiki-ramayana-account
+traditions:
+  - itihasa
+summary_beginner: "After the rains Sugriva sends vanara armies to search the east, south, west and north. Rama gives Hanuman his ring for Sita. The southern party under Angada reaches the sea without success, until the old vulture Sampati, Jatayu's brother, tells them that Ravana holds Sita in Lanka across the water."
+references:
+  - source: griffith-ramayana
+    locator: "4.40"
+  - source: griffith-ramayana
+    locator: "4.41"
+  - source: griffith-ramayana
+    locator: "4.44"
+  - source: griffith-ramayana
+    locator: "4.58"

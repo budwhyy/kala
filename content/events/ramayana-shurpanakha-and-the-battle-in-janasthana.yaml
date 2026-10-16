@@ -1,0 +1,37 @@
+slug: ramayana-shurpanakha-and-the-battle-in-janasthana
+names:
+  - text: "Shurpanakha and the battle in Janasthana"
+    lang: en
+    script: Latn
+participants:
+  - entity: shurpanakha
+    role: "Ravana's sister, who desires Rama and attacks Sita"
+  - entity: lakshmana
+    role: "cuts off her nose and ears at Rama's word"
+  - entity: rama
+    role: "rejects her and later destroys her avengers"
+  - entity: sita
+    role: "attacked by her"
+  - entity: khara
+    role: "leads the rakshasas of Janasthana against Rama and is killed"
+  - entity: dushana
+    role: "Khara's general, killed in the battle"
+places:
+  - panchavati
+narrative_order:
+  text: valmiki-ramayana
+  position: 318
+  section: aranya-kanda
+variant: valmiki-ramayana-account
+traditions:
+  - itihasa
+summary_beginner: "Ravana's sister Shurpanakha sees Rama at Panchavati, desires him and, when mocked and refused, rushes at Sita. At Rama's word Lakshmana cuts off her nose and ears. She runs to her brother Khara, whose army of rakshasas, with Dushana and Trishiras, is destroyed by Rama alone."
+references:
+  - source: griffith-ramayana
+    locator: "3.17"
+  - source: griffith-ramayana
+    locator: "3.18"
+  - source: griffith-ramayana
+    locator: "3.26"
+  - source: griffith-ramayana
+    locator: "3.30"

@@ -1,0 +1,26 @@
+slug: shalya
+names:
+  - text: "Shalya"
+    lang: en
+    script: Latn
+  - text: "शल्य"
+    lang: sa
+    script: Deva
+    iast: "Śalya"
+epithets:
+  - text: "Salya"
+    lang: en
+    script: Latn
+kinds: [human, king]
+traditions: [itihasa]
+summary_beginner: "King of Madra and brother of Madri, and so uncle of Nakula and Sahadeva. Won over by Duryodhana's hospitality, he fought for the Kauravas, led their army on the last day, and was killed by Yudhishthira."
+summary_scholar: "The Adi Parva says he was the asura Samhlada, younger brother of Prahlada, born as a man (1.67). In 5.8 Ganguli's text calls him Duryodhana's maternal uncle."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.2"
+  - source: ganguli-mahabharata
+    locator: "1.113"
+  - source: ganguli-mahabharata
+    locator: "5.8"
+  - source: ganguli-mahabharata
+    locator: "9.17"

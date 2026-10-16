@@ -1,0 +1,27 @@
+slug: samba
+names:
+  - text: "Samba"
+    lang: en
+    script: Latn
+  - text: "साम्ब"
+    lang: sa
+    script: Deva
+    iast: "Sāmba"
+kinds: [human]
+traditions: [itihasa, puranic]
+dynasties:
+  - to: yadava-dynasty
+    note: "Counted among the descendants of Yadu."
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.15"
+summary_beginner: "A son of Krishna by Jambavati. He carries off a daughter of Duryodhana, and in the Vishnu Purana's account of the end of the Yadavas it is Samba and his companions who mock the sages, which leads to the clan's destruction."
+references:
+  - source: wilson-vishnu-purana
+    locator: "5.32"
+  - source: wilson-vishnu-purana
+    locator: "5.35"
+  - source: wilson-vishnu-purana
+    locator: "5.37"
+  - source: ganguli-mahabharata
+    locator: "2.4"

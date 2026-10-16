@@ -57,6 +57,7 @@ export function extractLinks(ds: Dataset): Link[] {
     add("events", e.slug, "places", e.places, "places");
     add("events", e.slug, "texts", [e.narrative_order?.text], "narrative_order");
     add("events", e.slug, "traditions", e.traditions, "traditions");
+    add("events", e.slug, "concepts", e.concepts, "concepts");
   }
   for (const d of ds.dynasties) {
     add("dynasties", d.slug, "entities", d.founders, "founders");

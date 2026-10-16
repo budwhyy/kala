@@ -1,0 +1,33 @@
+slug: ramayana-slaying-of-vali
+names:
+  - text: "The slaying of Vali"
+    lang: en
+    script: Latn
+participants:
+  - entity: vali
+    role: "king of Kishkindha, Sugriva's elder brother"
+  - entity: sugriva
+    role: "challenges Vali to fight"
+  - entity: rama
+    role: "strikes Vali down with an arrow"
+  - entity: tara-vanara
+    role: "Vali's wife, who warns him not to fight"
+  - entity: angada
+    role: "Vali's son, made Sugriva's heir"
+places:
+  - kishkindha
+narrative_order:
+  text: valmiki-ramayana
+  position: 416
+  section: kishkindha-kanda
+variant: valmiki-ramayana-account
+traditions:
+  - itihasa
+summary_beginner: "Sugriva challenges his brother Vali at Kishkindha. Vali's wife Tara warns him, but he goes out to fight, and as the brothers struggle Rama's arrow strikes Vali down. Sugriva is crowned king of the vanaras, with Vali's son Angada as his heir."
+references:
+  - source: griffith-ramayana
+    locator: "4.15"
+  - source: griffith-ramayana
+    locator: "4.16"
+  - source: griffith-ramayana
+    locator: "4.26"

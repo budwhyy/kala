@@ -1,0 +1,27 @@
+slug: sahadeva
+names:
+  - text: "Sahadeva"
+    lang: en
+    script: Latn
+  - text: "सहदेव"
+    lang: sa
+    script: Deva
+    iast: "Sahadeva"
+kinds: [human]
+traditions: [itihasa, puranic]
+dynasties:
+  - to: kuru-dynasty
+    note: "A son of Pandu."
+    references:
+      - source: ganguli-mahabharata
+        locator: "1.95"
+summary_beginner: "The younger of the twin sons of Madri by the Ashvins, the fifth Pandava. At the end of the war he kills Shakuni."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.95"
+  - source: ganguli-mahabharata
+    locator: "1.124"
+  - source: ganguli-mahabharata
+    locator: "9.28"
+  - source: wilson-vishnu-purana
+    locator: "4.14"

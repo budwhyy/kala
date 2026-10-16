@@ -1,0 +1,53 @@
+slug: "kalinga-kingdom-epic"
+names:
+  - text: "Kalinga (Mahabharata)"
+    lang: "en"
+    script: "Latn"
+  - text: "कलिङ्ग"
+    lang: "sa"
+    script: "Deva"
+    iast: "Kaliṅga"
+kind: "epic_legendary"
+rulers:
+  - name:
+      text: "Chitrangada of Kalinga"
+      lang: "en"
+      script: "Latn"
+    attested: false
+    note: "King of Kalinga, at whose capital Rajapura a self-choice ceremony is held."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "12.4"
+  - name:
+      text: "Srutayus"
+      lang: "en"
+      script: "Latn"
+    attested: false
+    note: "Ruler of the Kalingas in the war."
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "6.54"
+relations:
+  - kingdom: "kuru-kingdom-epic"
+    type: "marriage"
+    note: "Duryodhana, helped by Karna, carries off the Kalinga king's daughter from her self-choice ceremony at Rajapura."
+    variant: "mahabharata-story-ganguli-account"
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "12.4"
+  - kingdom: "kuru-kingdom-epic"
+    type: "alliance"
+    note: "The ruler of the Kalingas fights Bhima at Duryodhana's urging."
+    variant: "mahabharata-story-ganguli-account"
+    references:
+      - source: "ganguli-mahabharata"
+        locator: "6.54"
+traditions:
+  - "itihasa"
+summary_beginner: "A kingdom in the Mahabharata tied to Duryodhana by his abduction of its princess and fighting on his side in the war."
+summary_scholar: "The terrestrial region of Kalinga is recorded as the place kalinga; this record is the epic kingdom only."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "12.4"
+  - source: "ganguli-mahabharata"
+    locator: "6.54"

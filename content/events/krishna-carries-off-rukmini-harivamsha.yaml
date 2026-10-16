@@ -1,0 +1,36 @@
+slug: "krishna-carries-off-rukmini-harivamsha"
+names:
+  - text: "Krishna carries off Rukmini (Harivamsha)"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "krishna"
+    role: "carries Rukmini off"
+  - entity: "rukmini"
+    role: "daughter of Bhishmaka of Kundina"
+  - entity: "balarama"
+    role: "holds off the pursuing kings"
+  - entity: "shishupala"
+    role: "the groom chosen for her"
+  - entity: "jarasandha"
+    role: "arranges her betrothal to Shishupala"
+places:
+  - "kundina"
+narrative_order:
+  text: "harivamsha"
+  position: 116
+variant: "mahabharata-story-harivamsha-krishna"
+same_story_as:
+  - "krishna-carries-off-rukmini-vishnu-purana"
+traditions:
+  - "vaishnava"
+  - "itihasa"
+summary_beginner: "In the Harivamsha, Jarasandha arranges for Rukmini, daughter of King Bhishmaka of Kundina, to marry Shishupala. On the day before the wedding Rukmini goes out to worship at the temple of Indrani; as she comes out, Krishna overpowers her guards and takes her into his chariot, while Balarama holds off the kings."
+summary_scholar: "Dutt, Harivamsha Parva ch. 116 (printed CXVVI) and ch. 117 (Rukmi's pursuit and defeat). An earlier gathering at Kundina is told in chs. 103-108. The 'position' in narrative_order is the chapter number of Dutt's Harivamsha Parva."
+references:
+  - source: "dutt-harivamsha"
+    locator: "116"
+    note: "Harivamsha Parva; printed CXVVI in Dutt"
+  - source: "dutt-harivamsha"
+    locator: "117"
+    note: "Harivamsha Parva; printed CXIVII in Dutt"

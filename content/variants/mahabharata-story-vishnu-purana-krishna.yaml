@@ -1,0 +1,14 @@
+slug: "mahabharata-story-vishnu-purana-krishna"
+names:
+  - text: "Vishnu Purana account of Krishna's life"
+    lang: "en"
+    script: "Latn"
+kind: "account"
+tradition: "vaishnava"
+text: "vishnu-purana"
+description: "Krishna's life as told in Book 5 of the Vishnu Purana (H. H. Wilson's translation, cited by book and chapter), from his birth at Mathura to the destruction of the Yadavas at Prabhasa. Wilson's notes often compare it with the Harivamsha and the Bhagavata."
+references:
+  - source: "wilson-vishnu-purana"
+    locator: "5.1"
+  - source: "wilson-vishnu-purana"
+    locator: "5.37"

@@ -1,0 +1,22 @@
+slug: sita
+names:
+  - text: "Sita"
+    lang: en
+    script: Latn
+  - text: सीता
+    lang: sa
+    script: Deva
+    iast: "Sītā"
+kinds: [human]
+traditions: [itihasa, vaishnava]
+summary_beginner: "Rama's wife, found as an infant in a ploughed furrow by King Janaka of Mithila, who raises her as his daughter. Ravana carries her off to Lanka, and her recovery is the centre of the war; in the Yuddha Kanda Brahma says she is Lakshmi."
+summary_scholar: "The text gives Sita no human parents: in Griffith 1.66 Janaka says she rose from the earth under his ploughshare and was not of mortal birth, and in 2.118 she tells Anasuya that Janaka took her as his daughter and that a voice from the sky confirmed it. Her twin sons and her final return into the earth belong to the Uttara Kanda (Dutt, Book VII)."
+references:
+  - source: griffith-ramayana
+    locator: "1.66"
+  - source: griffith-ramayana
+    locator: "2.118"
+  - source: griffith-ramayana
+    locator: "3.49"
+  - source: griffith-ramayana
+    locator: "6.119"

@@ -1,0 +1,25 @@
+slug: nabhaga-ikshvaku
+names:
+  - text: "Nabhaga"
+    lang: en
+    script: Latn
+  - text: नाभाग
+    lang: sa
+    script: Deva
+    iast: "Nābhāga"
+kinds: [king, human]
+traditions: [itihasa]
+dynasties:
+  - to: suryavansha
+    note: "A king of Ikshvaku's line, listed in Vasishtha's recital of Rama's ancestry."
+    references:
+      - source: griffith-ramayana
+        locator: "1.70"
+summary_beginner: "A king of Ikshvaku's line at Ayodhya and the father of Aja, Dasharatha's father. Vasishtha's two recitals in Valmiki's Ramayana disagree about his father: Yayati in the Bala Kanda, Nahusha in the Ayodhya Kanda. The Ayodhya Kanda recital names a second son, Suvrata."
+references:
+  - source: griffith-ramayana
+    locator: "1.70"
+  - source: dutt-ramayana
+    locator: "1.70"
+  - source: griffith-ramayana
+    locator: "2.110"

@@ -1,0 +1,31 @@
+slug: kritavarma
+names:
+  - text: "Kritavarma"
+    lang: en
+    script: Latn
+  - text: "कृतवर्मा"
+    lang: sa
+    script: Deva
+    iast: "Kṛtavarmā"
+epithets:
+  - text: "Kritavarman"
+    lang: en
+    script: Latn
+kinds: [human]
+traditions: [itihasa, puranic]
+dynasties:
+  - to: yadava-dynasty
+    note: "Son of Hridika, in the Yadava line of Bhajamana."
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.14"
+summary_beginner: "A Yadava warrior, son of Hridika, who gave an army to Duryodhana and fought on the Kaurava side."
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.14"
+  - source: ganguli-mahabharata
+    locator: "1.63"
+  - source: ganguli-mahabharata
+    locator: "5.7"
+  - source: ganguli-mahabharata
+    locator: "5.19"

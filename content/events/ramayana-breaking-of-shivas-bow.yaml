@@ -1,0 +1,33 @@
+slug: ramayana-breaking-of-shivas-bow
+names:
+  - text: "The breaking of Shiva's bow"
+    lang: en
+    script: Latn
+participants:
+  - entity: rama
+    role: "lifts, strings and breaks the bow"
+  - entity: janaka
+    role: "king of Mithila, who promised Sita to whoever could string it"
+  - entity: sita
+    role: "promised in marriage to the winner"
+  - entity: vishvamitra
+    role: "asks Janaka to show the bow"
+  - entity: lakshmana
+    role: "present"
+  - entity: shiva
+    role: "the bow had once belonged to Rudra (Shiva)"
+places:
+  - mithila
+narrative_order:
+  text: valmiki-ramayana
+  position: 67
+  section: bala-kanda
+variant: valmiki-ramayana-account
+traditions:
+  - itihasa
+summary_beginner: "At Mithila King Janaka shows the princes a great bow that once belonged to Shiva and that no king could even lift. Janaka has vowed his daughter Sita, found in a furrow of the earth, to the man who can string it. Rama bends it until it snaps with a thunderous crash, and Janaka promises Sita to him."
+references:
+  - source: griffith-ramayana
+    locator: "1.66"
+  - source: griffith-ramayana
+    locator: "1.67"

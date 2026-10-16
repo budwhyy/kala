@@ -1,0 +1,61 @@
+slug: mahendra-mountain
+names:
+  - text: Mahendra (mountain)
+    lang: en
+    script: Latn
+  - text: महेन्द्र
+    lang: sa
+    script: Deva
+    iast: Mahendra
+realm: terrestrial
+kind: mountain
+confidence: debated
+modern_admin:
+  country: India
+alternative_identifications:
+  - label: Mahendra Male hills, Ganjam (Odisha)
+    confidence: debated
+    geometry:
+      type: Point
+      coordinates:
+        - 84.37
+        - 18.97
+    modern_admin:
+      country: India
+      region: Odisha
+    argument: Griffith's note to the southern search party identifies Mahendra with the hills running from Orissa, part of which near Ganjam is still called Mahendra Malay; Cunningham identifies the Mahendra range of the Mahabharata and Vishnu Purana with the Mahendra Male range between Ganjam and the Mahanadi valley. The point is the present-day Mahendragiri peak. This candidate lies far north of where the text sets the Ramayana's Mahendra.
+    references:
+      - source: griffith-ramayana
+        locator: "4.41"
+        note: footnote 704
+      - source: cunningham-ancient-geography
+        locator: "516-517"
+        note: about the Mahendra range of Kalinga, not specifically the Ramayana's mountain
+  - label: A hill of the southern Ghats near the sea
+    confidence: debated
+    argument: In another note Griffith says Mahendra is generally identified with part of the Ghats of the peninsula. The text sets it on the southern shore, beyond the Tamraparni and the Pandya country, facing Lanka. No site is named, so no point is drawn.
+    references:
+      - source: griffith-ramayana
+        locator: "4.59"
+        note: footnote 773
+      - source: griffith-ramayana
+        locator: "4.41"
+evidence:
+  - type: textual
+    summary: In Valmiki's Ramayana Sugriva describes Mahendra standing in the sea on the southern shore; Hanuman leaps to Lanka from its crest, and later Rama climbs it with the army before reaching the shore.
+    references:
+      - source: griffith-ramayana
+        locator: "4.41"
+      - source: griffith-ramayana
+        locator: "4.67"
+      - source: griffith-ramayana
+        locator: "6.4"
+traditions:
+  - itihasa
+summary_beginner: The mountain on the southern sea from which Hanuman leaps to Lanka. Where it is meant to be is debated; the name is also borne by hills in Odisha.
+summary_scholar: "Griffith's own notes disagree: one points to the Mahendra hills of Ganjam (in line with Cunningham on the Mahendra range of Kalinga), the other to the Ghats of the peninsula. The text's setting, on the shore opposite Lanka, fits the second better; neither is a confirmed identification."
+references:
+  - source: griffith-ramayana
+    locator: "4.41"
+  - source: griffith-ramayana
+    locator: "4.59"

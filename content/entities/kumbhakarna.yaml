@@ -1,0 +1,21 @@
+slug: kumbhakarna
+names:
+  - text: "Kumbhakarna"
+    lang: en
+    script: Latn
+  - text: कुम्भकर्ण
+    lang: sa
+    script: Deva
+    iast: "Kumbhakarṇa"
+kinds: [rakshasa]
+traditions: [itihasa]
+summary_beginner: "Ravana's gigantic brother, who sleeps for long periods. Roused for the war at Lanka, he does great slaughter among the vanaras before Rama kills him."
+references:
+  - source: griffith-ramayana
+    locator: "3.17"
+  - source: griffith-ramayana
+    locator: "6.60"
+  - source: griffith-ramayana
+    locator: "6.61"
+  - source: griffith-ramayana
+    locator: "6.67"

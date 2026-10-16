@@ -1,0 +1,32 @@
+slug: ramayana-birth-of-lava-and-kusha
+names:
+  - text: "Birth of Lava and Kusha"
+    lang: en
+    script: Latn
+participants:
+  - entity: sita
+    role: "gives birth to twin sons"
+  - entity: lava
+    role: "one of the twins"
+  - entity: kusha
+    role: "one of the twins"
+  - entity: valmiki
+    role: "protects the newborns with rites using kusha grass"
+  - entity: shatrughna
+    role: "lodges at the hermitage that night"
+narrative_order:
+  text: valmiki-ramayana
+  position: 879
+  section: uttara-kanda
+variant: ramayana-story-valmiki-uttara-kanda
+same_story_as:
+  - ramcharitmanas-birth-of-lava-and-kusha
+traditions:
+  - itihasa
+summary_beginner: "In the Uttara Kanda, on the night Shatrughna stays at Valmiki's hermitage, Sita gives birth to twin sons. Valmiki protects them with rites using the tip and the lower part of kusha grass, which give the boys their names, Kusha and Lava."
+summary_scholar: "Dutt 7.79. Tagged with the Uttara Kanda variant: Uttara Kanda (Book VII), which scholars generally regard as a later addition to Valmiki's poem. Macdonell (p. 304) also regards the names Kusha and Lava as a popular etymology of the word kushilava, bard. In the Ramcharitmanas the twins are born in Ayodhya."
+references:
+  - source: dutt-ramayana
+    locator: "7.79"
+  - source: macdonell-history-sanskrit-literature
+    locator: "304"

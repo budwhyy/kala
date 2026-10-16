@@ -1,0 +1,27 @@
+slug: devaka
+names:
+  - text: "Devaka"
+    lang: en
+    script: Latn
+  - text: "देवक"
+    lang: sa
+    script: Deva
+    iast: "Devaka"
+kinds: [human]
+traditions: [itihasa, puranic]
+dynasties:
+  - to: yadava-dynasty
+    note: "Son of Ahuka, of the Andhaka branch of the Yadavas."
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.14"
+      - source: dutt-harivamsha
+        locator: "37"
+summary_beginner: "A Yadava prince, son of Ahuka and brother of Ugrasena. He is the father of Devaki and of six other daughters, all of whom married Vasudeva."
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.14"
+  - source: wilson-vishnu-purana
+    locator: "5.1"
+  - source: dutt-harivamsha
+    locator: "37"

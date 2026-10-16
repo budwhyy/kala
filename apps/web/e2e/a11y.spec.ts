@@ -33,6 +33,13 @@ const PAGES = [
   "/hi/avatar",
   "/hi/pilgrimage",
   "/hi/journey/yugas",
+  "/epic",
+  "/epic/valmiki-ramayana",
+  "/epic/mahabharata",
+  "/battlefield/kurukshetra-war?day=13",
+  "/route/rama-exile-route-valmiki?view=list",
+  "/hi/epic/mahabharata",
+  "/hi/battlefield/kurukshetra-war",
 ];
 
 for (const path of PAGES) {

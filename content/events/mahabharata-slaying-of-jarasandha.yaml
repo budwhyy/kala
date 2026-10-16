@@ -1,0 +1,40 @@
+slug: "mahabharata-slaying-of-jarasandha"
+names:
+  - text: "The slaying of Jarasandha"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "krishna"
+    role: "explains Jarasandha's power and leads the expedition"
+  - entity: "yudhishthira"
+    role: "wishes to perform the Rajasuya"
+  - entity: "bhima"
+    role: "kills Jarasandha in a wrestling fight"
+  - entity: "arjuna"
+    role: "goes with them"
+  - entity: "jarasandha"
+    role: "king of Magadha"
+  - entity: "kamsa"
+    role: "Jarasandha's son-in-law, killed earlier by Krishna"
+places:
+  - "girivraja"
+  - "mathura"
+  - "dwarka"
+narrative_order:
+  text: "mahabharata"
+  position: 2020
+  section: "sabha-parva"
+variant: "mahabharata-story-ganguli-account"
+traditions:
+  - "itihasa"
+summary_beginner: "Before Yudhishthira can perform the royal consecration (Rajasuya), Krishna tells him that Jarasandha of Magadha dominates the kings of the earth. Kamsa had married Jarasandha's daughters, and after Krishna killed Kamsa, Jarasandha attacked the Yadavas, who left Mathura and fortified a new city in the west, Kusasthali, called Dwaravati. Krishna, Bhima and Arjuna go to Jarasandha's capital Girivraja, where Bhima wrestles with him and breaks his body in two."
+summary_scholar: "Sabha Parva, Ganguli 2.14 (Krishna's account, including the flight from Mathura to Kusasthali near the Raivata hills) and 2.20-2.24 (the journey to Girivraja and the fight). The Harivamsha and the Vishnu Purana tell Jarasandha's attacks on Mathura at greater length (VP 5.22-5.23). The 'position' in narrative_order is parva x 1000 + Ganguli's section number of the main passage, so events sort in the order the epic tells them."
+references:
+  - source: "ganguli-mahabharata"
+    locator: "2.14"
+  - source: "ganguli-mahabharata"
+    locator: "2.20"
+  - source: "ganguli-mahabharata"
+    locator: "2.21"
+  - source: "ganguli-mahabharata"
+    locator: "2.24"

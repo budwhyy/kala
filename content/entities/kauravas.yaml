@@ -1,0 +1,17 @@
+slug: kauravas
+names:
+  - text: "Kauravas"
+    lang: en
+    script: Latn
+  - text: "कौरव"
+    lang: sa
+    script: Deva
+    iast: "Kaurava"
+kinds: [human]
+traditions: [itihasa]
+summary_beginner: "The hundred sons of Dhritarashtra and Gandhari, led by Duryodhana, the cousins and rivals of the Pandavas. The name means descendants of Kuru and can also cover the whole Kuru house; here it means Dhritarashtra's hundred sons."
+references:
+  - source: ganguli-mahabharata
+    locator: "1.67"
+  - source: ganguli-mahabharata
+    locator: "1.117"
