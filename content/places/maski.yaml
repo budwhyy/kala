@@ -1,0 +1,42 @@
+slug: "maski"
+names:
+  - text: "Maski"
+    lang: "en"
+    script: "Latn"
+realm: "terrestrial"
+kind: "site"
+confidence: "verified"
+geometry:
+  type: "Point"
+  coordinates:
+    - 76.66
+    - 15.96
+modern_admin:
+  country: "India"
+  region: "Karnataka"
+  district: "Raichur"
+evidence:
+  - type: "historical"
+    summary: "A damaged version of Ashoka's minor rock-edict found in 1915 near Maski village; it names the king as Devanampriya Asoka, confirming that the Priyadarsi of the edicts is Ashoka."
+    references:
+      - source: "hultzsch-inscriptions-asoka"
+        locator: "xxv-xxvi"
+      - source: "hultzsch-inscriptions-asoka"
+        locator: "xxix"
+historical_time:
+  - start: -268
+    end: -232
+    precision: "decade"
+    confidence: "medium"
+    note: "Ashoka's reign (Hultzsch's working dates and Smith)."
+    references:
+      - source: "hultzsch-inscriptions-asoka"
+        locator: "xxxvi"
+      - source: "smith-early-history-1914"
+        locator: "155"
+summary_beginner: "A village in Karnataka where an Ashokan edict was found that names Ashoka directly."
+references:
+  - source: "hultzsch-inscriptions-asoka"
+    locator: "xxv-xxvi"
+  - source: "hultzsch-inscriptions-asoka"
+    locator: "xxix"

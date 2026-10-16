@@ -1,0 +1,24 @@
+slug: buddhist-bodhisatta-in-tusita
+names:
+  - text: The gods beseech the Bodhisatta in the Tusita heaven
+    lang: en
+    script: Latn
+participants:
+  - entity: siddhartha-gautama
+    role: the future Buddha, dwelling in the Tusita heaven before his last birth
+places:
+  - buddhist-tusita-heaven
+narrative_order:
+  text: nidanakatha
+  position: 10
+  section: intermediate-epoch
+variant: buddhist-nidanakatha-account
+traditions:
+  - buddhist
+  - theravada
+summary_beginner: In the Nidanakatha, after his birth as Vessantara the future Buddha is reborn in
+  the Tusita heaven. When the gods proclaim that a Buddha will soon arise, the deities of the ten
+  thousand world-systems gather and beg him to become the Buddha now.
+references:
+  - source: rhys-davids-buddhist-birth-stories
+    locator: "58-60"

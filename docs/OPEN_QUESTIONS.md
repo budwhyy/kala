@@ -65,3 +65,11 @@ Format: `ID — question — context — conservative reading adopted for now �
 - **OQ-041 — Places of the Krishna story and the exile.** Gokula (Mahaban or Gokul village), Upaplavya (town or capital), Varanavata, Ekachakra, Kamyaka and Dvaitavana are `debated` without map points; Gomanta and "the sea of red waters" are unmapped. Status: open.
 - **OQ-042 — Yudhishthira's divine father.** Linked to `dharma` (Ganguli's gloss "(Yama…)" at 1.63 mentioned only in the explanation); whether `dharma` and `yama` should be identified is a reading choice. Status: open.
 - **OQ-043 — Shared slugs.** A clash (`shrutakirti`) between two agents was repaired; the Mahabharata figure is `shrutakirti-son-of-arjuna`. Status: resolved.
+- **OQ-044 — Missing Southeast Asian Ramayanas.** No readable public-domain source was found for the Khmer Reamker, the Old Javanese Kakawin Ramayana or the Jain Paumacariya; none is in content. Should pre-1931 French/Dutch scholarship (Coedès, Krom, Kern) be read to fill them? Status: open.
+- **OQ-045 — Version of the Ramayana behind the Ramakien and Hikayat Seri Rama.** Sources say "the Ramayana" without naming Valmiki; both transmissions are typed `uncertain_hypothesis`. Status: open.
+- **OQ-046 — Family of the Zoroastrian tradition.** `zoroastrian` sits in `cross_cultural`; it may deserve its own family. Status: open.
+- **OQ-047 — Gupta kings' tradition tag.** Tagged `hindu`; the Guptas also patronised Buddhist and Jain institutions. Status: open.
+- **OQ-048 — Vajrayana and Digambara sources.** No public-domain source was read for Vajrayana (no record) or for the Digambara view that Mahavira never married (the marriage is stored only under the Svetambara account). Status: open.
+- **OQ-049 — Dates in dispute.** The Buddha (543 BCE chronicle date vs c. 420–400 BCE, Rhys Davids), Ashoka (Hultzsch vs Smith), Kanishka (78 CE vs 58 BCE), the Satavahana start, and early Harappan dates. Ranges are wide and low confidence. Status: noted.
+- **OQ-050 — Kalibangan, Rakhigarhi, Bharhut, Kanishka, Pushyamitra.** No records yet (no readable source, or no sourced relationship); the Shunga kingdom therefore has no evidence sites. Status: open.
+- **OQ-051 — Translator life dates.** Hultzsch, Fleet, Marshall, Maxwell, the Jataka translators and the 1911 Britannica authors need catalogue checks. Status: open.

@@ -1,0 +1,23 @@
+slug: ananda
+names:
+  - text: Ananda
+    lang: en
+    script: Latn
+  - text: Ānanda
+    lang: pi
+    script: Latn
+    iast: Ānanda
+kinds:
+  - human
+traditions:
+  - buddhist
+summary_beginner: A Sakya who left home with Anuruddha, Devadatta and others to join the Buddha,
+  and became his attendant. He pleads for the ordination of women and is with the Buddha at his
+  passing at Kusinara.
+references:
+  - source: oldenberg-rhys-davids-vinaya-sbe20
+    locator: "Cullavagga VII.1.4"
+  - source: oldenberg-rhys-davids-vinaya-sbe20
+    locator: "Cullavagga X.1.3"
+  - source: rhys-davids-buddhist-suttas
+    locator: "5.1-3"

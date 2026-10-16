@@ -1,0 +1,17 @@
+slug: "jain-rishabha-kevala"
+names:
+  - text: "Rishabha attains kevala (Kalpa Sutra)"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "rishabhanatha"
+places: []
+narrative_order:
+  text: "kalpa-sutra"
+  position: 212
+traditions:
+  - "jain"
+summary_beginner: "After a thousand years of meditation, Rishabha attains kevala under a banyan (nyagrodha) tree outside the town of Purimatala."
+references:
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 212, p. 283"

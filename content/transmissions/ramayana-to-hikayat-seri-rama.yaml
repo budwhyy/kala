@@ -1,0 +1,14 @@
+slug: ramayana-to-hikayat-seri-rama
+names:
+  - text: The Rama story in the Malay Hikayat Seri Rama
+    lang: en
+    script: Latn
+type: uncertain_hypothesis
+from_text: valmiki-ramayana
+to_text: hikayat-seri-rama
+to_tradition: malay-hikayat-tradition
+summary_beginner: The Malay romance of Seri Rama, both written and told by village story-tellers, is founded on the adventures of heroes of the Ramayana.
+summary_scholar: Maxwell's preface states that the Seri Rama romances are founded on the Ramayana, while remarking that little of the Indian epic's action can be traced in the oral telling he recorded, and that a written version may have borrowed from other foreign sources. Which Indian telling, and by what route, is not stated, so a direct link to Valmiki is kept as a hypothesis.
+references:
+  - source: maxwell-hikayat-seri-rama-1909
+    locator: "1-2"

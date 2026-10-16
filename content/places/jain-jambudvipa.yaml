@@ -1,0 +1,30 @@
+slug: "jain-jambudvipa"
+names:
+  - text: "Jambudvipa (Jain)"
+    lang: "en"
+    script: "Latn"
+  - text: "जम्बूद्वीप"
+    lang: "sa"
+    script: "Deva"
+    iast: "Jambūdvīpa"
+realm: "cosmological"
+kind: "island"
+confidence: "mythical"
+related_places:
+  - to: "jain-madhya-loka"
+    relation: "part_of"
+    note: "Jambudvipa is the innermost continent of the middle world."
+    references:
+      - source: "jaini-tattvartha-sutra-1920"
+        locator: "Chapter III, sutra 9, p. 84"
+traditions:
+  - "jain"
+summary_beginner: "In the Tattvartha Sutra, the round central continent of the middle world, in which we live, one lakh yojanas across, with Mount Meru at its centre like a navel. The Kalpa Sutra places the births of the Tirthankaras 'here on the continent Jambudvipa, in Bharatavarsha'."
+summary_scholar: "This is the Jain account; the Puranic Jambudvipa (Vishnu Purana 2.2) is described differently and is not merged with it here."
+references:
+  - source: "jaini-tattvartha-sutra-1920"
+    locator: "Chapter III, sutra 7, p. 83"
+  - source: "jaini-tattvartha-sutra-1920"
+    locator: "Chapter III, sutra 9, p. 84"
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 2, p. 219"

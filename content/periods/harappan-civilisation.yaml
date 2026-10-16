@@ -1,0 +1,31 @@
+slug: "harappan-civilisation"
+names:
+  - text: "Harappan (Indus) civilisation"
+    lang: "en"
+    script: "Latn"
+kind: "archaeological_culture"
+historical_time:
+  start: -3000
+  end: -1500
+  precision: "century"
+  confidence: "medium"
+  note: "Coarse bracket from the site dates read: UNESCO gives occupation of Dholavira c. 3000-1500 BCE and Harappan culture at Lothal 2400-1600 BCE. Marshall's 1931 estimate for Mohenjo-daro (about 3250-2750 BC) was provisional and has since been revised; it is noted, not used."
+  references:
+    - source: "unesco-world-heritage-centre"
+      locator: "list/1645"
+    - source: "unesco-world-heritage-centre"
+      locator: "tentativelists/5918"
+    - source: "marshall-mohenjo-daro-1931"
+      locator: "1:104"
+      note: "Marshall's provisional date, kept only as history of scholarship."
+summary_beginner: "A Bronze Age urban civilisation of the Indus valley and beyond, known only from archaeology: planned brick cities such as Harappa, Mohenjo-daro, Dholavira and Lothal, with seals bearing a script that is still undeciphered."
+summary_scholar: "Named after Harappa, where inscribed seals were first excavated; Marshall's 1931 report set out its urban character. Archaeology alone defines this culture. Links between Harappan sites and Vedic or Puranic places and peoples are debated and are not asserted in KALA. Marshall argued that the Indus and Vedic cultures differ sharply (no horse or iron, iconic cults against an aniconic Vedic religion) and that the Indus civilisation was pre-Vedic; others have argued otherwise. KALA records the disagreement and takes no side."
+references:
+  - source: "marshall-mohenjo-daro-1931"
+    locator: "1:11"
+  - source: "marshall-mohenjo-daro-1931"
+    locator: "1:110-111"
+  - source: "unesco-world-heritage-centre"
+    locator: "list/1645"
+  - source: "unesco-world-heritage-centre"
+    locator: "list/138"

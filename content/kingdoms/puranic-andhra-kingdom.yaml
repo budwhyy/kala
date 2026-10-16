@@ -1,0 +1,67 @@
+slug: puranic-andhra-kingdom
+names:
+  - text: "Andhra kingdom (Puranic account)"
+    lang: en
+    script: Latn
+kind: epic_legendary
+same_name_as:
+  - satavahana-kingdom
+dynasties:
+  - to: puranic-andhra-dynasty
+    note: The Puranic list of this line.
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.24"
+rulers:
+  - name:
+      text: Simuka
+      lang: en
+      script: Latn
+    attested: false
+    note: "Shipraka in Wilson; Pargiter emends to Simuka (Matsya Sishuka, Vayu Sindhuka). Pargiter's text gives 23 years."
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.24"
+      - source: pargiter-dynasties-kali-age
+        locator: "71"
+  - name:
+      text: Hala
+      lang: en
+      script: Latn
+    attested: false
+    note: "Named in both lists. Pargiter's text gives 5 years."
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.24"
+      - source: pargiter-dynasties-kali-age
+        locator: "71"
+  - name:
+      text: Gautamiputra
+      lang: en
+      script: Latn
+    attested: false
+    note: "Gomatiputra in Wilson. Pargiter's text gives 21 years."
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.24"
+      - source: pargiter-dynasties-kali-age
+        locator: "71"
+  - name:
+      text: Yajnashri
+      lang: en
+      script: Latn
+    attested: false
+    note: "Yajnashri in Wilson. Pargiter's text gives 29 years."
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.24"
+      - source: pargiter-dynasties-kali-age
+        locator: "71"
+traditions:
+  - puranic
+summary_beginner: "The Andhra (Andhrabhritya) kingdom as the Puranas foretell it: thirty kings who rule about 456 or 460 years by the texts' reckoning. This is the Puranic account, kept apart from the historical Satavahana polity."
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.24"
+  - source: pargiter-dynasties-kali-age
+    locator: "71-72"

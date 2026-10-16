@@ -1,0 +1,69 @@
+slug: "pataliputra"
+names:
+  - text: "Pataliputra"
+    lang: "en"
+    script: "Latn"
+  - text: "पाटलिपुत्र"
+    lang: "sa"
+    script: "Deva"
+    iast: "Pāṭaliputra"
+  - text: "Kusumapura"
+    lang: "en"
+    script: "Latn"
+  - text: "Palibothra (Greek)"
+    lang: "en"
+    script: "Latn"
+realm: "terrestrial"
+kind: "city"
+confidence: "verified"
+geometry:
+  type: "Point"
+  coordinates:
+    - 85.14
+    - 25.61
+modern_admin:
+  country: "India"
+  region: "Bihar"
+  district: "Patna"
+evidence:
+  - type: "historical"
+    summary: "Ashoka's rock-edict V shows his capital was Pataliputra, and Hultzsch notes its identity with modern Patna. The Gazetteer summarises Megasthenes' description of the walled city at the Son-Ganges confluence and Waddell's identification of Maurya remains at Kumrahar and elsewhere."
+    references:
+      - source: "hultzsch-inscriptions-asoka"
+        locator: "xxx"
+      - source: "hultzsch-inscriptions-asoka"
+        locator: "xxxvii"
+      - source: "imperial-gazetteer-1909"
+        locator: "20:66-68"
+  - type: "historical"
+    summary: "The Gazetteer says the Gupta empire began here as Kusumapura and that Fa-hien stayed three years about 406, though Samudragupta moved the capital westward."
+    references:
+      - source: "imperial-gazetteer-1909"
+        locator: "20:68"
+kingdoms:
+  - to: "magadha-mahajanapada"
+    note: "The Nandas moved Magadha's capital here from Rajagriha."
+    references:
+      - source: "imperial-gazetteer-1909"
+        locator: "20:67"
+traditions:
+  - "buddhist"
+historical_time:
+  - start: -490
+    end: 640
+    precision: "century"
+    confidence: "low"
+    note: "From its founding as a fort under Ajatashatru's ministers (as the Gazetteer reports Buddhist tradition) to Xuanzang's description of the old city in ruins in 637."
+    references:
+      - source: "imperial-gazetteer-1909"
+        locator: "20:67"
+      - source: "imperial-gazetteer-1909"
+        locator: "20:68"
+summary_beginner: "The capital of Magadha under the Nandas and Mauryas, beneath modern Patna; the Guptas also began here."
+references:
+  - source: "hultzsch-inscriptions-asoka"
+    locator: "xxx"
+  - source: "imperial-gazetteer-1909"
+    locator: "20:67"
+  - source: "imperial-gazetteer-1909"
+    locator: "20:68"

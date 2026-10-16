@@ -1,0 +1,141 @@
+slug: "maurya-empire"
+names:
+  - text: "Maurya empire"
+    lang: "en"
+    script: "Latn"
+  - text: "मौर्य"
+    lang: "sa"
+    script: "Deva"
+    iast: "Maurya"
+kind: "historical_empire"
+same_name_as:
+  - "puranic-maurya-kingdom"
+evidence_sites:
+  - to: "girnar"
+    note: "Fourteen rock-edicts of Ashoka on a boulder at the foot of Girnar; Rudradaman's inscription on the same rock names the governors of Chandragupta and Ashoka."
+    references:
+      - source: "hultzsch-inscriptions-asoka"
+        locator: "ix"
+  - to: "kalsi"
+    note: "Fourteen rock-edicts."
+    references:
+      - source: "hultzsch-inscriptions-asoka"
+        locator: "xi"
+      - source: "imperial-gazetteer-1909"
+        locator: "14:320"
+  - to: "dhauli"
+    note: "Rock-edicts with the two separate edicts for the Kalinga province."
+    references:
+      - source: "hultzsch-inscriptions-asoka"
+        locator: "xiii"
+      - source: "imperial-gazetteer-1909"
+        locator: "11:317-318"
+  - to: "maski"
+    note: "Minor rock-edict naming Asoka."
+    references:
+      - source: "hultzsch-inscriptions-asoka"
+        locator: "xxv-xxvi"
+  - to: "lumbini"
+    note: "Rummindei pillar recording Ashoka's visit to the Buddha's birthplace."
+    references:
+      - source: "hultzsch-inscriptions-asoka"
+        locator: "xxii"
+  - to: "sarnath"
+    note: "Pillar edict with the lion capital."
+    references:
+      - source: "hultzsch-inscriptions-asoka"
+        locator: "xxi"
+  - to: "sanchi"
+    note: "Fragment of a pillar edict near the great stupa."
+    references:
+      - source: "hultzsch-inscriptions-asoka"
+        locator: "xxi"
+  - to: "kaushambi"
+    note: "The Kausambi edict on the pillar now at Allahabad, addressed to officers at Kausambi."
+    references:
+      - source: "hultzsch-inscriptions-asoka"
+        locator: "xx"
+  - to: "pataliputra"
+    note: "Capital named in rock-edict V; remains at Kumrahar."
+    references:
+      - source: "hultzsch-inscriptions-asoka"
+        locator: "xxx"
+      - source: "imperial-gazetteer-1909"
+        locator: "20:67"
+  - to: "taxila"
+    note: "Ruled by Ashoka as viceroy according to tradition reported by Marshall."
+    references:
+      - source: "marshall-guide-taxila-1918"
+        locator: "11"
+capitals:
+  - to: "pataliputra"
+    note: "Rock-edict V names Pataliputra as the king's seat."
+    references:
+      - source: "hultzsch-inscriptions-asoka"
+        locator: "xxx"
+      - source: "hultzsch-inscriptions-asoka"
+        locator: "xxxvii"
+rulers:
+  - entity: "chandragupta-maurya"
+    attested: true
+    note: "Attested by Greek writers and by Rudradaman's Girnar inscription."
+    references:
+      - source: "hultzsch-inscriptions-asoka"
+        locator: "ix"
+      - source: "hultzsch-inscriptions-asoka"
+        locator: "xxxv"
+  - entity: "bindusara"
+    attested: true
+    note: "Attested by Greek writers (Amitrochades); no inscription of his own."
+    references:
+      - source: "hultzsch-inscriptions-asoka"
+        locator: "xxxv"
+  - entity: "ashoka"
+    attested: true
+    note: "Attested by his own edicts."
+    references:
+      - source: "hultzsch-inscriptions-asoka"
+        locator: "xxix"
+  - name:
+      text: "Dasharatha"
+      lang: "en"
+      script: "Latn"
+    attested: true
+    note: "Ashoka's grandson, known from cave dedications at the Nagarjuni Hills."
+    references:
+      - source: "smith-early-history-1914"
+        locator: "192"
+relations:
+  - kingdom: "magadha-mahajanapada"
+    type: "succession"
+    note: "The empire grew out of Magadha: the Nandas moved its capital to Pataliputra, and Chandragupta founded the Maurya dynasty there."
+    references:
+      - source: "imperial-gazetteer-1909"
+        locator: "20:67"
+  - kingdom: "shunga-kingdom"
+    type: "succession"
+    note: "Pushyamitra Shunga killed the last Maurya, Brihadratha, about 185 BC."
+    references:
+      - source: "smith-early-history-1914"
+        locator: "193"
+traditions:
+  - "buddhist"
+  - "puranic"
+historical_time:
+  start: -322
+  end: -185
+  precision: "decade"
+  confidence: "medium"
+  note: "Smith 322-185 BC; Hultzsch's working start 320 BC."
+  references:
+    - source: "smith-early-history-1914"
+      locator: "193"
+    - source: "hultzsch-inscriptions-asoka"
+      locator: "xxxv"
+summary_beginner: "The first empire to unite most of the subcontinent, founded by Chandragupta and ruled from Pataliputra; under Ashoka its reach is shown by edicts from the north-west to Karnataka."
+summary_scholar: "Its reach is drawn only from the findspots of Ashoka's inscriptions and a few other records, never as a border. The Puranic list of Maurya kings is a separate record (puranic-maurya-kingdom)."
+references:
+  - source: "hultzsch-inscriptions-asoka"
+    locator: "xxx"
+  - source: "smith-early-history-1914"
+    locator: "193"

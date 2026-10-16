@@ -1,0 +1,29 @@
+slug: buddhist-conversion-of-sariputta-and-moggallana
+names:
+  - text: Sariputta and Moggallana join the order
+    lang: en
+    script: Latn
+participants:
+  - entity: shariputra
+    role: hears a verse from the elder Assaji and is converted
+  - entity: maudgalyayana
+    role: hears the verse from Sariputta and is converted
+  - entity: siddhartha-gautama
+    role: makes them his two chief disciples
+places:
+  - girivraja
+narrative_order:
+  text: nidanakatha
+  position: 80
+  section: proximate-epoch
+variant: buddhist-nidanakatha-account
+traditions:
+  - buddhist
+  - theravada
+summary_beginner: In the Nidanakatha two ascetics living near Rajagaha, Sariputta and Moggallana,
+  are converted by a single verse spoken by the elder Assaji, leave their teacher Sanjaya and join
+  the order at the Bamboo Grove. Both soon reach arahatship and the Buddha names them his chief
+  disciples.
+references:
+  - source: rhys-davids-buddhist-birth-stories
+    locator: "118-119"

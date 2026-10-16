@@ -1,0 +1,29 @@
+slug: puranic-shunga-dynasty
+names:
+  - text: "Shunga dynasty (Puranic list)"
+    lang: en
+    script: Latn
+  - text: शुङ्ग
+    lang: sa
+    script: Deva
+    iast: Śuṅga
+kind: legendary
+lineage_type: other
+kingdoms:
+  - to: puranic-shunga-kingdom
+    note: "Pushyamitra the commander-in-chief uproots Brihadratha."
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.24"
+      - source: pargiter-dynasties-kali-age
+        locator: "70"
+variant: puranic-kali-kings-vishnu-purana
+traditions:
+  - puranic
+summary_beginner: "In the Puranas' prophecy, ten kings beginning with Pushyamitra, the general who kills the last Maurya."
+summary_scholar: "The Vishnu Purana lists ten Shungas from Pushpamitra to Devabhuti and gives them 112 years. Pargiter's text gives the same count and total with reigns king by king; the Vayu and Brahmanda give Pushyamitra 60 years where the Matsya gives 36. The Puranic account is kept apart from the historical Shunga polity."
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.24"
+  - source: pargiter-dynasties-kali-age
+    locator: "70"

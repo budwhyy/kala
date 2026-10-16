@@ -1,0 +1,22 @@
+slug: "jain-meru"
+names:
+  - text: "Meru (Jain)"
+    lang: "en"
+    script: "Latn"
+realm: "cosmological"
+kind: "mountain"
+confidence: "mythical"
+related_places:
+  - to: "jain-jambudvipa"
+    relation: "part_of"
+    note: "Meru stands at the centre of Jambudvipa."
+    references:
+      - source: "jaini-tattvartha-sutra-1920"
+        locator: "Chapter III, sutra 9, p. 84"
+traditions:
+  - "jain"
+summary_beginner: "The mountain at the centre of Jambudvipa in the Tattvartha Sutra."
+summary_scholar: "Kept separate from the Puranic Meru record so that the two cosmologies are not merged."
+references:
+  - source: "jaini-tattvartha-sutra-1920"
+    locator: "Chapter III, sutra 9, p. 84"

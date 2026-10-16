@@ -1,0 +1,24 @@
+slug: buddhacarita
+names:
+  - text: Buddhacarita
+    lang: en
+    script: Latn
+  - text: बुद्धचरित
+    lang: sa
+    script: Deva
+    iast: Buddhacarita
+genre: kavya
+original_language: sa
+traditions:
+  - buddhist
+summary_beginner: A Sanskrit poem on the life of the Buddha attributed to the poet Asvaghosha.
+summary_scholar: In Cowell's 1894 translation only Books I-XIII and the start of XIV come from the
+  old poem; Books XIV-XVII were written in Nepal in 1830 by Amritananda to fill a gap, and Cowell
+  prints them as a literary curiosity. KALA uses Books I-XIII only.
+sections:
+  - id: books-1-5
+    label: "Books I-V: birth, youth, the sights, the departure"
+  - id: books-6-13
+    label: "Books VI-XIII: the ascetic life and the defeat of Mara"
+  - id: books-14-17-supplement
+    label: "Books XIV-XVII: supplement by Amritananda (1830), not by Asvaghosha"

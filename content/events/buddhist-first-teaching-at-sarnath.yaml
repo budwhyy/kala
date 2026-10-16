@@ -1,0 +1,25 @@
+slug: buddhist-first-teaching-at-sarnath
+names:
+  - text: The first teaching in the Deer Park at Isipatana
+    lang: en
+    script: Latn
+participants:
+  - entity: siddhartha-gautama
+    role: teaches the five ascetics the discourse on the Foundation of the Kingdom of Righteousness
+places:
+  - sarnath
+narrative_order:
+  text: nidanakatha
+  position: 70
+  section: proximate-epoch
+variant: buddhist-nidanakatha-account
+traditions:
+  - buddhist
+  - theravada
+summary_beginner: In the Nidanakatha the Buddha walks from the Bo-tree to the hermitage at Isipatana
+  near Benares. The five ascetics who had left him rise to greet him despite themselves, and he
+  teaches them his first discourse; Kondanya is the first to understand, and the other four follow
+  over the next days.
+references:
+  - source: rhys-davids-buddhist-birth-stories
+    locator: "112-113"

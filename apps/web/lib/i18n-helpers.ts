@@ -20,6 +20,10 @@ export function headingName(names: Name[], locale: string): Name {
     const hi = names.find((n) => n.lang === "hi") ?? names.find((n) => n.script === "Deva");
     if (hi) return hi;
   }
+  if (locale === "ta") {
+    const ta = names.find((n) => n.lang === "ta") ?? names.find((n) => n.script === "Taml");
+    if (ta) return ta;
+  }
   return names.find((n) => n.lang === "en") ?? names[0]!;
 }
 

@@ -5,7 +5,7 @@ import { Link, usePathname } from "@/i18n/navigation";
 import { routing } from "@/i18n/routing";
 
 /** Each language is named in itself, so a visitor can always find their own. */
-const LABEL: Record<string, string> = { en: "English", hi: "हिन्दी" };
+const LABEL: Record<string, string> = { en: "English", hi: "हिन्दी", ta: "தமிழ்" };
 
 /**
  * Switches language and stays on the same page: the path and the whole query string

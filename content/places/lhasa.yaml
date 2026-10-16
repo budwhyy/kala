@@ -1,0 +1,38 @@
+slug: lhasa
+names:
+  - text: Lhasa
+    lang: en
+    script: Latn
+  - text: Lha-ldan
+    lang: bo
+    script: Latn
+realm: terrestrial
+kind: city
+confidence: verified
+geometry:
+  type: Point
+  coordinates: [91.13, 29.65]
+modern_admin:
+  country: China
+  region: Tibet Autonomous Region
+evidence:
+  - type: historical
+    summary: The 1911 Britannica's history of Tibet says King Srong-tsan Gampo, who brought Buddhism and writing from India, founded Lha-ldan, later Lhasa, in 639.
+    references:
+      - source: britannica-1911
+        locator: "26: Tibet"
+traditions:
+  - buddhist
+historical_time:
+  - start: 639
+    end: 639
+    precision: year
+    confidence: low
+    note: Founding year as the 1911 Britannica reports it from Tibetan historical tradition.
+    references:
+      - source: britannica-1911
+        locator: "26: Tibet"
+summary_beginner: The chief city of Tibet, founded, according to Tibetan history, by the king who first established Buddhism there. The modern country is given for orientation only.
+references:
+  - source: britannica-1911
+    locator: "26: Tibet"

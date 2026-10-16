@@ -1,0 +1,14 @@
+slug: puranic-kali-kings-vishnu-purana
+names:
+  - text: Kings of the Kali age (Vishnu Purana)
+    lang: en
+    script: Latn
+kind: account
+tradition: puranic
+text: vishnu-purana
+description: The Vishnu Purana's prophecy of the future kings of Magadha, told as things that "will be", from the Barhadrathas after the Bharata war to the Andhrabhrityas (Book 4, chapters 23-24, in Wilson's translation).
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.23"
+  - source: wilson-vishnu-purana
+    locator: "4.24"

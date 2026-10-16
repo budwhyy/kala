@@ -1,0 +1,11 @@
+slug: zoroastrian
+names:
+  - text: Zoroastrian (Avestan) tradition
+    lang: en
+    script: Latn
+family: cross_cultural
+region: Iranian plateau
+summary_beginner: "The religion of the Avesta, the sacred texts of ancient Iran. It is included here because its oldest language and several of its gods and rites are closely related to those of the Rigveda; it is a distinct tradition, not a branch of Vedic religion."
+references:
+  - source: macdonell-history-sanskrit-literature
+    locator: "12"

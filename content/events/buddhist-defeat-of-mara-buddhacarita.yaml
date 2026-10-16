@@ -1,0 +1,28 @@
+slug: buddhist-defeat-of-mara-buddhacarita
+names:
+  - text: The defeat of Mara (Buddhacarita)
+    lang: en
+    script: Latn
+participants:
+  - entity: siddhartha-gautama
+    role: the sage who will not be moved from his seat
+places:
+  - bodh-gaya
+narrative_order:
+  text: buddhacarita
+  position: 40
+  section: books-6-13
+variant: buddhist-buddhacarita-account
+same_story_as:
+  - buddhist-awakening-at-bodh-gaya
+traditions:
+  - buddhist
+summary_beginner: In Asvaghosha's poem Mara, whom the poet identifies with Kamadeva, fears the sage
+  seated in resolve beneath the tree and gathers his sons, daughters and host against him; unable to
+  shake him, Mara and his army flee. The old poem ends here; the awakening that follows in Cowell's
+  Book XIV belongs to the later supplement.
+references:
+  - source: cowell-buddhacarita-sbe49
+    locator: "13.1-5"
+  - source: cowell-buddhacarita-sbe49
+    locator: "13.70-73"

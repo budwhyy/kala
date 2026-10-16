@@ -1,0 +1,23 @@
+slug: rahula
+names:
+  - text: Rahula
+    lang: en
+    script: Latn
+  - text: Rāhula
+    lang: pi
+    script: Latn
+    iast: Rāhula
+kinds:
+  - human
+traditions:
+  - buddhist
+summary_beginner: The son of the future Buddha. In the Nidanakatha the news of his birth reaches his
+  father on the day of the Great Renunciation, and later, asking for his inheritance, the boy is
+  received into the order by Sariputta.
+references:
+  - source: rhys-davids-buddhist-birth-stories
+    locator: "79"
+  - source: rhys-davids-buddhist-birth-stories
+    locator: "128-129"
+  - source: cowell-buddhacarita-sbe49
+    locator: "2.46"

@@ -1,0 +1,28 @@
+slug: buddhist-parinirvana-at-kushinagar
+names:
+  - text: The passing away of the Buddha at Kusinara
+    lang: en
+    script: Latn
+participants:
+  - entity: siddhartha-gautama
+    role: lies down between twin sal trees and passes away
+  - entity: ananda
+    role: prepares the couch and attends him
+places:
+  - kushinagar
+narrative_order:
+  text: mahaparinibbana-sutta
+  position: 10
+variant: buddhist-mahaparinibbana-account
+traditions:
+  - buddhist
+  - theravada
+summary_beginner: In the Mahaparinibbana Sutta the Buddha goes with Ananda to the sal grove of the
+  Mallas at Kusinara and lies down between twin sal trees. His last exhortation is that all composite
+  things decay and that his followers should strive on with diligence. He passes through the stages
+  of meditation and dies, and the earth quakes.
+references:
+  - source: rhys-davids-buddhist-suttas
+    locator: "5.1-3"
+  - source: rhys-davids-buddhist-suttas
+    locator: "6.10-14"

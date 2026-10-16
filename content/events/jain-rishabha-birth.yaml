@@ -1,0 +1,24 @@
+slug: "jain-rishabha-birth"
+names:
+  - text: "The birth of Rishabha (Kalpa Sutra)"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "rishabhanatha"
+  - entity: "marudevi"
+    role: "mother"
+  - entity: "nabhi-kulakara"
+    role: "father, interprets the dreams"
+places:
+  - "jain-bharata-kshetra"
+narrative_order:
+  text: "kalpa-sutra"
+  position: 208
+traditions:
+  - "jain"
+summary_beginner: "Rishabha descends from the Sarvarthasiddha heaven into the womb of Marudevi, wife of the patriarch Nabhi, in Bharatavarsha in the land of Ikshvaku. Marudevi first dreams of a bull, and Nabhi himself interprets her dreams. She gives birth to a healthy boy."
+references:
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 206, p. 281"
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 207-208, p. 282"

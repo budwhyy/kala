@@ -1,0 +1,37 @@
+slug: "lothal"
+names:
+  - text: "Lothal"
+    lang: "en"
+    script: "Latn"
+realm: "terrestrial"
+kind: "site"
+confidence: "verified"
+geometry:
+  type: "Point"
+  coordinates:
+    - 72.25
+    - 22.52
+modern_admin:
+  country: "India"
+  region: "Gujarat"
+  district: "Ahmedabad"
+evidence:
+  - type: "archaeological"
+    summary: "A fortified Harappan town of about 7 ha on the Bhogava, a tributary of the Sabarmati, with an upper and a lower town, a structure read as a warehouse with sealing impressions, a bead workshop, and a large walled basin with inlet and outlet that excavators identified as a tidal dockyard; stone anchors and Persian Gulf seals support that reading."
+    references:
+      - source: "unesco-world-heritage-centre"
+        locator: "tentativelists/5918"
+historical_time:
+  - start: -2400
+    end: -1600
+    precision: "century"
+    confidence: "medium"
+    note: "UNESCO tentative list: evidence of Harappan culture between 2400 and 1600 BCE."
+    references:
+      - source: "unesco-world-heritage-centre"
+        locator: "tentativelists/5918"
+summary_beginner: "A Harappan port town near the Gulf of Khambhat in Gujarat, known for a large brick basin identified as a dockyard. Its identification as a Harappan site is archaeological; any link to places or peoples in the Vedas or Puranas is debated and is not made here."
+summary_scholar: "The dockyard identification is the excavators' interpretation, presented as such in the UNESCO tentative-list entry. Archaeology alone defines this culture. Links between Harappan sites and Vedic or Puranic places and peoples are debated and are not asserted in KALA."
+references:
+  - source: "unesco-world-heritage-centre"
+    locator: "tentativelists/5918"

@@ -1,0 +1,34 @@
+slug: prambanan
+names:
+  - text: Prambanan
+    lang: en
+    script: Latn
+  - text: Brambanan
+    lang: nl
+    script: Latn
+  - text: Lara Janggrang
+    lang: jv
+    script: Latn
+realm: terrestrial
+kind: site
+confidence: verified
+geometry:
+  type: Point
+  coordinates: [110.49, -7.75]
+modern_admin:
+  country: Indonesia
+  region: Special Region of Yogyakarta and Central Java
+evidence:
+  - type: archaeological
+    summary: The 1911 Britannica describes the Brambanan temple complex between Surakarta and Jokjakarta, with three walls, many small shrines and a central group of larger temples. The main temple is mostly Shaiva and is popularly called Lara Janggrang after Durga. Chandi Sewu lies to the north.
+    references:
+      - source: britannica-1911
+        locator: "15: Java"
+traditions:
+  - hindu
+  - shaiva
+summary_beginner: The great Hindu temple complex of central Java, whose main temple is dedicated chiefly to Shiva.
+summary_scholar: The source read does not mention Ramayana reliefs at Prambanan; that claim awaits a public-domain source. The 1911 Britannica's dates are inconsistent (a tradition of 1266-1296 beside Ijzerman's eighth-to-tenth-century estimate for central Javanese temples), so no date is stored.
+references:
+  - source: britannica-1911
+    locator: "15: Java"

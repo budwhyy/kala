@@ -1,0 +1,34 @@
+slug: buddhist-birth-at-lumbini
+names:
+  - text: The birth of the Bodhisatta in the Lumbini grove
+    lang: en
+    script: Latn
+participants:
+  - entity: siddhartha-gautama
+    role: born in the Lumbini grove
+  - entity: maya-buddhist
+    role: his mother, who gives birth standing and holding a branch of a sal tree
+  - entity: suddhodana
+    role: his father, who has the road from Kapilavastu prepared
+  - entity: yashodhara
+    role: the mother of Rahula, said to come into being at the same moment
+places:
+  - lumbini
+  - kapilavastu
+narrative_order:
+  text: nidanakatha
+  position: 20
+  section: intermediate-epoch
+variant: buddhist-nidanakatha-account
+same_story_as:
+  - buddhist-birth-buddhacarita
+traditions:
+  - buddhist
+  - theravada
+summary_beginner: In the Nidanakatha, Queen Maha Maya sets out from Kapilavastu for her family's
+  town of Devadaha. In the Lumbini grove between the towns she takes hold of a sal branch and gives
+  birth standing. The child takes seven strides and declares himself chief of the world, and is
+  carried back to Kapilavastu. His mother dies seven days later.
+references:
+  - source: rhys-davids-buddhist-birth-stories
+    locator: "65-68"

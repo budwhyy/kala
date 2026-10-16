@@ -1,0 +1,22 @@
+slug: "tirthankaras"
+names:
+  - text: "Tirthankaras"
+    lang: "en"
+    script: "Latn"
+  - text: "तीर्थंकर"
+    lang: "sa"
+    script: "Deva"
+    iast: "Tīrthaṅkara"
+kinds:
+  - "other"
+traditions:
+  - "jain"
+summary_beginner: "The twenty-four Jinas of the present age in Jain teaching: teachers who conquered passion, reached omniscience and showed the way across rebirth. The first is Rishabha and the last Mahavira."
+summary_scholar: "Jacobi notes that the belief in twenty-four Tirthankaras is common to Digambaras and Svetambaras (Introduction, p. xxxv). They are Jain figures and are not the avatars of Hindu lists."
+references:
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 184-203, p. 280"
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 2, p. 218-219"
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Introduction, p. xxxv"

@@ -1,0 +1,34 @@
+slug: buddhism-to-sri-lanka
+names:
+  - text: Buddhism reaches Sri Lanka
+    lang: en
+    script: Latn
+type: direct
+from_tradition: buddhist
+to_tradition: buddhist
+from_place: bodh-gaya
+to_place: anuradhapura
+historical_time:
+  start: -300
+  end: -201
+  precision: century
+  confidence: medium
+  note: Macdonell places the introduction of Pali into Ceylon in the third century BCE. Legge cites Rhys Davids for a mission under Asoka's son Mahinda in the reign of Tissa; that attribution comes from the Sri Lankan chronicles as reported, not from an inscription.
+  references:
+    - source: macdonell-history-sanskrit-literature
+      locator: "25"
+    - source: legge-fa-hien
+      locator: "38"
+summary_beginner: Buddhism came to the island of Lanka from India in the third century BCE, bringing the Pali language of its scriptures. Tradition credits a mission sent under the emperor Asoka.
+summary_scholar: Fa-hien, in Ceylon in the early fifth century, records that a former king obtained a slip of the sacred tree from Central India; Legge identifies it with the Bo tree still at Anuradhapura. Bodh Gaya is used as the map origin because that is where the tree tradition points; the record does not claim the tree's descent as verified.
+references:
+  - source: macdonell-history-sanskrit-literature
+    locator: "25"
+  - source: legge-fa-hien
+    locator: "38"
+evidence:
+  - type: historical
+    summary: Fa-hien's description of the Abhayagiri monastery and the sacred tree at the royal city of Ceylon.
+    references:
+      - source: legge-fa-hien
+        locator: "38"

@@ -1,0 +1,36 @@
+slug: "dholavira"
+names:
+  - text: "Dholavira"
+    lang: "en"
+    script: "Latn"
+realm: "terrestrial"
+kind: "site"
+confidence: "verified"
+geometry:
+  type: "Point"
+  coordinates:
+    - 70.21
+    - 23.89
+modern_admin:
+  country: "India"
+  region: "Gujarat"
+  district: "Kutch"
+evidence:
+  - type: "archaeological"
+    summary: "On Khadir island in the Rann of Kutch: a fortified city with a castle, ceremonial ground, streets and houses of differing quality, an elaborate water-management system, a cemetery with cenotaphs, bead workshops, and finds showing trade with other Harappan cities, Mesopotamia and Oman (World Heritage, 2021)."
+    references:
+      - source: "unesco-world-heritage-centre"
+        locator: "list/1645"
+historical_time:
+  - start: -3000
+    end: -1500
+    precision: "century"
+    confidence: "medium"
+    note: "UNESCO: occupied between about 3000 and 1500 BCE."
+    references:
+      - source: "unesco-world-heritage-centre"
+        locator: "list/1645"
+summary_beginner: "The southern centre of the Harappan civilisation, on an island in the Rann of Kutch, famed for its water reservoirs. Its identification as a Harappan site is archaeological; any link to places or peoples in the Vedas or Puranas is debated and is not made here."
+references:
+  - source: "unesco-world-heritage-centre"
+    locator: "list/1645"

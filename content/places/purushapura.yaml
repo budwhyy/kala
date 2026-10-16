@@ -1,0 +1,47 @@
+slug: "purushapura"
+names:
+  - text: "Purushapura"
+    lang: "en"
+    script: "Latn"
+  - text: "Peshawar"
+    lang: "en"
+    script: "Latn"
+realm: "terrestrial"
+kind: "city"
+confidence: "verified"
+geometry:
+  type: "Point"
+  coordinates:
+    - 71.58
+    - 34.01
+modern_admin:
+  country: "Pakistan"
+  region: "Khyber Pakhtunkhwa"
+  district: "Peshawar"
+evidence:
+  - type: "archaeological"
+    summary: "Smith states that Kanishka's capital was Purushapura, modern Peshawar, where excavation found a relic casket bearing an image and inscription of Kanishka."
+    references:
+      - source: "smith-early-history-1914"
+        locator: "261"
+kingdoms:
+  - to: "gandhara-mahajanapada"
+    note: "Peshawar lies in the Gandhara region."
+    references:
+      - source: "smith-early-history-1914"
+        locator: "261"
+historical_time:
+  - start: 78
+    end: 250
+    precision: "century"
+    confidence: "low"
+    note: "Kushan period as Smith dates it; the city is older and later."
+    references:
+      - source: "smith-early-history-1914"
+        locator: "261"
+      - source: "smith-early-history-1914"
+        locator: "277-278"
+summary_beginner: "Ancient Purushapura, modern Peshawar, the capital of the Kushan king Kanishka in Gandhara."
+references:
+  - source: "smith-early-history-1914"
+    locator: "261"

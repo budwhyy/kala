@@ -1,0 +1,86 @@
+slug: kapilavastu
+names:
+  - text: Kapilavastu
+    lang: en
+    script: Latn
+  - text: Kapilavatthu
+    lang: pi
+    script: Latn
+    iast: Kapilavatthu
+  - text: कपिलवस्तु
+    lang: sa
+    script: Deva
+    iast: Kapilavastu
+realm: terrestrial
+kind: city
+confidence: debated
+modern_admin:
+  country: Nepal
+  region: Lumbini Province (with one candidate site just across the border in India)
+alternative_identifications:
+  - label: Piprahwa, Siddharthnagar district (formerly Basti district), India
+    confidence: debated
+    geometry:
+      type: Point
+      coordinates:
+        - 83.13
+        - 27.44
+    modern_admin:
+      country: India
+      region: Uttar Pradesh
+      district: Siddharthnagar
+    argument: The Imperial Gazetteer reports the suggestion that the Chinese pilgrims were shown
+      different sites, and that Fa-hien took Kapilavastu to be at Piprahwa, about nine miles
+      south-west of the Lumbini pillar.
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "14:407"
+  - label: Tilaurakot, Kapilvastu district, Nepal
+    confidence: debated
+    geometry:
+      type: Point
+      coordinates:
+        - 83.05
+        - 27.58
+    modern_admin:
+      country: Nepal
+      region: Lumbini Province
+      district: Kapilvastu
+    argument: In the same suggestion, Xuanzang was taken to a different place, Tilaura Kot, about
+      fourteen miles north-west of the Lumbini garden.
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "14:407"
+evidence:
+  - type: archaeological
+    summary: The Imperial Gazetteer records that an older identification with Bhuila Dih in Basti
+      District was abandoned, and that after the 1895 Nigliva and 1896 Lumbini pillar finds the city
+      was placed within a few miles of Paderia, though its exact site was not yet known.
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "14:406-407"
+  - type: historical
+    summary: Fa-hien found the city less than a yojana east of the previous stage, almost deserted,
+      with topes marking scenes of the prince's life, and the Lumbini garden fifty li to the east.
+    references:
+      - source: legge-fa-hien
+        locator: "22"
+  - type: textual
+    summary: In the Nidanakatha the queen travels from Kapilavastu towards Devadaha and gives birth
+      in the Lumbini grove between the two towns; the child is then taken to Kapilavastu.
+    references:
+      - source: rhys-davids-buddhist-birth-stories
+        locator: "65-68"
+traditions:
+  - buddhist
+summary_beginner: The capital of the Sakyas and home of King Suddhodana, where Buddhist tradition
+  says the future Buddha grew up. Its exact site is debated between Piprahwa in India and Tilaurakot
+  in Nepal.
+summary_scholar: The Gazetteer of 1908 presents the competing sites as a suggestion arising from
+  disagreement between the Chinese pilgrims' accounts, not as a settled result. Later excavations
+  at both sites are not covered by the sources held here.
+references:
+  - source: imperial-gazetteer-1909
+    locator: "14:406-407"
+  - source: legge-fa-hien
+    locator: "22"

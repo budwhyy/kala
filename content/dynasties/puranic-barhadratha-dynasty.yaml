@@ -1,0 +1,29 @@
+slug: puranic-barhadratha-dynasty
+names:
+  - text: "Barhadratha dynasty (Puranic list)"
+    lang: en
+    script: Latn
+  - text: बार्हद्रथ
+    lang: sa
+    script: Deva
+    iast: Bārhadratha
+kind: legendary
+lineage_type: other
+kingdoms:
+  - to: magadha-kingdom-epic
+    note: "Ripunjaya's minister kills his master and places his own son Pradyota on the throne."
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.23"
+      - source: pargiter-dynasties-kali-age
+        locator: "67-68"
+variant: puranic-kali-kings-vishnu-purana
+traditions:
+  - puranic
+summary_beginner: "In the Puranas' prophecy of the Kali age, the line of Jarasandha's son Sahadeva that rules Magadha from Girivraja after the Bharata war."
+summary_scholar: "The Vishnu Purana names Somapi and twenty-one kings after Sahadeva, ending with Ripunjaya, and says the line will last a thousand years. In Pargiter's collated Matsya-Vayu text the reign lengths are given king by king; the text speaks of sixteen kings lasting 723 years and also of thirty-two kings lasting a full thousand years. These are the texts' own figures, not historical dates."
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.23"
+  - source: pargiter-dynasties-kali-age
+    locator: "67-68"

@@ -1,0 +1,19 @@
+slug: mahaprajapati-gautami
+names:
+  - text: Mahaprajapati Gautami
+    lang: en
+    script: Latn
+  - text: Mahāpajāpatī Gotamī
+    lang: pi
+    script: Latn
+    iast: Mahāpajāpatī Gotamī
+kinds:
+  - human
+traditions:
+  - buddhist
+summary_beginner: The Buddha's aunt, who nursed him after his mother's death. In the Vinaya she asks
+  for women to be allowed to go forth, and becomes the first woman ordained when she accepts the
+  eight chief rules.
+references:
+  - source: oldenberg-rhys-davids-vinaya-sbe20
+    locator: "Cullavagga X.1.1-6"

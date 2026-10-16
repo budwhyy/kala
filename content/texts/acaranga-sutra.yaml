@@ -1,0 +1,16 @@
+slug: "acaranga-sutra"
+names:
+  - text: "Acaranga Sutra"
+    lang: "en"
+    script: "Latn"
+  - text: "आचारांगसूत्र"
+    lang: "pra"
+    script: "Deva"
+    iast: "Ācārāṅgasūtra"
+genre: "jain_canon"
+original_language: "pra"
+traditions:
+  - "jain"
+  - "svetambara"
+summary_beginner: "The first book (Anga) of the Jain canon as the Svetambara Jains preserve it: rules of conduct for monks and nuns, with an account of the life of Mahavira."
+summary_scholar: "Translated by Jacobi as the Akaranga Sutra in SBE 22 (1884). Book II, Lecture 15 gives Mahavira's family; the Kalpa Sutra refers back to it for the names."

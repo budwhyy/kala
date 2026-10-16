@@ -1,0 +1,22 @@
+slug: maya-buddhist
+names:
+  - text: Maha Maya
+    lang: en
+    script: Latn
+  - text: Mahāmāyā
+    lang: pi
+    script: Latn
+    iast: Mahāmāyā
+kinds:
+  - human
+traditions:
+  - buddhist
+summary_beginner: In Buddhist texts, the queen of Suddhodana and mother of the future Buddha, who
+  gives birth to him in the Lumbini grove. The Nidanakatha says she died seven days after the birth
+  and was reborn in the Tusita heaven; the Buddhacarita says she went to heaven, unable to bear the
+  joy of his birth.
+references:
+  - source: rhys-davids-buddhist-birth-stories
+    locator: "65-66"
+  - source: cowell-buddhacarita-sbe49
+    locator: "2.18"

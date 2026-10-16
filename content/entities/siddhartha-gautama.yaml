@@ -1,0 +1,56 @@
+slug: siddhartha-gautama
+names:
+  - text: Siddhartha Gautama
+    lang: en
+    script: Latn
+  - text: Siddhattha Gotama
+    lang: pi
+    script: Latn
+    iast: Siddhattha Gotama
+  - text: Sarvarthasiddha
+    lang: sa
+    script: Latn
+    iast: Sarvārthasiddha
+epithets:
+  - text: the Buddha
+    lang: en
+    script: Latn
+  - text: Tathagata
+    lang: pi
+    script: Latn
+    iast: Tathāgata
+kinds:
+  - human
+traditions:
+  - buddhist
+  - theravada
+  - mahayana
+summary_beginner: The teacher whom Buddhists call the Buddha, the Awakened One. Buddhist texts tell
+  of his birth as a prince of the Sakyas at Lumbini, his leaving home, his awakening under the
+  Bo-tree, his teaching and his passing away at Kusinara. He is a historical person; the stories
+  about him are the tradition's own and are given here as such.
+summary_scholar: This is the historical teacher of Buddhism, distinct from the buddha-avatar of
+  some Puranic lists. His dates are not known. Rhys Davids (1881) shows that the Ceylon chronicles
+  place his death in 543 BCE by a reckoning he regards as unreliable, rejects a later correction to
+  about 485 BCE, and himself proposed about 420-400 BCE for the death and about 500 BCE for the birth
+  (he lived eighty years). The range below spans only these views from the source read; later
+  scholarship, not consulted here, continues to debate them.
+historical_time:
+  - start: -623
+    end: -400
+    precision: period
+    confidence: low
+    note: Lifetime somewhere in this window, which spans the Ceylon chronicle reckoning (death 543
+      BCE, birth eighty years earlier) and Rhys Davids' proposal (death about 420-400 BCE). The dates
+      are debated and none is established.
+    references:
+      - source: rhys-davids-buddhist-suttas
+        locator: "Introduction, xlvi-xlviii"
+references:
+  - source: rhys-davids-buddhist-birth-stories
+    locator: "65-68"
+  - source: rhys-davids-buddhist-suttas
+    locator: "6.10-14"
+  - source: cowell-buddhacarita-sbe49
+    locator: "2.17"
+    note: Named Sarvarthasiddha by his father because every aim was accomplished at his birth.

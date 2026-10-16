@@ -1,0 +1,17 @@
+slug: "jain-seven-earths"
+names:
+  - text: "The seven earths (Jain lower world)"
+    lang: "en"
+    script: "Latn"
+realm: "cosmological"
+kind: "realm"
+confidence: "mythical"
+traditions:
+  - "jain"
+summary_beginner: "In the Tattvartha Sutra, seven earths lie one below the other beneath the world we live in, each supported by three layers of air and named by its hue: jewels, sugar, sand, mire, smoke, darkness and pitch darkness. Hellish beings live in the hells within them. They belong to Jain cosmology, not to any place on Earth."
+summary_scholar: "Jaini's commentary gives thicknesses in yojanas for each earth and the number of hells in each (eighty-four lakh in all). These are the Jain lower world; they are not the Puranic Patalas."
+references:
+  - source: "jaini-tattvartha-sutra-1920"
+    locator: "Chapter III, sutra 1, p. 79"
+  - source: "jaini-tattvartha-sutra-1920"
+    locator: "Chapter III, sutra 2, p. 80"

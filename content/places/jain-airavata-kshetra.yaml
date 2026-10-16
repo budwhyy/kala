@@ -1,0 +1,21 @@
+slug: "jain-airavata-kshetra"
+names:
+  - text: "Airavata Kshetra (Jain)"
+    lang: "en"
+    script: "Latn"
+realm: "cosmological"
+kind: "region"
+confidence: "mythical"
+related_places:
+  - to: "jain-jambudvipa"
+    relation: "part_of"
+    note: "One of the seven regions of Jambudvipa."
+    references:
+      - source: "jaini-tattvartha-sutra-1920"
+        locator: "Chapter III, sutra 10, p. 85"
+traditions:
+  - "jain"
+summary_beginner: "The seventh and last of the regions of Jambudvipa in the Tattvartha Sutra."
+references:
+  - source: "jaini-tattvartha-sutra-1920"
+    locator: "Chapter III, sutra 10, p. 85"

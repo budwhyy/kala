@@ -1,0 +1,51 @@
+slug: "shunga-kingdom"
+names:
+  - text: "Shunga kingdom"
+    lang: "en"
+    script: "Latn"
+  - text: "शुङ्ग"
+    lang: "sa"
+    script: "Deva"
+    iast: "Śuṅga"
+kind: "historical_regional"
+same_name_as:
+  - "puranic-shunga-kingdom"
+rulers:
+  - name:
+      text: "Pushyamitra Shunga"
+      lang: "en"
+      script: "Latn"
+    attested: false
+    note: "Founder, about 185 BC (Smith); the dynastic name is attested at Bharhut, his own name in texts and Puranic lists."
+    references:
+      - source: "smith-early-history-1914"
+        locator: "193"
+      - source: "smith-early-history-1914"
+        locator: "195"
+relations:
+  - kingdom: "maurya-empire"
+    type: "succession"
+    note: "Followed the Mauryas after Pushyamitra killed Brihadratha."
+    references:
+      - source: "smith-early-history-1914"
+        locator: "193"
+historical_time:
+  start: -185
+  end: -73
+  precision: "decade"
+  confidence: "low"
+  note: "From about 185 BC for the Puranic 112 years (Smith)."
+  references:
+    - source: "smith-early-history-1914"
+      locator: "193"
+    - source: "smith-early-history-1914"
+      locator: "203"
+summary_beginner: "The dynasty founded by the general Pushyamitra after the fall of the Mauryas, ruling much of the Ganges valley and central India."
+summary_scholar: "No evidence sites are drawn yet: the Bharhut inscription naming the Shungas is cited by Smith, but Bharhut has no place record. The Puranic Shunga list is a separate record."
+references:
+  - source: "smith-early-history-1914"
+    locator: "193"
+  - source: "smith-early-history-1914"
+    locator: "195"
+  - source: "smith-early-history-1914"
+    locator: "203"

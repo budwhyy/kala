@@ -1,0 +1,24 @@
+slug: mahayana
+names:
+  - text: Mahayana
+    lang: en
+    script: Latn
+  - text: महायान
+    lang: sa
+    script: Deva
+    iast: Mahāyāna
+family: buddhist
+parent: buddhist
+summary_beginner:
+  "The 'Great Vehicle': a later form of Buddhist teaching centred on the ideal of the
+  bodhisattva. Fa-hien found monasteries of Mahayana students, for example at Khotan, and Legge's note
+  explains the name."
+references:
+  - source: legge-fa-hien
+    locator: "3"
+    note: Text and Legge's note 2 on the Mahayana; the note refers back to chapter 2, note 4, on the
+      three vehicles.
+  - source: cowell-buddhacarita-sbe49
+    locator: "Introduction, x"
+    note: Cowell files the Buddhacarita with the Mahayana texts only provisionally, for want of
+      better information about its school.

@@ -1,0 +1,73 @@
+slug: "kaushambi"
+names:
+  - text: "Kaushambi"
+    lang: "en"
+    script: "Latn"
+  - text: "कौशाम्बी"
+    lang: "sa"
+    script: "Deva"
+    iast: "Kauśāmbī"
+  - text: "Kosam"
+    lang: "en"
+    script: "Latn"
+realm: "terrestrial"
+kind: "city"
+confidence: "debated"
+geometry:
+  type: "Point"
+  coordinates:
+    - 81.4
+    - 25.33
+modern_admin:
+  country: "India"
+  region: "Uttar Pradesh"
+  district: "Kaushambi"
+alternative_identifications:
+  - label: "Kosam (Kosam Inam and Kosam Khiraj), Allahabad District"
+    confidence: "debated"
+    geometry:
+      type: "Point"
+      coordinates:
+        - 81.4
+        - 25.33
+    argument: "Long-standing identification, supported by the name, the fortress ruins, the 1564 inscription and Cunningham's reading of the Kausambi edict."
+    references:
+      - source: "imperial-gazetteer-1909"
+        locator: "15:407"
+      - source: "hultzsch-inscriptions-asoka"
+        locator: "xx"
+  - label: "Gurgi, Rewa State"
+    confidence: "debated"
+    argument: "Proposed because Xuanzang's distances put Kausambi south or south-west of Kosam; the Gazetteer reports it as the most recent view of its time."
+    references:
+      - source: "imperial-gazetteer-1909"
+        locator: "15:407"
+evidence:
+  - type: "archaeological"
+    summary: "At Kosam the Gazetteer records a vast earthen fortress about four miles round, coins covering the whole of Indian numismatics (including a series of kings of the first or second century BC) and an inscription of 1564 naming Kausambhi."
+    references:
+      - source: "imperial-gazetteer-1909"
+        locator: "15:407"
+  - type: "historical"
+    summary: "One of Ashoka's edicts on the Allahabad pillar is addressed to the officers at Kausambi; Cunningham concluded the pillar first stood at Kausambi, i.e. Kosam, and Hultzsch reports this."
+    references:
+      - source: "hultzsch-inscriptions-asoka"
+        locator: "xx"
+historical_time:
+  - start: -500
+    end: 500
+    precision: "century"
+    confidence: "low"
+    note: "Coarse bracket from the coins of the second or first century BC and Ashoka's edict; earlier and later occupation not dated here."
+    references:
+      - source: "imperial-gazetteer-1909"
+        locator: "15:407"
+      - source: "hultzsch-inscriptions-asoka"
+        locator: "xx"
+summary_beginner: "A great city of ancient India on the Yamuna, celebrated in Buddhist and Hindu texts; the ruins at Kosam are generally taken to be its site."
+summary_scholar: "The Gazetteer (1908) noted that Xuanzang's distances pointed elsewhere and that one writer had proposed Gurgi in Rewa. Later excavation at Kosam is not covered by the sources read here, so the place is kept as debated."
+references:
+  - source: "imperial-gazetteer-1909"
+    locator: "15:407"
+  - source: "hultzsch-inscriptions-asoka"
+    locator: "xx"

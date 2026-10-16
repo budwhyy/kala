@@ -1,0 +1,18 @@
+slug: jagannath-puri
+names:
+  - text: Jagannath tradition of Puri
+    lang: en
+    script: Latn
+  - text: जगन्नाथ
+    lang: sa
+    script: Deva
+    iast: Jagannātha
+    meaning: Lord of the World
+family: hindu
+parent: vaishnava
+region: Puri, Odisha
+summary_beginner: The worship of Jagannath, 'Lord of the World', with his brother Balarama and sister Subhadra at the great temple of Puri, known for its shared temple food that sets aside caste distinctions and for its annual car festival.
+sourcing_note: "Documented here only from the Imperial Gazetteer's article on Puri Town (1908), a colonial-era description. It reports the tradition that the image was hidden from invaders and later restored, the sacred food shared across castes, the car festival, and the temple's attribution to Choda Ganga in the twelfth century rather than to Ananga Bhima as tradition holds; it also repeats a scholarly supposition of Buddhist influence, which this record does not adopt. Temple histories and Odia sources were not consulted. W. W. Hunter's Orissa (1872) was not read and is not cited."
+references:
+  - source: imperial-gazetteer-1909
+    locator: "20:409-411"

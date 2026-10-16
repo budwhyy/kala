@@ -1,0 +1,15 @@
+slug: buddhism-in-khotan
+names:
+  - text: Buddhism in Khotan (Central Asia)
+    lang: en
+    script: Latn
+type: uncertain_hypothesis
+from_tradition: buddhist
+to_tradition: buddhist
+from_place: gandhara
+to_place: khotan
+summary_beginner: When Fa-hien passed through Khotan on his way to India, he found the whole kingdom Buddhist, with thousands of mostly Mahayana monks and great monasteries.
+summary_scholar: Fa-hien attests Buddhism at Khotan but says nothing of how it arrived. Drawing the link from Gandhara, on the north-western route into India, is a map convenience and a hypothesis, not a sourced route.
+references:
+  - source: legge-fa-hien
+    locator: "3"

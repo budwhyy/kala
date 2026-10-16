@@ -8,7 +8,7 @@ import { describe, expect, it } from "vitest";
 const msgs = (locale: string) =>
   JSON.parse(readFileSync(resolve(import.meta.dirname, `../messages/${locale}/core.json`), "utf8"));
 
-describe.each(["en", "hi"])("enum labels (%s)", (locale) => {
+describe.each(["en", "hi", "ta"])("enum labels (%s)", (locale) => {
   const m = msgs(locale);
   it("covers entity kinds, place kinds, tradition families and network kinds", () => {
     expect(EntityKind.options.filter((v) => !(v in m.enums.kind))).toEqual([]);

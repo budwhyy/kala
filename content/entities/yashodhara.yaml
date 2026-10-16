@@ -1,0 +1,27 @@
+slug: yashodhara
+names:
+  - text: Yashodhara
+    lang: en
+    script: Latn
+  - text: यशोधरा
+    lang: sa
+    script: Deva
+    iast: Yaśodharā
+epithets:
+  - text: mother of Rahula
+    lang: en
+    script: Latn
+kinds:
+  - human
+traditions:
+  - buddhist
+summary_beginner: The wife of the future Buddha and mother of Rahula. The Buddhacarita names her
+  Yasodhara; the Nidanakatha calls her only "the mother of Rahula" and says she was born at the same
+  moment as the Bodhisatta.
+references:
+  - source: cowell-buddhacarita-sbe49
+    locator: "2.46"
+  - source: rhys-davids-buddhist-birth-stories
+    locator: "68"
+  - source: rhys-davids-buddhist-birth-stories
+    locator: "76"

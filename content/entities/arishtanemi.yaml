@@ -1,0 +1,19 @@
+slug: "arishtanemi"
+names:
+  - text: "Arishtanemi (Neminatha)"
+    lang: "en"
+    script: "Latn"
+  - text: "अरिष्टनेमि"
+    lang: "sa"
+    script: "Deva"
+    iast: "Ariṣṭanemi"
+kinds:
+  - "human"
+traditions:
+  - "jain"
+summary_beginner: "The twenty-second Tirthankara in Jain teaching. The Kalpa Sutra says he reached liberation on the summit of Mount Girnar."
+references:
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 170, p. 276"
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 182, p. 279"

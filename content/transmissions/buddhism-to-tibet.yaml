@@ -1,0 +1,23 @@
+slug: buddhism-to-tibet
+names:
+  - text: Buddhism reaches Tibet
+    lang: en
+    script: Latn
+type: direct
+from_tradition: buddhist
+to_tradition: buddhist
+to_place: lhasa
+historical_time:
+  start: 601
+  end: 700
+  precision: century
+  confidence: medium
+  note: The 1911 Britannica places the decisive step under Srong-tsan Gampo, who founded Lhasa in 639, and dates his minister's mission to India for writing to about 632.
+  references:
+    - source: britannica-1911
+      locator: "26: Tibet"
+summary_beginner: According to Tibetan history, a few Buddhist objects reached Tibet earlier, probably from Nepal, but King Srong-tsan Gampo brought Buddhism and writing from India in the seventh century, helped by his Nepalese and Chinese queens.
+summary_scholar: The 1911 Britannica reports this from Tibetan tradition and says the Tibetan script was made by Thonmi, sent to India to study Sanskrit and Buddhist literature. Lhasa marks the destination; the Indian point of origin is not specified in the source and is left blank.
+references:
+  - source: britannica-1911
+    locator: "26: Tibet"

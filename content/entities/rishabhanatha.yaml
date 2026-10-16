@@ -1,0 +1,22 @@
+slug: "rishabhanatha"
+names:
+  - text: "Rishabha (Rishabhanatha)"
+    lang: "en"
+    script: "Latn"
+  - text: "ऋषभनाथ"
+    lang: "sa"
+    script: "Deva"
+    iast: "Ṛṣabhanātha"
+kinds:
+  - "human"
+traditions:
+  - "jain"
+summary_beginner: "The first Tirthankara of the present age in Jain teaching. The Kalpa Sutra calls him the Kosalian, son of the patriarch Nabhi and Marudevi, the first king, first mendicant and first Tirthankara, who taught people writing, arithmetic and the arts before renouncing his kingdom."
+summary_scholar: "The Kalpa Sutra (sections 204-227) gives his life; he reached liberation on Mount Ashtapada. He is a Jain figure in his own right: the Rishabha of the Bhagavata Purana's avatar list is a separate Hindu account and no identification is stored here."
+references:
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 206, p. 281"
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 210, p. 282"
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 227, p. 285"

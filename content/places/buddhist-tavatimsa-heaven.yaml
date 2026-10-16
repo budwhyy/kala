@@ -1,0 +1,22 @@
+slug: buddhist-tavatimsa-heaven
+names:
+  - text: Tavatimsa heaven
+    lang: en
+    script: Latn
+  - text: Tāvatiṃsa
+    lang: pi
+    script: Latn
+    iast: Tāvatiṃsa
+realm: cosmological
+kind: realm
+confidence: mythical
+traditions:
+  - buddhist
+summary_beginner: In Buddhist cosmology, a heaven of the gods. In the Nidanakatha
+  its gods rejoice at the Bodhisatta's birth, Sakka enshrines his cut hair there, and his horse
+  Kanthaka is reborn there. Not a place on Earth.
+references:
+  - source: rhys-davids-buddhist-birth-stories
+    locator: "68"
+  - source: rhys-davids-buddhist-birth-stories
+    locator: "86-87"

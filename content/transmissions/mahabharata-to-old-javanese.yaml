@@ -1,0 +1,16 @@
+slug: mahabharata-to-old-javanese
+names:
+  - text: The Mahabharata in Old Javanese literature
+    lang: en
+    script: Latn
+type: direct
+from_text: mahabharata
+to_text: bharatayuddha
+to_tradition: old-javanese-kawi-tradition
+summary_beginner: Poets of Java's Hindu period retold the Mahabharata in Kawi (Old Javanese). The Bharatayuddha tells the war of the Pandawas and Korawas; the Arjuna Wiwaha, Arjuna's marriage, is dated by Kern to the eleventh century.
+summary_scholar: The 1911 Britannica says the Bharatayuddha draws on books 5 to 10 of the Mahabharata, and Macdonell (1900) cites an eleventh-century Javanese translation of the epic as evidence for the state of its text. The borrowing is stated by both sources, hence direct; the Javanese works are nonetheless independent poems that modern Javanese regard as their own.
+references:
+  - source: britannica-1911
+    locator: "15: Java"
+  - source: macdonell-history-sanskrit-literature
+    locator: "290"

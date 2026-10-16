@@ -1,0 +1,18 @@
+slug: "jain-rishabha-nirvana"
+names:
+  - text: "Rishabha's nirvana on Mount Ashtapada (Kalpa Sutra)"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "rishabhanatha"
+places: []
+narrative_order:
+  text: "kalpa-sutra"
+  position: 227
+traditions:
+  - "jain"
+summary_beginner: "Rishabha reaches final liberation on the summit of Mount Ashtapada with ten thousand monks."
+summary_scholar: "Ashtapada has no place record because the sources read do not locate it."
+references:
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 227, p. 285"

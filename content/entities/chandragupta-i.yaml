@@ -1,0 +1,32 @@
+slug: "chandragupta-i"
+names:
+  - text: "Chandragupta I (Gupta)"
+    lang: "en"
+    script: "Latn"
+  - text: "चन्द्रगुप्त"
+    lang: "sa"
+    script: "Deva"
+    iast: "Candragupta"
+kinds:
+  - "human"
+  - "king"
+traditions:
+  - "hindu"
+summary_beginner: "Founder of Gupta imperial power, whose coronation is taken as the start of the Gupta era in 320 CE. Not to be confused with Chandragupta Maurya."
+summary_scholar: "He married a Lichchhavi princess, and the Gupta era began with his accession (Smith; the Gazetteer gives 319)."
+historical_time:
+  - start: 320
+    end: 330
+    precision: "decade"
+    confidence: "medium"
+    note: "Gupta era year 1 began in AD 320; Samudragupta succeeded about 330 (Smith's table)."
+    references:
+      - source: "smith-early-history-1914"
+        locator: "280"
+      - source: "smith-early-history-1914"
+        locator: "327"
+references:
+  - source: "smith-early-history-1914"
+    locator: "280"
+  - source: "imperial-gazetteer-1909"
+    locator: "20:68"

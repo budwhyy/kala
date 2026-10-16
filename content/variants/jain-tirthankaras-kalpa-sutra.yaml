@@ -1,0 +1,16 @@
+slug: "jain-tirthankaras-kalpa-sutra"
+names:
+  - text: "The twenty-four Tirthankaras (Kalpa Sutra)"
+    lang: "en"
+    script: "Latn"
+kind: "list"
+tradition: "jain"
+text: "kalpa-sutra"
+description: "The twenty-four Tirthankaras of the present age as the Kalpa Sutra names them. It tells the lives of Mahavira, Parshva, Arishtanemi and Rishabha in full and names the other twenty in its 'epochs of the intermediate Tirthankaras', counting back from Nami to Ajita by how long before a later Jina each died. Positions here run from first (Rishabha) to last (Mahavira), the order implied by those intervals; the Kalpa Sutra itself calls Rishabha the first Tirthankara and Mahavira the last."
+references:
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 184-203, p. 280"
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 210, p. 282"
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 2, p. 218-219"

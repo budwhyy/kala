@@ -1,0 +1,23 @@
+slug: "post-maurya-period"
+names:
+  - text: "Post-Maurya period"
+    lang: "en"
+    script: "Latn"
+kind: "political"
+historical_time:
+  start: -185
+  end: 320
+  precision: "decade"
+  confidence: "medium"
+  note: "From the fall of the Mauryas (about 185 BC) to the Gupta era (AD 320), following Smith."
+  references:
+    - source: "smith-early-history-1914"
+      locator: "193"
+    - source: "smith-early-history-1914"
+      locator: "280"
+summary_beginner: "The centuries between the Mauryas and the Guptas, when north and central India were divided among the Shungas, Satavahanas, Indo-Greeks, Shakas and Kushans."
+references:
+  - source: "smith-early-history-1914"
+    locator: "193"
+  - source: "smith-early-history-1914"
+    locator: "280"

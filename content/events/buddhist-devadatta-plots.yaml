@@ -1,0 +1,32 @@
+slug: buddhist-devadatta-plots
+names:
+  - text: Devadatta's attempts on the Buddha's life and the schism
+    lang: en
+    script: Latn
+participants:
+  - entity: devadatta
+    role: tries to kill the Buddha and then divides the order
+  - entity: siddhartha-gautama
+    role: survives each attempt and warns Devadatta against schism
+  - entity: ananda
+    role: reports Devadatta's intention to break up the order
+places:
+  - girivraja
+narrative_order:
+  text: vinaya-pitaka
+  position: 20
+variant: buddhist-vinaya-account
+traditions:
+  - buddhist
+  - theravada
+summary_beginner: In the Cullavagga, Devadatta hires men to kill the Buddha, but they are converted.
+  He hurls a rock from the Vulture's Peak near Rajagaha; two peaks close and only a splinter wounds the
+  Buddha's foot. He has the fierce elephant Nalagiri loosed in the street, but the Buddha calms it with
+  love. At last he tells Ananda he will hold the order's ceremonies apart, and splits the order.
+references:
+  - source: oldenberg-rhys-davids-vinaya-sbe20
+    locator: "Cullavagga VII.3.6-9"
+  - source: oldenberg-rhys-davids-vinaya-sbe20
+    locator: "Cullavagga VII.3.11-12"
+  - source: oldenberg-rhys-davids-vinaya-sbe20
+    locator: "Cullavagga VII.3.17"

@@ -1,0 +1,12 @@
+slug: buddhist-jataka-account
+names:
+  - text: "Jataka account"
+    lang: en
+    script: Latn
+kind: account
+tradition: theravada
+text: jataka
+description: "The stories of the Buddha's former births in the Pali Jataka commentary, in the Cambridge translation edited by Cowell."
+references:
+  - source: cowell-jataka
+    locator: "4:78-82"

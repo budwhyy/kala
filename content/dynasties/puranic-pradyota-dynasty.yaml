@@ -1,0 +1,29 @@
+slug: puranic-pradyota-dynasty
+names:
+  - text: "Pradyota dynasty (Puranic list)"
+    lang: en
+    script: Latn
+  - text: प्रद्योत
+    lang: sa
+    script: Deva
+    iast: Pradyota
+kind: legendary
+lineage_type: other
+kingdoms:
+  - to: magadha-kingdom-epic
+    note: "Ripunjaya's minister places Pradyota on the throne."
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.24"
+      - source: pargiter-dynasties-kali-age
+        locator: "68"
+variant: puranic-kali-kings-vishnu-purana
+traditions:
+  - puranic
+summary_beginner: "In the Puranas' prophecy, five kings beginning with Pradyota, son of the minister who killed the last Barhadratha."
+summary_scholar: "The Vishnu Purana lists Pradyota, Palaka, Vishakhayupa, Janaka and Nandivardhana and gives them 138 years. Pargiter's text calls the fourth king Ajaka, gives each reign separately and also totals them at 138 years, noting other readings (for example 152 in some copies). The minister's name differs between the Puranas (Sunika, Munika, Pulika)."
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.24"
+  - source: pargiter-dynasties-kali-age
+    locator: "68"

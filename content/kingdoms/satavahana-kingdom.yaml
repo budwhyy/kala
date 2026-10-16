@@ -1,0 +1,72 @@
+slug: "satavahana-kingdom"
+names:
+  - text: "Satavahana (Andhra) kingdom"
+    lang: "en"
+    script: "Latn"
+  - text: "सातवाहन"
+    lang: "sa"
+    script: "Deva"
+    iast: "Sātavāhana"
+kind: "historical_regional"
+same_name_as:
+  - "puranic-andhra-kingdom"
+evidence_sites:
+  - to: "paithan"
+    note: "Pratishthana, named by Ptolemy as the capital of the Andhra king Pulumayi."
+    references:
+      - source: "imperial-gazetteer-1909"
+        locator: "19:318"
+capitals:
+  - to: "paithan"
+    note: "Capital of Pulumayi according to Ptolemy, as the Gazetteer reports."
+    references:
+      - source: "imperial-gazetteer-1909"
+        locator: "19:318"
+rulers:
+  - name:
+      text: "Simuka"
+      lang: "en"
+      script: "Latn"
+    attested: true
+    note: "Named in the Nanaghat inscription (Smith)."
+    references:
+      - source: "smith-early-history-1914"
+        locator: "216"
+  - name:
+      text: "Satakarni I"
+      lang: "en"
+      script: "Latn"
+    attested: true
+    note: "Named in the Nanaghat inscriptions and in Kharavela's Hathigumpha inscription."
+    references:
+      - source: "smith-early-history-1914"
+        locator: "208"
+  - name:
+      text: "Pulumayi"
+      lang: "en"
+      script: "Latn"
+    attested: true
+    note: "Named by Ptolemy as ruling at Pratishthana."
+    references:
+      - source: "imperial-gazetteer-1909"
+        locator: "19:318"
+historical_time:
+  start: -230
+  end: 225
+  precision: "century"
+  confidence: "low"
+  note: "Smith: the independent Andhra dynasty began about 240 or 230 BC and ended about AD 225. Both ends are uncertain."
+  references:
+    - source: "smith-early-history-1914"
+      locator: "205"
+    - source: "smith-early-history-1914"
+      locator: "212"
+summary_beginner: "A long-lived dynasty of the Deccan, called Andhra in the Puranas, which ruled from Pratishthana (Paithan) on the Godavari."
+summary_scholar: "The Puranas place the whole dynasty after the Kanvas; Smith argues from the Nanaghat and Hathigumpha inscriptions that it began much earlier. The Puranic Andhra list is a separate record."
+references:
+  - source: "smith-early-history-1914"
+    locator: "205"
+  - source: "smith-early-history-1914"
+    locator: "208"
+  - source: "smith-early-history-1914"
+    locator: "212"

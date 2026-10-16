@@ -1,0 +1,32 @@
+slug: buddhist-great-departure
+names:
+  - text: The Great Renunciation
+    lang: en
+    script: Latn
+participants:
+  - entity: siddhartha-gautama
+    role: leaves his palace at midnight on the horse Kanthaka
+  - entity: yashodhara
+    role: asleep with her hand on her son's head
+  - entity: rahula
+    role: the infant son whom he does not wake
+places:
+  - kapilavastu
+narrative_order:
+  text: nidanakatha
+  position: 50
+  section: intermediate-epoch
+variant: buddhist-nidanakatha-account
+same_story_as:
+  - buddhist-great-departure-buddhacarita
+traditions:
+  - buddhist
+  - theravada
+summary_beginner: In the Nidanakatha the prince looks in on his sleeping wife and son but does not
+  wake them, and rides out at midnight on Kanthaka with Channa holding the tail. Mara tempts him with
+  empire and he refuses. At the river Anoma he cuts off his hair, which Sakka enshrines in the
+  Tavatimsa heaven, puts on a mendicant's robes and sends Channa home; Kanthaka dies of grief and is
+  reborn as a god.
+references:
+  - source: rhys-davids-buddhist-birth-stories
+    locator: "82-87"

@@ -1,0 +1,28 @@
+slug: "gupta-period"
+names:
+  - text: "Gupta period"
+    lang: "en"
+    script: "Latn"
+kind: "political"
+historical_time:
+  start: 320
+  end: 550
+  precision: "decade"
+  confidence: "medium"
+  note: "Start: the Gupta era, whose first year began in AD 320, taken as Chandragupta I's coronation (Smith). End: the empire broke up after the Hun wars of the later fifth century; the Gazetteer says it had fallen more than a century before Xuanzang's visit of 637. The end is a rounded bracket."
+  references:
+    - source: "smith-early-history-1914"
+      locator: "280"
+    - source: "smith-early-history-1914"
+      locator: "327"
+    - source: "imperial-gazetteer-1909"
+      locator: "20:68"
+summary_beginner: "The age of the Gupta emperors, from Chandragupta I in 320 CE, often remembered for its art, literature and science."
+summary_scholar: "The chronology rests on dated inscriptions and coins in the Gupta era (Smith's chronological table). The decline is linked with the Hun invasions after 455."
+references:
+  - source: "smith-early-history-1914"
+    locator: "280"
+  - source: "smith-early-history-1914"
+    locator: "327"
+  - source: "imperial-gazetteer-1909"
+    locator: "20:68"

@@ -1,0 +1,19 @@
+slug: devadatta
+names:
+  - text: Devadatta
+    lang: en
+    script: Latn
+kinds:
+  - human
+traditions:
+  - buddhist
+summary_beginner: A Sakya who joined the order with Ananda and others. In the Vinaya he later tries
+  to kill the Buddha - by hired men, by hurling a rock from the Vulture's Peak and by loosing the
+  elephant Nalagiri - and then splits the order.
+references:
+  - source: oldenberg-rhys-davids-vinaya-sbe20
+    locator: "Cullavagga VII.1.4"
+  - source: oldenberg-rhys-davids-vinaya-sbe20
+    locator: "Cullavagga VII.3.9"
+  - source: oldenberg-rhys-davids-vinaya-sbe20
+    locator: "Cullavagga VII.3.11-12"

@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { EB_Garamond, Noto_Serif_Devanagari } from "next/font/google";
+import { EB_Garamond, Noto_Serif_Devanagari, Noto_Serif_Tamil } from "next/font/google";
 import { hasLocale, NextIntlClientProvider } from "next-intl";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { notFound } from "next/navigation";
@@ -15,6 +15,12 @@ const latinSerif = EB_Garamond({
 const devanagari = Noto_Serif_Devanagari({
   subsets: ["devanagari"],
   variable: "--font-devanagari",
+  display: "swap",
+});
+
+const tamil = Noto_Serif_Tamil({
+  subsets: ["tamil"],
+  variable: "--font-tamil",
   display: "swap",
 });
 
@@ -45,7 +51,7 @@ export default async function RootLayout({
   const t = await getTranslations({ locale, namespace: "a11y" });
 
   return (
-    <html lang={locale} className={`${latinSerif.variable} ${devanagari.variable}`}>
+    <html lang={locale} className={`${latinSerif.variable} ${devanagari.variable} ${tamil.variable}`}>
       <body className="min-h-dvh font-serif antialiased">
         <a
           href="#main"

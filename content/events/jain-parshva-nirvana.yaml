@@ -1,0 +1,19 @@
+slug: "jain-parshva-nirvana"
+names:
+  - text: "Parshva's nirvana on Mount Sammeta (Kalpa Sutra)"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "parshvanatha"
+places:
+  - "parasnath"
+narrative_order:
+  text: "kalpa-sutra"
+  position: 168
+traditions:
+  - "jain"
+summary_beginner: "At the age of a hundred, after fasting a month without water, Parshva reaches final liberation on the summit of Mount Sammeta in the company of eighty-three persons."
+summary_scholar: "Sammeta is identified with Parasnath Hill by Jain tradition (see the place record)."
+references:
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 168, p. 275"

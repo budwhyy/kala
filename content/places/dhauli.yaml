@@ -1,0 +1,50 @@
+slug: "dhauli"
+names:
+  - text: "Dhauli"
+    lang: "en"
+    script: "Latn"
+realm: "terrestrial"
+kind: "site"
+confidence: "verified"
+geometry:
+  type: "Point"
+  coordinates:
+    - 85.83
+    - 20.25
+modern_admin:
+  country: "India"
+  region: "Odisha"
+  district: "Khordha"
+  nearest_city: "Bhubaneswar"
+evidence:
+  - type: "historical"
+    summary: "A rock on a hill about seven miles south of Bhubaneswar bears a version of Ashoka's rock-edicts in which edicts XII and XIII are replaced by two separate edicts; the forepart of an elephant is carved above."
+    references:
+      - source: "imperial-gazetteer-1909"
+        locator: "11:317-318"
+      - source: "hultzsch-inscriptions-asoka"
+        locator: "xiii"
+related_places:
+  - to: "kalinga"
+    relation: "part_of"
+    note: "Dhauli lies in the region of Kalinga."
+    references:
+      - source: "imperial-gazetteer-1909"
+        locator: "11:317-318"
+historical_time:
+  - start: -268
+    end: -232
+    precision: "decade"
+    confidence: "medium"
+    note: "Ashoka's reign (Hultzsch's working dates and Smith)."
+    references:
+      - source: "hultzsch-inscriptions-asoka"
+        locator: "xxxvi"
+      - source: "smith-early-history-1914"
+        locator: "155"
+summary_beginner: "A hill near Bhubaneswar in Odisha with a set of Ashoka's rock-edicts and a rock-cut elephant, in the land of Kalinga that Ashoka conquered."
+references:
+  - source: "imperial-gazetteer-1909"
+    locator: "11:317-318"
+  - source: "hultzsch-inscriptions-asoka"
+    locator: "xiii"

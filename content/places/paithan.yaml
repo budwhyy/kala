@@ -1,0 +1,40 @@
+slug: "paithan"
+names:
+  - text: "Paithan"
+    lang: "en"
+    script: "Latn"
+  - text: "Pratishthana"
+    lang: "en"
+    script: "Latn"
+realm: "terrestrial"
+kind: "city"
+confidence: "verified"
+geometry:
+  type: "Point"
+  coordinates:
+    - 75.4
+    - 19.47
+modern_admin:
+  country: "India"
+  region: "Maharashtra"
+  district: "Aurangabad"
+evidence:
+  - type: "historical"
+    summary: "The Gazetteer identifies Paithan with ancient Pratisthan; second-century BC inscriptions in the Pitalkhora caves mention its king and merchants, Ptolemy names it as the capital of the Andhra king Pulumayi, and the Periplus calls it a great trade centre."
+    references:
+      - source: "imperial-gazetteer-1909"
+        locator: "19:318"
+historical_time:
+  - start: -200
+    end: 250
+    precision: "century"
+    confidence: "low"
+    note: "From the second-century BC Pitalkhora inscriptions to Ptolemy's time."
+    references:
+      - source: "imperial-gazetteer-1909"
+        locator: "19:318"
+summary_beginner: "A town on the Godavari, ancient Pratishthana, remembered as a capital of the Satavahana (Andhra) kings."
+summary_scholar: "Almost all traces of the ancient city have gone, the Gazetteer notes; the identification rests on the name and on classical and epigraphic notices."
+references:
+  - source: "imperial-gazetteer-1909"
+    locator: "19:318"

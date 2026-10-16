@@ -1,0 +1,38 @@
+slug: ayutthaya
+names:
+  - text: Ayutthaya
+    lang: en
+    script: Latn
+  - text: Ayuthia
+    lang: en
+    script: Latn
+realm: terrestrial
+kind: city
+confidence: verified
+geometry:
+  type: Point
+  coordinates: [100.57, 14.35]
+modern_admin:
+  country: Thailand
+  region: Phra Nakhon Si Ayutthaya
+evidence:
+  - type: historical
+    summary: The 1911 Britannica says Ayuthia rose in 1350 on the ruins of Sano and became the capital of the first king of all Siam. After its fall, the capital moved to Bangkok.
+    references:
+      - source: britannica-1911
+        locator: "24: Siam"
+traditions:
+  - buddhist
+historical_time:
+  - start: 1350
+    end: 1350
+    precision: year
+    confidence: medium
+    note: Founding year as the 1911 Britannica gives it. The year of the city's fall is not stated in the article read, so no end of the capital period is stored.
+    references:
+      - source: britannica-1911
+        locator: "24: Siam"
+summary_beginner: The old Siamese royal capital, founded in 1350, before the capital moved to Bangkok.
+references:
+  - source: britannica-1911
+    locator: "24: Siam"

@@ -1,0 +1,20 @@
+slug: "jain-madhya-loka"
+names:
+  - text: "Madhya-loka (Jain middle world)"
+    lang: "en"
+    script: "Latn"
+  - text: "मध्यलोक"
+    lang: "sa"
+    script: "Deva"
+    iast: "Madhyaloka"
+realm: "cosmological"
+kind: "realm"
+confidence: "mythical"
+traditions:
+  - "jain"
+summary_beginner: "The middle world of Jain cosmology, made of numberless continents and oceans with auspicious names, each a ring around the one before it and twice its breadth."
+references:
+  - source: "jaini-tattvartha-sutra-1920"
+    locator: "Chapter III, sutra 7, p. 83"
+  - source: "jaini-tattvartha-sutra-1920"
+    locator: "Chapter III, sutra 8, p. 84"

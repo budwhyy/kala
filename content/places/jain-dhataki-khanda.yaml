@@ -1,0 +1,27 @@
+slug: "jain-dhataki-khanda"
+names:
+  - text: "Dhataki Khanda (Jain continent)"
+    lang: "en"
+    script: "Latn"
+  - text: "धातकीखण्ड"
+    lang: "sa"
+    script: "Deva"
+    iast: "Dhātakīkhaṇḍa"
+realm: "cosmological"
+kind: "island"
+confidence: "mythical"
+related_places:
+  - to: "jain-madhya-loka"
+    relation: "part_of"
+    note: "The second continent of the middle world."
+    references:
+      - source: "jaini-tattvartha-sutra-1920"
+        locator: "Chapter III, sutra 7, p. 83"
+traditions:
+  - "jain"
+summary_beginner: "The second continent of the Jain middle world, ringing the salt ocean, four lakh yojanas broad in the Tattvartha Sutra."
+references:
+  - source: "jaini-tattvartha-sutra-1920"
+    locator: "Chapter III, sutra 7, p. 83"
+  - source: "jaini-tattvartha-sutra-1920"
+    locator: "Chapter III, sutra 8, p. 84"

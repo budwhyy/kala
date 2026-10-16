@@ -1,0 +1,27 @@
+slug: "jain-lavana-samudra"
+names:
+  - text: "Lavana Samudra (Jain salt ocean)"
+    lang: "en"
+    script: "Latn"
+  - text: "लवणसमुद्र"
+    lang: "sa"
+    script: "Deva"
+    iast: "Lavaṇasamudra"
+realm: "cosmological"
+kind: "other"
+confidence: "mythical"
+related_places:
+  - to: "jain-madhya-loka"
+    relation: "part_of"
+    note: "The first ocean of the middle world."
+    references:
+      - source: "jaini-tattvartha-sutra-1920"
+        locator: "Chapter III, sutra 7, p. 83"
+traditions:
+  - "jain"
+summary_beginner: "The salt ocean that rings Jambudvipa in the Tattvartha Sutra, two lakh yojanas broad."
+references:
+  - source: "jaini-tattvartha-sutra-1920"
+    locator: "Chapter III, sutra 7, p. 83"
+  - source: "jaini-tattvartha-sutra-1920"
+    locator: "Chapter III, sutra 8, p. 84"

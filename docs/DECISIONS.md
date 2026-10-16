@@ -222,3 +222,12 @@ Architectural decisions, newest last. Each entry: timestamp (UTC), decision, why
 - **Decision:** production is the Vercel project `kala` (root `apps/web`, Node 22, connected to GitHub
   for automatic deploys): https://kala-rosy-one.vercel.app. The brief allows Vercel (§0).
 - **Why:** Netlify marked the Phase 3 builds "Skipped" (twice) and the owner chose Vercel instead.
+
+## 2026-10-16 — Phase 4: reach, not borders; typed transmissions; Tamil
+
+- **Decision:** historical states are drawn as soft areas around their attested sites (padded convex
+  hull), with the site count in the label. Transmissions carry one of five types; disputed links are
+  `uncertain_hypothesis`. Modern countries appear only for orientation. Tamil is the third UI language;
+  content descriptions stay English.
+- **Why:** brief §6.8 forbids invented borders and presenting modern nations as heirs; §9 asks for
+  expanded languages. Tamil adds a second major script family with a long Ramayana tradition.

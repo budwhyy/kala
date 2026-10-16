@@ -51,7 +51,9 @@
     "networks": "Pilgrimage network",
     "journeys": "Journey",
     "routes": "Journey route",
-    "battlefields": "Battlefield"
+    "battlefields": "Battlefield",
+    "periods": "Period",
+    "transmissions": "Transmission"
   },
   "common": {
     "scholarly": "Scholarly detail",

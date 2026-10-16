@@ -1,0 +1,28 @@
+slug: buddhist-great-departure-buddhacarita
+names:
+  - text: The prince leaves Kapilavastu (Buddhacarita)
+    lang: en
+    script: Latn
+participants:
+  - entity: siddhartha-gautama
+    role: rides out at night and vows not to return until he has crossed birth and death
+places:
+  - kapilavastu
+narrative_order:
+  text: buddhacarita
+  position: 30
+  section: books-1-5
+variant: buddhist-buddhacarita-account
+same_story_as:
+  - buddhist-great-departure
+traditions:
+  - buddhist
+summary_beginner: In Asvaghosha's poem the prince mounts his white horse at night; the barred gates
+  open silently, and looking back he vows not to enter the city again until he has seen the far
+  shore of birth and death. At sunrise he reaches a hermitage, dismounts and speaks to his groom
+  Chandaka.
+references:
+  - source: cowell-buddhacarita-sbe49
+    locator: "5.79-87"
+  - source: cowell-buddhacarita-sbe49
+    locator: "6.1-4"

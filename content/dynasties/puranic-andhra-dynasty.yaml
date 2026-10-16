@@ -1,0 +1,29 @@
+slug: puranic-andhra-dynasty
+names:
+  - text: "Andhra (Andhrabhritya) dynasty (Puranic list)"
+    lang: en
+    script: Latn
+  - text: आन्ध्र
+    lang: sa
+    script: Deva
+    iast: Āndhra
+kind: legendary
+lineage_type: other
+kingdoms:
+  - to: puranic-andhra-kingdom
+    note: "An Andhra servant of the last Kanva kills him and seizes the kingdom."
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.24"
+      - source: pargiter-dynasties-kali-age
+        locator: "71-72"
+variant: puranic-kali-kings-vishnu-purana
+traditions:
+  - puranic
+summary_beginner: "In the Puranas' prophecy, the Andhra kings, beginning with Shipraka or Simuka, who overthrow the last Kanva."
+summary_scholar: "The Vishnu Purana says thirty Andhrabhritya kings will reign 456 years but names twenty-four, ending with Pulomarchis. Pargiter's collated text names thirty kings and gives 460 years; Wilson reports that the Matsya has 29 kings and 460 years. Many names in these lists are Satakarnis and Pulumavis. The Puranic account is separate from the historical Satavahana polity."
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.24"
+  - source: pargiter-dynasties-kali-age
+    locator: "71-72"

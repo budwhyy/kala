@@ -1,0 +1,28 @@
+slug: cowell-jataka
+title: "The Jataka, or Stories of the Buddha's Former Births (6 vols)"
+text: jataka
+kind: translation
+creators:
+  - E. B. Cowell (editor)
+  - Robert Chalmers (vol. 1)
+  - W. H. D. Rouse (vols. 2 and 4)
+  - H. T. Francis (vols. 3 and 5)
+  - R. A. Neil (vol. 3)
+language: en
+published:
+  year: 1895
+  end_year: 1907
+  publisher: Cambridge University Press
+  place: Cambridge
+licence: public_domain
+licence_note:
+  "Verified. Title pages read in archive.org full-text scans: vol. 3 (in.ernet.dli.2015.18000),
+  'translated by H. T. Francis and R. A. Neil', Cambridge, University Press, 1897; vol. 4
+  (dli.ernet.18111), Cambridge University Press Warehouse (C. J. Clay and Sons), with the Dasaratha-Jataka
+  (No. 461) at pp. 78-82 and an editorial note that it is Rouse's volume (1901). Published 1895-1907,
+  before 1931 (US public domain). Death years of the translators (Cowell 1903, Neil 1901, Francis 1936,
+  Chalmers 1938, Rouse 1950) are from general knowledge and still to check against a catalogue; all are
+  before 1956. Locator format: volume:pages, with the Jataka number in a note."
+url: https://archive.org/details/dli.ernet.18111
+traditions:
+  - buddhist

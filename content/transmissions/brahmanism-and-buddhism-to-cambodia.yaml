@@ -1,0 +1,25 @@
+slug: brahmanism-and-buddhism-to-cambodia
+names:
+  - text: Brahmanism and Buddhism in the Khmer lands
+    lang: en
+    script: Latn
+type: direct
+from_tradition: hindu
+to_tradition: hindu
+to_place: angkor-wat
+historical_time:
+  start: 401
+  end: 500
+  precision: century
+  confidence: low
+  note: The 1911 Britannica says Hinduising influence grew stronger around the fifth century; it does not date the first arrival.
+  references:
+    - source: britannica-1911
+      locator: "5: Cambodia"
+summary_beginner: Settlers from the east coast of India brought Brahmanical religion and the Sanskrit language to the Khmer lands. Brahmanism was the official religion until Buddhism, present for centuries, rose to rival it from the tenth century.
+summary_scholar: The 1911 Britannica states the Indian origin of Khmer Brahmanism and Sanskrit and notes that court Brahmans still performed official functions. Angkor Wat, first dedicated to Brahma and later to the Buddha, is used to place this on the map. The Khmer kingdom is not presented as the ancestor of the modern state.
+references:
+  - source: britannica-1911
+    locator: "5: Cambodia"
+  - source: britannica-1911
+    locator: "2: Angkor"

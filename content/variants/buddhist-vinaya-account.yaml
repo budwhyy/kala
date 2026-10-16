@@ -1,0 +1,12 @@
+slug: buddhist-vinaya-account
+names:
+  - text: "Vinaya account (Cullavagga)"
+    lang: en
+    script: Latn
+kind: account
+tradition: theravada
+text: vinaya-pitaka
+description: "Episodes of the Buddha's ministry as the Pali Vinaya tells them in the Cullavagga, in Rhys Davids' and Oldenberg's translation."
+references:
+  - source: oldenberg-rhys-davids-vinaya-sbe20
+    locator: "Cullavagga X.1.1"

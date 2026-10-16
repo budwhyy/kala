@@ -1,0 +1,21 @@
+slug: "jain-mahavira-renunciation"
+names:
+  - text: "Mahavira's renunciation (Kalpa Sutra)"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "mahavira"
+  - entity: "nandivardhana"
+    role: "gives permission"
+places: []
+narrative_order:
+  text: "kalpa-sutra"
+  position: 116
+traditions:
+  - "jain"
+summary_beginner: "After his parents' death, at thirty, Mahavira gives away his wealth with his elder brother's permission. Carried in a palanquin to a park, he takes off his ornaments under an Ashoka tree, plucks out his hair in five handfuls, and leaves home for the homeless life."
+references:
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 110, p. 256"
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 115-116, p. 258-259"

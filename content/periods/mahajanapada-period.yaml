@@ -1,0 +1,24 @@
+slug: "mahajanapada-period"
+names:
+  - text: "Mahajanapada period"
+    lang: "en"
+    script: "Latn"
+kind: "political"
+historical_time:
+  start: -600
+  end: -322
+  precision: "century"
+  confidence: "low"
+  note: "Smith begins about 600 BC, when Buddhist traditions (compiled perhaps in the fourth or fifth century BC, looking back) list sixteen states from Gandhara southwards. The period ends with the Maurya accession, which Smith puts in 322 BC."
+  references:
+    - source: "smith-early-history-1914"
+      locator: "28-29"
+    - source: "smith-early-history-1914"
+      locator: "44"
+summary_beginner: "The age of the sixteen 'great states' (mahajanapadas) of early Buddhist and Jain lists, before Magadha united much of north India."
+summary_scholar: "Known mainly from later Buddhist and Jain traditions; Smith notes the lists were compiled after the time they describe."
+references:
+  - source: "smith-early-history-1914"
+    locator: "28-29"
+  - source: "smith-early-history-1914"
+    locator: "44"

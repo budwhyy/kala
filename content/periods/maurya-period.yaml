@@ -1,0 +1,26 @@
+slug: "maurya-period"
+names:
+  - text: "Maurya period"
+    lang: "en"
+    script: "Latn"
+kind: "political"
+historical_time:
+  start: -322
+  end: -185
+  precision: "decade"
+  confidence: "medium"
+  note: "Smith: Chandragupta's accession 322 BC and, counting the Puranic 137 years, the dynasty's end about 185 BC. Hultzsch uses 320 BC as a working date for Chandragupta's coronation (between Alexander's death in 323 and the treaty with Seleucus about 304)."
+  references:
+    - source: "smith-early-history-1914"
+      locator: "193"
+    - source: "hultzsch-inscriptions-asoka"
+      locator: "xxxv-xxxvi"
+summary_beginner: "The age of the first empire to cover most of the subcontinent, ruled from Pataliputra by Chandragupta, Bindusara and Ashoka."
+summary_scholar: "Dated by Greek synchronisms (Seleucus, and the Hellenistic kings named in Ashoka's thirteenth rock-edict) rather than by Indian records; the end date rests on the Puranic total of 137 years."
+references:
+  - source: "smith-early-history-1914"
+    locator: "193"
+  - source: "hultzsch-inscriptions-asoka"
+    locator: "xxxv-xxxvi"
+  - source: "hultzsch-inscriptions-asoka"
+    locator: "xxx"

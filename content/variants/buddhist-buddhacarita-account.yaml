@@ -1,0 +1,12 @@
+slug: buddhist-buddhacarita-account
+names:
+  - text: "Buddhacarita account (Asvaghosha, Books I-XIII)"
+    lang: en
+    script: Latn
+kind: account
+tradition: buddhist
+text: buddhacarita
+description: "The life of the Buddha in Asvaghosha's Sanskrit poem, as far as the old poem survives (Books I-XIII in Cowell's translation). The later supplement of 1830 is not used."
+references:
+  - source: cowell-buddhacarita-sbe49
+    locator: "1.1"

@@ -51,7 +51,9 @@
     "networks": "तीर्थ-समूह",
     "journeys": "यात्रा",
     "routes": "यात्रा-मार्ग",
-    "battlefields": "युद्धक्षेत्र"
+    "battlefields": "युद्धक्षेत्र",
+    "periods": "काल-खंड",
+    "transmissions": "संचरण"
   },
   "common": {
     "scholarly": "विद्वानों के लिए विस्तृत विवरण",

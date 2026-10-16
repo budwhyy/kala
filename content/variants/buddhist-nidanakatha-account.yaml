@@ -1,0 +1,12 @@
+slug: buddhist-nidanakatha-account
+names:
+  - text: "Nidanakatha account"
+    lang: en
+    script: Latn
+kind: account
+tradition: theravada
+text: nidanakatha
+description: "The life of the Buddha as told in the Pali Nidanakatha, the introduction to the Jataka commentary, in Rhys Davids' translation."
+references:
+  - source: rhys-davids-buddhist-birth-stories
+    locator: "2-3"

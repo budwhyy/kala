@@ -40,6 +40,13 @@ const PAGES = [
   "/route/rama-exile-route-valmiki?view=list",
   "/hi/epic/mahabharata",
   "/hi/battlefield/kurukshetra-war",
+  "/atlas?view=list",
+  "/atlas?period=maurya-period&view=list",
+  "/civilization?view=list",
+  "/period/maurya-period",
+  "/transmission/ramayana-to-dasaratha-jataka",
+  "/kingdom/maurya-empire",
+  "/ta/atlas?view=list",
 ];
 
 for (const path of PAGES) {

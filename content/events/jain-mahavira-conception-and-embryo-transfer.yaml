@@ -1,0 +1,30 @@
+slug: "jain-mahavira-conception-and-embryo-transfer"
+names:
+  - text: "Mahavira's descent and the transfer of his embryo (Kalpa Sutra)"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "mahavira"
+  - entity: "devananda"
+    role: "first carries the embryo"
+  - entity: "trishala"
+    role: "receives the embryo"
+  - entity: "siddhartha-jain-king"
+places:
+  - "jain-bharata-kshetra"
+narrative_order:
+  text: "kalpa-sutra"
+  position: 2
+variant: "jain-embryo-transfer-svetambara"
+traditions:
+  - "jain"
+summary_beginner: "In the Kalpa Sutra, Mahavira descends from the heavenly palace Pushpottara into the womb of the Brahmin woman Devananda. The god Shakra, holding that a Tirthankara should be born into a Kshatriya family, has the embryo moved to the womb of Trishala, wife of Siddhartha, in the Kshatriya part of Kundagrama. Trishala then sees fourteen auspicious dreams."
+summary_scholar: "Jacobi notes that the Digambaras reject this story as absurd while the Svetambaras uphold it; he offers his own conjecture about its origin, which is not stored here."
+references:
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 2, p. 218-219"
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 20-21, p. 226-227"
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Introduction, p. xxxi"
+    note: "Footnote 2: upheld by Svetambaras, rejected by Digambaras."

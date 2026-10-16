@@ -1,0 +1,14 @@
+slug: "ashvasena"
+names:
+  - text: "Ashvasena"
+    lang: "en"
+    script: "Latn"
+kinds:
+  - "human"
+  - "king"
+traditions:
+  - "jain"
+summary_beginner: "King of Benares and father of Parshva in the Kalpa Sutra."
+references:
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 150, p. 271"

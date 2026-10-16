@@ -1,0 +1,31 @@
+slug: buddhist-sasa-jataka
+names:
+  - text: Sasa Jataka (No. 316) - the hare in the moon
+    lang: en
+    script: Latn
+participants:
+  - entity: siddhartha-gautama
+    role: tells the story and identifies himself as the wise hare
+  - entity: ananda
+    role: the otter in that birth, by the Jataka's identification
+  - entity: maudgalyayana
+    role: the jackal in that birth, by the Jataka's identification
+  - entity: shariputra
+    role: the monkey in that birth, by the Jataka's identification
+narrative_order:
+  text: jataka
+  position: 316
+variant: buddhist-jataka-account
+traditions:
+  - buddhist
+  - theravada
+summary_beginner:
+  A hare, wise among his friends the otter, jackal and monkey, resolves on a fast-day
+  that, having only grass, he will give his own body to any beggar. Sakka comes disguised as a brahmin
+  to test him; the others offer food they have found, but the hare leaps into the fire Sakka makes,
+  which does not burn him. Sakka paints the sign of the hare on the moon so that his virtue is known.
+  The Buddha tells it at Jetavana in praise of a lay follower's generous gifts.
+references:
+  - source: cowell-jataka
+    locator: "3:34-37"
+    note: Jataka No. 316, translated by H. T. Francis.

@@ -1,0 +1,40 @@
+slug: "chandragupta-maurya"
+names:
+  - text: "Chandragupta Maurya"
+    lang: "en"
+    script: "Latn"
+  - text: "चन्द्रगुप्त मौर्य"
+    lang: "sa"
+    script: "Deva"
+    iast: "Candragupta Maurya"
+  - text: "Sandrokottos (Greek)"
+    lang: "en"
+    script: "Latn"
+kinds:
+  - "human"
+  - "king"
+traditions:
+  - "puranic"
+  - "buddhist"
+summary_beginner: "Founder of the Maurya empire, who took power in Magadha after Alexander's invasion and made peace with Seleucus."
+summary_scholar: "Known from Greek writers (Megasthenes was sent to his court) and Indian traditions; Rudradaman's Girnar inscription names his governor Pushyagupta, who built the Sudarshana lake. Hultzsch's working dates: about 320-296 BC; Smith puts the accession in 322 BC. The Puranas and the Ceylon chronicles agree on a reign of 24 years."
+historical_time:
+  - start: -322
+    end: -296
+    precision: "decade"
+    confidence: "medium"
+    note: "Accession between 323 (Alexander's death) and about 304 (treaty with Seleucus); Hultzsch's working reign 320-296 BC, Smith's accession 322 BC."
+    references:
+      - source: "hultzsch-inscriptions-asoka"
+        locator: "xxxv"
+      - source: "smith-early-history-1914"
+        locator: "44"
+references:
+  - source: "hultzsch-inscriptions-asoka"
+    locator: "ix"
+  - source: "hultzsch-inscriptions-asoka"
+    locator: "xxxii"
+  - source: "hultzsch-inscriptions-asoka"
+    locator: "xxxv"
+  - source: "smith-early-history-1914"
+    locator: "44"

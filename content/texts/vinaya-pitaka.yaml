@@ -1,0 +1,16 @@
+slug: vinaya-pitaka
+names:
+  - text: Vinaya Pitaka
+    lang: en
+    script: Latn
+  - text: Vinaya Piṭaka
+    lang: pi
+    script: Latn
+    iast: Vinaya Piṭaka
+genre: buddhist_canon
+original_language: pi
+traditions:
+  - buddhist
+  - theravada
+summary_beginner: The part of the Pali canon on the discipline of the monastic order. Its rules
+  are set in stories of how each came to be made, including episodes from the Buddha's life.

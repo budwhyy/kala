@@ -1,0 +1,43 @@
+slug: anuradhapura
+names:
+  - text: Anuradhapura
+    lang: en
+    script: Latn
+realm: terrestrial
+kind: city
+confidence: verified
+geometry:
+  type: Point
+  coordinates: [80.40, 8.31]
+modern_admin:
+  country: Sri Lanka
+  region: North Central Province
+evidence:
+  - type: archaeological
+    summary: The 1911 Britannica describes the ruined city, uncovered by jungle clearing, with bell-shaped dagobas, monastic buildings including the Brazen Palace, and a sacred Bo tree.
+    references:
+      - source: britannica-1911
+        locator: "2: Anuradhapura"
+  - type: historical
+    summary: Fa-hien, who stayed in Ceylon in the early fifth century, describes the royal city with the Abhayagiri monastery of five thousand monks and a tree grown from a slip a former king obtained from Central India. Legge's notes identify it with the Bo tree that still survives in Ceylon.
+    references:
+      - source: legge-fa-hien
+        locator: "38"
+traditions:
+  - buddhist
+historical_time:
+  - start: -500
+    end: 769
+    precision: period
+    confidence: low
+    note: The 1911 Britannica says it became the capital in the fifth century BCE and was abandoned as a royal residence in 769 CE. The start is a round figure for that century.
+    references:
+      - source: britannica-1911
+        locator: "2: Anuradhapura"
+summary_beginner: The ancient royal capital of Sri Lanka, full of great Buddhist stupas and monasteries, with a sacred Bo tree said to come from India.
+summary_scholar: The ruins and Fa-hien's description are historical evidence for the city and its monasteries. The tradition that its Bo tree grew from a cutting of the tree of the Buddha's awakening is recorded here, not verified.
+references:
+  - source: britannica-1911
+    locator: "2: Anuradhapura"
+  - source: legge-fa-hien
+    locator: "38"

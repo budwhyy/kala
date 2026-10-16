@@ -1,0 +1,50 @@
+slug: "mohenjo-daro"
+names:
+  - text: "Mohenjo-daro"
+    lang: "en"
+    script: "Latn"
+  - text: "Moenjodaro"
+    lang: "en"
+    script: "Latn"
+realm: "terrestrial"
+kind: "site"
+confidence: "verified"
+geometry:
+  type: "Point"
+  coordinates:
+    - 68.13
+    - 27.32
+modern_admin:
+  country: "Pakistan"
+  region: "Sindh"
+  district: "Larkana"
+evidence:
+  - type: "archaeological"
+    summary: "A huge city built of unbaked brick in the third millennium BC, with a citadel on high embankments, ramparts and a strictly planned lower town (UNESCO, inscribed 1980). Marshall gives its position on the 'Island' between the Indus and the Western Nara loop and tells how R. D. Banerji's digging beneath a Buddhist stupa revealed the older city."
+    references:
+      - source: "unesco-world-heritage-centre"
+        locator: "list/138"
+      - source: "marshall-mohenjo-daro-1931"
+        locator: "1:1"
+      - source: "marshall-mohenjo-daro-1931"
+        locator: "1:11"
+historical_time:
+  - start: -3000
+    end: -2001
+    precision: "century"
+    confidence: "low"
+    note: "UNESCO: built in the third millennium BC. Marshall's 1931 bracket (about 3250-2750 BC) was provisional."
+    references:
+      - source: "unesco-world-heritage-centre"
+        locator: "list/138"
+      - source: "marshall-mohenjo-daro-1931"
+        locator: "1:104"
+summary_beginner: "One of the largest cities of the Indus civilisation, in Sindh, Pakistan, famous for its planned streets, drains and the Great Bath. Its identification as a Harappan site is archaeological; any link to places or peoples in the Vedas or Puranas is debated and is not made here."
+summary_scholar: "Marshall provisionally dated the occupation to about 3250-2750 BC from seals found in Mesopotamia; later work revised this. He argued the Indus civilisation was pre-Vedic; the relation remains debated. Archaeology alone defines this culture. Links between Harappan sites and Vedic or Puranic places and peoples are debated and are not asserted in KALA."
+references:
+  - source: "unesco-world-heritage-centre"
+    locator: "list/138"
+  - source: "marshall-mohenjo-daro-1931"
+    locator: "1:1"
+  - source: "marshall-mohenjo-daro-1931"
+    locator: "1:104"

@@ -1,0 +1,17 @@
+slug: "jain-mahavira-kevala"
+names:
+  - text: "Mahavira attains kevala (Kalpa Sutra)"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "mahavira"
+places: []
+narrative_order:
+  text: "kalpa-sutra"
+  position: 120
+traditions:
+  - "jain"
+summary_beginner: "After twelve years of austerities, in the thirteenth year, Mahavira sits in deep meditation under a Sal tree near the river Rijupalika outside Jrimbhikagrama, fasting without water, and attains kevala, the infinite and complete knowledge, becoming a Jina."
+references:
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 120, p. 263"

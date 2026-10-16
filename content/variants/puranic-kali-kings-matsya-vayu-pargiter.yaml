@@ -1,0 +1,11 @@
+slug: puranic-kali-kings-matsya-vayu-pargiter
+names:
+  - text: Kings of the Kali age (Matsya, Vayu and Brahmanda, as collated by Pargiter)
+    lang: en
+    script: Latn
+kind: account
+tradition: puranic
+description: The same prophecy as the Matsya, Vayu and Brahmanda Puranas give it, in Pargiter's 1913 collated text. These Puranas give reign lengths for each king, and they differ among themselves and from the Vishnu and Bhagavata in names, numbers of kings and totals; Pargiter records each reading in his notes.
+references:
+  - source: pargiter-dynasties-kali-age
+    locator: "65-72"

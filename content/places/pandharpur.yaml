@@ -1,0 +1,35 @@
+slug: pandharpur
+names:
+  - text: "Pandharpur"
+    lang: en
+    script: Latn
+  - text: "पंढरपूर"
+    lang: mr
+    script: Deva
+realm: terrestrial
+kind: tirtha
+confidence: traditional
+geometry:
+  type: Point
+  coordinates:
+    - 75.43
+    - 17.68
+modern_admin:
+  country: "India"
+  region: "Maharashtra"
+  district: "Solapur"
+evidence:
+  - type: historical
+    summary: "The Imperial Gazetteer places Pandharpur Town at 17 41' N, 75 26' E on the south bank of the Bhima, calls it one of the most frequented pilgrimage places of the Bombay Presidency, and describes the temple of Vithoba and its three annual fairs."
+    references:
+      - source: imperial-gazetteer-1909
+        locator: "19:390-391"
+traditions:
+  - vithoba-pandharpur
+  - vaishnava
+  - hindu
+summary_beginner: "A pilgrimage town on the Bhima river in Maharashtra, centred on the temple of Vithoba, whom devotees regard as a form of Vishnu."
+summary_scholar: "This record rests on the Gazetteer's description of the town and its fairs. It does not state when the temple was founded."
+references:
+  - source: imperial-gazetteer-1909
+    locator: "19:390-391"

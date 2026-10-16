@@ -1,0 +1,17 @@
+slug: "chandraprabha"
+names:
+  - text: "Chandraprabha"
+    lang: "en"
+    script: "Latn"
+  - text: "चन्द्रप्रभ"
+    lang: "sa"
+    script: "Deva"
+    iast: "Candraprabha"
+kinds:
+  - "human"
+traditions:
+  - "jain"
+summary_beginner: "Tirthankara number 8 of the present age in Jain teaching, as the Kalpa Sutra's list of the intermediate Tirthankaras implies. The Kalpa Sutra names him only in that list, by how long before a later Jina he died."
+references:
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 184-203, p. 280"

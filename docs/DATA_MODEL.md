@@ -274,3 +274,20 @@ the `links` graph include them.
 - **Family trees** are computed, not stored: each person appears once, under the parent the text names
   (legal father first, then biological, adoptive, foster…, divine last); every other parent, and every
   rival account's parent, is shown beside them with its variant.
+
+## 11. Phase 4 additions (history and the civilisation atlas)
+
+- **`periods`** (`content/periods/`): archaeological cultures, political eras and text-defined
+  periods (`kind`), each with one `historical_time` and an optional `parent`. Historical axis only.
+- **`transmissions`** (`content/transmissions/`): how a story or tradition reached another culture.
+  `type` is one of `direct`, `shared_ancestry`, `reinterpretation`, `independent_similarity`,
+  `uncertain_hypothesis`. Needs a source (`from_text` or `from_tradition`) and a target (`to_text` or
+  `to_tradition`); places are optional and only draw the map arc.
+- **`Kingdom.evidence_sites`**: places where inscriptions, coins or excavations attest a historical
+  polity (not allowed on `epic_legendary` kingdoms; places must be terrestrial with geometry). The
+  atlas draws a padded convex hull around them, labelled "approximate reach based on N attested
+  sites" — never a border. `extent` stays empty unless a scholarly source gives one.
+- **Puranic dynasty lists vs history:** the Puranas' "kings of the Kali age" are legendary records
+  linked by `same_name_as` to the historical polities; the two accounts never merge.
+- **Locales:** `en`, `hi`, `ta`. A Tamil name is shown when content has one (`lang: ta` or script
+  `Taml`), otherwise English — never a generated transliteration.

@@ -1,0 +1,17 @@
+slug: "jain-parshva-kevala"
+names:
+  - text: "Parshva attains kevala (Kalpa Sutra)"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "parshvanatha"
+places: []
+narrative_order:
+  text: "kalpa-sutra"
+  position: 159
+traditions:
+  - "jain"
+summary_beginner: "After eighty-three days of meditation, on the eighty-fourth day, Parshva attains kevala under a Dhataki tree."
+references:
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 159, p. 273"

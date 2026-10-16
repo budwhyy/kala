@@ -1,0 +1,54 @@
+slug: "taxila"
+names:
+  - text: "Taxila"
+    lang: "en"
+    script: "Latn"
+  - text: "तक्षशिला"
+    lang: "sa"
+    script: "Deva"
+    iast: "Takṣaśilā"
+realm: "terrestrial"
+kind: "city"
+confidence: "verified"
+geometry:
+  type: "Point"
+  coordinates:
+    - 72.83
+    - 33.75
+modern_admin:
+  country: "Pakistan"
+  region: "Punjab"
+  district: "Rawalpindi"
+evidence:
+  - type: "archaeological"
+    summary: "Marshall describes three successive cities within a few miles: the Bhir mound (oldest, occupied for centuries before the Greeks), Sirkap (the capital moved there in the early second century BC) and Sirsukh (built by the Kushans, probably under Kanishka)."
+    references:
+      - source: "marshall-guide-taxila-1918"
+        locator: "3-6"
+  - type: "historical"
+    summary: "Marshall says Taxila passed to the Maurya empire, revolted under Bindusara, and was governed by Ashoka as viceroy for his father."
+    references:
+      - source: "marshall-guide-taxila-1918"
+        locator: "11"
+kingdoms:
+  - to: "gandhara-mahajanapada"
+    note: "Taxila lay in the Gandhara region."
+    references:
+      - source: "marshall-guide-taxila-1918"
+        locator: "11"
+historical_time:
+  - start: -500
+    end: 500
+    precision: "century"
+    confidence: "low"
+    note: "Rough bracket for the three city sites as Marshall describes them; not a precise date."
+    references:
+      - source: "marshall-guide-taxila-1918"
+        locator: "3-6"
+summary_beginner: "An ancient city in the north-west of the subcontinent, on the road from Gandhara to the Ganges plain, with remains spanning Maurya, Indo-Greek, Shaka-Parthian and Kushan rule."
+summary_scholar: "Ashoka's viceroyalty at Taxila comes from later tradition reported by Marshall, not from an inscription read here."
+references:
+  - source: "marshall-guide-taxila-1918"
+    locator: "3-6"
+  - source: "marshall-guide-taxila-1918"
+    locator: "11"

@@ -1,0 +1,14 @@
+slug: buddhism-to-upper-burma
+names:
+  - text: Buddhism reaches Pagan (Upper Burma)
+    lang: en
+    script: Latn
+type: direct
+from_tradition: buddhist
+to_tradition: buddhist
+to_place: bagan
+summary_beginner: The 1911 Britannica says King Anawrahta of Pagan introduced Buddhism to Upper Burma, after conquering Thaton in Lower Burma, and brought Thaton's people to build pagodas on its models.
+summary_scholar: The source names Thaton as the immediate origin but gives no year for Anawrahta; Pagan's dynasty is dated 847-1298 in the same article. How Buddhism first reached Thaton is not addressed and is not claimed here.
+references:
+  - source: britannica-1911
+    locator: "20: Pagan (Burma)"

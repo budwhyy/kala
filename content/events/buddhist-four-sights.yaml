@@ -1,0 +1,30 @@
+slug: buddhist-four-sights
+names:
+  - text: The four sights (the Four Omens)
+    lang: en
+    script: Latn
+participants:
+  - entity: siddhartha-gautama
+    role: sees an old man, a sick man, a dead man and a mendicant
+  - entity: suddhodana
+    role: increases the guards and the entertainments to keep his son at home
+places:
+  - kapilavastu
+narrative_order:
+  text: nidanakatha
+  position: 30
+  section: intermediate-epoch
+variant: buddhist-nidanakatha-account
+same_story_as:
+  - buddhist-four-sights-buddhacarita
+traditions:
+  - buddhist
+  - theravada
+summary_beginner: In the Nidanakatha the gods show the prince, on his way to his pleasure garden, a
+  man worn by age, then a sick man, then a dead man, and each time he turns back troubled while the
+  king widens his guards. Last he sees a mendicant who has left the world, and his thoughts turn to
+  doing the same. The text notes that the reciters of the Digha Nikaya say he saw all four on one
+  day.
+references:
+  - source: rhys-davids-buddhist-birth-stories
+    locator: "76-78"

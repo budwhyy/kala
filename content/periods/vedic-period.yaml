@@ -1,0 +1,28 @@
+slug: "vedic-period"
+names:
+  - text: "Vedic period"
+    lang: "en"
+    script: "Latn"
+kind: "textual"
+historical_time:
+  start: -1500
+  end: -500
+  precision: "period"
+  confidence: "low"
+  note: "Macdonell (1900) calls Vedic chronology altogether conjectural, based only on internal evidence. He puts its beginning perhaps as early as 1500 BC, the oldest hymns perhaps 1300-1000 BC, and the lower limit of the second stratum no later than 500 BC (the latest phase reaching about 200 BC). He records and rejects higher estimates (2000 BC; Jacobi's 4000 BC). These are literary datings, not archaeology."
+  references:
+    - source: "macdonell-history-sanskrit-literature"
+      locator: "8"
+    - source: "macdonell-history-sanskrit-literature"
+      locator: "11"
+    - source: "macdonell-history-sanskrit-literature"
+      locator: "12"
+summary_beginner: "The age in which the Vedas were composed and handed down orally. It is dated only from the texts themselves, so its dates are rough scholarly estimates."
+summary_scholar: "A textual period, not an archaeological culture: its dates are inferred from language and doctrine. Macdonell's 1900 estimates are given with his own caveats. Identifying Vedic peoples or places with particular archaeological sites, including Harappan ones, is debated and is not asserted here."
+references:
+  - source: "macdonell-history-sanskrit-literature"
+    locator: "8"
+  - source: "macdonell-history-sanskrit-literature"
+    locator: "11"
+  - source: "macdonell-history-sanskrit-literature"
+    locator: "12"

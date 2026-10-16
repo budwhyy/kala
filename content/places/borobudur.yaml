@@ -1,0 +1,30 @@
+slug: borobudur
+names:
+  - text: Borobudur
+    lang: en
+    script: Latn
+  - text: Boro Budur
+    lang: nl
+    script: Latn
+realm: terrestrial
+kind: site
+confidence: verified
+geometry:
+  type: Point
+  coordinates: [110.20, -7.61]
+modern_admin:
+  country: Indonesia
+  region: Central Java
+evidence:
+  - type: archaeological
+    summary: The 1911 Britannica describes Boro Budur as a terraced monument about 150 feet high, with a central dome ringed by bell-shaped cupolas and reliefs forming a Mahayana Buddhist picture-book. Its buried base was found in 1885, and the reliefs were systematically uncovered from 1896.
+    references:
+      - source: britannica-1911
+        locator: "15: Java"
+traditions:
+  - buddhist
+summary_beginner: The vast terraced Buddhist monument in central Java, carved with relief panels and crowned by bell-shaped stupas.
+summary_scholar: The 1911 Britannica gives Ijzerman's estimate of the eighth to tenth centuries for the central Javanese temple groups, and a possible mention in an inscription of 656. No firm date is stored here.
+references:
+  - source: britannica-1911
+    locator: "15: Java"

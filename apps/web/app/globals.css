@@ -21,7 +21,7 @@
   --color-copper: var(--kala-copper);
   --color-deep-red: var(--kala-deep-red);
   --color-celestial: var(--kala-celestial);
-  --font-serif: var(--font-latin-serif), var(--font-devanagari), serif;
+  --font-serif: var(--font-latin-serif), var(--font-devanagari), var(--font-tamil), serif;
 }
 
 html {

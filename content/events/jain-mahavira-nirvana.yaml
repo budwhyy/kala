@@ -1,0 +1,23 @@
+slug: "jain-mahavira-nirvana"
+names:
+  - text: "Mahavira's nirvana at Papa (Kalpa Sutra)"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "mahavira"
+places:
+  - "pavapuri"
+narrative_order:
+  text: "kalpa-sutra"
+  position: 123
+traditions:
+  - "jain"
+summary_beginner: "Mahavira spends his last rainy season at the town of Papa, in the office of the scribes of King Hastipala, and there reaches final liberation, freed from all pains."
+summary_scholar: "The identification of Papa with present-day Pavapuri is a matter of Jain tradition recorded in the Gazetteer (see the place record)."
+references:
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 122, p. 264"
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 123, p. 265"
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 147, p. 269"

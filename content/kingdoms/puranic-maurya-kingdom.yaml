@@ -1,0 +1,58 @@
+slug: puranic-maurya-kingdom
+names:
+  - text: "Maurya kingdom (Puranic account)"
+    lang: en
+    script: Latn
+kind: epic_legendary
+same_name_as:
+  - maurya-empire
+dynasties:
+  - to: puranic-maurya-dynasty
+    note: The Puranic list of this line.
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.24"
+rulers:
+  - entity: chandragupta-maurya
+    attested: false
+    note: "In the Puranic account, anointed by Kautilya. Pargiter's collated text gives him 24 years: a claim of the text."
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.24"
+      - source: pargiter-dynasties-kali-age
+        locator: "70"
+  - entity: bindusara
+    attested: false
+    note: "Vindusara in Wilson. Pargiter's text gives 25 years: a claim of the text."
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.24"
+      - source: pargiter-dynasties-kali-age
+        locator: "70"
+  - entity: ashoka
+    attested: false
+    note: "Ashokavardhana in the Vishnu Purana. Pargiter's text gives 36 years: a claim of the text."
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.24"
+      - source: pargiter-dynasties-kali-age
+        locator: "70"
+  - name:
+      text: Brihadratha
+      lang: en
+      script: Latn
+    attested: false
+    note: "Last Maurya in both accounts, killed by his general Pushyamitra. Pargiter's text gives 7 years."
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.24"
+      - source: pargiter-dynasties-kali-age
+        locator: "70"
+traditions:
+  - puranic
+summary_beginner: "The Maurya kingdom as the Puranas foretell it in their list of the kings of the Kali age: ten kings (nine in the Vayu) who rule 137 years. This is the texts' account; the historical Maurya polity, known from inscriptions, is a separate record."
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.24"
+  - source: pargiter-dynasties-kali-age
+    locator: "70"

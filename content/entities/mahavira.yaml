@@ -1,0 +1,26 @@
+slug: "mahavira"
+names:
+  - text: "Mahavira (Vardhamana)"
+    lang: "en"
+    script: "Latn"
+  - text: "महावीर"
+    lang: "sa"
+    script: "Deva"
+    iast: "Mahāvīra"
+kinds:
+  - "human"
+traditions:
+  - "jain"
+summary_beginner: "The twenty-fourth and last Tirthankara of the present age in Jain teaching. Named Vardhamana by his parents Siddhartha and Trishala, he left home, practised austerities for twelve years, reached omniscience (kevala) and taught until his liberation at the town of Papa."
+summary_scholar: "The Kalpa Sutra's Life of Mahavira (sections 1-147) and the Acaranga Sutra (II, 15) are the Svetambara canon's accounts. Jacobi (SBE 22, Introduction, pp. xv-xvii) argues from Jain and Buddhist sources that Mahavira was a historical person, a contemporary of the Buddha known to Buddhist texts as Nataputta; no dates are stored here because the sources read do not fix them."
+references:
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 1, p. 218"
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 108, p. 255-256"
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 120, p. 263"
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 123, p. 265"
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Introduction, p. xv"

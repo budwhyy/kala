@@ -1,0 +1,30 @@
+slug: buddhist-ordination-of-mahaprajapati
+names:
+  - text: The going forth of Mahaprajapati Gautami
+    lang: en
+    script: Latn
+participants:
+  - entity: mahaprajapati-gautami
+    role: asks that women may go forth, and accepts the eight chief rules
+  - entity: ananda
+    role: pleads for her before the Buddha
+  - entity: siddhartha-gautama
+    role: at first refuses, then allows women to go forth under eight chief rules
+places:
+  - kapilavastu
+  - vaishali
+narrative_order:
+  text: vinaya-pitaka
+  position: 10
+variant: buddhist-vinaya-account
+traditions:
+  - buddhist
+  - theravada
+summary_beginner: In the Cullavagga, Mahaprajapati asks the Buddha at Kapilavastu to let women enter
+  the homeless life and is refused three times. She cuts her hair, puts on yellow robes and follows
+  him with Sakya women to Vesali. Ananda pleads for her, recalling that she nursed the Buddha after his
+  mother's death; the Buddha agrees that her acceptance of eight chief rules shall count as her
+  ordination.
+references:
+  - source: oldenberg-rhys-davids-vinaya-sbe20
+    locator: "Cullavagga X.1.1-6"

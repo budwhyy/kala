@@ -1,0 +1,20 @@
+slug: ramayana-to-ramakien
+names:
+  - text: The Rama story in the Thai Ramakien
+    lang: en
+    script: Latn
+type: uncertain_hypothesis
+from_text: valmiki-ramayana
+to_text: ramakien
+from_tradition: itihasa
+to_tradition: thai-ramakien-tradition
+to_place: ayutthaya
+summary_beginner: The Thai Ramakien is adapted from the Indian Ramayana, and is best known as a stage drama. Some of the Indian stories in Siam arrived by way of Cambodia.
+summary_scholar: The 1911 Britannica states the adaptation from the Ramayana but does not say which Indian telling lay behind the Ramakien, nor when it arrived; it adds that much of Siam's Indian-derived narrative came through Cambodia. Linking the Ramakien to Valmiki's text in particular is therefore a hypothesis, typed accordingly. Ayutthaya is used only to place the Siamese tradition on the map, not as an attested place of transmission.
+references:
+  - source: britannica-1911
+    locator: "24: Siam"
+    note: Language and Literature section
+  - source: maxwell-hikayat-seri-rama-1909
+    locator: "2"
+    note: Maxwell says the village stage in Siam, Malaya and Java draws directly on the Ramayana and Mahabharata.

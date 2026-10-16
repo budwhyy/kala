@@ -1,0 +1,20 @@
+slug: theravada
+names:
+  - text: Theravada
+    lang: en
+    script: Latn
+  - text: Theravāda
+    lang: pi
+    script: Latn
+    iast: Theravāda
+family: buddhist
+parent: buddhist
+region: Sri Lanka and mainland Southeast Asia
+summary_beginner: The Buddhist tradition that keeps the scriptures in Pali. Rhys Davids notes that
+  the Pali scriptures known in his day all derive from those written down in Ceylon (Sri Lanka) in
+  the first century BCE, as the Dipavamsa records.
+references:
+  - source: rhys-davids-buddhist-suttas
+    locator: "Introduction, xxii"
+    note: The name Theravada does not appear in the passage read; the passage is about the Pali
+      scriptures preserved in Ceylon.

@@ -1,0 +1,18 @@
+slug: "jain-cosmology-tattvartha"
+names:
+  - text: "Jain cosmology (Tattvartha Sutra, chapter III)"
+    lang: "en"
+    script: "Latn"
+kind: "cosmic_model"
+tradition: "jain"
+text: "tattvartha-sutra"
+description: "The third chapter of the Tattvartha Sutra, as translated by J. L. Jaini, describes seven earths lying one below the other and a middle world of numberless ring-shaped continents and oceans, with round Jambudvipa and Mount Meru at the centre, divided into seven regions by six east-west mountain ranges."
+references:
+  - source: "jaini-tattvartha-sutra-1920"
+    locator: "Chapter III, sutra 1, p. 79"
+  - source: "jaini-tattvartha-sutra-1920"
+    locator: "Chapter III, sutra 7, p. 83"
+  - source: "jaini-tattvartha-sutra-1920"
+    locator: "Chapter III, sutra 9, p. 84"
+  - source: "jaini-tattvartha-sutra-1920"
+    locator: "Chapter III, sutra 10, p. 85"

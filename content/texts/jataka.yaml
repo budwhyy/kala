@@ -1,0 +1,16 @@
+slug: jataka
+names:
+  - text: Jataka
+    lang: en
+    script: Latn
+  - text: Jātaka
+    lang: pi
+    script: Latn
+    iast: Jātaka
+genre: buddhist_canon
+original_language: pi
+traditions:
+  - buddhist
+  - theravada
+summary_beginner: The collection of stories of the Buddha's former births. Each story is framed by
+  an occasion in the Buddha's lifetime and ends with the Buddha saying who each character was then.

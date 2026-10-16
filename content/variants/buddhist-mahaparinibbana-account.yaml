@@ -1,0 +1,12 @@
+slug: buddhist-mahaparinibbana-account
+names:
+  - text: "Mahaparinibbana Sutta account"
+    lang: en
+    script: Latn
+kind: account
+tradition: theravada
+text: mahaparinibbana-sutta
+description: "The last journey and passing of the Buddha as the Pali Mahaparinibbana Sutta tells it, in Rhys Davids' translation."
+references:
+  - source: rhys-davids-buddhist-suttas
+    locator: "5.1"

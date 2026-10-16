@@ -1,0 +1,46 @@
+slug: "ashoka"
+names:
+  - text: "Ashoka"
+    lang: "en"
+    script: "Latn"
+  - text: "अशोक"
+    lang: "sa"
+    script: "Deva"
+    iast: "Aśoka"
+  - text: "Devanampiya Piyadasi"
+    lang: "en"
+    script: "Latn"
+epithets:
+  - text: "Priyadarsi"
+    lang: "en"
+    script: "Latn"
+kinds:
+  - "human"
+  - "king"
+traditions:
+  - "buddhist"
+  - "puranic"
+summary_beginner: "The third Maurya emperor, whose rock and pillar edicts, the oldest deciphered Indian inscriptions, describe his conquest of Kalinga, his remorse and his policy of dhamma."
+summary_scholar: "The edicts call him Devanampriya Priyadarsi; the Maski edict names him Asoka, settling Prinsep's identification. Hultzsch's working dates: coronation 264 BC, Kalinga conquered eight years later, a visit to Sambodhi (Bodh Gaya) ten years after; Smith dates his accession about 273 and coronation 269 BC. The Rummindei pillar records his visit to Lumbini as the Buddha's birthplace. Later Buddhist legend (the Ceylon chronicles, the Ashokavadana) tells much more; those claims are not taken as history here."
+historical_time:
+  - start: -268
+    end: -232
+    precision: "decade"
+    confidence: "medium"
+    note: "Hultzsch: father died 268, coronation 264 BC (working dates). Smith: accession about 273, coronation 269, reign of about forty years; Dasharatha succeeded about 232 BC."
+    references:
+      - source: "hultzsch-inscriptions-asoka"
+        locator: "xxxv-xxxvi"
+      - source: "smith-early-history-1914"
+        locator: "155"
+      - source: "smith-early-history-1914"
+        locator: "192"
+references:
+  - source: "hultzsch-inscriptions-asoka"
+    locator: "xxix"
+  - source: "hultzsch-inscriptions-asoka"
+    locator: "xxx"
+  - source: "hultzsch-inscriptions-asoka"
+    locator: "xxxvi"
+  - source: "smith-early-history-1914"
+    locator: "155"

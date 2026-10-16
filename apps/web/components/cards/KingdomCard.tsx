@@ -17,6 +17,7 @@ import {
 export function KingdomCard({ kala, slug }: { kala: Kala; slug: string }) {
   const t = useTranslations("kingdom");
   const te = useTranslations("enums");
+  const t4 = useTranslations("history");
   const k = kala.get("kingdoms", slug)!;
   const legendary = k.kind === "epic_legendary";
   const dynasties = kala.neighbours("kingdoms", slug, "dynasties");
@@ -131,6 +132,23 @@ export function KingdomCard({ kala, slug }: { kala: Kala; slug: string }) {
                 <VariantTag kala={kala} variant={r.variant} />
                 <p className="text-sm text-ink/85">{r.note}</p>
                 <Cite refs={r.references} kala={kala} />
+              </li>
+            ))}
+          </ul>
+        </Section>
+      )}
+
+      {k.evidence_sites.length > 0 && (
+        <Section title={t4("evidenceSites")}>
+          <p className="mb-2 text-sm text-muted">{t4("evidenceSitesNote")}</p>
+          <ul className="space-y-2">
+            {k.evidence_sites.map((e) => (
+              <li key={e.to}>
+                <RecordLink href={hrefFor("places", e.to)}>
+                  {kala.nameOf("places", e.to)}
+                </RecordLink>
+                <p className="text-sm text-ink/85">{e.note}</p>
+                <Cite refs={e.references} kala={kala} />
               </li>
             ))}
           </ul>

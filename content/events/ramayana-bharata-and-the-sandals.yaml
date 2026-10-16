@@ -16,6 +16,8 @@ narrative_order:
   position: 212
   section: ayodhya-kanda
 variant: valmiki-ramayana-account
+same_story_as:
+  - buddhist-dasaratha-jataka
 traditions:
   - itihasa
 summary_beginner: "Bharata refuses the throne and comes to Chitrakuta to beg Rama to return and rule. Rama will not break his father's word. Bharata takes Rama's sandals as a pledge, and instead of living in Ayodhya rules the kingdom from Nandigrama in hermit's dress, in Rama's name, until his return."

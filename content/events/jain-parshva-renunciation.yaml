@@ -1,0 +1,20 @@
+slug: "jain-parshva-renunciation"
+names:
+  - text: "Parshva's renunciation (Kalpa Sutra)"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "parshvanatha"
+places:
+  - "kashi"
+narrative_order:
+  text: "kalpa-sutra"
+  position: 157
+traditions:
+  - "jain"
+summary_beginner: "After thirty years as a householder, Parshva is carried through Benares to the Ashramapada park, where under an Ashoka tree he tears out his hair and leaves home together with three hundred men."
+references:
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 155, p. 272"
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 157, p. 273"

@@ -1,0 +1,90 @@
+slug: "kushan-empire"
+names:
+  - text: "Kushan empire"
+    lang: "en"
+    script: "Latn"
+kind: "historical_empire"
+evidence_sites:
+  - to: "purushapura"
+    note: "Kanishka's capital and the findspot of the relic casket with his image and inscription."
+    references:
+      - source: "smith-early-history-1914"
+        locator: "261"
+  - to: "mathura"
+    note: "An inscribed life-size statue of Kanishka was found at Mat in the Mathura district."
+    references:
+      - source: "smith-early-history-1914"
+        locator: "260"
+        note: "Addenda note to p. 260."
+  - to: "sarnath"
+    note: "An inscription of Kanishka's third year."
+    references:
+      - source: "smith-early-history-1914"
+        locator: "256"
+  - to: "taxila"
+    note: "The city of Sirsukh was built by the Kushans, probably under Kanishka."
+    references:
+      - source: "marshall-guide-taxila-1918"
+        locator: "6"
+capitals:
+  - to: "purushapura"
+    note: "Kanishka's capital."
+    references:
+      - source: "smith-early-history-1914"
+        locator: "261"
+rulers:
+  - name:
+      text: "Kanishka"
+      lang: "en"
+      script: "Latn"
+    attested: true
+    note: "Attested by coins, a third-year inscription at Sarnath, the Peshawar casket and the Mat statue. Smith dates his accession about AD 78; others of his time put it at 58 BC."
+    references:
+      - source: "smith-early-history-1914"
+        locator: "256-257"
+      - source: "smith-early-history-1914"
+        locator: "261"
+  - name:
+      text: "Kadphises I"
+      lang: "en"
+      script: "Latn"
+    attested: true
+    note: "Known from coins (Smith)."
+    references:
+      - source: "smith-early-history-1914"
+        locator: "252"
+  - name:
+      text: "Huvishka"
+      lang: "en"
+      script: "Latn"
+    attested: true
+    note: "Successor of Kanishka in Smith's chronology."
+    references:
+      - source: "smith-early-history-1914"
+        locator: "277-278"
+  - name:
+      text: "Vasudeva"
+      lang: "en"
+      script: "Latn"
+    attested: true
+    note: "Last great Kushan in Smith's chronology."
+    references:
+      - source: "smith-early-history-1914"
+        locator: "277-278"
+traditions:
+  - "buddhist"
+historical_time:
+  start: 30
+  end: 230
+  precision: "century"
+  confidence: "low"
+  note: "Smith's approximate Kushan chronology (Kadphises I in the first century AD; Vasudeva dead about 178; later Kushans after). The chronology hangs on Kanishka's disputed date."
+  references:
+    - source: "smith-early-history-1914"
+      locator: "277-278"
+summary_beginner: "An empire founded by the Kushans from Central Asia that ruled the north-west and the Ganges plain from Peshawar and Mathura."
+references:
+  - source: "smith-early-history-1914"
+    locator: "261"
+  - source: "smith-early-history-1914"
+    locator: "277-278"

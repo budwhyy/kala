@@ -1,0 +1,118 @@
+- id: suddhodana-father-of-siddhartha-gautama
+  from: suddhodana
+  to: siddhartha-gautama
+  type: parent
+  role: father
+  mode: biological
+  explanation: King Suddhodana of Kapilavastu is the father of the future Buddha in both the Nidanakatha and the Buddhacarita.
+  references:
+    - source: rhys-davids-buddhist-birth-stories
+      locator: "65"
+    - source: cowell-buddhacarita-sbe49
+      locator: "2.17"
+- id: maya-buddhist-mother-of-siddhartha-gautama
+  from: maya-buddhist
+  to: siddhartha-gautama
+  type: parent
+  role: mother
+  mode: biological
+  explanation: Queen Maha Maya gives birth to the future Buddha in the Lumbini grove.
+  references:
+    - source: rhys-davids-buddhist-birth-stories
+      locator: "65-66"
+    - source: cowell-buddhacarita-sbe49
+      locator: "1.23-25"
+- id: mahaprajapati-gautami-foster-mother-of-siddhartha-gautama
+  from: mahaprajapati-gautami
+  to: siddhartha-gautama
+  type: parent
+  role: mother
+  mode: foster
+  explanation: Ananda reminds the Buddha that Mahaprajapati, his aunt, nursed and fed him after his mother's death.
+  references:
+    - source: oldenberg-rhys-davids-vinaya-sbe20
+      locator: "Cullavagga X.1.3"
+- id: siddhartha-gautama-partner-yashodhara
+  from: siddhartha-gautama
+  to: yashodhara
+  type: partner
+  explanation: Yasodhara (in the Nidanakatha simply the mother of Rahula, his principal queen) is the prince's wife.
+  references:
+    - source: cowell-buddhacarita-sbe49
+      locator: "2.46"
+    - source: rhys-davids-buddhist-birth-stories
+      locator: "76"
+- id: siddhartha-gautama-father-of-rahula
+  from: siddhartha-gautama
+  to: rahula
+  type: parent
+  role: father
+  mode: biological
+  explanation: Rahula is the son of the prince; the texts differ on when he is born (see the event on his birth).
+  references:
+    - source: cowell-buddhacarita-sbe49
+      locator: "2.46"
+    - source: rhys-davids-buddhist-birth-stories
+      locator: "79"
+- id: yashodhara-mother-of-rahula
+  from: yashodhara
+  to: rahula
+  type: parent
+  role: mother
+  mode: biological
+  explanation: Yasodhara bears Rahula to the son of Suddhodana.
+  references:
+    - source: cowell-buddhacarita-sbe49
+      locator: "2.46"
+- id: siddhartha-gautama-teacher-of-shariputra
+  from: siddhartha-gautama
+  to: shariputra
+  type: teacher
+  explanation: Sariputta takes orders under the Buddha, who makes him one of his two chief disciples.
+  references:
+    - source: rhys-davids-buddhist-birth-stories
+      locator: "118-119"
+- id: siddhartha-gautama-teacher-of-maudgalyayana
+  from: siddhartha-gautama
+  to: maudgalyayana
+  type: teacher
+  explanation: Moggallana takes orders under the Buddha, who makes him one of his two chief disciples.
+  references:
+    - source: rhys-davids-buddhist-birth-stories
+      locator: "118-119"
+- id: shariputra-ally-of-maudgalyayana
+  from: shariputra
+  to: maudgalyayana
+  type: ally
+  explanation: The two ascetics seek liberation together near Rajagaha; Sariputta passes Assaji's verse to his companion and they join the order together.
+  references:
+    - source: rhys-davids-buddhist-birth-stories
+      locator: "118-119"
+- id: siddhartha-gautama-teacher-of-ananda
+  from: siddhartha-gautama
+  to: ananda
+  type: teacher
+  explanation: Ananda leaves home with other Sakyas to join the Buddha's order and later attends him to the end.
+  references:
+    - source: oldenberg-rhys-davids-vinaya-sbe20
+      locator: "Cullavagga VII.1.4"
+    - source: rhys-davids-buddhist-suttas
+      locator: "5.1-3"
+- id: shariputra-teacher-of-rahula
+  from: shariputra
+  to: rahula
+  type: teacher
+  explanation: At the Buddha's word, Sariputta receives the boy Rahula into the order.
+  references:
+    - source: rhys-davids-buddhist-birth-stories
+      locator: "129"
+- id: devadatta-enemy-of-siddhartha-gautama
+  from: devadatta
+  to: siddhartha-gautama
+  type: enemy
+  explanation: In the Cullavagga Devadatta tries to have the Buddha killed, hurls a rock at him and looses the elephant Nalagiri on him.
+  references:
+    - source: oldenberg-rhys-davids-vinaya-sbe20
+      locator: "Cullavagga VII.3.9"
+    - source: oldenberg-rhys-davids-vinaya-sbe20
+      locator: "Cullavagga VII.3.11-12"

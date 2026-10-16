@@ -1,0 +1,24 @@
+slug: suddhodana
+names:
+  - text: Suddhodana
+    lang: en
+    script: Latn
+  - text: Suddhodana
+    lang: pi
+    script: Latn
+    iast: Suddhodana
+kinds:
+  - human
+  - king
+traditions:
+  - buddhist
+summary_beginner: In Buddhist texts, the Sakya king of Kapilavastu and father of the future Buddha.
+  He tries to keep his son from the sights that lead him to leave home, and later grieves when his
+  grandson Rahula is ordained.
+references:
+  - source: rhys-davids-buddhist-birth-stories
+    locator: "65"
+  - source: rhys-davids-buddhist-birth-stories
+    locator: "76-77"
+  - source: rhys-davids-buddhist-birth-stories
+    locator: "129"

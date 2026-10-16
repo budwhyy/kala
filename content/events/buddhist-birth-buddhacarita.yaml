@@ -1,0 +1,33 @@
+slug: buddhist-birth-buddhacarita
+names:
+  - text: The birth of the prince in the Lumbini garden (Buddhacarita)
+    lang: en
+    script: Latn
+participants:
+  - entity: siddhartha-gautama
+    role: born from his mother's side
+  - entity: maya-buddhist
+    role: his mother
+  - entity: suddhodana
+    role: his father, who names him Sarvarthasiddha
+places:
+  - lumbini
+  - kapilavastu
+narrative_order:
+  text: buddhacarita
+  position: 10
+  section: books-1-5
+variant: buddhist-buddhacarita-account
+same_story_as:
+  - buddhist-birth-at-lumbini
+traditions:
+  - buddhist
+summary_beginner: In Asvaghosha's poem the queen goes with the king's leave to the Lumbini garden,
+  and as she holds a flowering bough the child comes forth from her side, without pain. Indra
+  receives him. His father names him Sarvarthasiddha; his mother, unable to bear the joy, goes to
+  heaven.
+references:
+  - source: cowell-buddhacarita-sbe49
+    locator: "1.23-27"
+  - source: cowell-buddhacarita-sbe49
+    locator: "2.17-18"

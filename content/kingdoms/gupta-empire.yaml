@@ -1,0 +1,107 @@
+slug: "gupta-empire"
+names:
+  - text: "Gupta empire"
+    lang: "en"
+    script: "Latn"
+  - text: "गुप्त"
+    lang: "sa"
+    script: "Deva"
+    iast: "Gupta"
+kind: "historical_empire"
+evidence_sites:
+  - to: "prayagraj"
+    note: "Samudragupta's inscription on the Allahabad pillar (Fleet No. 1), cut beside Ashoka's edicts."
+    references:
+      - source: "fleet-gupta-inscriptions"
+        locator: "No. 1, p. 7"
+      - source: "hultzsch-inscriptions-asoka"
+        locator: "xviii"
+  - to: "girnar"
+    note: "An inscription of Skandagupta's reign on the Ashokan rock records repairs to the Sudarshana lake in 456-7."
+    references:
+      - source: "hultzsch-inscriptions-asoka"
+        locator: "ix"
+      - source: "smith-early-history-1914"
+        locator: "327"
+  - to: "sanchi"
+    note: "Inscription of Chandragupta II's reign, Gupta year 93."
+    references:
+      - source: "smith-early-history-1914"
+        locator: "327"
+  - to: "mathura"
+    note: "Gupta-era inscription listed in Smith's chronology."
+    references:
+      - source: "smith-early-history-1914"
+        locator: "327"
+  - to: "pataliputra"
+    note: "Where the Gupta empire began, as Kusumapura."
+    references:
+      - source: "imperial-gazetteer-1909"
+        locator: "20:68"
+capitals:
+  - to: "pataliputra"
+    note: "Early capital; Samudragupta later moved the capital westward, according to the Gazetteer."
+    references:
+      - source: "imperial-gazetteer-1909"
+        locator: "20:68"
+rulers:
+  - entity: "chandragupta-i"
+    attested: true
+    note: "Founder of the Gupta era; known from his successors' records and coins."
+    references:
+      - source: "smith-early-history-1914"
+        locator: "280"
+  - entity: "samudragupta"
+    attested: true
+    note: "Allahabad pillar inscription."
+    references:
+      - source: "fleet-gupta-inscriptions"
+        locator: "No. 1, p. 7"
+  - entity: "chandragupta-ii"
+    attested: true
+    note: "Dated inscriptions at Udayagiri and Sanchi."
+    references:
+      - source: "smith-early-history-1914"
+        locator: "327"
+  - name:
+      text: "Kumaragupta I"
+      lang: "en"
+      script: "Latn"
+    attested: true
+    note: "Son of Chandragupta II; reigned 413-455 (Smith)."
+    references:
+      - source: "smith-early-history-1914"
+        locator: "299"
+  - name:
+      text: "Skandagupta"
+      lang: "en"
+      script: "Latn"
+    attested: true
+    note: "Repelled the Huns in 455; Girnar inscription."
+    references:
+      - source: "smith-early-history-1914"
+        locator: "316"
+      - source: "hultzsch-inscriptions-asoka"
+        locator: "ix"
+traditions:
+  - "hindu"
+  - "buddhist"
+historical_time:
+  start: 320
+  end: 550
+  precision: "decade"
+  confidence: "medium"
+  note: "Gupta era from AD 320; decline after the Hun wars, rounded end."
+  references:
+    - source: "smith-early-history-1914"
+      locator: "280"
+    - source: "smith-early-history-1914"
+      locator: "327"
+summary_beginner: "The empire of the Gupta kings, from 320 CE, centred on the Ganges valley and reaching western India under Chandragupta II."
+references:
+  - source: "smith-early-history-1914"
+    locator: "280"
+  - source: "smith-early-history-1914"
+    locator: "327"
+  - source: "imperial-gazetteer-1909"
+    locator: "20:68"

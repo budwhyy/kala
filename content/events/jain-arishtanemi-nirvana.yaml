@@ -1,0 +1,18 @@
+slug: "jain-arishtanemi-nirvana"
+names:
+  - text: "Arishtanemi's nirvana on Mount Girnar (Kalpa Sutra)"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "arishtanemi"
+places:
+  - "girnar"
+narrative_order:
+  text: "kalpa-sutra"
+  position: 182
+traditions:
+  - "jain"
+summary_beginner: "Arishtanemi reaches final liberation on the summit of Mount Girnar, with five hundred and thirty-six monks."
+references:
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 182, p. 279"

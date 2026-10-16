@@ -1,0 +1,46 @@
+slug: "harappa"
+names:
+  - text: "Harappa"
+    lang: "en"
+    script: "Latn"
+realm: "terrestrial"
+kind: "site"
+confidence: "verified"
+geometry:
+  type: "Point"
+  coordinates:
+    - 72.87
+    - 30.63
+modern_admin:
+  country: "Pakistan"
+  region: "Punjab"
+  district: "Sahiwal"
+evidence:
+  - type: "archaeological"
+    summary: "The Imperial Gazetteer describes brick ruins about three miles round, with a mound up to 60 feet high enclosing massive brick walls, and early coins in the debris. Marshall records that Daya Ram Sahni's excavation there showed its remains, including inscribed seals, belonged to the Chalcolithic age, which led to the recognition of Mohenjo-daro."
+    references:
+      - source: "imperial-gazetteer-1909"
+        locator: "13:41"
+      - source: "marshall-mohenjo-daro-1931"
+        locator: "1:11"
+  - type: "historical"
+    summary: "Cunningham identified Harappa with a town of the Malli in Arrian's account of Alexander's campaign; the Gazetteer reports this nineteenth-century proposal, which concerns a much later time."
+    references:
+      - source: "imperial-gazetteer-1909"
+        locator: "13:41"
+historical_time:
+  - start: -3000
+    end: -1500
+    precision: "century"
+    confidence: "low"
+    note: "Dated by the Harappan culture as a whole; no site-specific date was read."
+    references:
+      - source: "unesco-world-heritage-centre"
+        locator: "list/1645"
+summary_beginner: "A great city of the Indus civilisation in the Punjab of Pakistan, which gave the civilisation its name. Its identification as a Harappan site is archaeological; any link to places or peoples in the Vedas or Puranas is debated and is not made here."
+summary_scholar: "The 1908 Gazetteer knew only the mounds and a local tradition of an eponymous Raja Harappa; Sahni's excavations revealed the Indus civilisation. Archaeology alone defines this culture. Links between Harappan sites and Vedic or Puranic places and peoples are debated and are not asserted in KALA."
+references:
+  - source: "imperial-gazetteer-1909"
+    locator: "13:41"
+  - source: "marshall-mohenjo-daro-1931"
+    locator: "1:11"

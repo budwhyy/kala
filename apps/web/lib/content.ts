@@ -1,6 +1,8 @@
 // Loads and validates content/ once per server process (at build time for static pages).
 // Fails the build if content is invalid, so a bad record can never reach the site.
 import "server-only";
+import { hasLocale } from "next-intl";
+import { routing, type Locale } from "@/i18n/routing";
 import { loadContent } from "@kala/schema/load";
 import { getLocale } from "next-intl/server";
 import { join } from "node:path";
@@ -20,12 +22,12 @@ async function load() {
   }
   // One index per language: names (and so labels and links) follow the visitor's locale.
   return Object.fromEntries(
-    ["en", "hi"].map((locale) => {
+    ["en", "hi", "ta"].map((locale) => {
       const kala = buildKala(dataset, locale);
       return [locale, { kala, searchIndex: buildSearchIndex(kala) }];
     }),
   ) as Record<
-    "en" | "hi",
+    Locale,
     { kala: ReturnType<typeof buildKala>; searchIndex: ReturnType<typeof buildSearchIndex> }
   >;
 }
@@ -42,11 +44,11 @@ export const getContent = cache(async () => {
     // to read, and they only need slugs, which are identical in every language.
     if (!(error instanceof Error && error.message.includes("outside a request scope"))) throw error;
   }
-  return (await loaded())[locale === "hi" ? "hi" : "en"];
+  return (await loaded())[hasLocale(routing.locales, locale) ? locale : "en"];
 });
 
 /** Content for an explicit locale, for code that runs outside a request (generateStaticParams). */
-export async function getContentFor(locale: "en" | "hi") {
+export async function getContentFor(locale: Locale) {
   return (await loaded())[locale];
 }
 

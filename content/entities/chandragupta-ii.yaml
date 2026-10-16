@@ -1,0 +1,37 @@
+slug: "chandragupta-ii"
+names:
+  - text: "Chandragupta II"
+    lang: "en"
+    script: "Latn"
+  - text: "चन्द्रगुप्त"
+    lang: "sa"
+    script: "Deva"
+    iast: "Candragupta"
+  - text: "Vikramaditya"
+    lang: "en"
+    script: "Latn"
+kinds:
+  - "human"
+  - "king"
+traditions:
+  - "hindu"
+summary_beginner: "Gupta emperor, son of Samudragupta, who extended the empire to western India; the Chinese pilgrim Fa-hien travelled in his realm."
+summary_scholar: "Smith dates his accession about 375 and his death in 413; inscriptions of his reign are dated in the Gupta era at Udayagiri and Sanchi. Legends of a king Vikramaditya are a separate matter."
+historical_time:
+  - start: 375
+    end: 413
+    precision: "decade"
+    confidence: "medium"
+    note: "Smith: accession about 375 (not recorded exactly), died 413."
+    references:
+      - source: "smith-early-history-1914"
+        locator: "290"
+      - source: "smith-early-history-1914"
+        locator: "292"
+references:
+  - source: "smith-early-history-1914"
+    locator: "289-290"
+  - source: "smith-early-history-1914"
+    locator: "292"
+  - source: "smith-early-history-1914"
+    locator: "327"

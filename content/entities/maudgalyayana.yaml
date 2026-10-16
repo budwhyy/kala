@@ -1,0 +1,18 @@
+slug: maudgalyayana
+names:
+  - text: Maudgalyayana
+    lang: en
+    script: Latn
+  - text: Moggallāna
+    lang: pi
+    script: Latn
+    iast: Moggallāna
+kinds:
+  - human
+traditions:
+  - buddhist
+summary_beginner: The companion of Sariputta, who heard the verse of Assaji from him, joined the
+  order with him and became one of the Buddha's two chief disciples.
+references:
+  - source: rhys-davids-buddhist-birth-stories
+    locator: "118-119"

@@ -1,0 +1,11 @@
+slug: malay-hikayat-tradition
+names:
+  - text: Malay hikayat and story-telling tradition
+    lang: en
+    script: Latn
+family: cross_cultural
+region: Malay Peninsula
+summary_beginner: "Malay prose romances (hikayat), written and told aloud by professional story-tellers. W. E. Maxwell recorded an oral Seri Rama romance from a Perak story-teller and notes that a written hikayat of the same name also exists."
+references:
+  - source: maxwell-hikayat-seri-rama-1909
+    locator: "1-2"

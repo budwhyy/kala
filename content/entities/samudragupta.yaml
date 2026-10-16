@@ -1,0 +1,34 @@
+slug: "samudragupta"
+names:
+  - text: "Samudragupta"
+    lang: "en"
+    script: "Latn"
+  - text: "समुद्रगुप्त"
+    lang: "sa"
+    script: "Deva"
+    iast: "Samudragupta"
+kinds:
+  - "human"
+  - "king"
+traditions:
+  - "hindu"
+summary_beginner: "Gupta emperor whose long inscription on the Allahabad pillar records campaigns across north and south India."
+summary_scholar: "The record (Fleet No. 1) was cut on the same pillar as Ashoka's edicts, then probably standing at Kausambi; it names kings he overcame in the south. Smith dates his accession about 330 and a horse-sacrifice in his reign."
+historical_time:
+  - start: 330
+    end: 375
+    precision: "decade"
+    confidence: "medium"
+    note: "Smith: accession about 330, succeeded by Chandragupta II about 375."
+    references:
+      - source: "smith-early-history-1914"
+        locator: "290"
+      - source: "smith-early-history-1914"
+        locator: "327"
+references:
+  - source: "fleet-gupta-inscriptions"
+    locator: "No. 1, p. 7"
+  - source: "hultzsch-inscriptions-asoka"
+    locator: "xviii-xx"
+  - source: "smith-early-history-1914"
+    locator: "327"

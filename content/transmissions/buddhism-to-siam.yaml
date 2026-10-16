@@ -1,0 +1,16 @@
+slug: buddhism-to-siam
+names:
+  - text: Buddhism in Siam
+    lang: en
+    script: Latn
+type: uncertain_hypothesis
+from_tradition: buddhist
+to_tradition: buddhist
+from_place: anuradhapura
+to_place: ayutthaya
+summary_beginner: Siamese Buddhism uses Pali scriptures written in a script descended from Cambodian, and shows influences from Sri Lanka and Burma. In 1752 an embassy from Ceylon came to renew old religious ties.
+summary_scholar: The 1911 Britannica describes Siamese Buddhism as tinged by Sinhalese and Burmese influence and records the 1752 embassy, but gives no account of when or how Buddhism first came to Siam. Drawing the link from Anuradhapura is therefore a hypothesis about one strand of influence, not an established route.
+references:
+  - source: britannica-1911
+    locator: "24: Siam"
+    note: Religion and Language and Literature sections

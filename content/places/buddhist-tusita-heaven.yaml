@@ -1,0 +1,27 @@
+slug: buddhist-tusita-heaven
+names:
+  - text: Tusita heaven
+    lang: en
+    script: Latn
+  - text: Tusita
+    lang: pi
+    script: Latn
+    iast: Tusita
+  - text: City of Delight
+    lang: en
+    script: Latn
+realm: cosmological
+kind: realm
+confidence: mythical
+traditions:
+  - buddhist
+summary_beginner: In Buddhist cosmology, a heaven where, the Nidanakatha says, the future Buddha
+  lived in his last life before his birth as Siddhattha, and where the gods came to beg him to
+  become a Buddha. Not a place on Earth.
+summary_scholar: Rhys Davids renders it the "City of Delight"; the Nidanakatha also says the
+  Buddha's mother was reborn there seven days after his birth.
+references:
+  - source: rhys-davids-buddhist-birth-stories
+    locator: "58-60"
+  - source: rhys-davids-buddhist-birth-stories
+    locator: "65"

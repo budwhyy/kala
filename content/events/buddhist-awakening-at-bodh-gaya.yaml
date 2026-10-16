@@ -1,0 +1,30 @@
+slug: buddhist-awakening-at-bodh-gaya
+names:
+  - text: The defeat of Mara and the awakening under the Bo-tree
+    lang: en
+    script: Latn
+participants:
+  - entity: siddhartha-gautama
+    role: sits beneath the Bo-tree and attains complete enlightenment
+places:
+  - bodh-gaya
+narrative_order:
+  text: nidanakatha
+  position: 60
+  section: intermediate-epoch
+variant: buddhist-nidanakatha-account
+same_story_as:
+  - buddhist-defeat-of-mara-buddhacarita
+traditions:
+  - buddhist
+  - theravada
+summary_beginner: In the Nidanakatha, after Sujata's offering of milk-rice at Uruvela, the
+  Bodhisatta takes his seat under the Bo-tree. Mara's army attacks and Mara claims the seat; the
+  Bodhisatta calls the earth to witness his past giving, and the army flees. In the three watches
+  of the night he gains knowledge of past lives, of the present, and of the chain of causation, and
+  at dawn attains complete enlightenment.
+references:
+  - source: rhys-davids-buddhist-birth-stories
+    locator: "91-93"
+  - source: rhys-davids-buddhist-birth-stories
+    locator: "97-103"

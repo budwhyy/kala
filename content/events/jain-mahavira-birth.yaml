@@ -1,0 +1,26 @@
+slug: "jain-mahavira-birth"
+names:
+  - text: "The birth of Mahavira (Kalpa Sutra)"
+    lang: "en"
+    script: "Latn"
+participants:
+  - entity: "mahavira"
+  - entity: "trishala"
+    role: "mother"
+  - entity: "siddhartha-jain-king"
+    role: "father"
+places: []
+narrative_order:
+  text: "kalpa-sutra"
+  position: 96
+traditions:
+  - "jain"
+summary_beginner: "After nine months and seven and a half days Trishala gives birth to Mahavira at midnight. Gods descend in a great light, the kingdom celebrates for ten days, and because the family's wealth had grown since his conception his parents name him Vardhamana, 'the increasing'."
+summary_scholar: "The birthplace is the Kshatriya part of Kundagrama (section 21); no place record exists for it."
+references:
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 96, p. 251"
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 103, p. 254"
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 106-107, p. 255"

@@ -1,0 +1,14 @@
+slug: "jain-mahavira-family-acaranga"
+names:
+  - text: "Mahavira's family (Acaranga Sutra)"
+    lang: "en"
+    script: "Latn"
+kind: "genealogy"
+tradition: "svetambara"
+text: "acaranga-sutra"
+description: "The Acaranga Sutra (Book II, Lecture 15) names Mahavira's father, mother, uncle, brother, sister, wife, daughter and granddaughter; the Kalpa Sutra refers back to this list. It is the Svetambara canon's account; a Digambara account of the family was not read for this record."
+references:
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Akaranga Sutra II, 15, 15, p. 193-194"
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 109, p. 256"

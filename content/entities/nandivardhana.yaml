@@ -1,0 +1,15 @@
+slug: "nandivardhana"
+names:
+  - text: "Nandivardhana"
+    lang: "en"
+    script: "Latn"
+kinds:
+  - "human"
+traditions:
+  - "jain"
+summary_beginner: "The elder brother of Mahavira in the Acaranga Sutra; the Kalpa Sutra says Mahavira renounced with his elder brother's permission."
+references:
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Akaranga Sutra II, 15, 15, p. 193"
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 110, p. 256"

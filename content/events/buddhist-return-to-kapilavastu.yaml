@@ -1,0 +1,33 @@
+slug: buddhist-return-to-kapilavastu
+names:
+  - text: Rahula asks for his inheritance
+    lang: en
+    script: Latn
+participants:
+  - entity: siddhartha-gautama
+    role: gives his son a spiritual inheritance instead of wealth
+  - entity: rahula
+    role: asks his father for his inheritance and is received into the order
+  - entity: yashodhara
+    role: sends the boy to his father
+  - entity: shariputra
+    role: receives Rahula into the order
+  - entity: suddhodana
+    role: grieves and asks that no child be ordained without the parents' leave
+places:
+  - kapilavastu
+narrative_order:
+  text: nidanakatha
+  position: 90
+  section: proximate-epoch
+variant: buddhist-nidanakatha-account
+traditions:
+  - buddhist
+  - theravada
+summary_beginner: In the Nidanakatha, when the Buddha visits Kapilavastu, the mother of Rahula sends
+  the boy to ask his father for his inheritance. The Buddha has Sariputta receive him into the order,
+  giving him the wealth of the arahats instead. The grieving king asks, and is granted, that no son be
+  ordained without his parents' leave.
+references:
+  - source: rhys-davids-buddhist-birth-stories
+    locator: "128-129"

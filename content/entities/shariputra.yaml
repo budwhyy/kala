@@ -1,0 +1,18 @@
+slug: shariputra
+names:
+  - text: Shariputra
+    lang: en
+    script: Latn
+  - text: Sāriputta
+    lang: pi
+    script: Latn
+    iast: Sāriputta
+kinds:
+  - human
+traditions:
+  - buddhist
+summary_beginner: An ascetic living near Rajagaha who, hearing a verse from the elder Assaji, joined
+  the Buddha's order with his friend Moggallana; the Buddha made the two his chief disciples.
+references:
+  - source: rhys-davids-buddhist-birth-stories
+    locator: "118-119"

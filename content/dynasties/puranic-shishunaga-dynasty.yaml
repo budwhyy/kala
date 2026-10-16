@@ -1,0 +1,29 @@
+slug: puranic-shishunaga-dynasty
+names:
+  - text: "Shishunaga dynasty (Puranic list)"
+    lang: en
+    script: Latn
+  - text: शिशुनाग
+    lang: sa
+    script: Deva
+    iast: Śiśunāga
+kind: legendary
+lineage_type: other
+kingdoms:
+  - to: magadha-kingdom-epic
+    note: "The line follows the Pradyotas."
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.24"
+      - source: pargiter-dynasties-kali-age
+        locator: "68-69"
+variant: puranic-kali-kings-vishnu-purana
+traditions:
+  - puranic
+summary_beginner: "In the Puranas' prophecy, ten kings from Shishunaga to Mahanandin, among them Vidmisara (Bimbisara) and Ajatashatru."
+summary_scholar: "The Vishnu Purana gives ten Shaishunagas and 362 years. Pargiter notes the readings 360 (Brahmanda, Bhagavata) and 362 (Vayu, Vishnu) and argues the Matsya's original figure was 163. His text also has Udayin found Kusumapura on the south bank of the Ganges. These are the texts' claims, not historical dates."
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.24"
+  - source: pargiter-dynasties-kali-age
+    locator: "68-69"

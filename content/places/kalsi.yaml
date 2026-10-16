@@ -1,0 +1,42 @@
+slug: "kalsi"
+names:
+  - text: "Kalsi"
+    lang: "en"
+    script: "Latn"
+realm: "terrestrial"
+kind: "site"
+confidence: "verified"
+geometry:
+  type: "Point"
+  coordinates:
+    - 77.85
+    - 30.53
+modern_admin:
+  country: "India"
+  region: "Uttarakhand"
+  district: "Dehradun"
+evidence:
+  - type: "historical"
+    summary: "A large quartz boulder near the Yamuna-Tons confluence bears the fourteen rock-edicts of Ashoka, one of which names contemporary kings of western Asia, Greece and Egypt."
+    references:
+      - source: "imperial-gazetteer-1909"
+        locator: "14:320"
+      - source: "hultzsch-inscriptions-asoka"
+        locator: "xi"
+historical_time:
+  - start: -268
+    end: -232
+    precision: "decade"
+    confidence: "medium"
+    note: "Ashoka's reign (Hultzsch's working dates and Smith)."
+    references:
+      - source: "hultzsch-inscriptions-asoka"
+        locator: "xxxvi"
+      - source: "smith-early-history-1914"
+        locator: "155"
+summary_beginner: "A place in the Himalayan foothills of Uttarakhand where a boulder carries a complete set of Ashoka's fourteen rock-edicts."
+references:
+  - source: "imperial-gazetteer-1909"
+    locator: "14:320"
+  - source: "hultzsch-inscriptions-asoka"
+    locator: "xi"

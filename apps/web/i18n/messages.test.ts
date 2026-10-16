@@ -1,4 +1,4 @@
-// Hindi and English message files must stay in step: same keys, no empty strings, same {placeholders}.
+// Every locale's message files must stay in step with English: same keys, no empty strings, same {placeholders}.
 import { readFileSync } from "node:fs";
 import { resolve } from "node:path";
 import { describe, expect, it } from "vitest";
@@ -20,28 +20,35 @@ function flatten(tree: Tree, prefix = ""): Record<string, string> {
 }
 const placeholders = (s: string) => [...s.matchAll(/\{(\w+)[,}]/g)].map((m) => m[1]!).sort();
 
-for (const file of ["core", "phase2", "phase3"]) {
-  describe(`messages/${file}.json`, () => {
-    const en = flatten(load("en", file));
-    const hi = flatten(load("hi", file));
+// Each locale's own script, used to check values were actually translated.
+const SCRIPT: Record<string, RegExp> = { hi: /[ऀ-ॿ]/, ta: /[஀-௿]/ };
 
-    it("has the same keys in English and Hindi", () => {
-      expect(Object.keys(hi).sort()).toEqual(Object.keys(en).sort());
+for (const locale of ["hi", "ta"])
+  for (const file of ["core", "phase2", "phase3", "phase4"]) {
+    describe(`messages/${locale}/${file}.json`, () => {
+      const en = flatten(load("en", file));
+      const other = flatten(load(locale, file));
+
+      it("has the same keys as English", () => {
+        expect(Object.keys(other).sort()).toEqual(Object.keys(en).sort());
+      });
+      it("has no empty strings", () => {
+        for (const [k, v] of [...Object.entries(en), ...Object.entries(other)])
+          expect(v.trim(), k).not.toBe("");
+      });
+      it("uses the same placeholders as English", () => {
+        for (const k of Object.keys(en))
+          expect(placeholders(other[k] ?? ""), k).toEqual(placeholders(en[k]!));
+      });
+      it("values are actually translated unless they are names or symbols", () => {
+        const untranslated = Object.entries(other).filter(
+          ([k, v]) =>
+            !SCRIPT[locale]!.test(v) &&
+            v === en[k] &&
+            /[a-z]{4,}/i.test(v) &&
+            !/^(KĀLA|IAST)$/.test(v),
+        );
+        expect(untranslated.map(([k]) => k)).toEqual([]);
+      });
     });
-    it("has no empty strings", () => {
-      for (const [k, v] of [...Object.entries(en), ...Object.entries(hi)])
-        expect(v.trim(), k).not.toBe("");
-    });
-    it("uses the same placeholders in both languages", () => {
-      for (const k of Object.keys(en))
-        expect(placeholders(hi[k] ?? ""), k).toEqual(placeholders(en[k]!));
-    });
-    it("Hindi values are actually translated (contain Devanagari) unless they are names or symbols", () => {
-      const untranslated = Object.entries(hi).filter(
-        ([k, v]) =>
-          !/[ऀ-ॿ]/.test(v) && v === en[k] && /[a-z]{4,}/i.test(v) && !/^(KĀLA|IAST)$/.test(v),
-      );
-      expect(untranslated.map(([k]) => k)).toEqual([]);
-    });
-  });
-}
+  }

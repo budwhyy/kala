@@ -1,0 +1,43 @@
+slug: bagan
+names:
+  - text: Bagan
+    lang: en
+    script: Latn
+  - text: Pagan
+    lang: en
+    script: Latn
+realm: terrestrial
+kind: city
+confidence: verified
+geometry:
+  type: Point
+  coordinates: [94.86, 21.17]
+modern_admin:
+  country: Myanmar
+  region: Mandalay Region
+evidence:
+  - type: archaeological
+    summary: The 1911 Britannica describes hundreds of pagodas in various states of decay around the village of Pagan, with a museum of antiquities found nearby.
+    references:
+      - source: britannica-1911
+        locator: "20: Pagan (Burma)"
+  - type: historical
+    summary: The same article says the city was founded by King Pyinbya in 847 and was the capital until its dynasty ended in 1298. It says King Anawrahta brought Buddhism to Upper Burma and brought people from Thaton to build pagodas on Thaton models.
+    references:
+      - source: britannica-1911
+        locator: "20: Pagan (Burma)"
+traditions:
+  - buddhist
+historical_time:
+  - start: 847
+    end: 1298
+    precision: year
+    confidence: medium
+    note: Founding and end of the Pagan dynasty as the 1911 Britannica gives them.
+    references:
+      - source: britannica-1911
+        locator: "20: Pagan (Burma)"
+summary_beginner: The old royal city on the Irrawaddy in present-day Myanmar, with hundreds of Buddhist temples and pagodas.
+references:
+  - source: britannica-1911
+    locator: "20: Pagan (Burma)"

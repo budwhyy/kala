@@ -1,0 +1,45 @@
+slug: angkor-wat
+names:
+  - text: Angkor Wat
+    lang: en
+    script: Latn
+  - text: Angkor-Vat
+    lang: fr
+    script: Latn
+realm: terrestrial
+kind: site
+confidence: verified
+geometry:
+  type: Point
+  coordinates: [103.87, 13.41]
+modern_admin:
+  country: Cambodia
+  region: Siem Reap
+evidence:
+  - type: archaeological
+    summary: The 1911 Britannica describes the ruins of Angkor north of the Great Lake, among them the three-tiered temple of Angkor-Vat, whose reliefs show gods, people, animals, battles and legendary episodes. It reports that the temple was first dedicated to Brahma and later to the Buddha.
+    references:
+      - source: britannica-1911
+        locator: "2: Angkor"
+  - type: historical
+    summary: The same work dates Angkor-Vat to the first half of the twelfth century, probably built under the direction of the Brahman Divakara.
+    references:
+      - source: britannica-1911
+        locator: "5: Cambodia"
+traditions:
+  - hindu
+  - buddhist
+historical_time:
+  - start: 1101
+    end: 1150
+    precision: century
+    confidence: medium
+    note: Construction in the first half of the twelfth century, as the 1911 Britannica gives it.
+    references:
+      - source: britannica-1911
+        locator: "2: Angkor"
+summary_beginner: The great stone temple at Angkor, in present-day Cambodia, built by the Khmer in the twelfth century. Its carved galleries show battles and legendary scenes.
+summary_scholar: The sources read describe the reliefs only as combats and legendary episodes and do not name the Ramayana or Mahabharata; identifying particular epic scenes needs a source not yet read. Cambodia is named for orientation only; the Khmer kingdom of Angkor is not presented as the modern state.
+references:
+  - source: britannica-1911
+    locator: "2: Angkor"

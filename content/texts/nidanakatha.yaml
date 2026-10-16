@@ -1,0 +1,28 @@
+slug: nidanakatha
+names:
+  - text: Nidanakatha
+    lang: en
+    script: Latn
+  - text: Nidānakathā
+    lang: pi
+    script: Latn
+    iast: Nidānakathā
+genre: other
+original_language: pi
+traditions:
+  - buddhist
+  - theravada
+summary_beginner: The Pali introduction to the Jataka commentary. It tells the life of the future
+  Buddha from his vow under an earlier Buddha, through his last birth, awakening and first years of
+  teaching.
+summary_scholar: Rhys Davids' translation follows the text in dividing it into three epochs - the
+  distant (to the rebirth in the Tusita heaven), the intermediate (from leaving Tusita to the
+  awakening) and the proximate (the places of the ministry) (Buddhist Birth Stories, pp. 2-3 of the
+  Nidanakatha and the epoch headings).
+sections:
+  - id: distant-epoch
+    label: "The Distant Epoch (Durenidana): from the vow at the feet of Dipankara to the Tusita heaven"
+  - id: intermediate-epoch
+    label: "The Intermediate Epoch (Avidurenidana): from leaving the Tusita heaven to the awakening"
+  - id: proximate-epoch
+    label: "The Proximate Epoch (Santikenidana): the places of the ministry"

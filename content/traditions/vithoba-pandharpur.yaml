@@ -1,0 +1,16 @@
+slug: vithoba-pandharpur
+names:
+  - text: Vithoba tradition of Pandharpur
+    lang: en
+    script: Latn
+  - text: विठोबा
+    lang: mr
+    script: Deva
+family: hindu
+parent: vaishnava
+region: Pandharpur, Maharashtra
+summary_beginner: The worship of Vithoba, regarded as a form of Vishnu, at his temple in Pandharpur on the Bhima river, one of the most visited pilgrimage places of western India, with great fairs each year.
+sourcing_note: "Documented here only from the Imperial Gazetteer's article on Pandharpur Town (1908), which calls Vithoba an incarnation of Vishnu, describes the temple in the holy quarter called Pandharikshetra, and records three annual fairs (the July fair drawing 100,000 to 150,000 people) and monthly gatherings. The Gazetteer refers readers to the Bombay Gazetteer vol. 20 (1884) for a full account, which was not read. Marathi devotional literature and the tradition's own accounts were not consulted."
+references:
+  - source: imperial-gazetteer-1909
+    locator: "19:390-391"

@@ -1,0 +1,29 @@
+slug: puranic-maurya-dynasty
+names:
+  - text: "Maurya dynasty (Puranic list)"
+    lang: en
+    script: Latn
+  - text: मौर्य
+    lang: sa
+    script: Deva
+    iast: Maurya
+kind: legendary
+lineage_type: other
+kingdoms:
+  - to: puranic-maurya-kingdom
+    note: "Kautilya anoints Chandragupta after uprooting the Nandas."
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.24"
+      - source: pargiter-dynasties-kali-age
+        locator: "70"
+variant: puranic-kali-kings-vishnu-purana
+traditions:
+  - puranic
+summary_beginner: "In the Puranas' prophecy, the kings Kautilya establishes after uprooting the Nandas, beginning with Chandragupta."
+summary_scholar: "The Vishnu Purana names ten Mauryas (Chandragupta, Bindusara, Ashokavardhana, Suyashas, Dasharatha, Sangata, Shalishuka, Somasharman, Shashadharman, Brihadratha) and gives them 137 years. Pargiter's collated text gives two lists: one of ten kings and one (Vayu and Brahmanda) of nine, both totalling 137 years, with different names after Ashoka (Kunala, Bandhupalita and others). This is the Puranic account; the historical Maurya polity is a separate record."
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.24"
+  - source: pargiter-dynasties-kali-age
+    locator: "70"

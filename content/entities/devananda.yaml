@@ -1,0 +1,15 @@
+slug: "devananda"
+names:
+  - text: "Devananda"
+    lang: "en"
+    script: "Latn"
+kinds:
+  - "human"
+traditions:
+  - "jain"
+summary_beginner: "A Brahmin woman of the Jalandharayana gotra, wife of the Brahmin Rishabhadatta, in whose womb the Kalpa Sutra says Mahavira was first conceived before the god Shakra had the embryo moved to Trishala."
+references:
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 2, p. 219"
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 21, p. 226-227"

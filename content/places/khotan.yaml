@@ -1,0 +1,30 @@
+slug: khotan
+names:
+  - text: Khotan
+    lang: en
+    script: Latn
+  - text: Yu-teen
+    lang: en
+    script: Latn
+realm: terrestrial
+kind: city
+confidence: verified
+geometry:
+  type: Point
+  coordinates: [79.92, 37.11]
+modern_admin:
+  country: China
+  region: Xinjiang
+evidence:
+  - type: historical
+    summary: Fa-hien describes Khotan (Yu-teen) as a prosperous kingdom whose people all followed Buddhism, with tens of thousands of monks, most of them Mahayana students, the great Gomati monastery, and a festival procession of images.
+    references:
+      - source: legge-fa-hien
+        locator: "3"
+traditions:
+  - buddhist
+summary_beginner: An oasis kingdom of Central Asia that the Chinese pilgrim Fa-hien found full of Buddhist monasteries on his way to India.
+summary_scholar: Fa-hien's account attests Buddhism at Khotan in his time; it does not say when or by which route it arrived. The modern country is given for orientation only.
+references:
+  - source: legge-fa-hien
+    locator: "3"

@@ -1,0 +1,17 @@
+slug: rigveda-avesta-shared-ancestry
+names:
+  - text: The Rigveda and the Avesta (Indo-Iranian shared ancestry)
+    lang: en
+    script: Latn
+type: shared_ancestry
+from_text: rigveda
+to_text: avesta
+from_tradition: vedic
+to_tradition: zoroastrian
+summary_beginner: The oldest language of the Avesta, the sacred book of ancient Iran, is so close to the Rigveda's that whole stanzas can be turned word for word from one into the other. Neither comes from the other; both descend from a common Indo-Iranian past.
+summary_scholar: Macdonell (1900) argues from this closeness that the Indian and Iranian branches separated only a short time before the earliest Vedic hymns, and that several Vedic beliefs and rites, including the worship of soma (Avestan haoma), go back to that shared period. The arrow on the map is drawn for convenience only; the relation runs both ways from a common source.
+references:
+  - source: macdonell-history-sanskrit-literature
+    locator: "12"
+  - source: macdonell-history-sanskrit-literature
+    locator: "68"

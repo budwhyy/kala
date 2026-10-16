@@ -49,6 +49,11 @@ export function displayName(names: Name[], locale = "en"): string {
     const hi = names.find((n) => n.lang === "hi") ?? names.find((n) => n.script === "Deva");
     if (hi) return hi.text;
   }
+  // Tamil: a Tamil name when the content has one, otherwise English (never a guessed transliteration).
+  if (locale === "ta") {
+    const ta = names.find((n) => n.lang === "ta") ?? names.find((n) => n.script === "Taml");
+    if (ta) return ta.text;
+  }
   return names.find((n) => n.lang === "en")?.text ?? names[0]?.text ?? "";
 }
 

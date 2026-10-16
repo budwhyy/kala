@@ -1,0 +1,56 @@
+slug: puranic-shunga-kingdom
+names:
+  - text: "Shunga kingdom (Puranic account)"
+    lang: en
+    script: Latn
+kind: epic_legendary
+same_name_as:
+  - shunga-kingdom
+dynasties:
+  - to: puranic-shunga-dynasty
+    note: The Puranic list of this line.
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.24"
+rulers:
+  - name:
+      text: Pushyamitra
+      lang: en
+      script: Latn
+    attested: false
+    note: "Pushpamitra in Wilson. The Matsya gives 36 years, the Vayu and Brahmanda 60: claims of the texts."
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.24"
+      - source: pargiter-dynasties-kali-age
+        locator: "70"
+  - name:
+      text: Agnimitra
+      lang: en
+      script: Latn
+    attested: false
+    note: "His son. Pargiter's text gives 8 years."
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.24"
+      - source: pargiter-dynasties-kali-age
+        locator: "70"
+  - name:
+      text: Devabhuti
+      lang: en
+      script: Latn
+    attested: false
+    note: "Last Shunga, overthrown by his minister Vasudeva. Pargiter's text gives 10 years."
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.24"
+      - source: pargiter-dynasties-kali-age
+        locator: "70"
+traditions:
+  - puranic
+summary_beginner: "The Shunga kingdom as the Puranas foretell it: ten kings from Pushyamitra to Devabhuti who rule 112 years. This is the texts' account, kept apart from the historical Shunga polity."
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.24"
+  - source: pargiter-dynasties-kali-age
+    locator: "70"

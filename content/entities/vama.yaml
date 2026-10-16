@@ -1,0 +1,15 @@
+slug: "vama"
+names:
+  - text: "Vama"
+    lang: "en"
+    script: "Latn"
+kinds:
+  - "human"
+traditions:
+  - "jain"
+summary_beginner: "Queen, wife of Ashvasena and mother of Parshva in the Kalpa Sutra."
+references:
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 150, p. 271"
+  - source: "jacobi-jaina-sutras-1"
+    locator: "Kalpa Sutra, section 152, p. 272"

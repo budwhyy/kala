@@ -1,0 +1,29 @@
+slug: puranic-nanda-dynasty
+names:
+  - text: "Nanda dynasty (Puranic list)"
+    lang: en
+    script: Latn
+  - text: नन्द
+    lang: sa
+    script: Deva
+    iast: Nanda
+kind: legendary
+lineage_type: other
+kingdoms:
+  - to: magadha-kingdom-epic
+    note: "The Nandas follow the Shishunagas; Kautilya ends them."
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.24"
+      - source: pargiter-dynasties-kali-age
+        locator: "69"
+variant: puranic-kali-kings-vishnu-purana
+traditions:
+  - puranic
+summary_beginner: "In the Puranas' prophecy, Mahapadma Nanda, son of Mahanandin by a Shudra woman, and his eight sons: nine Nandas in all."
+summary_scholar: "The Vishnu Purana gives Mahapadma and his sons a hundred years together and says the Brahman Kautilya will uproot them. Pargiter's Matsya-Vayu text gives Mahapadma 88 years and his sons 12, and calls the first son Sukalpa (Vishnu: Sumalya)."
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.24"
+  - source: pargiter-dynasties-kali-age
+    locator: "69"

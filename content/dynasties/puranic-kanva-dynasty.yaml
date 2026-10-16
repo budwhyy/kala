@@ -1,0 +1,29 @@
+slug: puranic-kanva-dynasty
+names:
+  - text: "Kanva (Kanvayana) dynasty (Puranic list)"
+    lang: en
+    script: Latn
+  - text: काण्वायन
+    lang: sa
+    script: Deva
+    iast: Kāṇvāyana
+kind: legendary
+lineage_type: other
+kingdoms:
+  - to: magadha-kingdom-epic
+    note: "Vasudeva overthrows Devabhuti."
+    references:
+      - source: wilson-vishnu-purana
+        locator: "4.24"
+      - source: pargiter-dynasties-kali-age
+        locator: "71"
+variant: puranic-kali-kings-vishnu-purana
+traditions:
+  - puranic
+summary_beginner: "In the Puranas' prophecy, four Brahman kings, beginning with the minister Vasudeva who overthrows the last Shunga."
+summary_scholar: "The Vishnu Purana names Vasudeva, Bhumimitra, Narayana and Susharman and gives them 45 years; Wilson notes that some earlier lists read 345 but his copies read 45. Pargiter's text gives the same four with reigns of 9, 14, 12 and 10 years and calls them servants of the Shungas (Shungabhrityas)."
+references:
+  - source: wilson-vishnu-purana
+    locator: "4.24"
+  - source: pargiter-dynasties-kali-age
+    locator: "71"

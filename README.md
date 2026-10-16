@@ -22,9 +22,11 @@ _where texts disagree_, and _how confident an identification is_. The full produ
 | **Pilgrimage** (`/pilgrimage`) | Hindu, Buddhist and Jain sacred sites and circuits in their own right; lists that differ between texts are shown as separate lists                                                                                                                                           |
 | **Epics** (`/epic`)            | The Ramayana (Valmiki, with the Ramcharitmanas as another telling) and the Mahabharata: the story book by book, family trees, journeys drawn stage by stage on a map (literary reconstructions), the eighteen days of Kurukshetra day by day, and the kingdoms and alliances |
 | **Record pages**               | Every figure, place, kingdom, dynasty, event, concept, pilgrimage network, text, source edition, account and tradition, all cross-linked                                                                                                                                     |
+| **Historical atlas**           | `/atlas`: periods, dated sites, states drawn as approximate reach from attested sites (never borders)                                                                                                                                                                        |
+| **Civilisation atlas**         | `/civilization`: tradition branches and typed transmissions (direct … uncertain hypothesis)                                                                                                                                                                                  |
 | **Search**                     | English, Devanagari or IAST, diacritics optional                                                                                                                                                                                                                             |
 
-**Languages.** The interface is available in English and Hindi (`/hi/…`); names show in Devanagari on the
+**Languages.** The interface is available in English, Hindi (`/hi/…`) and Tamil (`/ta/…`); names show in Devanagari on the
 Hindi site. Descriptions and source passages stay in English for now.
 
 Every 3D view has a **List view** (also used automatically without WebGL, and by default on narrow

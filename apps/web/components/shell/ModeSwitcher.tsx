@@ -16,6 +16,8 @@ const MODES = [
   { href: "/philosophy", key: "philosophy", ns: "nav2" },
   { href: "/pilgrimage", key: "pilgrimage", ns: "nav2" },
   { href: "/epic", key: "epic", ns: "nav3" },
+  { href: "/atlas", key: "atlas", ns: "nav4" },
+  { href: "/civilization", key: "civilization", ns: "nav4" },
 ] as const;
 
 /**
@@ -26,6 +28,7 @@ export function ModeSwitcher({ context }: { context?: Selection }) {
   const t = useTranslations("nav");
   const t2 = useTranslations("nav2");
   const t3 = useTranslations("nav3");
+  const t4 = useTranslations("nav4");
   const pathname = usePathname();
   const params = useSearchParams();
   const { selection, setSelection } = useSelection();
@@ -53,7 +56,7 @@ export function ModeSwitcher({ context }: { context?: Selection }) {
               active ? "bg-gold text-void" : "text-ink/80 hover:bg-white/10 hover:text-ink"
             }`}
           >
-            {m.ns === "nav" ? t(m.key) : m.ns === "nav2" ? t2(m.key) : t3(m.key)}
+            {m.ns === "nav" ? t(m.key) : m.ns === "nav2" ? t2(m.key) : m.ns === "nav3" ? t3(m.key) : t4(m.key)}
           </Link>
         );
       })}

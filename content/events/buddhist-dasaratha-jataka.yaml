@@ -1,0 +1,37 @@
+slug: buddhist-dasaratha-jataka
+names:
+  - text: Dasaratha Jataka (No. 461)
+    lang: en
+    script: Latn
+participants:
+  - entity: siddhartha-gautama
+    role: tells the story and identifies himself as Rama-pandita in that former birth
+places:
+  - kashi
+narrative_order:
+  text: jataka
+  position: 461
+variant: buddhist-jataka-account
+same_story_as:
+  - ramayana-departure-into-exile
+  - ramayana-bharata-and-the-sandals
+traditions:
+  - buddhist
+  - theravada
+summary_beginner: "A Buddhist telling of the Rama story. Dasaratha, king of Benares, fears that his
+  second queen will harm his elder children after he refuses her boon of the kingdom for her son
+  Bharata, so he sends Rama-pandita, Lakkhana and their sister Sita away for twelve years. They live
+  in the Himalaya. When the king dies in the ninth year Bharata comes to fetch Rama, who feels no
+  grief and teaches the impermanence of all things. Rama keeps his father's word, sends his straw
+  slippers to rule for three years, then returns, makes Sita his queen and reigns. The Buddha tells
+  it to console a grieving landowner, and names Suddhodana as Dasaratha, Maha Maya as the mother,
+  Rahula's mother as Sita, Ananda as Bharata, and himself as Rama."
+summary_scholar: The parallel with the Ramayana is close in the boon, the exile, Bharata's visit and
+  the sandals, but the story differs in that Sita is Rama's sister, the exile is to the Himalaya,
+  there is no abduction or war, and the point is the teaching on impermanence. The translator's note
+  says the same. The identifications are claims of the Jataka about former births, not links between
+  the Buddhist and Valmiki characters.
+references:
+  - source: cowell-jataka
+    locator: "4:78-82"
+    note: Jataka No. 461, translated by W. H. D. Rouse.
