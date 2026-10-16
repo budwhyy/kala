@@ -330,13 +330,41 @@ export function validateDataset(ds: Dataset): Issue[] {
       r.stops.map((s) => s.event),
       "stops.event",
     );
+    needAll("routes", r.slug, "entities", r.travellers, "travellers");
   }
   for (const b of ds.battlefields) {
     need("battlefields", b.slug, "places", b.place, "place");
     need("battlefields", b.slug, "texts", b.text, "text");
     need("battlefields", b.slug, "variants", b.variant, "variant");
-    const people = b.days.flatMap((d) => d.encounters.flatMap((e) => e.participants));
-    needAll("battlefields", b.slug, "entities", people, "encounters.participants");
+    const people = b.days.flatMap((d) => [
+      ...d.encounters.flatMap((e) => e.participants),
+      ...d.commanders.map((c) => c.entity),
+      ...d.fallen.flatMap((f) => [f.entity, ...f.by]),
+    ]);
+    needAll("battlefields", b.slug, "entities", people, "days.people");
+    for (const s of b.sides) {
+      needAll("battlefields", b.slug, "entities", s.leaders, `sides.${s.id}.leaders`);
+      needAll(
+        "battlefields",
+        b.slug,
+        "kingdoms",
+        s.kingdoms.map((k) => k.to),
+        `sides.${s.id}.kingdoms`,
+      );
+    }
+    // A figure may fall only once in one telling.
+    const fell = new Map<string, number>();
+    for (const d of b.days)
+      for (const f of d.fallen) {
+        const prior = fell.get(f.entity);
+        if (prior !== undefined)
+          issues.push({
+            collection: "battlefields",
+            id: b.slug,
+            message: `'${f.entity}' falls on day ${prior} and again on day ${d.day}`,
+          });
+        else fell.set(f.entity, d.day);
+      }
   }
   for (const m of ds.cosmic) {
     need("cosmic", m.slug, "variants", m.variant, "variant");

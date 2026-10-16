@@ -274,6 +274,8 @@ export const Route = z
     text: Slug,
     variant: Slug,
     literary_reconstruction: z.literal(true),
+    /** Who makes the journey (e.g. Rama, Sita and Lakshmana; the Pandavas). */
+    travellers: z.array(Slug).default([]),
     stops: z
       .array(
         z.strictObject({
@@ -293,41 +295,93 @@ export const Route = z
   });
 export type Route = z.infer<typeof Route>;
 
-/** A narrative battlefield (Kurukshetra). Formations and encounters are literary, not archaeological. */
-export const Battlefield = z.strictObject({
-  slug: Slug,
-  names: Names,
-  place: Slug,
-  text: Slug,
-  variant: Slug,
-  literary: z.literal(true),
-  days: z
-    .array(
-      z.strictObject({
-        day: z.int().min(1),
-        formations: z
-          .array(
-            z.strictObject({
-              side: NonEmpty,
-              name: Name,
-              note: NonEmpty.optional(),
-              references: References,
-            }),
-          )
-          .default([]),
-        encounters: z
-          .array(
-            z.strictObject({
-              participants: z.array(Slug).min(1),
-              summary: Summary,
-              references: References,
-            }),
-          )
-          .default([]),
-        references: References,
-      }),
-    )
-    .min(1),
-  summary_beginner: Summary,
-});
+/**
+ * A narrative battlefield (Kurukshetra). Sides, formations, commanders, encounters and the fallen
+ * are literary, not archaeological: `literary: true` is required and the site says so.
+ */
+export const Battlefield = z
+  .strictObject({
+    slug: Slug,
+    names: Names,
+    place: Slug,
+    text: Slug,
+    variant: Slug,
+    literary: z.literal(true),
+    /** The two (or more) armies, with the kingdoms the text says fought on each side. */
+    sides: z
+      .array(
+        z.strictObject({
+          id: Slug,
+          names: Names,
+          leaders: z.array(Slug).default([]),
+          kingdoms: z.array(Association).default([]),
+          references: References,
+        }),
+      )
+      .min(2),
+    days: z
+      .array(
+        z.strictObject({
+          day: z.int().min(1),
+          /** Section of the text that tells this day (e.g. a parva or section id). */
+          section: NonEmpty.optional(),
+          summary: Summary.optional(),
+          commanders: z
+            .array(z.strictObject({ side: Slug, entity: Slug, references: References }))
+            .default([]),
+          formations: z
+            .array(
+              z.strictObject({
+                side: Slug,
+                name: Name,
+                note: NonEmpty.optional(),
+                references: References,
+              }),
+            )
+            .default([]),
+          encounters: z
+            .array(
+              z.strictObject({
+                participants: z.array(Slug).min(1),
+                summary: Summary,
+                references: References,
+              }),
+            )
+            .default([]),
+          fallen: z
+            .array(
+              z.strictObject({
+                entity: Slug,
+                /** Who the text says slew them, if it says. */
+                by: z.array(Slug).default([]),
+                note: NonEmpty.optional(),
+                references: References,
+              }),
+            )
+            .default([]),
+          references: References,
+        }),
+      )
+      .min(1),
+    summary_beginner: Summary,
+    summary_scholar: Summary.optional(),
+    references: References,
+  })
+  .superRefine((b, ctx) => {
+    const sides = new Set(b.sides.map((s) => s.id));
+    if (sides.size !== b.sides.length)
+      ctx.addIssue({ code: "custom", path: ["sides"], message: "side ids must be unique" });
+    const days = b.days.map((d) => d.day);
+    if (new Set(days).size !== days.length)
+      ctx.addIssue({ code: "custom", path: ["days"], message: "day numbers must be unique" });
+    b.days.forEach((d, i) => {
+      for (const s of [...d.commanders.map((c) => c.side), ...d.formations.map((f) => f.side)])
+        if (!sides.has(s))
+          ctx.addIssue({
+            code: "custom",
+            path: ["days", i],
+            message: `day ${d.day}: unknown side '${s}'`,
+          });
+    });
+  });
 export type Battlefield = z.infer<typeof Battlefield>;

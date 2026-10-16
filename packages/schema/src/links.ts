@@ -152,10 +152,27 @@ export function extractLinks(ds: Dataset): Link[] {
       r.stops.map((s) => s.event),
       "stops",
     );
+    add("routes", r.slug, "entities", r.travellers, "travellers");
   }
   for (const b of ds.battlefields) {
     add("battlefields", b.slug, "places", [b.place], "place");
     add("battlefields", b.slug, "texts", [b.text], "text");
+    for (const s of b.sides) {
+      add("battlefields", b.slug, "entities", s.leaders, "leaders");
+      add(
+        "battlefields",
+        b.slug,
+        "kingdoms",
+        s.kingdoms.map((k) => k.to),
+        "sides",
+      );
+    }
+    const warriors = b.days.flatMap((d) => [
+      ...d.commanders.map((c) => c.entity),
+      ...d.encounters.flatMap((e) => e.participants),
+      ...d.fallen.map((f) => f.entity),
+    ]);
+    add("battlefields", b.slug, "entities", warriors, "warriors");
   }
   for (const p of ds.places) {
     add(
