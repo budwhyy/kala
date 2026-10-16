@@ -194,5 +194,19 @@ export function extractLinks(ds: Dataset): Link[] {
       add("journeys", j.slug, "cosmic", [step.cosmic_model], "steps");
     }
   }
+  for (const k of ds.kingdoms)
+    add(
+      "kingdoms",
+      k.slug,
+      "places",
+      k.evidence_sites.map((e) => e.to),
+      "evidence_sites",
+    );
+  for (const p of ds.periods) add("periods", p.slug, "periods", [p.parent], "parent");
+  for (const t of ds.transmissions) {
+    add("transmissions", t.slug, "texts", [t.from_text, t.to_text], "texts");
+    add("transmissions", t.slug, "traditions", [t.from_tradition, t.to_tradition], "traditions");
+    add("transmissions", t.slug, "places", [t.from_place, t.to_place], "places");
+  }
   return [...rows.values()];
 }

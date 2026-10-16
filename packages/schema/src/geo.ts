@@ -200,6 +200,11 @@ export const Kingdom = z
     /** A legendary kingdom and a historical polity of the same name are separate records. */
     kind: KingdomKind,
     same_name_as: z.array(Slug).default([]),
+    /**
+     * Places where inscriptions, coins or excavations attest this polity (historical kinds only).
+     * Maps draw an approximate, soft area around these sites, never a border.
+     */
+    evidence_sites: z.array(Association).default([]),
     /** Approximate extent, rendered as a soft shaded region — never a crisp border. */
     extent: z
       .strictObject({

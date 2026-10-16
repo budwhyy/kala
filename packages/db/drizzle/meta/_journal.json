@@ -22,6 +22,13 @@
       "when": 1791965425899,
       "tag": "0002_networks_journeys",
       "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1792121489473,
+      "tag": "0003_periods_transmissions",
+      "breakpoints": true
     }
   ]
 }

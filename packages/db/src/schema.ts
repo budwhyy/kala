@@ -172,6 +172,12 @@ export const networks = pgTable("networks", {
   data: data(),
 });
 export const journeys = pgTable("journeys", { slug: slug(), data: data() });
+export const periods = pgTable("periods", { slug: slug(), data: data() });
+export const transmissions = pgTable("transmissions", {
+  slug: slug(),
+  type: text("type").notNull(),
+  data: data(),
+});
 
 /**
  * Every name of every record, for multilingual search (English, Hindi, Devanagari, IAST).

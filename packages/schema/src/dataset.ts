@@ -2,6 +2,7 @@ import type { z } from "zod";
 import { Concept, Dynasty, Entity, Event, Relationship, SYMMETRIC_TYPES } from "./beings";
 import type { Reference } from "./common";
 import { CosmicCycleModel } from "./cosmic";
+import { Period, Transmission } from "./history";
 import { Journey, PilgrimageNetwork } from "./journeys";
 import { Battlefield, Kingdom, Place, Route } from "./geo";
 import { Source, Text, Tradition, Variant } from "./sources";
@@ -28,6 +29,8 @@ export const COLLECTIONS = {
   cosmic: { schema: CosmicCycleModel, key: "slug" },
   networks: { schema: PilgrimageNetwork, key: "slug" },
   journeys: { schema: Journey, key: "slug" },
+  periods: { schema: Period, key: "slug" },
+  transmissions: { schema: Transmission, key: "slug" },
 } as const;
 
 export type CollectionName = keyof typeof COLLECTIONS;
@@ -419,6 +422,41 @@ export function validateDataset(ds: Dataset): Issue[] {
       for (const l of step.links)
         need("journeys", j.slug, l.collection, l.slug, `steps.${step.id}.links`);
     }
+  }
+
+  for (const k of ds.kingdoms) {
+    needAll(
+      "kingdoms",
+      k.slug,
+      "places",
+      k.evidence_sites.map((e) => e.to),
+      "evidence_sites",
+    );
+    if (k.kind === "epic_legendary" && k.evidence_sites.length > 0)
+      issues.push({
+        collection: "kingdoms",
+        id: k.slug,
+        message:
+          "evidence_sites are for historical polities; a legendary kingdom has no attested sites",
+      });
+    for (const e of k.evidence_sites) {
+      const p = index.places.get(e.to);
+      if (p && (p.realm !== "terrestrial" || p.geometry === null))
+        issues.push({
+          collection: "kingdoms",
+          id: k.slug,
+          message: `evidence site '${e.to}' must be a terrestrial place with a location`,
+        });
+    }
+  }
+  for (const p of ds.periods) need("periods", p.slug, "periods", p.parent, "parent");
+  for (const t of ds.transmissions) {
+    need("transmissions", t.slug, "texts", t.from_text, "from_text");
+    need("transmissions", t.slug, "texts", t.to_text, "to_text");
+    need("transmissions", t.slug, "traditions", t.from_tradition, "from_tradition");
+    need("transmissions", t.slug, "traditions", t.to_tradition, "to_tradition");
+    need("transmissions", t.slug, "places", t.from_place, "from_place");
+    need("transmissions", t.slug, "places", t.to_place, "to_place");
   }
 
   // Every entity takes part in at least one relationship.

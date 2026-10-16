@@ -67,6 +67,8 @@ export function toRows(ds: Dataset) {
     cosmicModels: ds.cosmic.map((x) => ({ slug: x.slug, data: x })),
     networks: ds.networks.map((x) => ({ slug: x.slug, kind: x.kind, data: x })),
     journeys: ds.journeys.map((x) => ({ slug: x.slug, data: x })),
+    periods: ds.periods.map((x) => ({ slug: x.slug, data: x })),
+    transmissions: ds.transmissions.map((x) => ({ slug: x.slug, type: x.type, data: x })),
     names: nameRows(ds),
     links: extractLinks(ds),
   };
@@ -97,5 +99,7 @@ function nameRows(ds: Dataset): NameRow[] {
   for (const x of ds.concepts) add("concepts", x.slug, x.names);
   for (const x of ds.networks) add("networks", x.slug, x.names);
   for (const x of ds.journeys) add("journeys", x.slug, x.names);
+  for (const x of ds.periods) add("periods", x.slug, x.names);
+  for (const x of ds.transmissions) add("transmissions", x.slug, x.names);
   return rows;
 }
