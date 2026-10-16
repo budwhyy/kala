@@ -2,7 +2,7 @@
 
 **An interactive atlas of Indian mythology, cosmology, genealogy and sacred geography.**
 
-Live: **https://kala-rosy-one.vercel.app** (Vercel). The earlier Netlify site, kalacircle.netlify.app, stopped building at Phase 3.
+Live: **https://kalacircle-one.vercel.app** (Vercel). The earlier Netlify site, kalacircle.netlify.app, stopped building at Phase 3.
 
 KĀLA lets someone with no background explore the cycles of cosmic time, the families of gods,
 sages and kings, and the places of the epics and Puranas — always showing _which text says this_,

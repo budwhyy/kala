@@ -220,7 +220,7 @@ Architectural decisions, newest last. Each entry: timestamp (UTC), decision, why
 ## 2026-10-16 — Hosting moved to Vercel
 
 - **Decision:** production is the Vercel project `kala` (root `apps/web`, Node 22, connected to GitHub
-  for automatic deploys): https://kala-rosy-one.vercel.app. The brief allows Vercel (§0).
+  for automatic deploys): https://kalacircle-one.vercel.app. The brief allows Vercel (§0).
 - **Why:** Netlify marked the Phase 3 builds "Skipped" (twice) and the owner chose Vercel instead.
 
 ## 2026-10-16 — Phase 4: reach, not borders; typed transmissions; Tamil
