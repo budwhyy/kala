@@ -216,3 +216,9 @@ Architectural decisions, newest last. Each entry: timestamp (UTC), decision, why
 - **Decision:** MapLibre line drawn up to the current stop; play/step controls; under reduced motion the
   camera jumps instead of easing. The stop list is the accessible equivalent and is the default on
   narrow screens (heavy view).
+
+## 2026-10-16 — Hosting moved to Vercel
+
+- **Decision:** production is the Vercel project `kala` (root `apps/web`, Node 22, connected to GitHub
+  for automatic deploys): https://kala-rosy-one.vercel.app. The brief allows Vercel (§0).
+- **Why:** Netlify marked the Phase 3 builds "Skipped" (twice) and the owner chose Vercel instead.

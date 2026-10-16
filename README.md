@@ -2,7 +2,7 @@
 
 **An interactive atlas of Indian mythology, cosmology, genealogy and sacred geography.**
 
-Live: **https://kalacircle.netlify.app**
+Live: **https://kala-rosy-one.vercel.app** (Vercel). The earlier Netlify site, kalacircle.netlify.app, stopped building at Phase 3.
 
 KĀLA lets someone with no background explore the cycles of cosmic time, the families of gods,
 sages and kings, and the places of the epics and Puranas — always showing _which text says this_,
@@ -99,9 +99,11 @@ table in one transaction. After changing `packages/db/src/schema.ts`, generate a
 
 ## Deploy
 
-Pushing to `main` deploys to Netlify automatically (`netlify.toml`); pull requests get preview
-deploys. GitHub Actions runs formatting, lint, types, unit tests, the production build and the
-browser tests on every push and pull request.
+The site is hosted on Vercel (project `kala`, root directory `apps/web`, Node 22). The project is
+connected to the GitHub repository, so every push to `main` deploys to production and pull requests
+get preview deployments. GitHub Actions runs formatting, lint, types, unit tests, the production build
+and the browser tests on every push and pull request. (`netlify.toml` is kept for the earlier Netlify
+site, which skipped its Phase 3 builds.)
 
 ## Documentation
 
